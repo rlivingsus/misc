@@ -1,5 +1,11 @@
 ## New up top
 
+### 12.22.21 Called UW Medicine for referral  
+-Called 206.598.4615 which is Pulmonary dept. per Pam.  Location is 1959 NE Pacific St.?    
+-Told Pam that I didn't hear back regarding a Lipid test referral and potential shot  
+-The notes we're "Lipid clinic referral for rapid advancing coronary disease on maximum medical therapy"
+-Could not reach Pulmonary dept. so Pam sent a note with my record #U5500229 & Referral #2065983621
+
 ### 12.21.21 Telecon with Lincoln Smith PAC
 -update my medical and optionally vitamins in mychart\
 -Issues (more hardening or calcification or buildup) could be due to pre-diabetes or genetics.  Lincoln will reach out to Dr. Penn for an APO or Apple B check.  Calcification works on the outside and then moves inwards.  Early stage is soft.\
