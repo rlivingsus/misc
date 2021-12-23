@@ -208,10 +208,10 @@ LORDS OF DUS SERIES: 1) The Lure of the Basilisk, 2) The Seven Altars of Dusarra
 ~~1) The Dragonbone Chair,~~ 2) Stone of Farewell, 3) To Green Angel Tower, 3.5) The Heart of What was Lost    
 
 ### Williams, Walter J  
-DAGMAR SHAW SERIES: ~~This is Not a Game~~ WAS S'OK  
+DAGMAR SHAW SERIES: ~~This is Not a Game~~ WAS S'OK    
 
-### Wilson, Robert C  
-1) Spin, 2) Axis, 3) Vortex  
+### Wilson, Robert C    
+1) Spin, 2) Axis, 3) Vortex    
 
 ### Wurts, Janny  
 WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Merior, Warhost of Vastmark~~; Arc 3 (ALLIANCE OF LIGHT): Fugitive Prince, Grand Conspirary, Peril's Gate, Traitor's Knot, Stormed Fortress; Arc 4 (SWORD OF THE CANON): Initiate's Trail, Destiny's Conflict; Arc 5 (SONG OF THE MYSTERIES): Song of the Mysteries  
