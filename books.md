@@ -85,6 +85,9 @@ SWORD OF TRUTH: 0) The First Confessor, 0.5) Debt of Bones, ~~1) Wizards First R
 ### Goyer, David  
 HEAVEN'S SHADOW: ~~1) Heaven's Shadow,~~ 2)Heaven's War, 3) Heaven's Fall  
 
+### Haldeman, Joe  
+FOREVER WAR: ~~1) The Forever War,~~2) Forever Peace, ~~3) Forever Free~~  
+
 ### Hickman, Tracy  
 THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~
 
@@ -100,6 +103,9 @@ ACT ONE: DEVERRY: 1)Daggerspell, 2)Darkspell, 3)The Bristling Wood, 4)The Dragon
 ACT TWO: THE WESTLANDS:  1)A Time of Exile, 2)A Time of Omens, 3)Days of Blood and Fire, 4)Days of Air and Darkness  
 ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
+
+### Koontz, Dean  
+JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window  
 
 ### Kwan, Kevin  
 CRAZY RICH ASIANS: ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich People Problems~~  
@@ -158,6 +164,9 @@ FORGOTTEN REALMS EMPYREAN ODYSSEY: 1) The Gossamer Plain (HAVE), 2) The Fracture
 ### Reynolds, Alastair  
 POSEIDON'S CHILDREN: 1) Blue Remembered Earth, 2) On the Steel Breeze, 3) Poseidon's Wake  
 
+### Riddle, AG  
+ORIGIN MYSTERY: ~~1) Atlantis Gene,~~ 2) Atlantis Plague, 3) Atlantis World  
+
 ### Roth, Veronica  
 DIVERGENT: ~~1) Divergent, 2) Insurgent, 3) Allegiant~~ Four: Divergent Story Collection  
 
@@ -203,6 +212,9 @@ LORDS OF DUS SERIES: 1) The Lure of the Basilisk, 2) The Seven Altars of Dusarra
 
 ### Weis, Margaret  
 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)  
+
+### Wendig, Chuck  
+STAR WARS AFTERMATH: 1) Aftermath, 2) Life Debt, ~~3) Empire's End~~
 
 ### Williams, Tad  
 ~~1) The Dragonbone Chair,~~ 2) Stone of Farewell, 3) To Green Angel Tower, 3.5) The Heart of What was Lost    
