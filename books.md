@@ -61,6 +61,11 @@ KING'S JUSTICE: The Augur's Gambit, The King's Justice
 ### Douglass, Sara  
 WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
+### Eddings, David  
+THE BELGARIAD: 1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
+THE MALLOREON: 1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
+SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City    
+
 ### Elrod, P.N.  
 VAMPIRE FILES: ~~1) Bloodlist, 2) Lifeblood,~~ 2.5) Chicks Kick Butt by Rachel Caine, 3)Bloodcircle, 4) Art in the Blood, 5) Fire in the Blood, 6) Blood in the Water, 7) A Chill in the Blood, 8) The Dark Sleep, 9) Lady Crymsyn, 10) Cold Streets, 11), Song in the Dark, 11.4) Many Bloody Returns by Charlaine Harris, 11.5) My Big Fat Supernatural Honeymoon, 11.6) Strange Brew, 12) Dark Road Rising, 12.5) The Devil You Know, 12.6) Dark and Stormy Knights  
 
