@@ -1,10 +1,158 @@
 ## PROJECTS/TO DO
 
-### Cybersecurity  
-
 ### Art  
+-https://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html  //etherington brothers art  
+-https://www.sunset.com/home-garden/diy-projects/mini-wreath-dollhouse?utm_source=Sailthru&utm_medium=email&utm_campaign=Sunset%20Weekender%20Newsletter%20%28Engaged%29%202021-11-21&utm_content=Final&utm_term=SUN%20Weekly%20NL:%20Engaged  //tiny wreaths  
+-https://creativecloud.adobe.com/discover/article/ugly-christmas-sweater-in-a-few-clicks-with-a-free-photoshop-action?trackingid=PYPVPXVM&mv=email&locale=en  //adobe ugly sweater  
+-https://creativecloud.adobe.com/discover/article/free-photoshop-templates-for-cozy-winter-greeting-cards?trackingid=PQ7SQ6BP&mv=email&locale=en  //adobe winter greeting card  
+-
+
+### Cybersecurity  
+-https://blog.korelogic.com/blog/2014/04/04/pathwell_topologies  //pw topology  
+-https://en.wikipedia.org/wiki/Infer_Static_Analyzer  //appsec  
+-https://www.me3tweaks.com/blog/modding/making-me1-not-require-admin-rights-part-2/  //mass effect hack  
+-http://blog.markofu.com/2012/05/securityonion-on-netbook-with-port.html  //security onion  
+-https://docs.securityonion.net/en/2.3/first-time-users.html  //more security onion  
+-https://www.cisecurity.org/controls/cis-controls-list/  //CIS controls  
+-https://bishopfox.com/blog/def-con-29-talks-to-watch?utm_campaign=200626_LABS_Blog-Subscriptions&utm_medium=email&_hsmi=145895378&utm_content=145895378&utm_source=hs_email  //defcon videos to watch 10  
+-https://blog.cryptohack.org/cryptoctf2021-hard  //cryptoCTF 2021  
+-https://samy.pl/slipstream/  //slipstreaming    
+-https://nsa-codebreaker.org/challenge  //NSA codebreaker challenge various years  
+-https://www.vulnhub.com/entry/vulnerable-pentesting-lab-environment-1,737/  //vulnhub  
+-https://www.blackhillsinfosec.com/a-sysmon-event-id-breakdown/  //BHIS sysmon  
+-https://github.com/SwiftOnSecurity/sysmon-config  //more sysmon  
+-https://bishopfox.com/blog/aws-iam-privilege-escalation-playground?utm_campaign=200601_Awareness_Labs%20Launch&utm_medium=email&_hsmi=159006499&utm_content=159006499&utm_source=hs_email  //AWS IAM  
+-https://kamran-bilgrami.medium.com/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f  //Azure Lab  
+-https://cloud.google.com/free  //google cloud accounts  
+-https://www.securitywizardry.com/index.php/products/endpoint-security/host-dlp/opendlp  //OpenDLP  
+-https://www.elastic.co/what-is/elk-stack  //ELK Stack  
+-https://www.openiam.com/  //openIAM  
+-https://suricata.io/  //suricata  
+-https://github.com/cfalta/PowerShellArmoury  //powershell armoury  
+-https://github.com/clong/DetectionLab  //detection lab  
+-https://activecountermeasures.com/raspberry_pi_sensor/  //RASPI sensor  
+-https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-to-go-a-linux-lab-with-auoms-set-up-to-learn/ba-p/2772581  //azure sentinel  
+-https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html  //0day and appsec research  
+-https://github.com/Ignitetechnologies/Nmap-For-Pentester  //NMAP for pentesters  
+-https://github.com/Ignitetechnologies/Linux-Privilege-Escalation  //Linux privilege escalation  
+-https://github.com/Lucksi/Mr.Holmes  //complete OSINT tool  
+-https://www.crowdstrike.com/blog/introducing-supermem-free-incident-response-tool/  //IR tool  
+-https://github.com/ffuf/ffuf  //ffuf tool  
+-https://github.com/ztgrace/changeme?mc_cid=35d30a0dff  //credential scanner  
+-https://labs.detectify.com/2021/09/30/10-types-web-vulnerabilities-often-missed/  //web vulns.  
+-https://cybergeeks.tech/how-to-defeat-the-russian-dukes-a-step-by-step-analysis-of-miniduke-used-by-apt29-cozy-bear/  //analysis  
+-https://www.sentinelone.com/labs/alphagolang-a-step-by-step-go-malware-reversing-methodology-for-ida-pro/  //more analysis  
+-https://blog.securityonion.net/search/label/quick%20malware%20analysis  //more analysis  
+-https://medium.com/@jeremy.trinka/five-pentesting-tools-and-techniques-that-sysadmins-should-know-about-4ceca1488bff  //pentest tools  
+-https://infosecwriteups.com/windows-threat-hunting-processes-of-interest-4577fe35d32f  //windows threat hunting  
+-https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/  //iptables guide  
+-https://www.blackhillsinfosec.com/powershell-without-powershell-how-to-bypass-application-whitelisting-environment-restrictions-av/  //powershell without powershell BHIS  
+-https://twitter.com/cyberwarship/status/1455545245513527298?s=11  //Windows Kernel Exploitation  
+-https://twitter.com/cyberwarship/status/1456632406623064068?s=11  //Windows Lateral Movement  
+-https://github.com/veeral-patel/how-to-secure-anything  //Secure anything  
+-https://www.deepinstinct.com/blog/evading-antivirus-detection-with-inline-hooks  //evading EDR  
+-https://www.aircrack-ng.org/  //aircrack  
+-https://blog.scrt.ch/2021/11/15/tpm-sniffing/  //TPM sniffing  
+-https://adamtheautomator.com/powershell-rename/  //Managing files with powershell  
+-https://github.com/BitnomadLive/OffensiveReading  //compromise IPv4 via IPv6  
+-https://adamtheautomator.com/get-winevent/  //powershell cmdlet  
+-https://adamtheautomator.com/azure-firewall/  //azure firewall  
+-https://adamtheautomator.com/how-to-get-the-current-user-logged-on-with-powershell-all-the-ways/  //powershell  
+-https://inteltechniques.com/blog/2021/08/14/sherloq-an-open-source-image-forensic-toolset/  //sherloq tool  
+-https://cybarrior.com/blog/2019/04/05/eagle-eye-reverse-lookup-tool-for-social-media-accounts/  //eagle eye tool  
+-https://www.offensive-security.com/offsec/powershell-obfuscation/  //powershell obfuscation  
+-https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-rdp-traffic/  //wireshark tutorial  
+-https://robertscocca.medium.com/building-an-active-directory-lab-82170dd73fb4  //AD labs  
+-https://www.varonis.com/blog/yara-rules/  //YARA rules  
+-https://www.picussecurity.com/resource/blog/picus-10-critical-mitre-attck-techniques-t1060-registry-run-keys-startup-folder  //MITRE T1060  
+-https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them  //Windows logon  
+-https://www.makeuseof.com/web-scraping-vs-api/?utm_source=MUO-NL-RP&utm_medium=newsletter  //web scraping vs. API  
+-https://unit42.paloaltonetworks.com/wireshark-workshop-videos/  //wireshark tut  
+-https://adamtheautomator.com/basic-powershell-commands/  //powershell CMDs, 10  
+-https://www.blackhillsinfosec.com/dumping-firmware-with-the-ch341a-programmer/  //dumping firmware BHIS  
+-https://hakin9.org/winshark-wireshark-plugin-to-work-with-event-tracing-for-windows/  //Winshark  
+-https://thexssrat.medium.com/assignment-xss-filters-build-your-own-5bb4cad6d46d  //XSS labs  
+-https://www.hackers-arise.com/post/2017/04/28/PowerShell-for-Hackers-Part-1  //Powershell for hackers  
+-https://infosecwriteups.com/hacking-a-home-network-54e06a9d9730  //hack home network  
+-https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/  //cmd hijack  
+-
+
+### Programming  
+-https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014  //data structure tries  
+-https://javascript.plainenglish.io/how-to-scroll-automatically-to-the-bottom-of-the-page-with-javascript-14241ab1b751  //javascript  
+-https://codepen.io/trending  //codepen  
+-https://www.hacksplaining.com/  //hacksplaining for devs  
+-https://javascript.plainenglish.io/how-to-convert-a-floating-point-number-to-a-whole-number-in-javascript-fedc79d4d032  //javascript  
+-https://www.makeuseof.com/python-built-in-functions-methods-you-should-know/  //python functions  
+-https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions  //leetcode qs  
+-https://python.plainenglish.io/creating-a-simple-operations-calculator-in-python-with-user-input-eb13d5bca6f6  //Python calculator  
+-https://python.plainenglish.io/building-a-gui-desktop-calculator-using-pyqt5s-313608d2f5a9  //Python calculator  
+-https://www.youtube.com/watch?v=lR90cp1wQ1I  //Tkinker GUI  
+-https://vscode.dev/  //vscode online  
+-https://betterprogramming.pub/5-tips-in-bash-scripting-for-beginners-e113a2cf1510  //bash scripting  
+-https://www.reddit.com/r/learnprogramming/comments/qjs3wh/i_built_futurecoder_a_100_free_and_interactive/  //learn programming  
+-https://hackernoon.com/3-coding-challenges-for-junior-javascript-developer-interviews  //coding challenges for JS interviews  
+-https://python.plainenglish.io/solve-21-questions-to-check-your-python-programming-skills-79a08282908d  //Python skills  
+-https://www.makeuseof.com/python-object-oriented-programming/?utm_source=MUO-NL-RP&utm_medium=newsletter  //OO Python  
+-https://levelup.gitconnected.com/go-programming-copy-function-explained-d0493c4a9800  //go programming  
+-https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/  //write a linux debugger  
+-https://droogy.tech/post/slowgo/  //GO TCP scanner  
+-https://lifetechpsych.com/beginner-programming-projects  //fun programming projects  
+-https://www.makeuseof.com/tag/beginner-programming-projects/  //beginner projects  
+-https://bootcamp.ce.ucf.edu/blog/top-10-coding-projects-for-beginners/  //UCF projects  
+-https://github.com/Python-World/python-mini-projects  //python mini projects  
+-https://blog.devgenius.io/how-to-set-the-value-of-an-input-field-with-javascript-894fb04d133  //javascript input values  
+-https://levelup.gitconnected.com/how-to-create-a-content-aggregator-with-python-381a3e6cff12  //python content aggregator  
+-https://twitter.com/rapid_api/status/1460550870354083852?s=11  //API based projects  
+-https://medium.com/vinsloev-academy/python-cybersecurity-network-tracking-using-wireshark-and-google-maps-2adf3e497a93  //python cybersecurity  
+-https://python.plainenglish.io/python-develop-interactive-web-app-in-six-lines-of-code-74906e2bbc17  //interactive webapp  
+-https://www.tutorialspoint.com/python_data_structure/index.htm  //python data structures  
+-https://timrodenbroeker.de/  //creative coding  
+-https://adamtheautomator.com/seaborn-python/  //seaborn python  
+-https://python.plainenglish.io/twitter-api-v2-programming-with-python-and-tweepy-f6487cd4bad9  //twitter API w/Python  
+-https://python.plainenglish.io/how-to-generate-qr-code-in-python-c3430ea65120  //python qr code generation  
+-https://betterprogramming.pub/7-ways-to-code-rock-paper-scissors-in-javascript-4189a5e7e535   //jankenpo javascript  
+-
 
 ### Tech  
+-https://www.cnet.com/tech/computing/how-to-read-epub-files-on-your-kindle/  //reading epub on kindle  
+-https://prezu.ca/post/2021-07-30-totp-1/  //google authenticator  
+-https://infosecwriteups.com/how-luks-works-with-full-disk-encryption-in-linux-6452ad1a42e8  //linux encryption  
+-https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse  //openssh  
+-https://adamtheautomator.com/procmon/  //procmon  
+-https://docs.microsoft.com/en-us/windows/powertoys/  //MS powertoys  
+-https://github.com/danistefanovic/build-your-own-x  //Build ur own...  
+-https://github.com/practical-tutorials/project-based-learning  //Projects  
+-https://k3s.io/  //lightweight Kubernetes  
+-https://www.dataplicity.com/  //dataplicity control raspi  
+-https://www.hackint0sh.org/how-to-install-macos-on-virtualbox/  //MACOS on VirtualBox  
+-http://opengarages.org/handbook/ebook/  //car hacker handbook  
+-https://www.instructables.com/How-to-Hack-and-Upgrade-Your-Car-Using-CAN-Bus/  //Car CANBUS  
+-
 
-
+### Training  
+-https://www.coursera.org/professional-certificates/google-it-automation  //Google with Python  
+-https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer  //packet tracer  
+-https://github.com/EbookFoundation/free-programming-books  //free e-books  
+-https://tryhackme.com/module/vulnerability-research  //THM vulnerability research  
+-https://hackthissite.org/  //hackthissite  
+-https://www.bugbountyhunter.com/  //bugbounty  
+-https://brutelogic.com.br/gym.php  //xss gym  
+-https://brutelogic.com.br/blog/training-xss-muscles/  //brute xss  
+-https://pentesterlab.com/exercises/codereview/course  //code review from pentesterlab  
+-https://courses.webdevsimplified.com/learn-css-today  //CSS training  
+-https://web.dev/learn/css/  //learn CSS  
+-https://javascriptsimplified.com/?aff=0120l  //javascript simplified  
+-https://gca.isa.org/blog/cyber-threat-intelligence-in-ics-sectors-context-is-everything?utm_campaign=blog&utm_medium=email&_hsmi=165425220&utm_content=165425220&utm_source=hs_email  //ICS CTI  
+-https://websploit.org/grayhat  //grayhat websploit  
+-https://www.mandiant.com/resources/flare-on-8-challenge-solutions  //flare-on challenges  
+-https://hshrzd.wordpress.com/2021/10/23/flare-on-8-task-9/  //more flare-on  
+-https://cwinfosec.org/Pwn-School-Syllabus/  //pwnschool  
+-https://bishopfox.com/blog/fuzzing-aka-fuzz-testing?utm_campaign=200601_Awareness_Labs%20Launch&utm_medium=email&_hsmi=166879342&utm_content=166879342&utm_source=hs_email  //intro to fuzzing  
+-https://www.dfir.training/  //DFIR training  
+-https://dfirdiva.com/  //DFIR diva  
+-https://canyouhack.us/  //solve challenges  
+-https://github.com/BitnomadLive/OffensiveReading  //Offensive Security reading  
+-https://www.freemote.com/  //freemote freelance dev  
+-
 
