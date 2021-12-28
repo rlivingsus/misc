@@ -31,4 +31,165 @@ Story, Golfing in Japan: I've lived in Hawaii for all my life and actually went 
 
 Story, the driver: The driver licked his lips with anticipation as Enrique sat down in the passenger seat besides him.  He was in his mid 30s with a hardened (description?) look accentuated by the creases on his forehead and slightly crooked goatee.  His pudge cheeks gave an air of youthfullness and made people who met him want to squeeze his cheeks.  These people were never a passenger in a car driven by him. -Enrique has ridden with this fellow before and buckled in and sat quietly as the driver slipped on his designer leather gloves and porsche sunglasses.  -The driver did have the skill to drive his newly acquired Saleen Mustang but the way he drove was a seat of the pants no holds barred experience that made all the passengers think they were going to have an accident.  He never did have an accident when he had pasengers though.  Passengers were important and he never would risk the vies of his quarry.  He could just drive slowly but no he didn't do that though, never.  The car rumbled to life as the driver turned the key.  He moved his lips as if he was speaking to his car.  After a few seconds he disengaged his clutch put his car and ear and drove offo.  
 
+Stories and Dreams
+
+Story, the heist: Diamond robbery of pink diamonds gone well with someone willing to buy them. -Had a party for celebs at night with the plan to steal their jewelry. -one of the items is a key from the past to something bigger. -unknown person hires men to go to the party as caterers where they rob maybe drugs or their runners tasked to take one van to boat and then drops one bag at one location in the ocean and one at another.  -Sub want to swap bags and go elsewhere.  Sammy, an old friend, called me about a possible job.  My boys and I were itching for something to do together but I made sure to mask my excitement in my voice.  I agreed to meet him at a local Starbucks.  I ordered a caramel latte small while I arrived early to assess the site.  Sammy was always a good trustful person for jobs as well as a crook could be.  The round cherub of a face with his slick mustache made him look more villanous that he should be especially with his dark slanted evil eyes.  You never know when a job is a setup or someone who wants you taken out is lurking.  I’ve learned a long time ago to be sure to survey your surroundings as much as you can if you have the time.  
+
+10.30.06: Going downstairs from some building with Van and Adrienne they didn’t seem to want to come down.  I’m thinking it’s Van she doesn’t want to come down with me then they come and all go down in the same elevator except Van she goes on another elevator.  I rant and rave when we get to the bottom and make her hear it too.  Time to move on?  See Pinger and EL ask them to come to sasebo to watch the remigration guys they say of course	
+
+Story, Far Away:
+I see her from afar.
+So long I’ve been gone.
+Yet only a wave I receive
+it is so much more that I need.
+Friends old & new
+leave together as 1
+except for her
+she refuses to come.
+We see each other again
+as I rant & rave.
+I finally understand
+it is time to move on.
+
+Story, Konroy’s magic town:
+Young kid learned to become a magician and followed the famous Konroy Family. -unexplained how did some magics. -Satanists. -A young child greatly impressed by Konroy’s magic and excited to see with parents.  Strange magic but cool, how did they do it. -worker for the magician family. -reporter doing research on family, -family member with a little more details on magic, -victim of magic
+
+Story, Reach:
+We reach for things
+which we do not have
+some for love
+some for greed
+often with our heart.
+We try to grasp
+sometimes our brain
+will make us grasp/clasp
+many times we fail
+but the hope is always there
+that one day our dreams
+will appear
+in a handful
+within reach.
+
+Treasure the love that you receive above all.  It will survive long after your gold and good health have vanished - OA Mandivo
+
+Make new friends and keep the old.  One is silver, the other gold - unknown
+
+Genius is the ability to reduce the complicated to the simple - C.W. Cerarn
+
+The worst thing you can do is to try to cling to something that’s gone or to recreate it - Johnette Napolitano
+
+The problem with beauty is that it’s like being born rich and getting poorer - Joan Collins
+
+Real listening is a willingness to let the other person change you. - Alan Alda
+
+A rich person should leave his kids enough to do something but not enough to do nothing - Warren Buffet
+
+People will forget what you said,
+people will forget what you did,
+but people will never forget how
+you made them feel - Maya Angelou
+
+Sometimes the path you’re 
+on is not as important as the 
+direction you’re heading - Kevin Smith
+
+Story, Pain: 
+The pain is unbearable
+as I sit there
+waiting for relief
+that does not come.
+My insides is on fire
+as I groan in agony.
+I open my eyes
+and the world spins in my head.
+Relief will soon come
+yet not soon enough
+(this was after getting sick by some old dude wearing a mask on a flight)
+
+Story, Shallow
+The world revolves around you
+Life fades away with a dying gasp
+by your choice along
+the earth still exists 
+yet no-one hears you
+you seem to be kind
+yet you never really listen
+
+Story, Strange glances
+I look at you
+with a glance 
+one second 
+too long.
+You frown
+at my glance
+with a word 
+of anger.
+How could 
+you not love
+the attention
+I bring?
+Am I so 
+strange that
+you would 
+drive me away?
+I promise to 
+change the 
+way that I 
+view you
+Ill no longer
+talk and
+look away 
+forever
+
+Story, Corruption
+There are a few
+on this earth
+that live a life
+one tracked.
+They believe
+what they do
+is for the better
+good their land.
+With heart
+dark and impure
+They move forward 
+unstopped 
+One day their 
+deeds will be 
+found to have 
+crumbled mankind
+
+Story, Face
+They look at my face
+and quickly glance again.
+There is something different
+with this person they see.
+I live in this world
+and try to fit in but,
+I will never be part
+of this land where I dwell.
+Perhaps the day will come
+where I won’t feet the stares.
+Until that day comes
+I will carry on with a smile on my face.
+
+Story, Explosion
+The screaming louder than anyone has heard before preceded the crash and explosion.  Father then spoke, “we must leave my lord.  The prophecy has come true and there is nothing else we can do”.  “it has begun, all hope is gone. we must flee milord”.
+
+Patience is not the ability to wait, but the ability to keep a good attitude while waiting - unknown
+
+Education is not about league tables or exam results, it is about opening doors for people and showing them rooms that would otherwise be hidden.
+
+cute bonbon: 
+ounce = oz = ozzz!!
+pound = lb = libs!!! 
+
+The 1st rules of holes: when you’re in one, stop digging - Molly Ivins
+
+If you have the choice between humble and cockey go with cocky.  There’s always time to be humble later, once you’ve been proven horrendously, irrevocably wrong - Kinky Friedman
+
+People too weak to follow their own dreams will always find a way to discourage yours - unknown
+
+Have the courage to follow your heart and intuition.  Everything else is secondary - Steve Jobs
+
 
