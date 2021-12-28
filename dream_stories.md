@@ -190,6 +190,34 @@ If you have the choice between humble and cockey go with cocky.  There’s alway
 
 People too weak to follow their own dreams will always find a way to discourage yours - unknown
 
-Have the courage to follow your heart and intuition.  Everything else is secondary - Steve Jobs
+Have the courage to follow your heart and intuition.  Everything else is secondary - Steve Jobs  
+
+10.29.11: I was back in HI at SPAWAR but it felt like college or school.  N6 was planning but told lots of people to standby.  Eventually message on com says to go to highlands something and everyone grows.  I go with some people and we take a short cut which we overshoot the meeting point at some cove where an older guy tells me to relax at a large angled rock but then we start seeing boats and ferries with cars and water recedes.  One guy on rock runs off but I stay per old men since rock is high.  slightly fear that the rock will break but miraculously waters reach me and I disappear.  Everyone is upset at old man but he says to have faith and shows a string that I'm attached to.  I have faith on higher bay break down and wake up.  
+
+11.24.11: I met a beautiful young petty officer from ACU-1 or 5 and she helped me with something at work (a cross between the PO from Singapore migration days and Sarah Odo) asked that she help me again the next day.  Try to search her out.  Going around salt lake area with some guys but we get distracted with an interview.  Then in a big truck going around McKinley and Blaisdell looking for a place to drop off a bench? car? finally find a space inside (the place is packed for a graduation event) wake up.  
+
+Everything around you that you call life was made by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.  Once you learn that, you'll never be the same again - Steve Jobs  
+
+More BB cuteness: Checkaracho = check it out yo  
+
+VIA World Treasury of Folk Wisdom by Feldman and Voelke  
+Advice after mischief is like medicine after death - Danish proverb  
+To be willing is to be able - French proverb  
+If you believe everything you read, better not read - Japanese proverb  
+Measure a Thousand times, cut once - Turkish proverb  
+Better a diamond with a flaw than a pebble without - Chinese proverb  
+Worry often gives a small thing a big shadow - Swedish proverb  
+Death does not take the old but the ripe - Russian proverb  
+Dont sail out farther than you can row back - Danish proverb  
+A good lie finds more believers than a bad truth - German proverb  
+The 1st half of life is spent in longing for the second, the second half in regretting the 1st - French proverb  
+Stop worrying about the potholes in the road & celebrate the journey - Fitzhugh Mullan  
+The only people with whom you should try to get even are those who have helped you - John C. Southard  
+
+
+
+
+
+
 
 
