@@ -229,6 +229,10 @@ Why worry? If you've done the very best you can, worrying won't make it any bett
 A man is not old until regrets take the place of dreams - unknown  
 Locks only stop honest people.  Don't rely on your controls, think how to break them - Jessica Payne  
 
+from Hospital Story, How often do we allow our judgeent to be clouded by selfish desires? Desires that can obscure loving kindness.  Desires that can twist our thinking until we become so obsessed with satisfying them that others are seen merely as an obstacle to be removed.  Desires that eventually will bring us up against a blank wall.  
+
+
+
 
 
 
