@@ -9,6 +9,7 @@
 
 ### Cybersecurity  
 -https://blog.korelogic.com/blog/2014/04/04/pathwell_topologies  //pw topology  
+-reverse engineering [reverse engineer](https://0xinfection.github.io/reversing/)  
 -https://en.wikipedia.org/wiki/Infer_Static_Analyzer  //appsec  
 -https://www.me3tweaks.com/blog/modding/making-me1-not-require-admin-rights-part-2/  //mass effect hack  
 -http://blog.markofu.com/2012/05/securityonion-on-netbook-with-port.html  //security onion  
