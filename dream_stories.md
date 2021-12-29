@@ -178,11 +178,13 @@ The screaming louder than anyone has heard before preceded the crash and explosi
 
 Patience is not the ability to wait, but the ability to keep a good attitude while waiting - unknown
 
-Education is not about league tables or exam results, it is about opening doors for people and showing them rooms that would otherwise be hidden.
+Education is not about league tables or exam results, it is about opening doors for people and showing them rooms that would otherwise be hidden.  If we can challenge children to try things and to learn what they can achieve then maybe one day we will be remembered with gratitude - Paul Sloane  
 
 cute bonbon: 
 ounce = oz = ozzz!!
 pound = lb = libs!!! 
+crackers are still crackery (crispy)  
+She likes Hacopontas (Pocahontas)  
 
 The 1st rules of holes: when you’re in one, stop digging - Molly Ivins
 
@@ -213,6 +215,20 @@ A good lie finds more believers than a bad truth - German proverb
 The 1st half of life is spent in longing for the second, the second half in regretting the 1st - French proverb  
 Stop worrying about the potholes in the road & celebrate the journey - Fitzhugh Mullan  
 The only people with whom you should try to get even are those who have helped you - John C. Southard  
+
+Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do) - Steven R. Covey  
+Arrogance is thinking something is perfect after the 1st draft.  Humility is knowing that there is always room for improvement - Simon Sinek  
+What can be asserted without evidence can also be dismissed without evidence - Christopher Hitchens  
+If you're the smartest person in the room, then you're in the wrong room - unknown  
+If I had asked people what they wanted, they would have said faster horses - Henry Ford  
+Every organization must prepare for the abandonment of everything it does - Peter Drucker  
+If failure is not an option, then neither is success - Seth Godin  
+It doesn't make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do - Steve Jobs  
+Live as if you were to die tomorrow.  Learn as if you were to live forever - Mahatma Ghandi  
+Why worry? If you've done the very best you can, worrying won't make it any better - Walt Disney  
+
+
+
 
 
 
