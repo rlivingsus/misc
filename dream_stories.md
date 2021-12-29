@@ -226,6 +226,9 @@ If failure is not an option, then neither is success - Seth Godin
 It doesn't make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do - Steve Jobs  
 Live as if you were to die tomorrow.  Learn as if you were to live forever - Mahatma Ghandi  
 Why worry? If you've done the very best you can, worrying won't make it any better - Walt Disney  
+A man is not old until regrets take the place of dreams - unknown  
+Locks only stop honest people.  Don't rely on your controls, think how to break them - Jessica Payne  
+
 
 
 
