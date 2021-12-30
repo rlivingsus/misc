@@ -22,6 +22,12 @@
 -California  
 --San Francisco
 ---Santa Rosa: Charles M. Schulz Museum, Children's Museum of Sonoma County  
+-New Mexico  
+--Grand Staircase-Escalante 
+--White Sands Missile Range Museum  
+--Roswell: International UFO Museum & Roswell Museum and Art Center  
+--Las Cruces: Spaceport America  
+--New Mexico Museum of Space History  
 -Utah
 --Zion National Park: Emerald Pools, Weeping Rock, Riverside Walk; Bryce National Park
 ##### South  
@@ -31,5 +37,7 @@
 ### ASIA  
 
 ### EUROPE  
+#### SWITZERLAND  
+-Lauterbrunnen Valley enchanting land  
 
 
