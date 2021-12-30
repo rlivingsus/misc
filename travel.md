@@ -7,9 +7,11 @@
 ### AFRICA  
 
 ### AMERICAS  
+#### CANADA  
+##### Quebec  
+-(Carnaval de Quebec:) [carnaval.qc.ca/en]    
 
 #### USA  
-
 ##### East  
 -Massachusetts  
 --Boston: Boston Children's Museum  
@@ -17,6 +19,11 @@
 --Pittsburgh: Children's Musuem of Pittsburgh.
 ##### Midwest  
 ##### West  
+-California  
+--San Francisco
+---Santa Rosa: Charles M. Schulz Museum, Children's Museum of Sonoma County  
+-Utah
+--Zion National Park: Emerald Pools, Weeping Rock, Riverside Walk; Bryce National Park
 ##### South  
 -Texas  
 --Houston: Chidren's Museum of Houston.
