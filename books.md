@@ -202,7 +202,7 @@ MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~
 STORMLIGHT ARCHIVE: ~~1)The Way of Kings, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 4)Rhythm of War, 5)Highprince of War  
 RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity,~~ 4) Lux  
 ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
-SKYWARD: Defending Elysium, ~~1)Skyward (AUDIBLE),~~ 2)Starsight (audible), 2.1)Sunreach, 2.2)ReDawn, 3)Cytonic, 3.1)Evershore, 4) Defiant  
+SKYWARD: Defending Elysium, ~~1)Skyward (AUDIBLE),~~ 2)Starsight (audible), 2.1)Sunreach (Libby on hold), 2.2)ReDawn, 3)Cytonic, 3.1)Evershore, 4) Defiant  
 INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.
 WARBREAKER: 1) Warbreaker, 2) Nightblood  
 
