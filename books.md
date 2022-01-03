@@ -135,7 +135,7 @@ A SONG OF ICE AND FIRE: ~~1) Game of Thrones, 2) A Clash of Kings, 3) A Storm of
 ### McCaffrey, Anne  
 DRAGONRIDERS OF PERN Harper Hall Trilogy: ~~Dragonsong, Dragonsinger, Dragondrums~~  
 DRAGONRIDERS OF PERN Original Trilogy: ~~Dragonflight, Dragonquest, The White Dragon~~  
-DRAGONRIDERS OF PERN Before First Pass: The P.E.R.N. Survey  
+DRAGONRIDERS OF PERN Before First Pass (short story): The P.E.R.N. Survey  
 DRAGONRIDERS OF PERN First Pass: Dragonsdawn, The Dolphin's Bell, The Ford of Red Hanrahan  
 DRAGONRIDERS OF PERN First Interval: Dragonsblood (windblossom parts), Rescue Run  
 DRAGONRIDERS OF PERN Second Pass: Red Star Rising, Ever the Twain  
