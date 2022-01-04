@@ -14,3 +14,8 @@ Heart general advice: avoid trans fat; reduce saturated fat, increase intake of 
 
 CT scan and calcium buildup bad  
 
+Prothrombin: Time test to see how long blood clots.  Inherited clotting tendencies.
+Young heart attack or stroke may indicate the presence of THROMBOPHILIA.  The 2nd most common inherited version is referred to as Prothrombin Mutation via thrombophiliac.com/prothrombin-mutation.  *but maybe not the case cuz doesn't buildup?
+Next Anticoagulant aka blood thinners work by inhibiting clotting factors.  Antiplatelets inhibit enzymes that cause platelets to clump together.  
+
+
