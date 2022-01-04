@@ -10,7 +10,8 @@
 -update my medical and optionally vitamins in mychart\
 -Issues (more hardening or calcification or buildup) could be due to pre-diabetes or genetics.  Lincoln will reach out to Dr. Penn for an APO or Apple B check.  Calcification works on the outside and then moves inwards.  Early stage is soft.\
 -Blockage ~60% cannot be opened up with stent until 80-90%\
--Concerns with kidney injury, radiation for angiogram
+-Concerns with kidney injury, radiation for angiogram & message below  
+-HbA10 hemaglobin test every 6 months if you have diabetes.  Lincoln thanks for the message you left on my phone.  I do have a question, Am I considered disabled or do I have a disability?  I notice this is a question listed in job applications with heart disease listed   
 
 ### 12 2021 Notes and Questions put together for Lincoln (which some not really answered)
 -Three main arteries in the heart with Right Coronary Artery (RCA) my issue and Left Coronary Artery to 2?  Left Anterior Descending Artery (LAD) aka _**Widowmaker**_  
