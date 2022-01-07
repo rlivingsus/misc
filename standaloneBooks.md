@@ -7,6 +7,7 @@
 ### De Los Santos, Marisa: Saving Lucas Biggs  
 ### Goulston, Mark: Just Listen  
 ### Hillenbrand, Laura: Unbroken  
+Hartley, Gregory: How to spot a liar  
 ### Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
 ### Kalanithi, Paul: When Breath Becomes Air  
 ### Kemp, Paul: Star Wars Riptide  
