@@ -7,7 +7,7 @@ DeGrasse Tyson, Neil: Astrophysics for People in a Hurry
 De Los Santos, Marisa: Saving Lucas Biggs  
 Goulston, Mark: Just Listen  
 Hillenbrand, Laura: Unbroken  
-Hartley, Gregory: How to spot a liar  
+Hartley, Gregory: How to spot a liar 1.2022    
 Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
 Kalanithi, Paul: When Breath Becomes Air  
 Kemp, Paul: Star Wars Riptide  
@@ -15,6 +15,7 @@ King, Stephen: Billy Summers; Dark Tower 7 books; Elevation; Outsider; The Insti
 Koontz, Dean: The Good Guy  
 Lee, Jennifer: Fortune Cookie Chronicles  
 Mitnick, Kevin: The Art of Deception  
+Montgomery, Sy: The Soul of an Octopus 1.2022  
 Mundy, Liza: Code Girls  
 Niven, Larry: Lucifer's Hammer  
 Pohl, Frederik: The World at the End of Time  
