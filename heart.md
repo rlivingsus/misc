@@ -1,9 +1,13 @@
 ## New up top
 
+### 1.11.22 Called UW Medicine  
+-Spoke to Aida and she talked to the Pulmonary dept. who said they did not receive a fax  
+-Will let Dr. Hoffman know to send fax to 206.598.3621  
+
 ### 12.22.21 Called UW Medicine for referral  
 -Called 206.598.4615 which is Pulmonary dept. per Pam.  Location is 1959 NE Pacific St.?    
 -Told Pam that I didn't hear back regarding a Lipid test referral and potential shot  
--The notes we're "Lipid clinic referral for rapid advancing coronary disease on maximum medical therapy"
+-The notes we're "Lipid clinic referral for rapid advancing coronary disease on maximum medical therapy"  
 -Could not reach Pulmonary dept. so Pam sent a note with my record #U5500229 & Referral #2065983621
 
 ### 12.21.21 Telecon with Lincoln Smith PAC
