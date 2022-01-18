@@ -62,7 +62,7 @@ KING'S JUSTICE: The Augur's Gambit, The King's Justice
 WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
 ### Eddings, David  
-THE BELGARIAD: ~~1) The Pawn of Prophecy,~~ 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
+THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit,~~ 4) Castle of Wizardry, 5) Enchanter's End Game,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
 THE MALLOREON: 1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
 SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City    
 
@@ -202,7 +202,7 @@ MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~
 STORMLIGHT ARCHIVE: ~~1)The Way of Kings, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 4)Rhythm of War, 5)Highprince of War  
 RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity,~~ 4) Lux  
 ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
-SKYWARD: Defending Elysium, ~~1)Skyward (AUDIBLE), 2)Starsight (audible),~~ 2.1)Sunreach (Libby on hold), 2.2)ReDawn, 3)Cytonic (audible), 3.1)Evershore, 4) Defiant  
+SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach (Libby on hold),~~ 2.2)ReDawn, 3)Cytonic (audible), 3.1)Evershore, 4) Defiant  
 INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.
 WARBREAKER: 1) Warbreaker, 2) Nightblood  
 
