@@ -12,7 +12,7 @@ FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) T
 ### Brooks, Terry  
 ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
 Indomitable, Dark Wraith of Shannara~~  
-THE HERITAGE OF SHANNARA: ~~1)The Scions of Shannara, 2)The Druid of Shannara,~~ 3)The Elf Queen of Shannara, 4)The Talismans of Shannara  
+THE HERITAGE OF SHANNARA: ~~1)The Scions of Shannara, 2)The Druid of Shannara, 3)The Elf Queen of Shannara,~~ 4)The Talismans of Shannara  
 WORD AND VOID: 1)Running with the Demon, 2)A Knight of the Word, 3)Angel Fire East  
 LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
 THE VOYAGE OF THE JERLE SHANNARA:~~1)Iise Witch;2)Antrax;3)Morgawr~~  
@@ -62,7 +62,7 @@ KING'S JUSTICE: The Augur's Gambit, The King's Justice
 WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
 ### Eddings, David  
-THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit,~~ 4) Castle of Wizardry, 5) Enchanter's End Game,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
+THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry,~~ 5) Enchanter's End Game,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
 THE MALLOREON: 1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
 SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City    
 
@@ -101,7 +101,7 @@ THE FARSEER TRILOGY: ~~1) Assassin's Apprentice,~~ 2) Royal Assassin, 3) Assassi
 THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven,~~ 3) City of Dragons, 4) Blood of Dragons  
 
 ### Jordan, Robert  
-WHEEL OF TIME: ~~0) New Spring,~~ 0.1) The Strike at Shayol Ghul, 0.2) Earlier-Ravens, ~~1)The Eye of the World,~~ 2) The Great Hunt, 3)The Dragon Reborn, 4)The Shadow Rising, 5)The Fires of Heaven, 6)Lord of Chaos, 7)A Crown of Swords, 8)The Path of Daggers, 8.5)Snow, 9)Winter's Heart, 9.5) Glimmers, 10)Crossroads of Twilight, 11)Knife of Dreams, 12)The Gathering Storm, 13)Towers of Midnight, 13.5)By Grace and Banners Fallen, 14)A Memory of Light, Unfettered by Shawn Speakman, A fire within the Ways      
+WHEEL OF TIME: ~~0) New Spring,~~ 0.1) The Strike at Shayol Ghul, 0.2) Earlier-Ravens, ~~1)The Eye of the World, 2) The Great Hunt,~~ 3)The Dragon Reborn, 4)The Shadow Rising, 5)The Fires of Heaven, 6)Lord of Chaos, 7)A Crown of Swords, 8)The Path of Daggers, 8.5)Snow, 9)Winter's Heart, 9.5) Glimmers, 10)Crossroads of Twilight, 11)Knife of Dreams, 12)The Gathering Storm, 13)Towers of Midnight, 13.5)By Grace and Banners Fallen, 14)A Memory of Light, Unfettered by Shawn Speakman, A fire within the Ways      
 
 ### Kerr, Katharine  
 ACT ONE: DEVERRY: 1)Daggerspell, 2)Darkspell, 3)The Bristling Wood, 4)The Dragon Revenant  
