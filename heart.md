@@ -1,5 +1,8 @@
 ## New up top
 
+### 1.11.22 Message from Sound Family Health  
+-Nicole Waite stated that the initial referral was faxed on 11.30.21 but will resend on 1.11.22  
+
 ### 1.11.22 Called UW Medicine  
 -Spoke to Aida and she talked to the Pulmonary dept. who said they did not receive a fax  
 -Will let Dr. Hoffman know to send fax to 206.598.3621  
