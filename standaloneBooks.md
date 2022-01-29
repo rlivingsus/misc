@@ -26,3 +26,21 @@ Tran, Phuc: Sigh Gone
 Twain, Mark: Adventures of Huckleberry Finn
 Walker, Jimmie: Dyn O Mite  
 Zelazny, Roger: The Great book of Amber  
+---------
+## Too Read  
+Daughter of the Moon Goddess by Sue Lynn Tan
+The Starless Crown by James Rollins
+Where the Drowned Girls Go by Seanan McGuire
+The Untold Story by Genevieve Cogman
+Discworld books by Terry Pratchett
+The First Law books by Joe Abercrombie
+Hell Divers by Nicolas Sansbury Smith
+Dungeon Crawler Carl
+Kingkiller Chronicle
+Project Hail Mary
+To Sleep in a Sea of Stars
+Shards of Earth
+SuperPowered by Drew Hayes
+Light Years from Home by Mike Chen
+Quicksilver by Dean Koontz
+----
