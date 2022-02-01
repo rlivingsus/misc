@@ -10,15 +10,14 @@ FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) T
 ~~1) The Warded Man, 2) The Desert Spear,~~ 3) The Daylight War, 4) The Skull Throne, 5) The Core
 
 ### Brooks, Terry  
+WORD AND VOID: 1)Running with the Demon, 2)A Knight of the Word, 3)Angel Fire East  
+THE GENESIS OF SHANNARA: 1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph  
+LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
 ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
 Indomitable, Dark Wraith of Shannara~~  
 THE HERITAGE OF SHANNARA: ~~1)The Scions of Shannara, 2)The Druid of Shannara, 3)The Elf Queen of Shannara, 4)The Talismans of Shannara (Feb20)~~  
-WORD AND VOID: 1)Running with the Demon, 2)A Knight of the Word, 3)Angel Fire East  
-LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
 THE VOYAGE OF THE JERLE SHANNARA:~~1)Iise Witch;2)Antrax;3)Morgawr~~  
 THE HIGH DRUID OF SHANNARA:~~1)Jarka Ruus; 2)Tanequil; 3)Straken~~  
-THE GENESIS OF SHANNARA: 1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph  
-LEGENDS OF SHANNARA: 1)Bearers of the Black Staff; 2)The Measure of the Magic  
 PALADINS OF SHANNARA: 1)Allanon's Quest; 2)The Weapon Master's Choice; 3)The Black Irix  
 DARK LEGACY OF SHANNARA SERIES: 1. Wards of Faerie, 2) Blood Fire Quest, 3) Witch Wraith  
 DEFENDERS OF SHANNARA: 1) The High Druid's Blade, 2) The Darkling Child; 3)The Sorcerer's Daughter  
