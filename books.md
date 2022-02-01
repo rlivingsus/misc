@@ -12,7 +12,7 @@ FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) T
 ### Brooks, Terry  
 ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
 Indomitable, Dark Wraith of Shannara~~  
-THE HERITAGE OF SHANNARA: ~~1)The Scions of Shannara, 2)The Druid of Shannara, 3)The Elf Queen of Shannara,~~ 4)The Talismans of Shannara  
+THE HERITAGE OF SHANNARA: ~~1)The Scions of Shannara, 2)The Druid of Shannara, 3)The Elf Queen of Shannara, 4)The Talismans of Shannara (Feb20)~~  
 WORD AND VOID: 1)Running with the Demon, 2)A Knight of the Word, 3)Angel Fire East  
 LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
 THE VOYAGE OF THE JERLE SHANNARA:~~1)Iise Witch;2)Antrax;3)Morgawr~~  
