@@ -1,5 +1,22 @@
 ## New up top
 
+### 2.4.22 Seattle Times article about Cody Pickett regarding heart disease  
+-41 yr.  Started with coronary calcium scan -an x-ray test that detects calcium-containing plaque in the arteries.  Good to help DRs. ID coronary artery disease before onslaught signs and symptoms.  A score between 100 and 300 indicates moderate plaque deposits with relative high risk over the next three to five years.  Cody's score was 1600.    
+-Next a CT scan followed by a coronary angiogram.    
+-Dr. Bill Lombardi at UW Medical Center one of the best in the country at placing coronary stents.  May be a solution other than open heart surgery.  
+&  
+Elevated Lipoprotein(a): Is it a Long-Sought Treatment Finally on the Way?  
+-Lipoprotein(a) or Lp(a) is a distinctive particle with two components: a lipoprotein core that resembles LDL, along with a shell that contains apolipoprotein(a) or apo(a).    
+-Elevated blood **Lp(a)** levels are primary due to genetic variations in the LPA gene that encodes for apo(a) and cannot be lowered by diet, exercise, or current lipid-lowering therapies.  
+-Culprit for therapy with statins or other lipid lowering medications.  The **culprit** is a very high level of Lp(a)  
+-Normal Lp(a) considered to be less than 25 mg/dL with significant risk of atherothrombotic events begin at levels between 50 and 70 mg/dL.  
+-Some statins can actually slightly raise Lp(a) levels.  
+-**Approach that furthest along involves antisense oligonucleotide **(ASO)** therapy.  Focus of newly launched international phase 3 trial with Cleveland Clinic.  
+-Participants will have established coronary artery disease and fall into >= 70 mg/dL and >= 90 mg/dL  
+-study completion expected at 2024.  
+
+REF: https://consultqd.clevelandclinic.org/elevated-lipoproteina-is-a-long-sought-treatment-finally-on-the-way/  
+
 ### 1.26.22 Talked Joel UW Pulmonary  
 -He said it's not showing up in my record and usually does if receive a referral so make sure using correct numbers  
 -Pulmonary FAX again is 206.598.3621 BUT central coordinator who will forward to right place and is digital is 206.744.1999.  I can confirm by calling the Pulmonary dept. and choose "2" to get to the Pulmonary office  
