@@ -1,14 +1,14 @@
 ## New up top
 
 ### 2.5.22 Lipoprotein(a) notes from various  
--Lipoprotein(a) or Lp(a) is a protein that transports cholesterol in the blood.  An LDL particle. High levels of Lp(a) in the blood can increase the likelihood of plaques or blood clots forming in the arteries.
--Lp(a) test is not a routine test.  Doc may ask for full lipid panel test which checks for cholesterol and triglyceride may ask for fast and only h20.
--some say levels about 25-30 mg/dl may increase risk but definitely 50 mg/dl or >125 nmol/L.  Normal is under 25 or 30 or <75 nmol/L
--How to reduce?  Usually genetics so hard.  Medications that inhibit **PCSK9** may reduce Lp(a) levels PCSK9 inhibitor MEDS new in 2015 shown to reduce but more study.  Lipoprotein apheresis is a procedure similar to dialysis.  A machine separates cholesterol from blood plasma and removes the Lp(a) and LDL cholesterol from the blood required weekly or biweekly.  Harborview Medical Center Apheresis Department per https://thefhfoundation.org/fh-treatments/lipoprotein-apheresis
--Lp(a) test is usually done once, becuase it's pretty constant across your lifetime.  Some exceptions like after menopause cuz Lp(a) levels increase as estrogen levels drop (estrogen good to reduce Lp(a))
--Supplements: Niacin or vitamin B3, CoQ10, Tumeric
--Do I have familial hypercholesterolemia (FH) too?  In 2020, number of Lp(a) lowering meds in clinical trials now and will see outcomes in next few years.  REF: https://thefhfoundation.org/lipoprotein-a-5-things
--A few specialist from link above (family heart foundation).  Jessica Durham ARNP @ The Polyclinic 904 7th Avenue; Diane Osborn ARNP, CLS @ Clinical Lipidology Virginia Mason 1100 9th Ave; Drew Baldwin MD @ Cardiology Virginia Mason; Savitha Subramanian MD @ UW Medicine, Clinical Lipidology 325 9th Ave;   
+-Lipoprotein(a) or Lp(a) is a protein that transports cholesterol in the blood.  An LDL particle. High levels of Lp(a) in the blood can increase the likelihood of plaques or blood clots forming in the arteries.  
+-Lp(a) test is not a routine test.  Doc may ask for full lipid panel test which checks for cholesterol and triglyceride may ask for fast and only h20.  
+-some say levels about 25-30 mg/dl may increase risk but definitely 50 mg/dl or >125 nmol/L.  Normal is under 25 or 30 or <75 nmol/L  
+-How to reduce?  Usually genetics so hard.  Medications that inhibit **PCSK9** may reduce Lp(a) levels PCSK9 inhibitor MEDS new in 2015 shown to reduce but more study.  Lipoprotein apheresis is a procedure similar to dialysis.  A machine separates cholesterol from blood plasma and removes the Lp(a) and LDL cholesterol from the blood required weekly or biweekly.  Harborview Medical Center Apheresis Department per https://thefhfoundation.org/fh-treatments/lipoprotein-apheresis  
+-Lp(a) test is usually done once, becuase it's pretty constant across your lifetime.  Some exceptions like after menopause cuz Lp(a) levels increase as estrogen levels drop (estrogen good to reduce Lp(a))  
+-Supplements: Niacin or vitamin B3, CoQ10, Tumeric  
+-Do I have familial hypercholesterolemia (FH) too?  In 2020, number of Lp(a) lowering meds in clinical trials now and will see outcomes in next few years.  REF: https://thefhfoundation.org/lipoprotein-a-5-things  
+-A few specialist from link above (family heart foundation).  Jessica Durham ARNP @ The Polyclinic 904 7th Avenue; Diane Osborn ARNP, CLS @ Clinical Lipidology Virginia Mason 1100 9th Ave; Drew Baldwin MD @ Cardiology Virginia Mason; Savitha Subramanian MD @ UW Medicine, Clinical Lipidology 325 9th Ave;     
 
 ### 2.4.22 Seattle Times article about Cody Pickett regarding heart disease  
 -41 yr.  Started with coronary calcium scan -an x-ray test that detects calcium-containing plaque in the arteries.  Good to help DRs. ID coronary artery disease before onslaught signs and symptoms.  A score between 100 and 300 indicates moderate plaque deposits with relative high risk over the next three to five years.  Cody's score was 1600.    
