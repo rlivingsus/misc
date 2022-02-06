@@ -61,7 +61,7 @@ KING'S JUSTICE: The Augur's Gambit, The King's Justice
 WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
 ### Eddings, David  
-THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry,~~ 5) Enchanter's End Game,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
+THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
 THE MALLOREON: 1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
 SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City    
 
