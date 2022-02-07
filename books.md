@@ -1,5 +1,8 @@
 ## Books sorted by author's last name
 
+### Anthony, Piers  
+Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022)~~, 2)Bearing an Hourglass, 3)With a Tangled Skein, 4)Wielding a Red Sword, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
+
 ### Athans, Philip  
 FORGOTTEN REALMS SEMBIA MULTIPLE AUTHORS: 1)The Halls of Stormweather(HAVE), 2)Shadow's witness, 3)The Shattered Mask(HAVE), 4)Black wolf, 5)Heirs of Prophecy(HAVE), 6)Sands of the Soul, 7)Lord of Stormweather
 
