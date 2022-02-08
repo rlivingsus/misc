@@ -13,7 +13,7 @@ FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) T
 ~~1) The Warded Man, 2) The Desert Spear,~~ 3) The Daylight War, 4) The Skull Throne, 5) The Core
 
 ### Brooks, Terry  
-WORD AND VOID: 1)Running with the Demon, 2)A Knight of the Word, 3)Angel Fire East  
+WORD AND VOID: ~~1)Running with the Demon (Feb22)~~, 2)A Knight of the Word, 3)Angel Fire East  
 THE GENESIS OF SHANNARA: 1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph  
 LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
 ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
