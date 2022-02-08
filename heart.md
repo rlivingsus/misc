@@ -1,4 +1,10 @@
-## New up top
+## New up top  
+
+### 2.8.22 Search of "PCSK9 inhibitor medications" news articles    
+-New treatments could help people hesitant towards statins.  "Do what statins couldn't".  Based on research of gene called PCSK9 new drug 2022.  People with non functioning PCSK9 gene have naturally low levels of unhealthy LDL cholesterol.  Previous targetted PCSK9 gene proved ineffective in 2015 due to high cost and the need for new injections at two week intervals.  New options cheaper: FDA gave approval for an RNA therapy that blocks the gene with a twice yearly injection and another blocks the protein with an oral pill.  Also CRISPR one dose therapy using a protein called Cas9.  
+-Can statins cause type 2 diabetes?  
+-Want PCSK9 inhibitors.  First PCSK9 inhibitor monoclonal antibodies called Repatha ($476 a month but can be cheaper, $60 bucks for 2 injectors) and Praluent (not covered by afspa, express scripts) were approved by FDA in 2015 but high cost and require self-injection every two weeks.  Now inhibitors being developed that could cost less act longer and maybe orally.  
+-FDA approved Novartis Leqvio RNA therapy injected twice a year reduce LDL by 52% costs is $3250 per dose so $9759 in year one followed by $6500 each year after, 3 doses first year and 2 doses after that each year.  Merck&Co.'s MK-0616 peptide in phase 1 clinical trials can be oral.  Verve Therapeutics Verve-101 gene therapy can permanently maybe lower LDL with a single dose.  
 
 ### 2.5.22 Lipoprotein(a) notes from various  
 -Lipoprotein(a) or Lp(a) is a protein that transports cholesterol in the blood.  An LDL particle. High levels of Lp(a) in the blood can increase the likelihood of plaques or blood clots forming in the arteries.  
