@@ -7,16 +7,8 @@
 -Coinsurance is a portion of the medical cost you pay after your deductible has been met.  
 -Out-of-Pocket maximum is the most you could pay for covered medical expenses in a year.  This includes money you spend on deductibles, copays, and coinsurance.  
 
-### Heart  
-Lipoprotein(a) is a sticky version of LDL cholesterol which is genetic so cures for this is important.  L-Lysine and L-Proline bind to LP(a) to remove into liver so high vitamin C and amino acid lysine.  
-Heart general advice: avoid trans fat; reduce saturated fat, increase intake of fruits, vegetable, whole grains.
 
-"Unfortunately, their conclusions, if taken to heart, leave consumers to rely on genetics and fate to avoid coronary heart disease - an unacceptable situation given the fact that the scientific literature contains so many studies that point to benefit for omega-3 fatty acids," MacKay said.
 
-CT scan and calcium buildup bad  
 
-Prothrombin: Time test to see how long blood clots.  Inherited clotting tendencies.
-Young heart attack or stroke may indicate the presence of THROMBOPHILIA.  The 2nd most common inherited version is referred to as Prothrombin Mutation via thrombophiliac.com/prothrombin-mutation.  *but maybe not the case cuz doesn't buildup?
-Next Anticoagulant aka blood thinners work by inhibiting clotting factors.  Antiplatelets inhibit enzymes that cause platelets to clump together.  
 
 
