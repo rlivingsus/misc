@@ -7,6 +7,7 @@
 -FDA approved Novartis Leqvio RNA therapy injected twice a year reduce LDL by 52% costs is $3250 per dose so $9759 in year one followed by $6500 each year after, 3 doses first year and 2 doses after that each year.  Merck&Co.'s MK-0616 peptide in phase 1 clinical trials can be oral.  Verve Therapeutics Verve-101 gene therapy can permanently maybe lower LDL with a single dose.  
 
 ### 2.5.22 Lipoprotein(a) notes from various  
+
 -Lipoprotein(a) or Lp(a) is a protein that transports cholesterol in the blood.  An LDL particle. High levels of Lp(a) in the blood can increase the likelihood of plaques or blood clots forming in the arteries.  
 -Lp(a) test is not a routine test.  Doc may ask for full lipid panel test which checks for cholesterol and triglyceride may ask for fast and only h20.  
 -some say levels about 25-30 mg/dl may increase risk but definitely 50 mg/dl or >125 nmol/L.  Normal is under 25 or 30 or <75 nmol/L  
@@ -14,6 +15,10 @@
 -Lp(a) test is usually done once, becuase it's pretty constant across your lifetime.  Some exceptions like after menopause cuz Lp(a) levels increase as estrogen levels drop (estrogen good to reduce Lp(a))  
 -Supplements: Niacin or vitamin B3, CoQ10, Tumeric  
 -Do I have familial hypercholesterolemia (FH) too?  In 2020, number of Lp(a) lowering meds in clinical trials now and will see outcomes in next few years.  REF: https://thefhfoundation.org/lipoprotein-a-5-things  
+-Lipoprotein(a) is a sticky version of LDL cholesterol which is genetic so cures for this is important.  L-Lysine and L-Proline bind to LP(a) to remove into liver so high vitamin C and amino acid lysine.  
+-Heart general advice: avoid trans fat; reduce saturated fat, increase intake of fruits, vegetable, whole grains.  "Unfortunately, their conclusions, if taken to heart, leave consumers to rely on genetics and fate to avoid coronary heart disease - an unacceptable situation given the fact that the scientific literature contains so many studies that point to benefit for omega-3 fatty acids," MacKay said.  
+-CT scan and calcium buildup bad  Prothrombin: Time test to see how long blood clots.  Inherited clotting tendencies.
+Young heart attack or stroke may indicate the presence of THROMBOPHILIA.  The 2nd most common inherited version is referred to as Prothrombin Mutation via thrombophiliac.com/prothrombin-mutation.  *but maybe not the case cuz doesn't buildup? Next Anticoagulant aka blood thinners work by inhibiting clotting factors.  Antiplatelets inhibit enzymes that cause platelets to clump together.*    
 -A few specialist from link above (family heart foundation).  `Jessica Durham ARNP @ The Polyclinic 904 7th Avenue; Diane Osborn ARNP, CLS @ Clinical Lipidology Virginia Mason 1100 9th Ave; Drew Baldwin MD @ Cardiology Virginia Mason; Savitha Subramanian MD @ UW Medicine, Clinical Lipidology 325 9th Ave;`      
 
 ### 2.4.22 Seattle Times article about Cody Pickett regarding heart disease  
