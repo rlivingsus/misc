@@ -14,7 +14,7 @@
 -Lp(a) test is usually done once, becuase it's pretty constant across your lifetime.  Some exceptions like after menopause cuz Lp(a) levels increase as estrogen levels drop (estrogen good to reduce Lp(a))  
 -Supplements: Niacin or vitamin B3, CoQ10, Tumeric  
 -Do I have familial hypercholesterolemia (FH) too?  In 2020, number of Lp(a) lowering meds in clinical trials now and will see outcomes in next few years.  REF: https://thefhfoundation.org/lipoprotein-a-5-things  
--A few specialist from link above (family heart foundation).  Jessica Durham ARNP @ The Polyclinic 904 7th Avenue; Diane Osborn ARNP, CLS @ Clinical Lipidology Virginia Mason 1100 9th Ave; Drew Baldwin MD @ Cardiology Virginia Mason; Savitha Subramanian MD @ UW Medicine, Clinical Lipidology 325 9th Ave;     
+-A few specialist from link above (family heart foundation).  `Jessica Durham ARNP @ The Polyclinic 904 7th Avenue; Diane Osborn ARNP, CLS @ Clinical Lipidology Virginia Mason 1100 9th Ave; Drew Baldwin MD @ Cardiology Virginia Mason; Savitha Subramanian MD @ UW Medicine, Clinical Lipidology 325 9th Ave;`      
 
 ### 2.4.22 Seattle Times article about Cody Pickett regarding heart disease  
 -41 yr.  Started with coronary calcium scan -an x-ray test that detects calcium-containing plaque in the arteries.  Good to help DRs. ID coronary artery disease before onslaught signs and symptoms.  A score between 100 and 300 indicates moderate plaque deposits with relative high risk over the next three to five years.  Cody's score was 1600.    
