@@ -3,7 +3,7 @@
 ### 2.8.22 Search of "PCSK9 inhibitor medications" news articles    
 -New treatments could help people hesitant towards statins.  "Do what statins couldn't".  Based on research of gene called PCSK9 new drug 2022.  People with non functioning PCSK9 gene have naturally low levels of unhealthy LDL cholesterol.  Previous targetted PCSK9 gene proved ineffective in 2015 due to high cost and the need for new injections at two week intervals.  New options cheaper: FDA gave approval for an RNA therapy that blocks the gene with a twice yearly injection and another blocks the protein with an oral pill.  Also CRISPR one dose therapy using a protein called Cas9.  
 -Can statins cause type 2 diabetes?  
--Want PCSK9 inhibitors.  First PCSK9 inhibitor monoclonal antibodies called Repatha ($476 a month but can be cheaper, $60 bucks for 2 injectors) and Praluent (not covered by afspa, express scripts) were approved by FDA in 2015 but high cost and require self-injection every two weeks.  Now inhibitors being developed that could cost less act longer and maybe orally.  
+-`Want PCSK9 inhibitors.  First PCSK9 inhibitor monoclonal antibodies called Repatha ($476 a month but can be cheaper, $60 bucks for 2 injectors) and Praluent (not covered by afspa, express scripts) were approved by FDA in 2015 but high cost and require self-injection every two weeks.  Now inhibitors being developed that could cost less act longer and maybe orally.`  
 -FDA approved Novartis Leqvio RNA therapy injected twice a year reduce LDL by 52% costs is $3250 per dose so $9759 in year one followed by $6500 each year after, 3 doses first year and 2 doses after that each year.  Merck&Co.'s MK-0616 peptide in phase 1 clinical trials can be oral.  Verve Therapeutics Verve-101 gene therapy can permanently maybe lower LDL with a single dose.  
 
 ### 2.5.22 Lipoprotein(a) notes from various  
@@ -19,7 +19,7 @@
 -Heart general advice: avoid trans fat; reduce saturated fat, increase intake of fruits, vegetable, whole grains.  "Unfortunately, their conclusions, if taken to heart, leave consumers to rely on genetics and fate to avoid coronary heart disease - an unacceptable situation given the fact that the scientific literature contains so many studies that point to benefit for omega-3 fatty acids," MacKay said.  
 -CT scan and calcium buildup bad  Prothrombin: Time test to see how long blood clots.  Inherited clotting tendencies.
 Young heart attack or stroke may indicate the presence of THROMBOPHILIA.  The 2nd most common inherited version is referred to as Prothrombin Mutation via thrombophiliac.com/prothrombin-mutation.  *but maybe not the case cuz doesn't buildup? Next Anticoagulant aka blood thinners work by inhibiting clotting factors.  Antiplatelets inhibit enzymes that cause platelets to clump together.*    
--A few specialist from link above (family heart foundation).  `Jessica Durham ARNP @ The Polyclinic 904 7th Avenue; Diane Osborn ARNP, CLS @ Clinical Lipidology Virginia Mason 1100 9th Ave; Drew Baldwin MD @ Cardiology Virginia Mason; Savitha Subramanian MD @ UW Medicine, Clinical Lipidology 325 9th Ave;`      
+-A few specialist from link above (family heart foundation).  `Jessica Durham ARNP @ The Polyclinic 904 7th Avenue 206.860.4669 or 206.860.2269; Diane Osborn ARNP, CLS @ Clinical Lipidology Virginia Mason 1100 9th Ave 206.223.6624 or 206.223.2313; Drew Baldwin MD @ Cardiology Virginia Mason 206.341.1111; Savitha Subramanian MD @ UW Medicine, Clinical Lipidology 325 9th Ave;`      
 
 ### 2.4.22 Seattle Times article about Cody Pickett regarding heart disease  
 -41 yr.  Started with coronary calcium scan -an x-ray test that detects calcium-containing plaque in the arteries.  Good to help DRs. ID coronary artery disease before onslaught signs and symptoms.  A score between 100 and 300 indicates moderate plaque deposits with relative high risk over the next three to five years.  Cody's score was 1600.    
@@ -52,7 +52,7 @@ REF: https://consultqd.clevelandclinic.org/elevated-lipoproteina-is-a-long-sough
 ### 12.22.21 Called UW Medicine for referral  
 -Called 206.598.4615 which is Pulmonary dept. per Pam.  Location is 1959 NE Pacific St.?    
 -Told Pam that I didn't hear back regarding a Lipid test referral and potential shot  
--The notes we're "Lipid clinic referral for rapid advancing coronary disease on maximum medical therapy"  
+-The notes we're `Lipid clinic referral for rapid advancing coronary disease on maximum medical therapy`  
 -Could not reach Pulmonary dept. so Pam sent a note with my record #U5500229 & Referral FAX # 206.598.3621
 
 ### 12.21.21 Telecon with Lincoln Smith PAC
