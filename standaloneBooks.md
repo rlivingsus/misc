@@ -11,7 +11,7 @@ Hartley, Gregory: How to spot a liar 1.2022
 Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
 Kalanithi, Paul: When Breath Becomes Air  
 Kemp, Paul: Star Wars Riptide  
-King, Stephen: Billy Summers; Dark Tower 7 books; Elevation; Outsider; The Institute; Riding the Bullet;     
+King, Stephen: Billy Summers; Dark Tower 7 books; Elevation; Outsider; The Institute; Riding the Bullet; Joyland     
 Koontz, Dean: The Good Guy  
 Lee, Jennifer: Fortune Cookie Chronicles  
 Mitnick, Kevin: The Art of Deception  
@@ -27,7 +27,7 @@ Twain, Mark: Adventures of Huckleberry Finn
 Walker, Jimmie: Dyn O Mite  
 Zelazny, Roger: The Great book of Amber  
 ---------
-## Too Read  
+## To Read  
 
 #### New up top  
 The Midnight Library by Matt Haig  
