@@ -28,7 +28,7 @@ THE FALL OF SHANNARA: 1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stieh
 MAGIC KINGDOM OF LANDOVER: ~~1) Magic Kingdom for Sale/Sold,~~ 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
 
 ### Brown, Pierce  
-RED RISING SAGA: 1) Red Rising, 2) Golden Son, 3) Morning Star  
+RED RISING SAGA: ~~1) Red Rising,~~ 2) Golden Son, 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer    
 
 ### Byers, Richard Lee  
 FORGOTTEN REALMS HAUNTED LANDS: 1) Unclean (HAVE), 2) Undead (HAVE), 3) Unholy, 4) Realms of the Dead by Susan J Morris  
