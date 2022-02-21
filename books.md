@@ -1,7 +1,7 @@
 ## Books sorted by author's last name
 
 ### Anthony, Piers  
-Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022)~~, 2)Bearing an Hourglass, 3)With a Tangled Skein, 4)Wielding a Red Sword, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
+Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass,~~ 3)With a Tangled Skein, 4)Wielding a Red Sword, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
 
 ### Athans, Philip  
 FORGOTTEN REALMS SEMBIA MULTIPLE AUTHORS: 1)The Halls of Stormweather(HAVE), 2)Shadow's witness, 3)The Shattered Mask(HAVE), 4)Black wolf, 5)Heirs of Prophecy(HAVE), 6)Sands of the Soul, 7)Lord of Stormweather
@@ -188,7 +188,7 @@ THE ICEWIND DALE TRILOGY: ~~1) The Crystal Shard, 2) Streams of Silver, 3) The H
 THE LEGACY OF THE DROW: ~~1)The Legacy, 2)Starless Night, 3)Siege of Darkness, 4)Passage to Dawn~~ 
 THE PATHS OF DARKNESS: ~~1)The Silent Blade, 2)The Spine of the World, 3)Sea of Swords~~  
 THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
-THE HUNTER'S BLADES: 1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords  
+THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow,~~ 3)The Two Swords  
 TRANSITIONS: 1) The Orc King, 2) The Pirate King, 3) The Ghost King  
 NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold  
 THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
