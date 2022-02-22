@@ -25,6 +25,7 @@ Thanh, Thict Nhat: The Heart of Buddha's Teaching
 Tran, Phuc: Sigh Gone  
 Twain, Mark: Adventures of Huckleberry Finn
 Walker, Jimmie: Dyn O Mite  
+Zahn, Timothy: Thrawn
 Zelazny, Roger: The Great book of Amber  
 ---------
 ## To Read  
@@ -186,5 +187,14 @@ Mattis favorite leadership books:
 KIDS LIKE STEELHEART:
 The 5th wave by Yancey, Richard; Illusive by Lloyd-Jones, Emily; The Vindico by King, Wesley; Stranger by Brown, Rachel Manija; V is for Villain by Moore, Peter; Worms (superhero book); Red Rising by Pierce Brown; The Kane Chronicles; The Magnificient 12; Skuduggery Pleasant; 
 --------------------------------------------------
-BOOKS TO READ?: The Stars are Legion by Kameron Hurley; Proof of Concept by Gwyneth Jones; Thrawn by Timothy Zahn; Off Rock by Kieran Shea; Skullsworn by Brian Staveley; The Rift by Nina Allen; 
---------------------![image](https://user-images.githubusercontent.com/18341678/154849445-5bb9e773-1090-4775-a0b7-4e93614adadd.png)
+BOOKS TO READ?: The Stars are Legion by Kameron Hurley; Proof of Concept by Gwyneth Jones; Off Rock by Kieran Shea; Skullsworn by Brian Staveley; The Rift by Nina Allen; The Grouchy Historian by Ed Asner
+Bobiverse by Dennis Taylor
+Hell Divers by Nicholas Sansbury Smith
+Threshold by Peter Cline
+Joe Ledger by Jonathan Maberry
+The Nightside by Simon Green
+Vicious by VE Schwab
+by Craig Alanson
+Fahrenheit 451 by Ray Bradbury
+Slaughterhouse-5 
+----
