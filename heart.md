@@ -1,5 +1,32 @@
 ## New up top  
 
+### 2.25.22 Notes and Polyclinic video conference  
+
+Appointment with PolyClinic, Mark Anstadt.
+-Qs to send via MyChart or maybe next appointment.  Niacin OK to take?  Also is low LDL bad for making your arterial walls weak?
+-Insurance only covers shots for those with LDL above 70 so out of pocket $1500 per month
+-I'm one of the highest risk
+-guidelines are to check cholesterol at age of 9 or earlier for those with familial xxx 
+-ask for pre Feb 2018 lab results
+-Apolipoprotein B or ApoB is a protein that plays a part in the development of heart disease and elevated blood levels of ApoB indicate an increased risk.  cannot treat but make LDL lower to help
+-Lipoprotein(A) too but this is probably normal.  No drugs too but there are items in development.  Family Heart article that I saved on gmail also mentioned elevated Lipo(a).  This is genetic and runs in families.  Can match up with LDL-C which is bad cholesterol but I don't have this too high.
+-I'll be getting an advanced LIPID panel checking 4 things.  Take a printout to Labcorp.  $120 and not covered by insurance usually
+-Also possibly genetic testing to get more information some even in the thousands but legality concerns due to health insurance and life insurance issues....so maybe don't tell kids.  Invitae company does this for familial panel on genes.  Whole genome testing too but expensive and some folks don't want to know stuff but once it is out there then it is out there.
+-Schedule and track workout with 150 minimum (Yuko says 250) a week + 45 minutes of strength training.
+-Tamari low sodium shoyu good for nuts.
+-eat less cashews since it has lotsa saturated fats which raise LDL?  Chia and Flax seed is better
+-get old labs from Dr. Hoffman and followup and message to Mark Anstadt after blood draw with which facility.
+-my signs are not obvious
+-possible inflammatory arteries due to damage to walls.  Exercise to fix this.
+
+REF: https://www.docsopinion.com/apolipoproteinb-apob-heart-disease and Mark Anstadt, ARNP
+----
+MGT of Low Levels of High-Density Lipoprotein Cholesterol
+-Nonpharmacological intervention: Aerobic exercise, weight loss, nutrition (fruits, veggies, nuts, fish (fast food), smoking cessation, alcohol intake 
+-Pharmacological intervention: increase Niacin, Fibrates?, Statins (already), Oral Antidiabetic agents (metformin to jardiance)
+
+REF: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.112.000443
+
 ### 2.8.22 Search of "PCSK9 inhibitor medications" news articles    
 -New treatments could help people hesitant towards statins.  "Do what statins couldn't".  Based on research of gene called PCSK9 new drug 2022.  People with non functioning PCSK9 gene have naturally low levels of unhealthy LDL cholesterol.  Previous targetted PCSK9 gene proved ineffective in 2015 due to high cost and the need for new injections at two week intervals.  New options cheaper: FDA gave approval for an RNA therapy that blocks the gene with a twice yearly injection and another blocks the protein with an oral pill.  Also CRISPR one dose therapy using a protein called Cas9.  
 -Can statins cause type 2 diabetes?  
