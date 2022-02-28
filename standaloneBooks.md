@@ -183,9 +183,18 @@ Mattis favorite leadership books:
 -The Kindness Diaries by Leon Logothetis  
 -The Dragon behind the Glass by Emily Voigt  
 
+####
 KIDS LIKE STEELHEART:  
-The 5th wave by Yancey, Richard; Illusive by Lloyd-Jones, Emily; The Vindico by King, Wesley; Stranger by Brown, Rachel Manija; V is for Villain by Moore, Peter; Worms (superhero book); Red Rising by Pierce Brown; The Kane Chronicles; The Magnificient 12; Skuduggery Pleasant;   
+The 5th wave by Yancey, Richard;   
+Illusive by Lloyd-Jones, Emily;   
+The Vindico by King, Wesley; Stranger by Brown, Rachel Manija;  
+V is for Villain by Moore, Peter;   
+Worms (superhero book);   
+The Kane Chronicles;   
+The Magnificient 12;   
+Skuduggery Pleasant;   
 --------------------------------------------------
+####
 BOOKS TO READ?: 
 The Stars are Legion by Kameron Hurley;  
 Proof of Concept by Gwyneth Jones;  
