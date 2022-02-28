@@ -1,11 +1,14 @@
 ## Books sorted by author's last name HAVE READ 
 ----
-Ballard, JG: Empire of the Sun  
-Cialdini, Robert: Influence  
-Covey, Stephen: Seven Habits of Highly Efficient People  
-DeGrasse Tyson, Neil: Astrophysics for People in a Hurry  
-De Los Santos, Marisa: Saving Lucas Biggs  
-Goulston, Mark: Just Listen  
+####  
+- Albom, Mitch: the stranger in the lifeboat  
+- Ballard, JG: Empire of the Sun  
+- Cialdini, Robert: Influence  
+- Covey, Stephen: Seven Habits of Highly Efficient People  
+- DeGrasse Tyson, Neil: Astrophysics for People in a Hurry  
+- De Los Santos, Marisa: Saving Lucas Biggs  
+- Goulston, Mark: Just Listen  
+- Grohl, Dave: The Storyteller   
 Hillenbrand, Laura: Unbroken  
 Hartley, Gregory: How to spot a liar 1.2022    
 Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
@@ -21,6 +24,7 @@ Niven, Larry: Lucifer's Hammer
 Pohl, Frederik: The World at the End of Time  
 Samuellson, Marcus: Yes Chef  
 Seinfeld, Jerry: Is this Anything  
+- Sledge, E.B.: With the Old Breed: At Peleliu and Okinawa  
 Thanh, Thict Nhat: The Heart of Buddha's Teaching  
 Tran, Phuc: Sigh Gone  
 Twain, Mark: Adventures of Huckleberry Finn
@@ -60,7 +64,6 @@ Light Years from Home by Mike Chen
 Quicksilver by Dean Koontz    
 see the "toRead" folder that has photos and such  
 ----
-The Storyteller by Dave Grohl  
 The Sky People by Terry Goodkind  
 Me, Earl and the Dying Girl  
 The Lesson by Cadwell Turnbull  
@@ -111,7 +114,6 @@ Berserkers: The Beginning
 Star Trek Gateways
 
 Mattis favorite leadership books:  
--With the Old Breed: At Peleliu and Okinawa by E.B. Sledge  
 -One Bullet Away: The Making of a Marine Officer by Nathaniel Fick  
 -Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam by H.R. McMaster  
 -Fighting Talk: Forty Maxims on War, Peace, and Strategy by Colin Gray  
