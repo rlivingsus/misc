@@ -25,12 +25,11 @@ Pohl, Frederik: The World at the End of Time
 Samuellson, Marcus: Yes Chef  
 Seinfeld, Jerry: Is this Anything  
 - Sledge, E.B.: With the Old Breed: At Peleliu and Okinawa  
-Thanh, Thict Nhat: The Heart of Buddha's Teaching  
-Tran, Phuc: Sigh Gone  
-Twain, Mark: Adventures of Huckleberry Finn
-Walker, Jimmie: Dyn O Mite  
-Zahn, Timothy: Thrawn
-Zelazny, Roger: The Great book of Amber  
+- Thanh, Thict Nhat: The Heart of Buddha's Teaching  
+- Tran, Phuc: Sigh Gone  
+- Twain, Mark: Adventures of Huckleberry Finn
+- Walker, Jimmie: Dyn O Mite  
+- Zelazny, Roger: The Great book of Amber  
 ---------
 ## To Read  
 
@@ -103,8 +102,7 @@ Elizabeth Moon
 Seveneves - Neal Stephenson  
 The Three-Body Problem - Cixin Liu  
 Gone Girl by Gillian Flynn  
-
-Ancillary Justice by Ann Leckle
+- Ancillary Justice by Ann Leckle
 Michael J. Sullivan
 Drew Hayes
 Pierce Brown
@@ -189,7 +187,8 @@ Mattis favorite leadership books:
 KIDS LIKE STEELHEART:  
 The 5th wave by Yancey, Richard;   
 Illusive by Lloyd-Jones, Emily;   
-The Vindico by King, Wesley; Stranger by Brown, Rachel Manija;  
+The Vindico by King, Wesley; 
+- Stranger by Brown, Rachel Manija;  
 V is for Villain by Moore, Peter;   
 Worms (superhero book);   
 The Kane Chronicles;   
