@@ -238,7 +238,7 @@ WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Meri
 
 ### Zahn, Timothy  
 THE THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
-THRAWN:  1)Thrawn, 2)Thrawn:Alliances, 3)Thrawn:Treason  
+- THRAWN:  ~~1)Thrawn,(Feb2022)~~ 2)Thrawn:Alliances, 3)Thrawn:Treason  
 THE HAND OF THRAWN DUOLOGY:  1)Specter of the Past, 2)Vision of the Future  
 THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good, 3)Lesser Evil  
 DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
