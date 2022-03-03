@@ -1,6 +1,7 @@
-## Books sorted by author's last name HAVE READ 
-----
 ####  
+<details>
+  <summary>Books sorted by author's last name HAVE READ</summary>
+  <pre>
 - Albom, Mitch: the stranger in the lifeboat  
 - Ballard, JG: Empire of the Sun  
 - Cialdini, Robert: Influence  
@@ -9,30 +10,33 @@
 - De Los Santos, Marisa: Saving Lucas Biggs  
 - Goulston, Mark: Just Listen  
 - Grohl, Dave: The Storyteller   
-Hillenbrand, Laura: Unbroken  
-Hartley, Gregory: How to spot a liar 1.2022    
-Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
-Kalanithi, Paul: When Breath Becomes Air  
-Kemp, Paul: Star Wars Riptide  
-King, Stephen: Billy Summers; Dark Tower 7 books; Elevation; Outsider; The Institute; Riding the Bullet; Joyland     
-Koontz, Dean: The Good Guy  
-Lee, Jennifer: Fortune Cookie Chronicles  
-Mitnick, Kevin: The Art of Deception  
-Montgomery, Sy: The Soul of an Octopus 1.2022  
-Mundy, Liza: Code Girls  
-Niven, Larry: Lucifer's Hammer  
-Pohl, Frederik: The World at the End of Time  
-Samuellson, Marcus: Yes Chef  
-Seinfeld, Jerry: Is this Anything  
-- Sledge, E.B.: With the Old Breed: At Peleliu and Okinawa  
+- Hillenbrand, Laura: Unbroken  
+- Hartley, Gregory: How to spot a liar 1.2022    
+- Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
+- Kalanithi, Paul: When Breath Becomes Air  
+- Kemp, Paul: Star Wars Riptide  
+- King, Stephen: Billy Summers; Dark Tower 7 books; Elevation; Outsider; The Institute; Riding the Bullet; Joyland     
+- Koontz, Dean: The Good Guy  
+- Lee, Jennifer: Fortune Cookie Chronicles  
+- Mitnick, Kevin: The Art of Deception  
+- Montgomery, Sy: The Soul of an Octopus 1.2022  
+- Mundy, Liza: Code Girls  
+- Niven, Larry: Lucifer's Hammer  
+- Pohl, Frederik: The World at the End of Time  
+- Samuellson, Marcus: Yes Chef  
+- Seinfeld, Jerry: Is this Anything  
+- Sledge, E.B.: With the Old Breed: At Peleliu and Okinawa (Mar 22)    
 - Thanh, Thict Nhat: The Heart of Buddha's Teaching  
 - Tran, Phuc: Sigh Gone  
 - Twain, Mark: Adventures of Huckleberry Finn
 - Walker, Jimmie: Dyn O Mite  
 - Zelazny, Roger: The Great book of Amber  
----------
-## To Read  
+</details>
 
+---------
+<details>
+  <summary> Books To Read</summary>
+  <pre>
 #### New up top  
 The Midnight Library by Matt Haig  
 The Invisible Life of Addie Larue by V.E. Schwab  
@@ -213,3 +217,4 @@ by Craig Alanson
 Fahrenheit 451 by Ray Bradbury  
 Slaughterhouse-5   
 ----
+</details>
