@@ -237,16 +237,16 @@ DAGMAR SHAW SERIES: ~~This is Not a Game~~ WAS S'OK
 WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Merior, Warhost of Vastmark~~; Arc 3 (ALLIANCE OF LIGHT): Fugitive Prince, Grand Conspirary, Peril's Gate, Traitor's Knot, Stormed Fortress; Arc 4 (SWORD OF THE CANON): Initiate's Trail, Destiny's Conflict; Arc 5 (SONG OF THE MYSTERIES): Song of the Mysteries  
 
 ### Zahn, Timothy  
-THE THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
+- THE THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
 - THRAWN:  ~~1)Thrawn,(Feb2022)~~ 2)Thrawn:Alliances, 3)Thrawn:Treason  
-THE HAND OF THRAWN DUOLOGY:  1)Specter of the Past, 2)Vision of the Future  
-THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good, 3)Lesser Evil  
-DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
-QUADRAIL:  1)Night Train to Rigel, 2)The Third Lynx, 3)Odd Girl Out, 4)The Domino Pattern, 5)Judgment at Proteus  
-THE CONQUERORS SAGA:  1)Conquerors' Pride, 2)Conquerors' Heritage, 3)Conquerors' Legacy  
-COBRA:  1)Cobra, 2)Cobra Strike, 3)Cobra Bargain  
-BLACKCOLLAR:  1)The Blackcollar, 2)The Backlash Mission, 3)The Judas Solution  
-COBRA WAR:  1)Cobra Alliance, 2)Cobra Guardian, 3)Cobra Gamble  
-THE SIBYL'S WAR:  1)Pawn, 2)Knight:AChronicle of the Sibyl's War, 3)Queen:AChronicle of the Sibyl's War  
-COBRA REBELLION:  1)Cobra Slave, 2)Cobra Outlaw, 3)Cobra Traitor  
+- THE HAND OF THRAWN DUOLOGY:  1)Specter of the Past, 2)Vision of the Future  
+- THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good, 3)Lesser Evil  
+- DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
+- QUADRAIL:  1)Night Train to Rigel, 2)The Third Lynx, 3)Odd Girl Out, 4)The Domino Pattern, 5)Judgment at Proteus  
+- THE CONQUERORS SAGA:  1)Conquerors' Pride, 2)Conquerors' Heritage, 3)Conquerors' Legacy  
+- COBRA:  1)Cobra, 2)Cobra Strike, 3)Cobra Bargain  
+- BLACKCOLLAR:  1)The Blackcollar, 2)The Backlash Mission, 3)The Judas Solution  
+- COBRA WAR:  1)Cobra Alliance, 2)Cobra Guardian, 3)Cobra Gamble  
+- THE SIBYL'S WAR:  1)Pawn, 2)Knight:AChronicle of the Sibyl's War, 3)Queen:AChronicle of the Sibyl's War  
+- COBRA REBELLION:  1)Cobra Slave, 2)Cobra Outlaw, 3)Cobra Traitor  
 
