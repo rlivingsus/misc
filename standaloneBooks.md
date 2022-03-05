@@ -216,5 +216,6 @@ Vicious by VE Schwab
 by Craig Alanson  
 Fahrenheit 451 by Ray Bradbury  
 Slaughterhouse-5   
+Theft of Swords by Michael J. Sullivan  
 ----
 </details>
