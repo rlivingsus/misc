@@ -1,7 +1,9 @@
 
 ### Python Notes  
 ----
-
+-A return statement is used to end the execution of the function call and "returns" the result.  Note that a return statement can not be used outside the function.  Every function returns something although some may return "None".
+-Functions that return values are sometimes called fruitful functions.  In many other languages, a function that doesn't return a value is called a procedure.
+----
 REF: https://pythonbasics.org/what-is-flask-python/
 ----
 python exception example using file opening:
