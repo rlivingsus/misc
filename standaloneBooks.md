@@ -164,7 +164,8 @@
 - Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear   
 - Russell, Mary Doria: The Sparrow  
 - Sahn, Seung: Dropping Ashes on the Buddha  
-- Sajer, Guy: The Forgotten Soldier 
+- Sajer, Guy: The Forgotten Soldier  
+- Scalzi, John: Kaiju preservation society  
 - Schulz, Kathryn: Being Wrong  
 - Schwab, VE: Vicious; A DARKER SHADE OF MAGIC; The Invisible Life of Addie Larue     
 - Seigel, Rob: Memoirs of a Hack Mechanic 
