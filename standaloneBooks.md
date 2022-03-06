@@ -37,185 +37,179 @@
 <details>
   <summary> Books To Read</summary>
   <pre>
-#### New up top  
-The Midnight Library by Matt Haig  
-The Invisible Life of Addie Larue by V.E. Schwab  
-Crying in H Mart by Michelle Zauner  
-Rendezvous with Rama by Arthur C. Clarke  
-Speaker for the Dead by Orson Scott Card (continuation of Ender stories?)  
-Neuromancer by William Gibson  
-American Gods by Neil Gaiman  
-The Yiddish Policeman's Union by Michael Chabon  
-The God Themselves by Isaac Asimov  
-Blackout by Connie Willis  
-The Dispossessed by Ursula K. Le Guin  
-Ancillary Justice by Ann Leckie  
-Daughter of the Moon Goddess by Sue Lynn Tan  
-The Starless Crown by James Rollins  
-Where the Drowned Girls Go by Seanan McGuire  
-The Untold Story by Genevieve Cogman  
-Discworld books by Terry Pratchett  
-The First Law books by Joe Abercrombie  
-Hell Divers by Nicolas Sansbury Smith  
-Dungeon Crawler Carl  
-Kingkiller Chronicle  
-Project Hail Mary  
-To Sleep in a Sea of Stars  
-Shards of Earth  
-SuperPowered by Drew Hayes  
-Light Years from Home by Mike Chen  
-Quicksilver by Dean Koontz    
-see the "toRead" folder that has photos and such  
-----
-The Sky People by Terry Goodkind  
-Me, Earl and the Dying Girl  
-The Lesson by Cadwell Turnbull  
-Wolf by wolf  by Ryan Graudin  
-Strangers by Dean Koontz?  
-The Hitchhiker's Guide to the Galaxy by Douglas Adams  
-Prelude to Foundation by Isaac Asimov  
-Admiral by Sean Danker  
-Cant hurt me by David Goggins  
-Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel  
-Einstein: His Life and Universe by Walter Isaacson  
-Liftoff by Eric Berger  
-The High Mountains of Portugal  
-THE WAR MACHINE  
-A DARKER SHADE OF MAGIC  
-THE FORBIDDEN WISH  
-EVERY ANXIOUS WAVE  
-PILLARS OF THE EARTH  
-FIVE by Ursula Archer  
-AN INNOCENT ABROAD by  
-HOW TO BE BOTH by Ali Smith  
-OLD REPUBLIC:DECEIVED then Knight Errant then Darth Bane  
-Star Trek: Department of Temporal Investigations  
-The Sparrow by Mary Doria Russell  
-Anything by Octavia E. Butler  
-Anything by Mira Grant  
-Starfish by Peter Watts  
-A Fire Upon the Deep  
-Kafir Project  
-Solar Clipper by Nathan Lowell  
-Marko Kloos  
-The Blade Itself by Joe Abercrombie  
-Dark Matter by Blake Crouch  
-Memory, Sorrow, and Thorn by Tad Williams  
-Jonathan Strange and Mr. Norrell  
-Elizabeth Moon  
-Seveneves - Neal Stephenson  
-The Three-Body Problem - Cixin Liu  
-Gone Girl by Gillian Flynn  
-- Ancillary Justice by Ann Leckle
-Michael J. Sullivan
-Drew Hayes
-Pierce Brown
-KingKiller Chronicles
-The Expanse
-Berserkers: The Beginning
-Star Trek Gateways
-
-Mattis favorite leadership books:  
--One Bullet Away: The Making of a Marine Officer by Nathaniel Fick  
--Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam by H.R. McMaster  
--Fighting Talk: Forty Maxims on War, Peace, and Strategy by Colin Gray  
--The Future of Strategy by Colin Gray  
--Military Innovation in the Interwar Period by Williamson Murray  
--Before the First Shot is Fired: How America can win lose off the Battlefield by Tony Zinni  
--Scipio Africanus: Greater than Napoleon by Basil H. Liddell Hart  
--My American Journey by Colin Powell  
--The Forgotten Soldier by Guy Sajer  
--Long Walk to Freedom by Nelson Mandela  
--Gates of Fire by Steven Pressfield  
--Duty: Memoirs of a Secretary at War by Robert Gates  
--The Lessons of History by Will and Ariel Durant  
--The Greatest Raid of All by Lucas Phillips  
--The Personal Memoirs of Ulysses S. Grant  
--March of Folly: From Troy to Vietnam by Barbara Tuchman  
--The Guns of August by Barbara Tuchman  
--Alexander Hamilton by Ron Chernow  
--Rise and Fall of the Great Powers by Paul Kennedy  
--Meditations by Marcus Aurelius  
--Diplomacy by Henry Kissinger  
--World Order by Henry Kissinger  
--Defeat into Victory by Viscount Slim  
--Just and Unjust Wars by Michael Walzer  
--War, Morality, and the Military Profession by Malham Wakin  
--For Country and Corps: The life of General Oliver P. Smith by Gail Shisler  
--Sherman: Soldier, Realist, American by Basil H. Liddell Hart  
--The Rules of the Game by Andrew Gordon  
--Shoe Dog by Phil Knight  
--The Art of Mingling by Jeanne Martinet  
--Yes! 50 Scientifically Proven ways to be persuasive by Dr. Noah Goldstein  
--The Dip: A little book that teaches you when to quit (& when to stick) by Seth Godin  
--Together is Better: A little book of Inspiration by Simon Sinek  
--Mindfullness by Ellen Langer  
--The Talent Code: Greatness isn't born.  It's grown  
--Barking up the wrong tree by Eric Barker  
--Ego, Authority, Failure by Derek Gaunt  
--The Undoing Project by Michael Lewis  
--Difficult Conversations by Douglass Stone  
--Unsolved by Craig P. Bauer  
--Mind & Matter by John Urschel  
--Change your Questions by Marilee Adams  
--Nobu: A memoir  
--The man who knew: the Life & Times of Alan Greenspan  
--Twelve by Jasper Kent  
--Leadership secrets of the Rogue Warrior by Rich Marcinko  
--The Pleasure of Finding things out by Richard Feynman  
--A Mile Down by David Vann  
--Decoding the Heavens by Jo Marchout?  
--The personal MBA by Josh Kaufman  
--The Myths of Security by John Viega  
--Gameframe by Aaron Dignan  
--The Sentinel Mage by Emily Gee  
--A Secret Atlas: Book 1 by Michael A. Stackpole  
--Feasts of Souls (1) by C.S. Friedman  
--Heir to Seven Waters by Juliet Marillier  
--The Sportsman by Dhani Jones  
--Finding the Lost Battalion by Robert Laplander  
--Frozen Hell by William Trotter  
--Founders at Work by Jessica Livingston  
--The Twenty-One Balloons by William Pene du Bois  
--Rejection Proof: by Jia Jiang  
--Dropping Ashes on the Buddha by Seung Sahn  
--The Thing Itself by Adam Roberto  
--The Curse of Jacob Tracy by Holly Mersinger  
--Manazuru by Hiromi Kawakami  
--Being Wrong by Kathryn Schulz  
--Memoirs of a Hack Mechanic by Rob Seigel  
--The Kindness Diaries by Leon Logothetis  
--The Dragon behind the Glass by Emily Voigt  
-
-####
-KIDS LIKE STEELHEART:  
-The 5th wave by Yancey, Richard;   
-Illusive by Lloyd-Jones, Emily;   
-The Vindico by King, Wesley; 
-- Stranger by Brown, Rachel Manija;  
-V is for Villain by Moore, Peter;   
-Worms (superhero book);   
-The Kane Chronicles;   
-The Magnificient 12;   
-Skuduggery Pleasant;   
---------------------------------------------------
-####
-BOOKS TO READ?: 
-The Stars are Legion by Kameron Hurley;  
-Proof of Concept by Gwyneth Jones;  
-Off Rock by Kieran Shea;  
-Skullsworn by Brian Staveley;  
-The Rift by Nina Allen;  
-The Grouchy Historian by Ed Asner  
-Bobiverse by Dennis Taylor  
-Hell Divers by Nicholas Sansbury Smith  
-Threshold by Peter Cline  
-Joe Ledger by Jonathan Maberry  
-The Nightside by Simon Green  
-Vicious by VE Schwab  
-by Craig Alanson  
-Fahrenheit 451 by Ray Bradbury  
-Slaughterhouse-5   
-Theft of Swords by Michael J. Sullivan  
+#### Alpha sorted 
+- Abercrombie, Joe: The Blade Itself; The First Law books; The Last Arguments of Kings   
+- Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
+- Adams, Marilee: Change your Questions  
+- Alanson, Craig:  
+- Allen, Nina: The Rift  
+- Anderson, Kevin: Enemies and Allies  
+- Andrews, Jesse: Me, Earl and the Dying Girl  
+- AN INNOCENT ABROAD: Lonely Planet  
+- Archer, Ursula: FIVE   
+- Asimov, Isaac: Prelude to Foundation; The God Themselves 
+- Asner, Ed: The Grouchy Historian  
+- Aurelius, Marcus: Meditations  
+- Barker, Eric: Barking up the wrong tree 
+- Bauer, Craig: Unsolved  
+- Beers and Anderle?: THE WAR MACHINE  
+- Berger, Eric: Liftoff  
+- Bradbury, Ray:  Fahrenheit 451  
+- Brown, Pierce:  
+- Brown, Rachel, Manija: Stranger  
+- Burvine, Lee: Kafir Project  
+- Butler, Octavia: Anything  
+- Card, Orson Scott: Speaker for the Dead    
+- Chabon, Michael: The Yiddish Policeman's Union   
+- Chen, Mike: Light Years from Home  
+- Chernow, Ron: Alexander Hamilton  
+- Clarke, Arthur C.: Rendezvous with Rama 
+- Clarke, Susanna: Jonathan Strange and Mr. Norrell  
+- Cline, Peter: Threshold  
+- Cogman, Genevieve: The Untold Story  
+- Connolly, John: The Gate...  
+- Corey, James: The Expanse  
+- Cristie, Agatha:  
+- Crouch, Blake: Dark Matter 
+- Danker, Sean: Admiral
+- Daviau, Mo: EVERY ANXIOUS WAVE 
+- Dignan, Aaron: Gameframe  
+- Dinniman, Matt: Dungeon Crawler Carl  
+- Doubinsky, Sebastien: The Babylonian Trilogy  
+- Durant, Will/Ariel: The Lessons of History  
+- Fallon, Jennifer: Tide Lords series  
+- Feynman, Richard: The Pleasure of Finding things out  
+- Fick, Nathaniel: One Bullet Away: The Making of a Marine Officer  
+- Flynn, Gillian: Gone Girl   
+- Follett, Ken: PILLARS OF THE EARTH  
+- Ford, Jeffrey: The Shadow Year  
+- Friedman, C.S.: Feasts of Souls  
+- Gaiman, Neil: American Gods  
+- Gates, Robert: Duty: Memoirs of a Secretary at War  
+- Gaunt, Derek: Ego, Authority, Failure  
+- Gee, Emily: The Sentinel Mage  
+- Gibson, William: Neuromancer  
+- Godin, Seth: The Dip: A little book that teaches you when to quit (& when to stick)  
+- Goggins, David: Cant hurt me
+- Goldstein, Noah: Yes! 50 Scientifically Proven ways to be persuasive  
+- Goodkind, Terry: The Sky People  
+- Gordon, Andrew: The Rules of the Game  
+- Grafton, Sue:  
+- Grant, Michael: Magnificient 12: The Call  
+- Grant, Mira: Anything  
+- Grant, Ulysses: The Personal Memoirs of Ulysses S. Grant  
+- Graudin, Ryan: Wolf by wolf  
+- Gray, Colin: Fighting Talk: Forty Maxims on War, Peace, and Strategy;  The Future of Strategy;  
+- Green, Simon: The Nightside  
+- Greenspan, Alan: The man who knew: the Life & Times of Alan Greenspan  
+- Haig, Matt: The Midnight Library  
+- Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon    
+- Hayes, Drew: SuperPowered  
+- Huff, Tanya: Blood Prince  
+- Hurley, Kameron: The Stars are Legion  
+- Isaacson, Walter: Einstein: His Life and Universe  
+- Jiang, Jia: Rejection Proof 
+- Jones, Dhani: The Sportsman  
+- Jones, Gwyneth: Proof of Concept  
+- Kaufman, Josh: The personal MBA  
+- Kawakami, Hiromi: Manazuru  
+- Kearney, Paul: The Ten Thousand  
+- Kennedy, Paul: Rise and Fall of the Great Powers  
+- Kent, Jasper: Twelve  
+- Khoury, Jessica: THE FORBIDDEN WISH  
+- King, Stephen: The Eyes of the Dragon 
+- King, Wesley: The Vindico  
+- Kissinger, Henry: Diplomacy, World Order  
+- Kloos, Marko  
+- Knight, Phil: Shoe Dog  
+- Koontz, Dean: Strangers; Quicksilver   
+- Lanagan, Margo: Tender Morsels  
+- Landy, Derek: Skulduggery Pleasant 1  
+- Langer, Ellen: Mindfullness 
+- Laplander, Robert: Finding the Lost Battalion 
+- Leckie, Ann: Ancillary Justice  
+- Lewis, Michael: The Undoing Project 
+- Le Guin, Ursula K.: The Dispossessed  
+- Liu, Cixin: The Three-Body Problem  
+- Livingston, Jessica: Founders at Work 
+- Lloyd-Jones, Emily: Illusive  
+- Logothetis, Leon: The Kindness Diaries 
+- Lowell, Nathan: Solar Clipper  
+- Maberry, Jonathan: Joe Ledger  
+- Mandela, Nelson: Long Walk to Freedom  
+- Marchout, Jo: Decoding the Heavens 
+- Marcinko, Rich: Leadership secrets of the Rogue Warrior  
+- Marillier, Juliet: Heir to Seven Waters  
+- Marither, Juliet: Heir to Seven Waters  
+- McGuire, Seanan: Where the Drowned Girls Go  
+- McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
+- Mersinger, Holly: The Curse of Jacob Tracy  
+- Martel, Yann: The High Mountains of Portugal  
+- Martinet, Jeanne: The Art of Mingling  
+- Moon, Elizabeth:  
+- Moorcock, Michael: A Nomad of the Time streams  
+- Moore, Peter: V is for Villain  
+- Murray, Williamson: Military Innovation in the Interwar Period  
+- Nesbit, E:  
+- Nobu: A memoir  
+- Paolini, Christopher: To Sleep in a Sea of Stars  
+- Pene du Bois, William: The Twenty-One Balloons  
+- Phillips, Lucas: The Greatest Raid of All  
+- Powell, Colin: My American Journey  
+- Pratchett, Terry: Discworld books  
+- Pressfield, Steven: Gates of Fire  
+- Riordan, Rick: The Red Pyramid  
+- Roberto, Adam: The Thing Itself  
+- Rollins, James: The Starless Crown  
+- Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear   
+- Russell, Mary Doria: The Sparrow  
+- Sahn, Seung: Dropping Ashes on the Buddha  
+- Sajer, Guy: The Forgotten Soldier 
+- Schulz, Kathryn: Being Wrong  
+- Schwab, VE: Vicious; A DARKER SHADE OF MAGIC; The Invisible Life of Addie Larue     
+- Seigel, Rob: Memoirs of a Hack Mechanic 
+- Shea, Kieran: Off Rock  
+- Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
+- Sinek, Simon: Together is Better: A little book of Inspiration  
+- Slim, Viscount: Defeat into Victory  
+- Smith, Ali: HOW TO BE BOTH 
+- Smith, Nicholas: Hell Divers  
+- Spakowski, Andrzej: Blood of Elves  
+- Stackpole, Michael: A Secret Atlas  
+- Star Trek: Department of Temporal Investigations  
+- Star Trek Gateways  
+- Star Wars OLD REPUBLIC:Fatal Alliance, DECEIVED, Revan, Annihilation;  
+- Staveley, Brian: Skullsworn  
+- Stephenson, Neal: Seveneves; Quicksilver, The Confusion, The System of the World    
+- Stone, Douglass: Difficult Conversations  
+- Sulliven, Michael J.: Theft of Swords  
+- Tan, Sue Lynn: Daughter of the Moon Goddess  
+- Taylor, Dennis: Bobiverse  
+- Tchaikovsky, Adrian: 1)Shards of Earth, The FInal Architecture; 2) Dark Stars  
+- The Talent Code: Greatness isn't born.  It's grown   
+- Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future 
+- Trotter, William: Frozen Hell  
+- Tuchman, Barbara: March of Folly: From Troy to Vietnam; The Guns of August  
+- Turnbull, Cadwell: The Lesson  
+- Urschel, John: Mind & Matter  
+- Vann, David: A Mile Down  
+- Viega, John: The Myths of Security  
+- Vinge, Vernor: A Fire Upon the Deep  
+- Voigt, Emily: The Dragon behind the Glass  
+- Vonnegut, Kurt: Slaughterhouse-5  
+- Wakin, Malham: War, Morality, and the Military Profession  
+- Walzer, Michael: Just and Unjust Wars  
+- Watts, Peter: Starfish  
+- Weeks, Brent: The Way of Shadows  
+- Weinberg, Robert: Blood War  
+- Weir, Andy: Project Hail Mary  
+- Westerfeld, Scott: Leviathan  
+- Williams, Tad: Memory, Sorrow, and Thorn  
+- Williams, Walter Jon: This is Not a Game  
+- Willis, Connie: Blackout  
+- Worms (superhero book)  
+- Yancey, Richard: The 5th wave  
+- Zauner, Michelle: Crying in H Mart
+- Zinni, Tony: Before the First Shot is Fired: How America can win lose off the Battlefield  
 ----
 </details>
