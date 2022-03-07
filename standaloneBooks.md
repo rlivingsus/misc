@@ -105,6 +105,7 @@
 - Haig, Matt: The Midnight Library  
 - Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon    
 - Hayes, Drew: SuperPowered  
+- Huchu, TL: 1) Library of the Dead, 2) Our Lady of Mysterious Ailments  
 - Huff, Tanya: Blood Prince  
 - Hurley, Kameron: The Stars are Legion  
 - Isaacson, Walter: Einstein: His Life and Universe  
@@ -181,7 +182,7 @@
 - Star Trek Gateways  
 - Star Wars OLD REPUBLIC:Fatal Alliance, DECEIVED, Revan, Annihilation;  
 - Staveley, Brian: Skullsworn  
-- Stephenson, Neal: Seveneves; Quicksilver, The Confusion, The System of the World    
+- Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World    
 - Stone, Douglass: Difficult Conversations  
 - Sulliven, Michael J.: Theft of Swords  
 - Tan, Sue Lynn: Daughter of the Moon Goddess  
@@ -204,6 +205,7 @@
 - Weeks, Brent: The Way of Shadows  
 - Weinberg, Robert: Blood War  
 - Weir, Andy: Project Hail Mary  
+- Wells, Martha: Murderbot Diaries, 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry  
 - Westerfeld, Scott: Leviathan  
 - Williams, Tad: Memory, Sorrow, and Thorn  
 - Williams, Walter Jon: This is Not a Game  
