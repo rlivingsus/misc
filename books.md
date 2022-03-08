@@ -250,3 +250,10 @@ WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Meri
 - THE SIBYL'S WAR:  1)Pawn, 2)Knight:AChronicle of the Sibyl's War, 3)Queen:AChronicle of the Sibyl's War  
 - COBRA REBELLION:  1)Cobra Slave, 2)Cobra Outlaw, 3)Cobra Traitor  
 
+### STARWARS  
+- Miller, John Jackson: Kenobi  
+- Johnson, EK: Ahsoka  
+- Ireland, Justina: The High Republic: A Test of Courage  
+- Gray, Claudia: Journey to Star Wars: The Last Jedi Leia, Princess of Alderaan  
+- From a Certain Point of View  
+
