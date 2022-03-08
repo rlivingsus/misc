@@ -42,6 +42,7 @@
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
 - Adams, Marilee: Change your Questions  
 - Alanson, Craig:  
+- Alderman, Naomi: The Power  
 - Allen, Nina: The Rift  
 - Anderson, Kevin: Enemies and Allies  
 - Andrews, Jesse: Me, Earl and the Dying Girl  
@@ -50,39 +51,54 @@
 - Asimov, Isaac: Prelude to Foundation; The God Themselves 
 - Asner, Ed: The Grouchy Historian  
 - Aurelius, Marcus: Meditations  
-- Barker, Eric: Barking up the wrong tree 
+- Azuma-Nelson, Caleb: Open Water  
+- Barker, Eric: Barking up the wrong tree  
+- Baskin, Jonathan Salem: Strange in Place  
 - Bauer, Craig: Unsolved  
 - Beers and Anderle?: THE WAR MACHINE  
 - Berger, Eric: Liftoff  
 - Bradbury, Ray:  Fahrenheit 451  
+- Brown, Peter: The WIld Robot Escapes  
 - Brown, Pierce:  
 - Brown, Rachel, Manija: Stranger  
+- Burke, Sue: 1) Semiosis, 2) Interference  
 - Burvine, Lee: Kafir Project  
-- Butler, Octavia: Anything  
-- Card, Orson Scott: Speaker for the Dead    
+- Butler, Octavia: Anything, Kindred    
+- Buxton, Kira J.: 1)Hollow Kingdom, 2)  
+- Card, Orson Scott: Speaker for the Dead   
+- Carpenter, Thomas K.: Saturn's Monsters  
 - Chabon, Michael: The Yiddish Policeman's Union   
 - Chen, Mike: Light Years from Home  
 - Chernow, Ron: Alexander Hamilton  
-- Clarke, Arthur C.: Rendezvous with Rama 
-- Clarke, Susanna: Jonathan Strange and Mr. Norrell  
+- Chiang, Ted: Stories of your Life and Others, Exhalation  
+- Clarke, Arthur C.: 1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
+- Clarke, Susanna: Jonathan Strange and Mr. Norrell; Piranesi    
 - Cline, Peter: Threshold  
 - Cogman, Genevieve: The Untold Story  
 - Connolly, John: The Gate...  
 - Corey, James: The Expanse  
+- Crichton, Michael: Sphere  
 - Cristie, Agatha:  
 - Crouch, Blake: Dark Matter 
 - Danker, Sean: Admiral
-- Daviau, Mo: EVERY ANXIOUS WAVE 
+- Daviau, Mo: EVERY ANXIOUS WAVE  
+- Dick, Phillip K.: Electric Dreams?  
 - Dignan, Aaron: Gameframe  
 - Dinniman, Matt: Dungeon Crawler Carl  
 - Doubinsky, Sebastien: The Babylonian Trilogy  
+- Drayden, Nickey: The Prey of Gods  
 - Durant, Will/Ariel: The Lessons of History  
+- Ellis, Lindsay: 1) Axiom's End, 2) Truth of the Divine  
+- El-Mohtar, Amal: This is How you Lose the Time War  
 - Fallon, Jennifer: Tide Lords series  
 - Feynman, Richard: The Pleasure of Finding things out  
 - Fick, Nathaniel: One Bullet Away: The Making of a Marine Officer  
+- Finney, Jack: Time and Again  
+- Fletcher, C.A.: A Boy and his Dog at the End of the World  
 - Flynn, Gillian: Gone Girl   
 - Follett, Ken: PILLARS OF THE EARTH  
 - Ford, Jeffrey: The Shadow Year  
+- Frey, Dan: The Future is Yours  
 - Friedman, C.S.: Feasts of Souls  
 - Gaiman, Neil: American Gods  
 - Gates, Robert: Duty: Memoirs of a Secretary at War  
@@ -102,36 +118,49 @@
 - Gray, Colin: Fighting Talk: Forty Maxims on War, Peace, and Strategy;  The Future of Strategy;  
 - Green, Simon: The Nightside  
 - Greenspan, Alan: The man who knew: the Life & Times of Alan Greenspan  
+- Grossman, Lev: The Map of Tiny Perfect Things  
 - Haig, Matt: The Midnight Library  
 - Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon    
 - Hayes, Drew: SuperPowered  
+- Howey, Hugh: 1) Wool, 2) Shift, 3) Dust  
 - Huchu, TL: 1) Library of the Dead, 2) Our Lady of Mysterious Ailments  
 - Huff, Tanya: Blood Prince  
 - Hurley, Kameron: The Stars are Legion  
+- Iger, Robert: The RIde of a Lifetime  
 - Isaacson, Walter: Einstein: His Life and Universe  
+- Ishiguro, Kazuo: Klara and the Sun  
+- Jemisin, NK: Emergency Skin  
 - Jiang, Jia: Rejection Proof 
 - Jones, Dhani: The Sportsman  
 - Jones, Gwyneth: Proof of Concept  
+- Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
 - Kaufman, Josh: The personal MBA  
 - Kawakami, Hiromi: Manazuru  
 - Kearney, Paul: The Ten Thousand  
 - Kennedy, Paul: Rise and Fall of the Great Powers  
 - Kent, Jasper: Twelve  
 - Khoury, Jessica: THE FORBIDDEN WISH  
+- Kim, Bo-Young: I'm Waiting for You and Other Stories  
 - King, Stephen: The Eyes of the Dragon 
 - King, Wesley: The Vindico  
 - Kissinger, Henry: Diplomacy, World Order  
 - Kloos, Marko  
 - Knight, Phil: Shoe Dog  
 - Koontz, Dean: Strangers; Quicksilver   
+- Kritzer, Naomi: Catfishing on CatNet  
 - Lanagan, Margo: Tender Morsels  
 - Landy, Derek: Skulduggery Pleasant 1  
 - Langer, Ellen: Mindfullness 
-- Laplander, Robert: Finding the Lost Battalion 
+- Laplander, Robert: Finding the Lost Battalion  
+- Laurain, Antoine: Vintage 1954  
 - Leckie, Ann: Ancillary Justice  
+- Ledbetter, William: Level Five and Level Six  
+- Lem, Stanislaw: Solaris  
+- Lemelle, Salim: Refresh  
 - Lewis, Michael: The Undoing Project 
 - Le Guin, Ursula K.: The Dispossessed  
 - Liu, Cixin: The Three-Body Problem  
+- Liu, Ken: The Armies of Those I Love  
 - Livingston, Jessica: Founders at Work 
 - Lloyd-Jones, Emily: Illusive  
 - Logothetis, Leon: The Kindness Diaries 
@@ -141,18 +170,25 @@
 - Marchout, Jo: Decoding the Heavens 
 - Marcinko, Rich: Leadership secrets of the Rogue Warrior  
 - Marillier, Juliet: Heir to Seven Waters  
-- Marither, Juliet: Heir to Seven Waters  
+- Martel, Jay: The Present  
 - McGuire, Seanan: Where the Drowned Girls Go  
 - McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
+- McQuiston, Casey: One Last Stop  
 - Mersinger, Holly: The Curse of Jacob Tracy  
 - Martel, Yann: The High Mountains of Portugal  
 - Martinet, Jeanne: The Art of Mingling  
+- Miller, Lulu: Why Fish Don't Exist: A story of Loss, Love, and Hidden Order of Life  
 - Moon, Elizabeth:  
 - Moorcock, Michael: A Nomad of the Time streams  
 - Moore, Peter: V is for Villain  
 - Murray, Williamson: Military Innovation in the Interwar Period  
+- Musker, Jackson: The Sea in the Sky  
 - Nesbit, E:  
+- Neuvel, Sylvain: The Test  
+- Newitz, Annalee: The Future of Another Timeline  
 - Nobu: A memoir  
+- North, Ryan: How to Invent Everything: A Survival Guide for the Stranded Time Traveler  
+- Okorafor, Nnedi: Lagoon, Remote Control  
 - Paolini, Christopher: To Sleep in a Sea of Stars  
 - Pene du Bois, William: The Twenty-One Balloons  
 - Phillips, Lucas: The Greatest Raid of All  
@@ -165,8 +201,9 @@
 - Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear   
 - Russell, Mary Doria: The Sparrow  
 - Sahn, Seung: Dropping Ashes on the Buddha  
+- Saint, Jennifer: Ariadne  
 - Sajer, Guy: The Forgotten Soldier  
-- Scalzi, John: Kaiju preservation society  
+- Scalzi, John: Kaiju preservation society; Lock In  
 - Schulz, Kathryn: Being Wrong  
 - Schwab, VE: Vicious; A DARKER SHADE OF MAGIC; The Invisible Life of Addie Larue     
 - Seigel, Rob: Memoirs of a Hack Mechanic 
@@ -182,14 +219,16 @@
 - Star Trek Gateways  
 - Star Wars OLD REPUBLIC:Fatal Alliance, DECEIVED, Revan, Annihilation;  
 - Staveley, Brian: Skullsworn  
-- Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World    
+- Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World, New Found Land: The Long Haul     
 - Stone, Douglass: Difficult Conversations  
 - Sulliven, Michael J.: Theft of Swords  
 - Tan, Sue Lynn: Daughter of the Moon Goddess  
-- Taylor, Dennis: Bobiverse  
+- Taylor, Dennis: Bobiverse 1) We are Legion (We are Bob),   
+- Taylor, Jodi: Just One Damned Thing After Another  
 - Tchaikovsky, Adrian: 1)Shards of Earth, The FInal Architecture; 2) Dark Stars  
 - The Talent Code: Greatness isn't born.  It's grown   
-- Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future 
+- Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future  
+- Tremblay, Paul: The Last Conversation  
 - Trotter, William: Frozen Hell  
 - Tuchman, Barbara: March of Folly: From Troy to Vietnam; The Guns of August  
 - Turnbull, Cadwell: The Lesson  
@@ -209,7 +248,7 @@
 - Westerfeld, Scott: Leviathan  
 - Williams, Tad: Memory, Sorrow, and Thorn  
 - Williams, Walter Jon: This is Not a Game  
-- Willis, Connie: Blackout  
+- Willis, Connie: Blackout; Doomsday book    
 - Worms (superhero book)  
 - Yancey, Richard: The 5th wave  
 - Zauner, Michelle: Crying in H Mart
