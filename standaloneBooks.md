@@ -2,7 +2,7 @@
 <details>
   <summary>Books sorted by author's last name HAVE READ</summary>
   <pre>
-- Albom, Mitch: the stranger in the lifeboat  
+- Albom, Mitch: the stranger in the lifeboat 2.22   
 - Ballard, JG: Empire of the Sun  
 - Cialdini, Robert: Influence  
 - Covey, Stephen: Seven Habits of Highly Efficient People  
@@ -28,7 +28,7 @@
 - Sledge, E.B.: With the Old Breed: At Peleliu and Okinawa (Mar 22)    
 - Thanh, Thict Nhat: The Heart of Buddha's Teaching  
 - Tran, Phuc: Sigh Gone  
-- Twain, Mark: Adventures of Huckleberry Finn
+- Twain, Mark: Adventures of Huckleberry Finn 3.22  
 - Walker, Jimmie: Dyn O Mite  
 - Zelazny, Roger: The Great book of Amber  
 </details>
