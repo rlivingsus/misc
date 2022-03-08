@@ -68,6 +68,7 @@
 - Card, Orson Scott: Speaker for the Dead   
 - Carpenter, Thomas K.: Saturn's Monsters  
 - Chabon, Michael: The Yiddish Policeman's Union   
+- Chambers, Becky: The Long Way to a Small, Angry Planet  
 - Chen, Mike: Light Years from Home  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Stories of your Life and Others, Exhalation  
