@@ -1,5 +1,8 @@
 ## Books sorted by author's last name
 
+### Abercrombie, Joe:   
+The Blade Itself; The First Law books; The Last Arguments of Kings   
+
 ### Anthony, Piers  
 Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass,~~ 3)With a Tangled Skein, 4)Wielding a Red Sword, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
 
@@ -30,6 +33,12 @@ MAGIC KINGDOM OF LANDOVER: ~~1) Magic Kingdom for Sale/Sold,~~ 2) The Black Unic
 ### Brown, Pierce  
 RED RISING SAGA: ~~1) Red Rising,~~ 2) Golden Son, 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer    
 
+### Burke, Sue:  
+1) Semiosis, 2) Interference  
+
+### Buxton, Kira J.:  
+1)Hollow Kingdom, 2)  
+
 ### Byers, Richard Lee  
 FORGOTTEN REALMS HAUNTED LANDS: 1) Unclean (HAVE), 2) Undead (HAVE), 3) Unholy, 4) Realms of the Dead by Susan J Morris  
 
@@ -44,6 +53,9 @@ THE TRAITOR SPY: 1) The Ambassador's Mission, 2) The Rogue, 3) The Traitor Queen
 ENDER'S SAGA: ~~1) Ender's Game, 2) Speaker for the Dead,~~ 3) Xenocide, 4) Children of the Mind, 5) Ender in Exile  
 THE SHADOW SERIES: 1) Ender's Shadow, 2) Shadow of the Hegemon, 3) Shadow Puppets, 4) Shadow of the Giant, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow    
 THE FIRST FORMIC WAR SERIES: 1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens  
+
+### Clarke, Arthur C.:  
+1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
 
 ### Corey, James  
 THE EXPANSE: 1) Leviathan Wakes, 2) Caliban's War, 3) Abaddon's Gate, 4) Cibola Burn, 5) Nemesis Games, 6) Babylon's Ashes, 7) Persepolis Rising  
@@ -67,6 +79,9 @@ WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman
 THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
 THE MALLOREON: 1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
 SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City    
+
+### Ellis, Lindsay:  
+1) Axiom's End, 2) Truth of the Divine  
 
 ### Elrod, P.N.  
 VAMPIRE FILES: ~~1) Bloodlist, 2) Lifeblood,~~ 2.5) Chicks Kick Butt by Rachel Caine, 3)Bloodcircle, 4) Art in the Blood, 5) Fire in the Blood, 6) Blood in the Water, 7) A Chill in the Blood, 8) The Dark Sleep, 9) Lady Crymsyn, 10) Cold Streets, 11), Song in the Dark, 11.4) Many Bloody Returns by Charlaine Harris, 11.5) My Big Fat Supernatural Honeymoon, 11.6) Strange Brew, 12) Dark Road Rising, 12.5) The Devil You Know, 12.6) Dark and Stormy Knights  
@@ -101,10 +116,17 @@ THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Emp
 ### Hobb, Robin  
 THE FARSEER TRILOGY: ~~1) Assassin's Apprentice,~~ 2) Royal Assassin, 3) Assassin's Quest  
 THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven,~~ 3) City of Dragons, 4) Blood of Dragons  
+### Howey, Hugh:  
+1) Wool, 2) Shift, 3) Dust  
+
+### Huchu, TL:   
+1) Library of the Dead, 2) Our Lady of Mysterious Ailments    
 
 ### Jordan, Robert  
 WHEEL OF TIME: ~~0) New Spring,~~ 0.1) The Strike at Shayol Ghul, 0.2) Earlier-Ravens, ~~1)The Eye of the World, 2) The Great Hunt(JAN22),~~ 3)The Dragon Reborn, 4)The Shadow Rising, 5)The Fires of Heaven, 6)Lord of Chaos, 7)A Crown of Swords, 8)The Path of Daggers, 8.5)Snow, 9)Winter's Heart, 9.5) Glimmers, 10)Crossroads of Twilight, 11)Knife of Dreams, 12)The Gathering Storm, 13)Towers of Midnight, 13.5)By Grace and Banners Fallen, 14)A Memory of Light, Unfettered by Shawn Speakman, A fire within the Ways  
 The Warrior of Altaii  
+
+### Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
 
 ### Kerr, Katharine  
 ACT ONE: DEVERRY: 1)Daggerspell, 2)Darkspell, 3)The Bristling Wood, 4)The Dragon Revenant  
@@ -189,7 +211,7 @@ THE ICEWIND DALE TRILOGY: ~~1) The Crystal Shard, 2) Streams of Silver, 3) The H
 THE LEGACY OF THE DROW: ~~1)The Legacy, 2)Starless Night, 3)Siege of Darkness, 4)Passage to Dawn~~ 
 THE PATHS OF DARKNESS: ~~1)The Silent Blade, 2)The Spine of the World, 3)Sea of Swords~~  
 THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
-THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow,~~ 3)The Two Swords  
+THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
 TRANSITIONS: 1) The Orc King, 2) The Pirate King, 3) The Ghost King  
 NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold  
 THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
@@ -199,7 +221,7 @@ GENERATIONS: 1) Timeless(Dnhave), 2) Boundless(Dnhave), 3) Relentless(Dnhave)
 THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels
 CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse
 
-### Sanderson, Brandon  
+### Sanderson, Brandon   
 MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History, 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal, 
 STORMLIGHT ARCHIVE: ~~1)The Way of Kings, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 4)Rhythm of War, 5)Highprince of War  
 RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity,~~ 4) Lux  
@@ -209,8 +231,14 @@ SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Su
 INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 WARBREAKER: 1) Warbreaker, 2) Nightblood   
 
-### Scalzi, John 
+### Scalzi, John  
 OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades, The Sagan Diary, The Last Colony, Zoe's Tale, After the Coup, The Human Division, The B-Team, Walk the Plank, We only need the Heads, A Voice in the Wilderness, Tales from the Clarke, The Back Channel, The Dog King, The Sound of Rebellion, The Observers, This must be the Place, A Problem of Proportion, The Gentle Art of Cracking Heads, Earth Below Sky Above, The Human Division Extras, The End of All Things, The Life of the Mind, This Hollow Union, Can Long Endure, To Stand or Fall  
+
+### Taylor, Dennis:   
+Bobiverse 1) We are Legion (We are Bob),  
+
+### Tchaikovsky, Adrian:  
+1)Shards of Earth, The FInal Architecture; 2) Dark Stars  
 
 ### Varley, John  
 GAEA TRILOGY: 1) Titan, 2) Wizard, 3) Demon  
@@ -220,6 +248,9 @@ LORDS OF DUS SERIES: 1) The Lure of the Basilisk, 2) The Seven Altars of Dusarra
 
 ### Weis, Margaret  
 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)  
+
+### Wells, Martha:  
+Murderbot Diaries, 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry  
 
 ### Wendig, Chuck  
 STAR WARS AFTERMATH: 1) Aftermath, 2) Life Debt, ~~3) Empire's End~~
