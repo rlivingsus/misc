@@ -37,222 +37,471 @@
 <details>
   <summary> Books To Read</summary>
   <pre>
-#### Alpha sorted 
-- Abercrombie, Joe: The Blade Itself; The First Law books; The Last Arguments of Kings   
+#### Alpha sorted  
+- Achor, Shawn: The Happiness Advantage  
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
 - Adams, Marilee: Change your Questions  
 - Alanson, Craig:  
-- Alderman, Naomi: The Power  
+- Alderman, Naomi: The Power 
+- Alexander, Michelle: The New Jim Crow  
 - Allen, Nina: The Rift  
+- Al-Kadhi, Amrou: Life as a Unicorn  
+- Allred, Lance: Longshot  
+- Alpert, Steve: Sharing a House with the Never-Ending Man:  
 - Anderson, Kevin: Enemies and Allies  
 - Andrews, Jesse: Me, Earl and the Dying Girl  
 - AN INNOCENT ABROAD: Lonely Planet  
 - Archer, Ursula: FIVE   
+- Ariely, Dan: The Honest Truth about Dishonesty  
+- Asher, Neal: Dark Intelligence: Transformation  
 - Asimov, Isaac: Prelude to Foundation; The God Themselves 
 - Asner, Ed: The Grouchy Historian  
+- Assad, Michele: Breaking Cover  
 - Aurelius, Marcus: Meditations  
 - Azuma-Nelson, Caleb: Open Water  
+- Bach, Richard: Jonathan Livingston Seagull  
+- Baggett, Jennifer: The Lost Girls  
+- Bailey, Joseph: Memoirs of a Muppets Writer  
+- Ballantyne, Lisa: Everything She Forgot  
+- Ballou, Linda: Lost Angel Walkabout  
+- Banerjee, Dillon: The Insider's guide to the peace corps  
 - Barker, Eric: Barking up the wrong tree  
+- Barton, Craig: How I wished I'd Maths  
 - Baskin, Jonathan Salem: Strange in Place  
-- Bauer, Craig: Unsolved  
+- Bauer, Craig: Unsolved; Secret History  
+- Beach, Edward: Run Silent, Run Deep  
+- Bear, Elizabeth: Karen Memory  
 - Beers and Anderle?: THE WAR MACHINE  
+- Benedict, Marie: The only woman in the room  
+- Bennett, Robert Jackson: City of Miracles  
 - Berger, Eric: Liftoff  
+- Berkun, Scott: Mindfire  
+- Bilton, Nick: American Kingpin  
+- Blehm, Eric: Fearless  
+- Botelho, Elena: The CEO Next Door  
+- Bouton, Jim: Ball Four  
 - Bradbury, Ray:  Fahrenheit 451  
+- Brahm, Ajahn: The Art of Disappearing  
+- Brooks, David: The Road to Character 
 - Brown, Peter: The WIld Robot Escapes  
-- Brown, Pierce:  
 - Brown, Rachel, Manija: Stranger  
-- Burke, Sue: 1) Semiosis, 2) Interference  
+- Brown, Theresa: Critical Care  
+- Browne, M. Neil: Asking the Right Questions  
+- Buck, Leslie: Cutting Back  
+- Burnison, Gary: Lead  
+- Burt, Alexandra: Remember Mia  
 - Burvine, Lee: Kafir Project  
-- Butler, Octavia: Anything, Kindred    
-- Buxton, Kira J.: 1)Hollow Kingdom, 2)  
-- Card, Orson Scott: Speaker for the Dead   
+- Butler, Octavia: Anything, Kindred   
+- Camp, Jim: Start with No  
+- Campbell, John: Who Goes There?:  
+- Campbell, Tom: The Old Man's Trail  
 - Carpenter, Thomas K.: Saturn's Monsters  
+- Carroll, Raymonde: Cultural Misunderstandings  
+- Carse, James: Finite and Infinite Games  
 - Chabon, Michael: The Yiddish Policeman's Union   
 - Chambers, Becky: The Long Way to a Small, Angry Planet  
 - Chen, Mike: Light Years from Home  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Stories of your Life and Others, Exhalation  
-- Clarke, Arthur C.: 1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
+- Clark, Richard & Robert K. Knake: The Fifth Domain  
 - Clarke, Susanna: Jonathan Strange and Mr. Norrell; Piranesi    
+- Clearfield, Chris: Meltdown  
 - Cline, Peter: Threshold  
 - Cogman, Genevieve: The Untold Story  
-- Connolly, John: The Gate...  
+- Cohen, Steve: Win the Crowd  
+- Connolly, John: The Gate...
+- Coremen, Thomas: Algorithms Unlocked  
 - Corey, James: The Expanse  
+- Costello, Barry: Fortune favors Boldness  
+- Couch, Dick: A Tactical Ethic  
 - Crichton, Michael: Sphere  
 - Cristie, Agatha:  
-- Crouch, Blake: Dark Matter 
+- Crouch, Blake: Dark Matter  
+- Cushman, Marc: Star Trek  
+- Danesi, Marcel: The Puzzle Instinct  
 - Danker, Sean: Admiral
 - Daviau, Mo: EVERY ANXIOUS WAVE  
+- Davis, Sampson: The Pact  
+- Dawkins, Richard: The Magic of Reality  
+- Del Monte, Louis A.: Genius Weapons  
 - Dick, Phillip K.: Electric Dreams?  
 - Dignan, Aaron: Gameframe  
 - Dinniman, Matt: Dungeon Crawler Carl  
+- Dobbs, Richard: No Ordinary Disruption  
+- Doctorow, Cory: Little Brother  
+- Dolnick, Edward: The Rush  
+- Domesek, Erica: P.S. I Made This...I See It...  
 - Doubinsky, Sebastien: The Babylonian Trilogy  
+- Dower, John: Embracing Defeat: Japan in the Wake of World War II  
+- Dozois, Gardner: The Very Best of the Best: 35 Years of the Year's Best Sci-Fi  
 - Drayden, Nickey: The Prey of Gods  
+- Dreeke, Robin: It's Not all about "me"  
 - Durant, Will/Ariel: The Lessons of History  
-- Ellis, Lindsay: 1) Axiom's End, 2) Truth of the Divine  
+- Dweck, Carol: Mindset  
+- Ebrahim, Zak: The Terrorist's Son  
+- Edmondson, Amy: the Fearless Organization  
+- Einstein, Albert: Ideas and Opinions  
 - El-Mohtar, Amal: This is How you Lose the Time War  
+- Ellenberg, Jordan: How Not to be Wrong  
+- Ellsberg, Michael: The Education of Millionaires  
+- Endo, Shusaku: Silence  
+- Ericsson, Anders: Peak  
+- Erikson, Steven: Gardens of the Moon  
+- Erwig, Martin: Once Upon an Algorithm  
+- Espinosa, Christian: The Smartest Person in the Room  
+- Ettenberg, Jodi: The Food Traveler's Handbook  
+- Evans, Ceri: Perform under Pressure  
 - Fallon, Jennifer: Tide Lords series  
+- Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
 - Feynman, Richard: The Pleasure of Finding things out  
 - Fick, Nathaniel: One Bullet Away: The Making of a Marine Officer  
 - Finney, Jack: Time and Again  
+- Fisher, Roger: Getting to Yes  
+- Fisher, Sharon Lynn: Echo 8  
 - Fletcher, C.A.: A Boy and his Dog at the End of the World  
 - Flynn, Gillian: Gone Girl   
 - Follett, Ken: PILLARS OF THE EARTH  
+- Fogg, BJ: Tiny Habits  
 - Ford, Jeffrey: The Shadow Year  
+- Forester, CS: The Good Shepherd  
+- Forlee, Sherwood: Walls Notebook  
+- Foster, Jack: How to Get Ideas  
+- Freedman, Lawrence: The Future of War
 - Frey, Dan: The Future is Yours  
 - Friedman, C.S.: Feasts of Souls  
+- Friedman, George: The Next 100 Years  
 - Gaiman, Neil: American Gods  
+- Garcia, Kami: Beautiful Creatures  
 - Gates, Robert: Duty: Memoirs of a Secretary at War  
 - Gaunt, Derek: Ego, Authority, Failure  
 - Gee, Emily: The Sentinel Mage  
 - Gibson, William: Neuromancer  
+- Gladwell, Malcolm: Blink; Outliers  
 - Godin, Seth: The Dip: A little book that teaches you when to quit (& when to stick)  
-- Goggins, David: Cant hurt me
+- Goggins, David: Cant hurt me  
+- Goldratt, Eliyahu: The Choice  
+- Goldstein, Emmanuel: Dear Hacker  
 - Goldstein, Noah: Yes! 50 Scientifically Proven ways to be persuasive  
 - Goodkind, Terry: The Sky People  
+- Goodman, Marc: Future Crimes
 - Gordon, Andrew: The Rules of the Game  
+- Goulding, Matt: Rice, Noodle, Fish  
+- Graedon, Joe: Top Screwups Doctors Make and How to Avoid them  
+- Graff, Lisa: A Tangle of Knots  
 - Grafton, Sue:  
+- Grann, David: Killers of the Flower Moon  
+- Grant, Adam: Give and Take  
 - Grant, Michael: Magnificient 12: The Call  
 - Grant, Mira: Anything  
 - Grant, Ulysses: The Personal Memoirs of Ulysses S. Grant  
 - Graudin, Ryan: Wolf by wolf  
 - Gray, Colin: Fighting Talk: Forty Maxims on War, Peace, and Strategy;  The Future of Strategy;  
+- Green, John: Turtles All the Way Down  
 - Green, Simon: The Nightside  
+- Greenberg, Andy: Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hacker  
 - Greenspan, Alan: The man who knew: the Life & Times of Alan Greenspan  
 - Grossman, Lev: The Map of Tiny Perfect Things  
+- Gyasi, Yaa: Homegoing  
 - Haig, Matt: The Midnight Library  
-- Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon    
+- Hall, Edward: The Hidden Dimension  
+- Hall, Kindra: Stories that Stick  
+- Hanh, Thich Nhat: Fear  
+- Harris, Josh: Captain Phil Harris  
+- Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon  
+- Hartley, Gemma: Fed Up  
+- Hawke, Mykel: Hawke's Special Forces Survival Handbook  
+- Hawker, Natasha: From Hire to FIre & Everything in Between  
 - Hayes, Drew: SuperPowered  
-- Howey, Hugh: 1) Wool, 2) Shift, 3) Dust  
-- Huchu, TL: 1) Library of the Dead, 2) Our Lady of Mysterious Ailments  
+- Haynes, Peter: Toward a New Maritime Strategy  
+- Helgerson, John: Getting to Know the President  
+- Helm, Leslie: Yokohama Yankee  
+- Henderson, Randy: Finn Fancy Necromancy  
+- Hibbing, John: Predisposed  
+- Heath, Chip: Made to Stick  
+- Hoffman, Carl: The Lunatic Express  
+- Holiday, Ryan: Ego is the Enemy; Conspiracy  
+- Holmes, James: A Brief guide to Maritime Strategy  
+- Holmes, Jamie: 12 Seconds of Silence  
+- Hoff, Benjamin: The Tao of Pooh  
+- Hornfischer, James: Neptune's Inferno; The Fleet at Flood Tide; The Last Stand of the Tin Can Sailors  
+- Howard, Michael: The Salaryman  
+- Howarth, David: We Die Alone  
 - Huff, Tanya: Blood Prince  
+- Hughes, Wayne: Fleet Tactics and Coastal Combat  
+- Hunter, Dave: Along Interstate-75  
 - Hurley, Kameron: The Stars are Legion  
+- Huxley, Aldous: Brave New WOrld  
 - Iger, Robert: The RIde of a Lifetime  
 - Isaacson, Walter: Einstein: His Life and Universe  
 - Ishiguro, Kazuo: Klara and the Sun  
+- Jackall, Robert: Moral Mazes  
+- Jackson, John: One Nation under Drones  
+- Jackson, Phil: Eleven Rings  
 - Jemisin, NK: Emergency Skin  
 - Jiang, Jia: Rejection Proof 
 - Jones, Dhani: The Sportsman  
+- Jones, Dylan: David Bowie  
 - Jones, Gwyneth: Proof of Concept  
-- Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
+- Kahn, David: The Codebreakers  
+- Kahneman, Daniel: Thinking, Fast, and SLow  
+- Kaku, Michio: Physics of the Future; Hyperspace  
+- Kai, Christopher: Big Game Hunting  
+- Kasparov, Garry: Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins  
+- Katayama, Lisa: Urawaza  
 - Kaufman, Josh: The personal MBA  
 - Kawakami, Hiromi: Manazuru  
 - Kearney, Paul: The Ten Thousand  
+- Kelly, Kevin: The Inevitable  
+- Kendi, Ibram: How to be an Antiracist  
 - Kennedy, Paul: Rise and Fall of the Great Powers  
 - Kent, Jasper: Twelve  
 - Khoury, Jessica: THE FORBIDDEN WISH  
 - Kim, Bo-Young: I'm Waiting for You and Other Stories  
-- King, Stephen: The Eyes of the Dragon 
 - King, Wesley: The Vindico  
 - Kissinger, Henry: Diplomacy, World Order  
 - Kloos, Marko  
+- Klune, TJ: Under the Whispering Door  
 - Knight, Phil: Shoe Dog  
+- Kolker, Claudia: The Immigrant Advantage  
 - Koontz, Dean: Strangers; Quicksilver   
 - Kritzer, Naomi: Catfishing on CatNet  
+- Laberge, Stephen: Exploring the World of Lucid Dreaming  
 - Lanagan, Margo: Tender Morsels  
 - Landy, Derek: Skulduggery Pleasant 1  
 - Langer, Ellen: Mindfullness 
 - Laplander, Robert: Finding the Lost Battalion  
+- Larson, Erik: The Devil in the White City  
 - Laurain, Antoine: Vintage 1954  
+- Le Couteur, Penny: Napoleon's Buttons  
 - Leckie, Ann: Ancillary Justice  
 - Ledbetter, William: Level Five and Level Six  
+- Lee, Chang-rae: My Year Abroad  
+- Lefevre, Edwin: Reminiscenses of a Stock Operator  
 - Lem, Stanislaw: Solaris  
 - Lemelle, Salim: Refresh  
+- Levi, Primo: The Periodic Table
 - Lewis, Michael: The Undoing Project 
 - Le Guin, Ursula K.: The Dispossessed  
+- Lipman, Joanne: That's What She Said  
 - Liu, Cixin: The Three-Body Problem  
-- Liu, Ken: The Armies of Those I Love  
+- Liu, Ken: The Armies of Those I Love; Invisible Planets  
 - Livingston, Jessica: Founders at Work 
 - Lloyd-Jones, Emily: Illusive  
-- Logothetis, Leon: The Kindness Diaries 
+- Lockwood, Charles: Tragedy at Honda  
+- Logothetis, Leon: The Kindness Diaries  
+- Lopez-Alt, J. Kenji: The Food Lab  
 - Lowell, Nathan: Solar Clipper  
+- Lucas, George: Military Ethics  
+- Luepnitz, Deborah: Schopenhauer's Porcupines  
 - Maberry, Jonathan: Joe Ledger  
+- MacDonald, Eileen: Shoot the women first  
+- Mack, Katie: The End of Everything  
+- Majumdar, Simon: Fed, White and Blue  
 - Mandela, Nelson: Long Walk to Freedom  
 - Marchout, Jo: Decoding the Heavens 
 - Marcinko, Rich: Leadership secrets of the Rogue Warrior  
 - Marillier, Juliet: Heir to Seven Waters  
+- Marin, David: This is US  
+- Marlantes, Karl: Matterhorn; What it is like to go to war  
 - Martel, Jay: The Present  
-- McGuire, Seanan: Where the Drowned Girls Go  
-- McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
-- McQuiston, Casey: One Last Stop  
-- Mersinger, Holly: The Curse of Jacob Tracy  
 - Martel, Yann: The High Mountains of Portugal  
 - Martinet, Jeanne: The Art of Mingling  
+- Mattis, Jim: Call Sign Chaos  
+- McCandless, David: Beautiful News  
+- McCarthy, Andrew: Journeys Home  
+- McChrystal, Standley: Team of Teams  
+- McDonald, Brian: Invisible Ink  
+- McDonald, Ed: Blackwing  
+- McFate, Sean: The New Rules of War  
+- McGuire, Seanan: Where the Drowned Girls Go  
+- McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
+- McNeill, Graham: Ultramarines Omnibus  
+- McQuiston, Casey: One Last Stop  
+- McRaven, William: Make Your Bed  
+- Meister, Ellen: Dorothy Parker Drank Here
+- Mersinger, Holly: The Curse of Jacob Tracy  
+- Meyer, Michael: In Manchuria  
+- Miller, Christian: The Character Gap  
 - Miller, Lulu: Why Fish Don't Exist: A story of Loss, Love, and Hidden Order of Life  
+- Mindell, David: Our Robots, Ourselves  
+- Mitchell, Maggie: Pretty is:  
+- Mnookin, Robert: Create Value in Deals and Disputes  
 - Moon, Elizabeth:  
 - Moorcock, Michael: A Nomad of the Time streams  
 - Moore, Peter: V is for Villain  
+- Morillo, Christina: 97 Things Every Information Security Pro Should Know  
+- Murakami, Ryu: Popular Hits of the Showa Era  
+- Murata, Sayaka: Convenience Store Woman  
+- Muratyan, Vahram: Paris versus New York  
 - Murray, Williamson: Military Innovation in the Interwar Period  
+- Murtagh, Niall: The Blue-Eyed Salaryman  
 - Musker, Jackson: The Sea in the Sky  
+- Navarro, Joe: What every Body is saying; The dictionary of body language  
 - Nesbit, E:  
+- Ness, Patrick: Chaos Walking: trilogy  
+- Netz, Reviel: The Archimedes Codex  
 - Neuvel, Sylvain: The Test  
-- Newitz, Annalee: The Future of Another Timeline  
+- Newitz, Annalee: The Future of Another Timeline 
+- Newport, Cal: Deep Work  
+- Newsham, Brad: Take Me with You  
 - Nobu: A memoir  
+- Noesner, Gary: Stalling For Time  
 - North, Ryan: How to Invent Everything: A Survival Guide for the Stranded Time Traveler  
+- Oakley, Barbara: A Mind for Numbers  
+- O'Brien, Phillips Payson: The 2nd Most Powerful Man in the World  
 - Okorafor, Nnedi: Lagoon, Remote Control  
 - Paolini, Christopher: To Sleep in a Sea of Stars  
+- Pacitti, Tony: My Best Friend is a Wookiee  
+- Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
 - Pene du Bois, William: The Twenty-One Balloons  
+- Pham, Andrew: Catfish and Mandala  
 - Phillips, Lucas: The Greatest Raid of All  
-- Powell, Colin: My American Journey  
+- Pierceson, Jason: Sexual Minorities and Politics  
+- Pillsbury, Michael: The Hundred-Year Marathon  
+- Pink, Daniel: To Sell is Human  
+- Porter, Lindsay: Assassination  
+- Potts, Rolf: Marco Polo Didn't Go There  
+- Poulsen, Kevin: Kingpin  
+- Powell, Colin: It Worked for Me; My American Journey  
 - Pratchett, Terry: Discworld books  
 - Pressfield, Steven: Gates of Fire  
+- Putnam, Robert: Bowling Alone  
+- Raymer, Edward: Descent into Darkeness  
+- Redman, Jason: Overcome  
+- Reed, Steven: Making Common Sense of Japan  
+- Rekulak, Jason: The Impossible Fortress  
+- Reich, Simon & Peter Dombrowski: The end of grand strategy  
+- Reynolds, Jason: Long Way Down  
+- Rhodes, Richard: Dark Sun  
+- Richards, Carl: The One-Page Financial Plan  
+- Rigsby, Rick: Lessons from a Third Grade Dropout  
 - Riordan, Rick: The Red Pyramid  
+- Roach, Mary: My Planet: Finding Humor in the Oddest Places  
+- Roberts, Adam: Jack Glass  
 - Roberto, Adam: The Thing Itself  
-- Rollins, James: The Starless Crown  
-- Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear   
+- Rollins, James: The Starless Crown 
+- Rosling, Hans: Factfulness  
+- Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear  
+- Rubenstein, David: The American Experiment  
+- Rueckert, Veronica: Outspoken  
+- Rumiz, Paolo: The Fault Line  
+- Russ, Joanna: The Female Man  
 - Russell, Mary Doria: The Sparrow  
+- Russell, Stuart: Human Compatible, Artificial Intelligence and the Problem of Control  
+- Sachs, Dana: The Life We Were Given  
 - Sahn, Seung: Dropping Ashes on the Buddha  
 - Saint, Jennifer: Ariadne  
 - Sajer, Guy: The Forgotten Soldier  
+- Sanger, David: The Perfect Weapon  
+- Sarnicola, Thomas: No Kings, No Kooks  
+- Sato, Yuya: Dendera  
 - Scalzi, John: Kaiju preservation society; Lock In  
+- Scharre, Paul: Army of None  
 - Schulz, Kathryn: Being Wrong  
-- Schwab, VE: Vicious; A DARKER SHADE OF MAGIC; The Invisible Life of Addie Larue     
-- Seigel, Rob: Memoirs of a Hack Mechanic 
+- Schwab, VE: Vicious; A DARKER SHADE OF MAGIC; The Invisible Life of Addie Larue  
+- Schwarcz, Joe: Radar, Hula Hoops< and Playful Pigs  
+- Schwartz, David: The Magic of Thinking Big  
+- Scott, James: Rampage  
+- Scott, James C.: The Art of Not Being Governed  
+- Seigel, Rob: Memoirs of a Hack Mechanic  
+- Shafak, Elif: 10 Minutes 38 Seconds in this Strange World  
+- Shalleck, David: Mediterranean Summer  
+- Shapiro, Joseph: No Pity  
+- Shand, Mark: Travels on My Elephant  
+- Shaw, Julia: The Memory Illusion  
 - Shea, Kieran: Off Rock  
+- Sherry, Miranda: Black Dog Summer  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
-- Sinek, Simon: Together is Better: A little book of Inspiration  
+- Sinek, Simon: Together is Better: A little book of Inspiration ; Leaders eat Last; The Infinite Game  
+- Singer, PW & August Cole: Burn-In: A Novel of the Real Robotic Revolution & Ghost Fleet  
+- Singh, Simon: Fermats Enigma  
+- Slater, Tracy: The Good Shufu
 - Slim, Viscount: Defeat into Victory  
-- Smith, Ali: HOW TO BE BOTH 
+- Smith, Ali: HOW TO BE BOTH  
+- Smith, Mandy: Cabin Fever  
 - Smith, Nicholas: Hell Divers  
 - Spakowski, Andrzej: Blood of Elves  
 - Stackpole, Michael: A Secret Atlas  
 - Star Trek: Department of Temporal Investigations  
 - Star Trek Gateways  
 - Star Wars OLD REPUBLIC:Fatal Alliance, DECEIVED, Revan, Annihilation;  
+- Stark, Kio: Dont Go Back to School  
 - Staveley, Brian: Skullsworn  
+- Stavridis, James: The Leaders Bookshelf; SeaPower  
 - Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World, New Found Land: The Long Haul     
+- Stirling, SM: The Forge  
+- Stoll, Cliff: The Cuckoos Egg  
+- Stoller, Matt: Goliath  
 - Stone, Douglass: Difficult Conversations  
+- Strahan, Jonathan: Years Best Sci-Fi Vol 1 2020 and 2 2021  
+- Strogatz, Steven: The Joy of X  
+- Stross, Charles: The Atrocity Archives  
+- Suarez, Daniel: Change Agent  
 - Sulliven, Michael J.: Theft of Swords  
+- Sundem, Garth: The Geeks Guide to World Domination  
+- Taggart, Caroline: I Used to Know That  
+- Tan, Cheryl: A Tiger in the Kitchen  
 - Tan, Sue Lynn: Daughter of the Moon Goddess  
-- Taylor, Dennis: Bobiverse 1) We are Legion (We are Bob),   
+- Taulli, Tom: Artificial Intelligence Basics  
 - Taylor, Jodi: Just One Damned Thing After Another  
-- Tchaikovsky, Adrian: 1)Shards of Earth, The FInal Architecture; 2) Dark Stars  
-- The Talent Code: Greatness isn't born.  It's grown   
+- Taylor, Steven: The Psychology of Pandemics  
+- Tchaikovsky, Adrian: 1) Empire in Back and Gold  
+- Thames, Elizabeth: Meet the Frugalwoods  
+- The Talent Code: Greatness isnt born.  Its grown   
 - Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future  
+- Till, Geoffrey: Sea Power  
+- Tokunaga, Wendy: Marriage in Translation  
+- Toll, Ian: Six Frigates  
+- Torseter, Oyvind: The Hole  
 - Tremblay, Paul: The Last Conversation  
+- Trichter, Judd: Love in the Age of Mechanical Reproduction  
 - Trotter, William: Frozen Hell  
 - Tuchman, Barbara: March of Folly: From Troy to Vietnam; The Guns of August  
 - Turnbull, Cadwell: The Lesson  
 - Urschel, John: Mind & Matter  
+- Vance, Jack: The Eyes of the Overworld  
 - Vann, David: A Mile Down  
+- Verducci, Tom: The Cubs Way  
 - Viega, John: The Myths of Security  
 - Vinge, Vernor: A Fire Upon the Deep  
+- Volk, Steve: Fringe-ology  
 - Voigt, Emily: The Dragon behind the Glass  
 - Vonnegut, Kurt: Slaughterhouse-5  
+- Vuong, Ocean: On Earth Were Briefly Gorgeous  
 - Wakin, Malham: War, Morality, and the Military Profession  
+- Walker, Sam: The Captain Class  
+- Wallace, Danny: F You very Much  
 - Walzer, Michael: Just and Unjust Wars  
+- Ward, David: Between Two Ends  
+- Ware, Ruth: In a Dark, Dark Wood  
+- Warner, Roger: Shooting at the Moon  
+- Warwick, Joe: Where Chefs Eat  
+- Waters, TJ: Class 11  
 - Watts, Peter: Starfish  
+- Wearing, Judy: Edisons Concreate Piano  
+- Webb, James: I Heard My Country Calling  
 - Weeks, Brent: The Way of Shadows  
 - Weinberg, Robert: Blood War  
 - Weir, Andy: Project Hail Mary  
-- Wells, Martha: Murderbot Diaries, 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry  
 - Westerfeld, Scott: Leviathan  
+- Wickre, Karen: Take the Work out of Networking  
 - Williams, Tad: Memory, Sorrow, and Thorn  
 - Williams, Walter Jon: This is Not a Game  
-- Willis, Connie: Blackout; Doomsday book    
+- Willink, Jocko & Leif Babin: The Dichotomy of Leadership  
+- Willis, Connie: Blackout; Doomsday book   
+- Wilson-Howarth, Jane: How to Shit Around the World  
+- Winters, Mary-Frances: We cant talk about that at work!  
+- Wise, David: Spy  
+- Wittes, Benjamin & Gabriella Blum: The Future of Violence  
+- Wolfe, Gene: Shadow & Claw  
 - Worms (superhero book)  
+- Wright, Richard: Burglars on the Job  
 - Yancey, Richard: The 5th wave  
-- Zauner, Michelle: Crying in H Mart
+- Yates, Brook: Cannonball
+- Yoshihara, Toshi & James R. Holmes: Red Star over the Pacific  
+- Young, Shannon: How Does One Dress to Buy Dragonfruit  
+- Zauner, Michelle: Crying in H Mart  
+- Zetter, Kim: Countdown to Zero Day  
 - Zinni, Tony: Before the First Shot is Fired: How America can win lose off the Battlefield  
 ----
 </details>
