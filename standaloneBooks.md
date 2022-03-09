@@ -257,6 +257,7 @@
 - Kent, Jasper: Twelve  
 - Khoury, Jessica: THE FORBIDDEN WISH  
 - Kim, Bo-Young: I'm Waiting for You and Other Stories  
+- King, Stephen: The Eyes of the Dragon; UR; 11/22/63  
 - King, Wesley: The Vindico  
 - Kissinger, Henry: Diplomacy, World Order  
 - Kloos, Marko  
