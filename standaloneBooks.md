@@ -57,6 +57,7 @@
 - Asimov, Isaac: Prelude to Foundation; The God Themselves 
 - Asner, Ed: The Grouchy Historian  
 - Assad, Michele: Breaking Cover  
+- Atwood, Margaret: Oryz and Crake  
 - Aurelius, Marcus: Meditations  
 - Azuma-Nelson, Caleb: Open Water  
 - Bach, Richard: Jonathan Livingston Seagull  
@@ -65,6 +66,7 @@
 - Ballantyne, Lisa: Everything She Forgot  
 - Ballou, Linda: Lost Angel Walkabout  
 - Banerjee, Dillon: The Insider's guide to the peace corps  
+- Banks, Iain: Culture series: A Player of Games, Excession, ...  
 - Barker, Eric: Barking up the wrong tree  
 - Barton, Craig: How I wished I'd Maths  
 - Baskin, Jonathan Salem: Strange in Place  
@@ -77,11 +79,13 @@
 - Berger, Eric: Liftoff  
 - Berkun, Scott: Mindfire  
 - Bilton, Nick: American Kingpin  
+- Blake, Olivie: The Atlas Six  
 - Blehm, Eric: Fearless  
 - Botelho, Elena: The CEO Next Door  
 - Bouton, Jim: Ball Four  
 - Bradbury, Ray:  Fahrenheit 451  
 - Brahm, Ajahn: The Art of Disappearing  
+- Brin, David: Sundiver, Startide Rising, Uplift War then Brightness Reed, Heaven Reach, Infinitys Shore  
 - Brooks, David: The Road to Character 
 - Brown, Peter: The WIld Robot Escapes  
 - Brown, Rachel, Manija: Stranger  
@@ -101,12 +105,13 @@
 - Chabon, Michael: The Yiddish Policeman's Union   
 - Chambers, Becky: The Long Way to a Small, Angry Planet  
 - Chen, Mike: Light Years from Home  
+- Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Stories of your Life and Others, Exhalation  
 - Clark, Richard & Robert K. Knake: The Fifth Domain  
 - Clarke, Susanna: Jonathan Strange and Mr. Norrell; Piranesi    
 - Clearfield, Chris: Meltdown  
-- Cline, Peter: Threshold  
+- Cline, Peter: Threshold; The Broken Room  
 - Cogman, Genevieve: The Untold Story  
 - Cohen, Steve: Win the Crowd  
 - Connolly, John: The Gate...
@@ -116,6 +121,7 @@
 - Couch, Dick: A Tactical Ethic  
 - Crichton, Michael: Sphere  
 - Cristie, Agatha:  
+- Cronin, Justin: The Passage  
 - Crouch, Blake: Dark Matter  
 - Cushman, Marc: Star Trek  
 - Danesi, Marcel: The Puzzle Instinct  
@@ -151,6 +157,8 @@
 - Espinosa, Christian: The Smartest Person in the Room  
 - Ettenberg, Jodi: The Food Traveler's Handbook  
 - Evans, Ceri: Perform under Pressure  
+- Evan, Erin: The Bone Wars  
+- Falaye, Deborah: Blood Scion  
 - Fallon, Jennifer: Tide Lords series  
 - Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
 - Feynman, Richard: The Pleasure of Finding things out  
@@ -176,6 +184,7 @@
 - Gaunt, Derek: Ego, Authority, Failure  
 - Gee, Emily: The Sentinel Mage  
 - Gibson, William: Neuromancer  
+- Gladstone, Max: Last Exit; This is How you Lose the Time War  
 - Gladwell, Malcolm: Blink; Outliers  
 - Godin, Seth: The Dip: A little book that teaches you when to quit (& when to stick)  
 - Goggins, David: Cant hurt me  
@@ -195,6 +204,7 @@
 - Grant, Mira: Anything  
 - Grant, Ulysses: The Personal Memoirs of Ulysses S. Grant  
 - Graudin, Ryan: Wolf by wolf  
+- Gray, Claudia: Defy the Stars  
 - Gray, Colin: Fighting Talk: Forty Maxims on War, Peace, and Strategy;  The Future of Strategy;  
 - Green, John: Turtles All the Way Down  
 - Green, Simon: The Nightside  
@@ -206,6 +216,7 @@
 - Hall, Edward: The Hidden Dimension  
 - Hall, Kindra: Stories that Stick  
 - Hanh, Thich Nhat: Fear  
+- Harkin, Jo: Tell Me an Ending  
 - Harris, Josh: Captain Phil Harris  
 - Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon  
 - Hartley, Gemma: Fed Up  
@@ -213,6 +224,7 @@
 - Hawker, Natasha: From Hire to FIre & Everything in Between  
 - Hayes, Drew: SuperPowered  
 - Haynes, Peter: Toward a New Maritime Strategy  
+- Hedfield, Chris: The Apollo Murders  
 - Helgerson, John: Getting to Know the President  
 - Helm, Leslie: Yokohama Yankee  
 - Henderson, Randy: Finn Fancy Necromancy  
@@ -220,6 +232,7 @@
 - Heath, Chip: Made to Stick  
 - Hoffman, Carl: The Lunatic Express  
 - Holiday, Ryan: Ego is the Enemy; Conspiracy  
+- Holmberg, Charlie: Star Father  
 - Holmes, James: A Brief guide to Maritime Strategy  
 - Holmes, Jamie: 12 Seconds of Silence  
 - Hoff, Benjamin: The Tao of Pooh  
@@ -268,11 +281,13 @@
 - Kritzer, Naomi: Catfishing on CatNet  
 - Laberge, Stephen: Exploring the World of Lucid Dreaming  
 - Lanagan, Margo: Tender Morsels  
+- Landweber, Michael: The Damage Done  
 - Landy, Derek: Skulduggery Pleasant 1  
 - Langer, Ellen: Mindfullness 
 - Laplander, Robert: Finding the Lost Battalion  
 - Larson, Erik: The Devil in the White City  
 - Laurain, Antoine: Vintage 1954  
+- Lawrence, Mark: The Book of the Ancestor  
 - Le Couteur, Penny: Napoleon's Buttons  
 - Leckie, Ann: Ancillary Justice  
 - Ledbetter, William: Level Five and Level Six  
@@ -294,6 +309,7 @@
 - Lowell, Nathan: Solar Clipper  
 - Lucas, George: Military Ethics  
 - Luepnitz, Deborah: Schopenhauer's Porcupines  
+- Lynch, Scott: The Lies of Locke Lamora: Gentleman Bastards  
 - Maberry, Jonathan: Joe Ledger  
 - MacDonald, Eileen: Shoot the women first  
 - Mack, Katie: The End of Everything  
@@ -306,6 +322,7 @@
 - Marlantes, Karl: Matterhorn; What it is like to go to war  
 - Martel, Jay: The Present  
 - Martel, Yann: The High Mountains of Portugal  
+- Martin, George RR: Wildcards Novels  
 - Martinet, Jeanne: The Art of Mingling  
 - Mattis, Jim: Call Sign Chaos  
 - McCandless, David: Beautiful News  
@@ -375,7 +392,9 @@
 - Reynolds, Jason: Long Way Down  
 - Rhodes, Richard: Dark Sun  
 - Richards, Carl: The One-Page Financial Plan  
+- Riddle, AG: Winter World  
 - Rigsby, Rick: Lessons from a Third Grade Dropout  
+- Riley, Brett: Freaks  
 - Riordan, Rick: The Red Pyramid  
 - Roach, Mary: My Planet: Finding Humor in the Oddest Places  
 - Roberts, Adam: Jack Glass  
@@ -399,7 +418,7 @@
 - Scalzi, John: Kaiju preservation society; Lock In  
 - Scharre, Paul: Army of None  
 - Schulz, Kathryn: Being Wrong  
-- Schwab, VE: Vicious; A DARKER SHADE OF MAGIC; The Invisible Life of Addie Larue  
+- Schwab, VE: Vicious; A DARKER SHADE OF MAGIC; The Invisible Life of Addie Larue; Gallant
 - Schwarcz, Joe: Radar, Hula Hoops< and Playful Pigs  
 - Schwartz, David: The Magic of Thinking Big  
 - Scott, James: Rampage  
@@ -411,6 +430,7 @@
 - Shand, Mark: Travels on My Elephant  
 - Shaw, Julia: The Memory Illusion  
 - Shea, Kieran: Off Rock  
+- Shepherd, Peng: The Cartographers  
 - Sherry, Miranda: Black Dog Summer  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
 - Sinek, Simon: Together is Better: A little book of Inspiration ; Leaders eat Last; The Infinite Game  
@@ -446,7 +466,7 @@
 - Taulli, Tom: Artificial Intelligence Basics  
 - Taylor, Jodi: Just One Damned Thing After Another  
 - Taylor, Steven: The Psychology of Pandemics  
-- Tchaikovsky, Adrian: 1) Empire in Back and Gold  
+- Tchaikovsky, Adrian: 1) Empire in Back and Gold; Ogres  
 - Thames, Elizabeth: Meet the Frugalwoods  
 - The Talent Code: Greatness isnt born.  Its grown   
 - Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future  
@@ -495,6 +515,7 @@
 - Wise, David: Spy  
 - Wittes, Benjamin & Gabriella Blum: The Future of Violence  
 - Wolfe, Gene: Shadow & Claw  
+- Wong, Khan: The Circus Infinite  
 - Worms (superhero book)  
 - Wright, Richard: Burglars on the Job  
 - Yancey, Richard: The 5th wave  
