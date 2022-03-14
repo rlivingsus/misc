@@ -4,6 +4,7 @@
   <pre>
 - Albom, Mitch: the stranger in the lifeboat 2.22   
 - Ballard, JG: Empire of the Sun  
+- Blehm, Eric: Fearless  
 - Cialdini, Robert: Influence  
 - Covey, Stephen: Seven Habits of Highly Efficient People  
 - DeGrasse Tyson, Neil: Astrophysics for People in a Hurry  
@@ -80,7 +81,6 @@
 - Berkun, Scott: Mindfire  
 - Bilton, Nick: American Kingpin  
 - Blake, Olivie: The Atlas Six  
-- Blehm, Eric: Fearless  
 - Botelho, Elena: The CEO Next Door  
 - Bouton, Jim: Ball Four  
 - Bradbury, Ray:  Fahrenheit 451  
