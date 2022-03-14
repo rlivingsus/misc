@@ -16,7 +16,7 @@ FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) T
 ~~1) The Warded Man, 2) The Desert Spear,~~ 3) The Daylight War, 4) The Skull Throne, 5) The Core
 
 ### Brooks, Terry  
-WORD AND VOID: ~~1)Running with the Demon (Feb22)~~, 2)A Knight of the Word, 3)Angel Fire East  
+WORD AND VOID: ~~1)Running with the Demon (Feb22), 2)A Knight of the Word (Mar22)~~, 3)Angel Fire East  
 THE GENESIS OF SHANNARA: 1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph  
 LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
 ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
@@ -213,7 +213,7 @@ THE LEGACY OF THE DROW: ~~1)The Legacy, 2)Starless Night, 3)Siege of Darkness, 4
 THE PATHS OF DARKNESS: ~~1)The Silent Blade, 2)The Spine of the World, 3)Sea of Swords~~  
 THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
 THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
-TRANSITIONS: 1) The Orc King, 2) The Pirate King, 3) The Ghost King  
+TRANSITIONS: ~~1) The Orc King (Mar22)~~, 2) The Pirate King, 3) The Ghost King  
 NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold  
 THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
 COMPANIONS CODEX: 1)Night of the Hunter, 2)Rise of the King, 3)Vengence of the Iron Dwarf  
