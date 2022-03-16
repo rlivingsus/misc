@@ -123,7 +123,7 @@ THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon
 1) Library of the Dead, 2) Our Lady of Mysterious Ailments    
 
 ### Jordan, Robert  
-WHEEL OF TIME: ~~0) New Spring,~~ 0.1) The Strike at Shayol Ghul, 0.2) Earlier-Ravens, ~~1)The Eye of the World, 2) The Great Hunt(JAN22),~~ 3)The Dragon Reborn, 4)The Shadow Rising, 5)The Fires of Heaven, 6)Lord of Chaos, 7)A Crown of Swords, 8)The Path of Daggers, 8.5)Snow, 9)Winter's Heart, 9.5) Glimmers, 10)Crossroads of Twilight, 11)Knife of Dreams, 12)The Gathering Storm, 13)Towers of Midnight, 13.5)By Grace and Banners Fallen, 14)A Memory of Light, Unfettered by Shawn Speakman, A fire within the Ways  
+WHEEL OF TIME: ~~0) New Spring, 0.1) The Strike at Shayol Ghul, 0.2) Earlier-Ravens, 1)The Eye of the World, 2) The Great Hunt(JAN22), 3)The Dragon Reborn (MAR22)~~, 4)The Shadow Rising, 5)The Fires of Heaven, 6)Lord of Chaos, 7)A Crown of Swords, 8)The Path of Daggers, 8.5)Snow, 9)Winter's Heart, 9.5) Glimmers, 10)Crossroads of Twilight, 11)Knife of Dreams, 12)The Gathering Storm, 13)Towers of Midnight, 13.5)By Grace and Banners Fallen, 14)A Memory of Light, Unfettered by Shawn Speakman, A fire within the Ways  
 The Warrior of Altaii  
 
 ### Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
