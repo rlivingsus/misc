@@ -31,10 +31,13 @@ THE FALL OF SHANNARA: 1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stieh
 MAGIC KINGDOM OF LANDOVER: ~~1) Magic Kingdom for Sale/Sold,~~ 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
 
 ### Brown, Pierce  
-RED RISING SAGA: ~~1) Red Rising,~~ 2) Golden Son, 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer    
+RED RISING SAGA: ~~1) Red Rising,~~ 2) Golden Son, 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer  
+
+### Bryson, Bill:  
+In a Sunburned Country,  
 
 ### Burke, Sue:  
-1) Semiosis, 2) Interference  
+1) Semiosis, 2) Interference    
 
 ### Buxton, Kira J.:  
 1)Hollow Kingdom, 2)  
@@ -69,27 +72,27 @@ LORD OF THE ISLES: 1) The Lord of the Isles (HAVE?), 2) Queen of Demons, 3) Serv
 ### Donaldson, Stephen  
 THE CHRONICLES OF THOMAS COVENANT THE UNBELIEVER: 1) Lord Foul's Bane, 2) The Illearth War, 3) The Power that Preserves  
 THE SECOND CHRONICLES OF THOMAS COVENANT: 1) The Wounded Land, 2) The One Tree, 3) White Gold Wielder  
-THE LAST CHRONICLES OF THOMAS COVENANT: 1) The Runes of the Earth, 2) Fatal Revenant, 3) Against all Things Ending, 4) The Last Dark 
-KING'S JUSTICE: The Augur's Gambit, The King's Justice  
+THE LAST CHRONICLES OF THOMAS COVENANT: 1) The Runes of the Earth, 2) Fatal Revenant, 3) Against all Things Ending, 4) The Last Dark  
+KING'S JUSTICE: The Augur's Gambit, The King's Justice   
 
-### Douglass, Sara  
+### Douglass, Sara   
 WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
-### Eddings, David  
+### Eddings, David   
 THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
 THE MALLOREON: 1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
 SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City    
 
-### Ellis, Lindsay:  
-1) Axiom's End, 2) Truth of the Divine  
+### Ellis, Lindsay:   
+1) Axiom's End, 2) Truth of the Divine   
 
 ### Elrod, P.N.  
 VAMPIRE FILES: ~~1) Bloodlist, 2) Lifeblood,~~ 2.5) Chicks Kick Butt by Rachel Caine, 3)Bloodcircle, 4) Art in the Blood, 5) Fire in the Blood, 6) Blood in the Water, 7) A Chill in the Blood, 8) The Dark Sleep, 9) Lady Crymsyn, 10) Cold Streets, 11), Song in the Dark, 11.4) Many Bloody Returns by Charlaine Harris, 11.5) My Big Fat Supernatural Honeymoon, 11.6) Strange Brew, 12) Dark Road Rising, 12.5) The Devil You Know, 12.6) Dark and Stormy Knights  
 
-### Erikson, Steven  
-MALAZAN BOOK OF THE FALLEN: 1) Gardens of the Moon, 2) Deadhouse Gates, 3) Memories of Ice, 4) House of Chains, 5) Midnight Tides, 6) The Bonehunters, 7) Reaper's Gale, 8) Toll the Hounds, 9) Dust of Dreams, 10) The Crippled God  
+### Erikson, Steven   
+MALAZAN BOOK OF THE FALLEN: 1) Gardens of the Moon, 2) Deadhouse Gates, 3) Memories of Ice, 4) House of Chains, 5) Midnight Tides, 6) The Bonehunters, 7) Reaper's Gale, 8) Toll the Hounds, 9) Dust of Dreams, 10) The Crippled God   
 
-### Feist, Raymond  
+### Feist, Raymond   
 RIFTWAR SAGA: 1)Magician: Apprentice, 2)Magician: Master, 3)Silverthorn, 3)A Darkness at Sethanon  
 EMPIRE TRILOGY: 1)Daughter of the Empire, 2)Servant of the Empire, 3)Mistress of the Empire  
 KRONDOR'S SONS: 1)Prince of the Blood, 2)The King's Buccaneer  
@@ -111,18 +114,19 @@ HEAVEN'S SHADOW: ~~1) Heaven's Shadow,~~ 2)Heaven's War, 3) Heaven's Fall
 FOREVER WAR: ~~1) The Forever War,~~2) Forever Peace, ~~3) Forever Free~~  
 
 ### Hickman, Tracy  
-THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~
+THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~  
 
 ### Hobb, Robin  
 THE FARSEER TRILOGY: ~~1) Assassin's Apprentice,~~ 2) Royal Assassin, 3) Assassin's Quest  
 THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven,~~ 3) City of Dragons, 4) Blood of Dragons  
+
 ### Howey, Hugh:  
 1) Wool, 2) Shift, 3) Dust  
 
 ### Huchu, TL:   
 1) Library of the Dead, 2) Our Lady of Mysterious Ailments    
 
-### Jordan, Robert  
+### Jordan, Robert   
 WHEEL OF TIME: ~~0) New Spring, 0.1) The Strike at Shayol Ghul, 0.2) Earlier-Ravens, 1)The Eye of the World, 2) The Great Hunt(JAN22), 3)The Dragon Reborn (MAR22)~~, 4)The Shadow Rising, 5)The Fires of Heaven, 6)Lord of Chaos, 7)A Crown of Swords, 8)The Path of Daggers, 8.5)Snow, 9)Winter's Heart, 9.5) Glimmers, 10)Crossroads of Twilight, 11)Knife of Dreams, 12)The Gathering Storm, 13)Towers of Midnight, 13.5)By Grace and Banners Fallen, 14)A Memory of Light, Unfettered by Shawn Speakman, A fire within the Ways  
 The Warrior of Altaii  
 
@@ -135,11 +139,11 @@ ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Drag
 ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
 ### Koontz, Dean  
-JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window  
+JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
 ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, 1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
 
 ### Kwan, Kevin  
-CRAZY RICH ASIANS: ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich People Problems~~  
+CRAZY RICH ASIANS: ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich People Problems~~   
 
 ### Lackey, Mercedes  
 OBSIDIAN MOUNTAIN SERIES: ~~1) Outstretched Shadow,~~ 2) To Light a Candle, 3) When Darkness Falls  
@@ -156,12 +160,12 @@ GENTLEMEN BASTARD: 1) The Lies of Locke Lamora, 2) Red Seas under Red Skies, 3) 
 ### Martin, George RR  
 A SONG OF ICE AND FIRE: ~~1) Game of Thrones, 2) A Clash of Kings, 3) A Storm of Swords,~~ 4) A Feast for Crows, 5) A Dance with Dragons, 6) The Winds of Winter (forthcoming), 7) A Dream of Spring  
 
-### McCaffrey, Anne  
-DRAGONRIDERS OF PERN Harper Hall Trilogy: ~~Dragonsong, Dragonsinger, Dragondrums~~  
-DRAGONRIDERS OF PERN Original Trilogy: ~~Dragonflight, Dragonquest, The White Dragon~~  
+### McCaffrey, Anne   
+DRAGONRIDERS OF PERN Harper Hall Trilogy: ~~Dragonsong, Dragonsinger, Dragondrums~~   
+DRAGONRIDERS OF PERN Original Trilogy: ~~Dragonflight, Dragonquest, The White Dragon~~   
 DRAGONRIDERS OF PERN First Pass aka Dragonriders' Dawn: Dragonsdawn, The Chronicles of Pern: First Fall (The P.E.R.N. Survey, The Dolphin's Bell, The Ford of Red Hanrahan, The Second Weyr, Rescue Run)    
 DRAGONRIDERS OF PERN First Interval: Dragonsblood (windblossom parts)   
-DRAGONRIDERS OF PERN Second Pass: Red Star Rising, Ever the Twain  
+DRAGONRIDERS OF PERN Second Pass: Red Star Rising, Ever the Twain   
 DRAGONRIDERS OF PERN Second Interval: Dragon's Kin, Dragon's Fire, Dragon Harper, Dragonsblood (Lorana parts)  
 DRAGONRIDERS OF PERN Third Pass: Dragonheart, Dragongirl, Dragon's Time, Sky Dragons  
 DRAGONRIDERS OF PERN Sixth Pass: Moreta: Dragonlady of Pern, Beyond Between, Nerilka's Story  
@@ -176,7 +180,7 @@ THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Ca
 
 ### Niven, Larry  
 MOTIES: 0.5) Future History, ~~1) The Mote in God's Eye, 2) The Gripping Hand,~~ 3) Outies  
-RINGWORLD: ~~1) Ringworld,~~ 2) The Ringworld Engineers, 3) The Ringworld Throne, 4) Ringworld's Children, 5) Fate of Worlds
+RINGWORLD: ~~1) Ringworld,~~ 2) The Ringworld Engineers, 3) The Ringworld Throne, 4) Ringworld's Children, 5) Fate of Worlds  
 
 ### Norton, Mary  
 THE BORROWERS: 1)The Borrowers, 2)The Borrowers Afield, 3)The Borrowers Afloat, 4)The Borrowers Aloft, 5)The Borrowers Avenged   
@@ -219,11 +223,11 @@ THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(dono
 COMPANIONS CODEX: 1)Night of the Hunter, 2)Rise of the King, 3)Vengence of the Iron Dwarf  
 HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero  
 GENERATIONS: 1) Timeless(Dnhave), 2) Boundless(Dnhave), 3) Relentless(Dnhave)  
-THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels
-CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse
+THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels  
+CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse  
 
 ### Sanderson, Brandon   
-MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History, 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal, 
+MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History, 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,  
 STORMLIGHT ARCHIVE: ~~1)The Way of Kings, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 4)Rhythm of War, 5)Highprince of War  
 RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity,~~ 4) Lux  
 ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
@@ -239,7 +243,7 @@ OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades
 Bobiverse 1) We are Legion (We are Bob),  
 
 ### Tchaikovsky, Adrian:  
-1)Shards of Earth, The FInal Architecture; 2) Dark Stars  
+1)Shards of Earth, The FInal Architecture; 2) Dark Stars   
 
 ### Varley, John  
 GAEA TRILOGY: 1) Titan, 2) Wizard, 3) Demon  
@@ -251,15 +255,15 @@ LORDS OF DUS SERIES: 1) The Lure of the Basilisk, 2) The Seven Altars of Dusarra
 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)  
 
 ### Wells, Martha:  
-Murderbot Diaries, 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry  
+Murderbot Diaries, 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry   
 
 ### Wendig, Chuck  
-STAR WARS AFTERMATH: 1) Aftermath, 2) Life Debt, ~~3) Empire's End~~
+STAR WARS AFTERMATH: 1) Aftermath, 2) Life Debt, ~~3) Empire's End~~  
 
 ### Williams, Tad  
 ~~1) The Dragonbone Chair,~~ 2) Stone of Farewell, 3) To Green Angel Tower, 3.5) The Heart of What was Lost    
 
-### Williams, Walter J  
+### Williams, Walter J   
 DAGMAR SHAW SERIES: ~~This is Not a Game~~ WAS S'OK    
 
 ### Wilson, Robert C    
