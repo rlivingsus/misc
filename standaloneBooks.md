@@ -56,7 +56,6 @@
 - Archer, Ursula: FIVE   
 - Ariely, Dan: The Honest Truth about Dishonesty  
 - Asher, Neal: Dark Intelligence: Transformation  
-- Asimov, Isaac: Prelude to Foundation; The God Themselves 
 - Asner, Ed: The Grouchy Historian  
 - Assad, Michele: Breaking Cover  
 - Atwood, Margaret: Oryz and Crake  
