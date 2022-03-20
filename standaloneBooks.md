@@ -51,6 +51,7 @@
 - Alpert, Steve: Sharing a House with the Never-Ending Man:  
 - Anderson, Kevin: Enemies and Allies  
 - Andrews, Jesse: Me, Earl and the Dying Girl  
+- Angelou, Maya: I Know why the Caged Bird Sings  
 - AN INNOCENT ABROAD: Lonely Planet  
 - Archer, Ursula: FIVE   
 - Ariely, Dan: The Honest Truth about Dishonesty  
@@ -104,6 +105,7 @@
 - Carse, James: Finite and Infinite Games  
 - Chabon, Michael: The Yiddish Policeman's Union   
 - Chambers, Becky: The Long Way to a Small, Angry Planet  
+- Chen, Andrew: The Cold Start Problem  
 - Chen, Mike: Light Years from Home  
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
@@ -147,6 +149,7 @@
 - Ebrahim, Zak: The Terrorist's Son  
 - Edmondson, Amy: the Fearless Organization  
 - Einstein, Albert: Ideas and Opinions  
+- Eisenmann, Tom: Why Startups Fail  
 - El-Mohtar, Amal: This is How you Lose the Time War  
 - Ellenberg, Jordan: How Not to be Wrong  
 - Ellsberg, Michael: The Education of Millionaires  
@@ -174,6 +177,7 @@
 - Forester, CS: The Good Shepherd  
 - Forlee, Sherwood: Walls Notebook  
 - Foster, Jack: How to Get Ideas  
+- Frankl, Viktor: Man's Search for Meaning  
 - Freedman, Lawrence: The Future of War
 - Frey, Dan: The Future is Yours  
 - Friedman, C.S.: Feasts of Souls  
@@ -190,6 +194,7 @@
 - Goggins, David: Cant hurt me  
 - Goldratt, Eliyahu: The Choice  
 - Goldstein, Emmanuel: Dear Hacker  
+- Goldstein, Jacob: Money: The True Story of a Made-up Thing  
 - Goldstein, Noah: Yes! 50 Scientifically Proven ways to be persuasive  
 - Goodkind, Terry: The Sky People  
 - Goodman, Marc: Future Crimes
@@ -223,6 +228,7 @@
 - Hawke, Mykel: Hawke's Special Forces Survival Handbook  
 - Hawker, Natasha: From Hire to FIre & Everything in Between  
 - Hayes, Drew: SuperPowered  
+- Hawking, Stephen: A Brief History of Time  
 - Haynes, Peter: Toward a New Maritime Strategy  
 - Hedfield, Chris: The Apollo Murders  
 - Helgerson, John: Getting to Know the President  
@@ -243,10 +249,11 @@
 - Hughes, Wayne: Fleet Tactics and Coastal Combat  
 - Hunter, Dave: Along Interstate-75  
 - Hurley, Kameron: The Stars are Legion  
+- Hunter, Georgia: We were the Lucky Ones  
 - Huxley, Aldous: Brave New WOrld  
 - Iger, Robert: The RIde of a Lifetime  
 - Isaacson, Walter: Einstein: His Life and Universe  
-- Ishiguro, Kazuo: Klara and the Sun  
+- Ishiguro, Kazuo: Klara and the Sun, The Buried Giant; The Remains of the Day  
 - Jackall, Robert: Moral Mazes  
 - Jackson, John: One Nation under Drones  
 - Jackson, Phil: Eleven Rings  
@@ -268,6 +275,7 @@
 - Kendi, Ibram: How to be an Antiracist  
 - Kennedy, Paul: Rise and Fall of the Great Powers  
 - Kent, Jasper: Twelve  
+- Keyes, Daniel: Flowers for Algernon  
 - Khoury, Jessica: THE FORBIDDEN WISH  
 - Kim, Bo-Young: I'm Waiting for You and Other Stories  
 - King, Stephen: The Eyes of the Dragon; UR; 11/22/63  
@@ -279,6 +287,7 @@
 - Kolker, Claudia: The Immigrant Advantage  
 - Koontz, Dean: Strangers; Quicksilver   
 - Kritzer, Naomi: Catfishing on CatNet  
+- Kundera, Milan: the Unbearable Lightness of Being  
 - Laberge, Stephen: Exploring the World of Lucid Dreaming  
 - Lanagan, Margo: Tender Morsels  
 - Landweber, Michael: The Damage Done  
@@ -320,6 +329,7 @@
 - Marillier, Juliet: Heir to Seven Waters  
 - Marin, David: This is US  
 - Marlantes, Karl: Matterhorn; What it is like to go to war  
+- Marquez, Gabriel Garcia: One Hundred Years of Solitude  
 - Martel, Jay: The Present  
 - Martel, Yann: The High Mountains of Portugal  
 - Martin, George RR: Wildcards Novels  
@@ -331,6 +341,7 @@
 - McDonald, Brian: Invisible Ink  
 - McDonald, Ed: Blackwing  
 - McFate, Sean: The New Rules of War  
+- McGrath, Ben: Riverman: An American Odyssey  
 - McGuire, Seanan: Where the Drowned Girls Go  
 - McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
 - McNeill, Graham: Ultramarines Omnibus  
@@ -348,6 +359,7 @@
 - Moorcock, Michael: A Nomad of the Time streams  
 - Moore, Peter: V is for Villain  
 - Morillo, Christina: 97 Things Every Information Security Pro Should Know  
+- Murakami, Haruki: The Wind-up Bird Chronicle  
 - Murakami, Ryu: Popular Hits of the Showa Era  
 - Murata, Sayaka: Convenience Store Woman  
 - Muratyan, Vahram: Paris versus New York  
@@ -367,9 +379,12 @@
 - North, Ryan: How to Invent Everything: A Survival Guide for the Stranded Time Traveler  
 - Oakley, Barbara: A Mind for Numbers  
 - O'Brien, Phillips Payson: The 2nd Most Powerful Man in the World  
+- O'Brien, Tim: The Things they Carried  
 - Okorafor, Nnedi: Lagoon, Remote Control  
-- Paolini, Christopher: To Sleep in a Sea of Stars  
 - Pacitti, Tony: My Best Friend is a Wookiee  
+- Pollan, Michael: The Omnivore's Dilemma  
+- Palmer, Ada: 1) Too Like the Lightning; 2) Seven Surrenders  
+- Paolini, Christopher: To Sleep in a Sea of Stars 
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
 - Pene du Bois, William: The Twenty-One Balloons  
 - Pham, Andrew: Catfish and Mandala  
@@ -384,6 +399,7 @@
 - Pratchett, Terry: Discworld books  
 - Pressfield, Steven: Gates of Fire  
 - Putnam, Robert: Bowling Alone  
+- Rawls, Wilson: Where the Red Fern Grows  
 - Raymer, Edward: Descent into Darkeness  
 - Redman, Jason: Overcome  
 - Reed, Steven: Making Common Sense of Japan  
@@ -473,6 +489,7 @@
 - Till, Geoffrey: Sea Power  
 - Tokunaga, Wendy: Marriage in Translation  
 - Toll, Ian: Six Frigates  
+- Tolstoy, Leo: The Death of Ivan Ilyich  
 - Torseter, Oyvind: The Hole  
 - Tremblay, Paul: The Last Conversation  
 - Trichter, Judd: Love in the Age of Mechanical Reproduction  
@@ -487,11 +504,12 @@
 - Vinge, Vernor: A Fire Upon the Deep  
 - Volk, Steve: Fringe-ology  
 - Voigt, Emily: The Dragon behind the Glass  
-- Vonnegut, Kurt: Slaughterhouse-5  
+- Vonnegut, Kurt: Slaughterhouse-5, Breakfast of Champions  
 - Vuong, Ocean: On Earth Were Briefly Gorgeous  
 - Wakin, Malham: War, Morality, and the Military Profession  
 - Walker, Sam: The Captain Class  
 - Wallace, Danny: F You very Much  
+- Wallace, David Foster: Infinite Jest  
 - Walzer, Michael: Just and Unjust Wars  
 - Ward, David: Between Two Ends  
 - Ware, Ruth: In a Dark, Dark Wood  
@@ -514,6 +532,7 @@
 - Winters, Mary-Frances: We cant talk about that at work!  
 - Wise, David: Spy  
 - Wittes, Benjamin & Gabriella Blum: The Future of Violence  
+- Wohlleben, Peter: The Hidden Life of Trees  
 - Wolfe, Gene: Shadow & Claw  
 - Wong, Khan: The Circus Infinite  
 - Worms (superhero book)  
