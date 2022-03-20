@@ -6,6 +6,9 @@ The Blade Itself; The First Law books; The Last Arguments of Kings
 ### Anthony, Piers  
 Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass,~~ 3)With a Tangled Skein, 4)Wielding a Red Sword, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
 
+### Asimov, Isaac  
+The End of Eternity; Prelude to Foundation; The God Themselves   
+
 ### Athans, Philip  
 FORGOTTEN REALMS SEMBIA MULTIPLE AUTHORS: 1)The Halls of Stormweather(HAVE), 2)Shadow's witness, 3)The Shattered Mask(HAVE), 4)Black wolf, 5)Heirs of Prophecy(HAVE), 6)Sands of the Soul, 7)Lord of Stormweather
 
@@ -199,6 +202,7 @@ POSEIDON'S CHILDREN: 1) Blue Remembered Earth, 2) On the Steel Breeze, 3) Poseid
 
 ### Riddle, AG  
 ORIGIN MYSTERY: ~~1) Atlantis Gene,~~ 2) Atlantis Plague, 3) Atlantis World  
+THE LONG WINTER: 1) Winter World, 2) The Solar War, 3) The Lost Colony  
 
 ### Roth, Veronica  
 DIVERGENT: ~~1) Divergent, 2) Insurgent, 3) Allegiant~~ Four: Divergent Story Collection  
@@ -225,6 +229,7 @@ HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero
 GENERATIONS: 1) Timeless(Dnhave), 2) Boundless(Dnhave), 3) Relentless(Dnhave)  
 THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels  
 CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse  
+THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge (soon?2022)  
 
 ### Sanderson, Brandon   
 MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History, 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,  
@@ -238,6 +243,9 @@ WARBREAKER: 1) Warbreaker, 2) Nightblood
 
 ### Scalzi, John  
 OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades, The Sagan Diary, The Last Colony, Zoe's Tale, After the Coup, The Human Division, The B-Team, Walk the Plank, We only need the Heads, A Voice in the Wilderness, Tales from the Clarke, The Back Channel, The Dog King, The Sound of Rebellion, The Observers, This must be the Place, A Problem of Proportion, The Gentle Art of Cracking Heads, Earth Below Sky Above, The Human Division Extras, The End of All Things, The Life of the Mind, This Hollow Union, Can Long Endure, To Stand or Fall  
+
+### Sullivan, Michael  
+RIYRIA REVELATIONS: 1) Theft of Swords, 2) Rise of Empire, 3) Heir of Novron  
 
 ### Taylor, Dennis:   
 Bobiverse 1) We are Legion (We are Bob),  
