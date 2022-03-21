@@ -9,6 +9,7 @@
 - Covey, Stephen: Seven Habits of Highly Efficient People  
 - DeGrasse Tyson, Neil: Astrophysics for People in a Hurry  
 - De Los Santos, Marisa: Saving Lucas Biggs  
+- Goldsmith, Connie: Kiyo Sato (Mar 22)  
 - Goulston, Mark: Just Listen  
 - Grohl, Dave: The Storyteller   
 - Hillenbrand, Laura: Unbroken  
@@ -21,6 +22,7 @@
 - Lee, Jennifer: Fortune Cookie Chronicles  
 - Mitnick, Kevin: The Art of Deception  
 - Montgomery, Sy: The Soul of an Octopus 1.2022  
+- Morelli, Laura: The Stolen Lady (MAR 22)  
 - Mundy, Liza: Code Girls  
 - Niven, Larry: Lucifer's Hammer  
 - Pohl, Frederik: The World at the End of Time  
