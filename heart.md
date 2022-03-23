@@ -1,5 +1,55 @@
 ## New up top  
 
+### 3.22.22 Notes and Dr. Penn and Lipid lab results   
+
+Are all Fats Bad for You?
+-Fats are essential: Omega3, monounsaturated fats good, reasonable of saturated fat in absence of reduced carbs diet (cuz react different with and without carbs),
+
+Dr. Richard Lindquist from Swedish Med https://www.youtube.com/watch?v=89sHwqB9PNc  
+
+- Saturated fats are solid at room temperature found in butter, lard, full-fat milk/yogurt, full-fat cheese, high fat meat
+- Unsaturated fat tends to be liquid at room temperature found in vegetable oils, fish and nuts
+- AHA recommends staying under 7% of daily calories of saturated fat cuz tends to raise low-density lipoprotein (LDL) levels in blood.  
+- Two types of unsaturated fats: 
+-- monounsaturated found in olive, canola, peanut, sunflower, safflower oils, avocados, peanut butter and most nuts.  Also part of most animal fats like chicken, pork, beef.  
+-- polyunsaturated fat found in sunflower, corn, soybean, and cottonseed oil also found in walnut, pine nuts, flaxseed, sesame, sunflower, and pumpkin seeds.  Omega 3 fall into this category and found in fatty fish like salmon, herring, sardines. 
+
+REF: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550
+
+- TRANS FAT is the worst and used to turn healthy oils into solid to prevent them from getting rancid.  No known health benefits.
+- replace saturated fats with polyunsaturated fats like veggie oils or high-fiber carbs is good BUT replacing saturated fats with highly processed carbs could do the opposite.
+
+REF: https://www.health.harvard.edu/staying-healthy/the-truth-about-fats-bad-and-good
+
+Collection on 3.4.22
+A1C HEMOGLOBIN: STandard Range: 4.8-5.6%; My: 5.8%; Prediabetes: 5.7-6.4; Diabetes: >6.4; Glycemic control for adults with diabetes: <7.0  
+APOLIPPROTEIN B: Standard Range: <90 mg/dL; My: 66 mg/dL; Borderline High 90-99; High 100-130; Very High >130 BUT Risk Therapeutic Target is <90 for high risk; <80 for very high risk and <70 for extreme risk  
+ALT (SGPT): Standard Range: 0-44 IU/L; My: 35 IU/L  
+AST (SGOT): Standard Range: 0-40 IU/L; My: 23 IU/L  
+ESTIMATED GFR:   
+-- CREATINE: Standard Range: .76-1.27 mg/dL; My: 1.03 mg/dL  
+-- EGFR: Standard: >59 mL/min/1.73; My: 90mL/min/1.73  
+GLUCOSE, PLASMA: Standard Range: 65-99 mg/dL; My: 107 mg/dL  
+CRP CARDIAC: Standard Range: 0-3.00 mg/L; My: .35 mg/L; Risk for future cardiac event low: <1.00; Average 1.00-3.00; High >3.00  
+TSH REFLEX TO FT4: STD: 0.450-4.500 uIU/mL; My: 1.1 uIU/mL  
+MYELOPEROXIDASE (MPO): STD: 0-459 pmol/L; My: 191 pmol/L; Low CVD Risk <470; Moderate Risk 470-539; High Risk >539   
+LP-PLA2: STD: 0-224 nmol/min/mL; My: 134 nmol/min/mL; Reduced Risk <225; Increased Risk >224  
+LIPOPROTEIN(A): STD: <75 nmol/L; My: 180.4 nmol/L; high but I'm partially non-caucasian.  
+MICROALBUMIN CREAT RATIO:   
+-- CREATINE CONC (mg/dL): STD: not established; My: 131.1 mg/dL  
+-- ALBUMIN, U: STD: not established; My: <3.0 ug/mL  
+-- Alb/Creat Ratio: STD: 0-29 mg/g creat; My: <2 mg/g create; Normal 0-29; Moderately increased: 30-300; Severely Incrased >300  
+
+L-lysine & L-proline binds to Lp(a) to remove to liver.  So high vitamin C and amino acid lysine is good  
+
+Lipoprotein(a) aka little a per Dr. Penn?  
+
+Met with Dr. Penn and Dr student on 3.22.22 and here are the items:  
+- regarding the laser on the right (and maybe left).  We have a second appointment with Dr. Goleski? with Yuko and will need to update cuz the Thursday 4.2x is during early release for Sara.  Maybe dangerous procedure.  Still some nauseousness but better?
+- Angiogram once a year?  Nope we wait until I start feeling worse then let them know so we do something (probably angiogram then).  I forgot to ask for non invasive like EKG.  Can live with how I am (plugged up RCA) but not right so probably should fix
+- If I want to look at potential trials check with NP Marc? to reduce LP(a) but don't want to reduce LDL too much cuz Yuks says your arterial walls get weak and possible stroke and stuff.
+- Next appt. 6-12 months.
+----
 ### 2.25.22 Notes and Polyclinic video conference  
 
 Appointment with PolyClinic, Mark Anstadt.
