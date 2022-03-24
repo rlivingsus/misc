@@ -5,14 +5,21 @@
 - Albom, Mitch: the stranger in the lifeboat 2.22   
 - Ballard, JG: Empire of the Sun  
 - Blehm, Eric: Fearless  
+- Brooks, Terry, et al.: Unfettered  
+- Brotherton, Marcus: Shifty's War  
+- Carey, MR: The Girl with All the Gifts  
 - Cialdini, Robert: Influence  
 - Covey, Stephen: Seven Habits of Highly Efficient People  
 - DeGrasse Tyson, Neil: Astrophysics for People in a Hurry  
 - De Los Santos, Marisa: Saving Lucas Biggs  
-- Goldsmith, Connie: Kiyo Sato (Mar 22)  
+- Doyle, Arthur Conan: The Lost World  
+- Freeman, Brian: Infinite   
+- Goldsmith, Connie: Kiyo Sato (Mar 22: Story about a Japanese American and her experience during WWI internment camps)  
 - Goulston, Mark: Just Listen  
 - Grohl, Dave: The Storyteller   
+- Guarnere, William: Brothers in Battle, Best of Friends  
 - Hillenbrand, Laura: Unbroken  
+- Hanh, Thit That: The Heart of the Buddha's Teaching   
 - Hartley, Gregory: How to spot a liar 1.2022    
 - Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
 - Kalanithi, Paul: When Breath Becomes Air  
@@ -20,19 +27,28 @@
 - King, Stephen: Billy Summers; Dark Tower 7 books; Elevation; Outsider; The Institute; Riding the Bullet; Joyland     
 - Koontz, Dean: The Good Guy  
 - Lee, Jennifer: Fortune Cookie Chronicles  
+- Lyga, Barry: Marvel's Avengers: Infinity War: Thanos  
+- Malarkey, Don: Easy Company Soldier  
 - Mitnick, Kevin: The Art of Deception  
 - Montgomery, Sy: The Soul of an Octopus 1.2022  
-- Morelli, Laura: The Stolen Lady (MAR 22)  
+- Morelli, Laura: The Stolen Lady (MAR 22): Story about stolen art work Mona Lisa? during WWII Paris and also jumps to Leonardo Da Vinci's time in 1400s  
 - Mundy, Liza: Code Girls  
-- Niven, Larry: Lucifer's Hammer  
+- Niven, Larry: Lucifer's Hammer; 1) The Mote in God's Eye, 2) The Gripping Hand  
 - Pohl, Frederik: The World at the End of Time  
+- Resnick, Mike, et al.: Stars  
+- Riddle, AG: The Atlantis Gene  
+- Roth, Veronica: Divergent series  
 - Samuellson, Marcus: Yes Chef  
 - Seinfeld, Jerry: Is this Anything  
 - Sledge, E.B.: With the Old Breed: At Peleliu and Okinawa (Mar 22)    
+- Swarup, Vikas: Slumdog   
+- Swift, Jonathan: Gulliver's Travel  
 - Thanh, Thict Nhat: The Heart of Buddha's Teaching  
 - Tran, Phuc: Sigh Gone  
 - Twain, Mark: Adventures of Huckleberry Finn 3.22  
+- Verne, Jules: Journey to the Center of the Earth; 20 thousand Leagues under the Sea; The Mysterious Island  
 - Walker, Jimmie: Dyn O Mite  
+- Winters, Dick: Beyond Band of Brothers  
 - Zelazny, Roger: The Great book of Amber  
 </details>
 
@@ -83,6 +99,7 @@
 - Berkun, Scott: Mindfire  
 - Bilton, Nick: American Kingpin  
 - Blake, Olivie: The Atlas Six  
+- Boatright, Billy: Swing Away: Conquering Imposter Syndrome  
 - Botelho, Elena: The CEO Next Door  
 - Bouton, Jim: Ball Four  
 - Bradbury, Ray:  Fahrenheit 451  
@@ -91,6 +108,7 @@
 - Brooks, David: The Road to Character 
 - Brown, Peter: The WIld Robot Escapes  
 - Brown, Rachel, Manija: Stranger  
+- Brown, Ryk: The Frontiers Saga (kindle) 
 - Brown, Theresa: Critical Care  
 - Browne, M. Neil: Asking the Right Questions  
 - Buck, Leslie: Cutting Back  
@@ -110,7 +128,8 @@
 - Chen, Mike: Light Years from Home  
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
-- Chiang, Ted: Stories of your Life and Others, Exhalation  
+- Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle)  
+- Clark, Christopher: The Sleepwalkers (kindle)
 - Clark, Richard & Robert K. Knake: The Fifth Domain  
 - Clarke, Susanna: Jonathan Strange and Mr. Norrell; Piranesi    
 - Clearfield, Chris: Meltdown  
@@ -133,6 +152,7 @@
 - Davis, Sampson: The Pact  
 - Dawkins, Richard: The Magic of Reality  
 - Del Monte, Louis A.: Genius Weapons  
+- Demopoulos, Ted: Infosec Rock Star (kindle)  
 - Dick, Phillip K.: Electric Dreams?  
 - Dignan, Aaron: Gameframe  
 - Dinniman, Matt: Dungeon Crawler Carl  
@@ -142,6 +162,7 @@
 - Domesek, Erica: P.S. I Made This...I See It...  
 - Doubinsky, Sebastien: The Babylonian Trilogy  
 - Dower, John: Embracing Defeat: Japan in the Wake of World War II  
+- Doyle, Arthur Conan: Complete Sherlock Holmes (kindle)
 - Dozois, Gardner: The Very Best of the Best: 35 Years of the Year's Best Sci-Fi  
 - Drayden, Nickey: The Prey of Gods  
 - Dreeke, Robin: It's Not all about "me"  
@@ -164,6 +185,7 @@
 - Evan, Erin: The Bone Wars  
 - Falaye, Deborah: Blood Scion  
 - Fallon, Jennifer: Tide Lords series  
+- Farr, Richard: The Fire Seekers (kindle)
 - Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
 - Feynman, Richard: The Pleasure of Finding things out  
 - Fick, Nathaniel: One Bullet Away: The Making of a Marine Officer  
@@ -185,10 +207,12 @@
 - Friedman, George: The Next 100 Years  
 - Gaiman, Neil: American Gods  
 - Garcia, Kami: Beautiful Creatures  
+- Garvin, Ann: I thought you said this would work (kindle?)   
 - Gates, Robert: Duty: Memoirs of a Secretary at War  
 - Gaunt, Derek: Ego, Authority, Failure  
 - Gee, Emily: The Sentinel Mage  
 - Gibson, William: Neuromancer  
+- Girard, Danielle: White Out (kindle)  
 - Gladstone, Max: Last Exit; This is How you Lose the Time War  
 - Gladwell, Malcolm: Blink; Outliers  
 - Godin, Seth: The Dip: A little book that teaches you when to quit (& when to stick)  
@@ -222,6 +246,7 @@
 - Hall, Edward: The Hidden Dimension  
 - Hall, Kindra: Stories that Stick  
 - Hanh, Thich Nhat: Fear  
+- Hanson, Jason: Spy Secrets that can save your life (kindle)  
 - Harkin, Jo: Tell Me an Ending  
 - Harris, Josh: Captain Phil Harris  
 - Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon  
@@ -231,12 +256,15 @@
 - Hayes, Drew: SuperPowered  
 - Hawking, Stephen: A Brief History of Time  
 - Haynes, Peter: Toward a New Maritime Strategy  
+- Healey, Jane: The Secret Stealers (kindle)  
+- Heath, Chip: Made to Stick   
 - Hedfield, Chris: The Apollo Murders  
 - Helgerson, John: Getting to Know the President  
 - Helm, Leslie: Yokohama Yankee  
 - Henderson, Randy: Finn Fancy Necromancy  
+- Hernandez, Jose: Reaching for the Stars (kindle)  
 - Hibbing, John: Predisposed  
-- Heath, Chip: Made to Stick  
+- Hirano, Keiichiro: A Man (kindle)  
 - Hoffman, Carl: The Lunatic Express  
 - Holiday, Ryan: Ego is the Enemy; Conspiracy  
 - Holmberg, Charlie: Star Father  
@@ -290,6 +318,7 @@
 - Kritzer, Naomi: Catfishing on CatNet  
 - Kundera, Milan: the Unbearable Lightness of Being  
 - Laberge, Stephen: Exploring the World of Lucid Dreaming  
+- Lallo, Joseph: The Book of Deacon (kindle)  
 - Lanagan, Margo: Tender Morsels  
 - Landweber, Michael: The Damage Done  
 - Landy, Derek: Skulduggery Pleasant 1  
@@ -305,7 +334,10 @@
 - Lefevre, Edwin: Reminiscenses of a Stock Operator  
 - Lem, Stanislaw: Solaris  
 - Lemelle, Salim: Refresh  
-- Levi, Primo: The Periodic Table
+- Levi, Primo: The Periodic Table  
+- Levin, Michael: Broken Windows, Broken Business: How the Smallest Remedies Reap Biggest Rewards (kindle)  
+- Levy, Lawrence: To Pixar and Beyond (kindle)  
+- Lewis, Joseph Robert: Aetherium (kindle)  
 - Lewis, Michael: The Undoing Project 
 - Le Guin, Ursula K.: The Dispossessed  
 - Lipman, Joanne: That's What She Said  
@@ -316,9 +348,11 @@
 - Lockwood, Charles: Tragedy at Honda  
 - Logothetis, Leon: The Kindness Diaries  
 - Lopez-Alt, J. Kenji: The Food Lab  
+- Lourey, Jess: Unspeakable Things (kindle)  
 - Lowell, Nathan: Solar Clipper  
 - Lucas, George: Military Ethics  
 - Luepnitz, Deborah: Schopenhauer's Porcupines  
+- Luttgens, Jason: Incident Response & Computer Forensics (kindle)  
 - Lynch, Scott: The Lies of Locke Lamora: Gentleman Bastards  
 - Maberry, Jonathan: Joe Ledger  
 - MacDonald, Eileen: Shoot the women first  
@@ -331,6 +365,7 @@
 - Marin, David: This is US  
 - Marlantes, Karl: Matterhorn; What it is like to go to war  
 - Marquez, Gabriel Garcia: One Hundred Years of Solitude  
+- Marr, Elle: The Missing Sister (kindle)  
 - Martel, Jay: The Present  
 - Martel, Yann: The High Mountains of Portugal  
 - Martin, George RR: Wildcards Novels  
@@ -339,7 +374,7 @@
 - McCandless, David: Beautiful News  
 - McCarthy, Andrew: Journeys Home  
 - McChrystal, Standley: Team of Teams  
-- McDonald, Brian: Invisible Ink  
+- McDonald, Brian: Invisible Ink, The Golden Theme (kindle)    
 - McDonald, Ed: Blackwing  
 - McFate, Sean: The New Rules of War  
 - McGrath, Ben: Riverman: An American Odyssey  
@@ -354,12 +389,14 @@
 - Miller, Christian: The Character Gap  
 - Miller, Lulu: Why Fish Don't Exist: A story of Loss, Love, and Hidden Order of Life  
 - Mindell, David: Our Robots, Ourselves  
+- Miodownik, Mark: Stuff Matters (kindle)  
 - Mitchell, Maggie: Pretty is:  
 - Mnookin, Robert: Create Value in Deals and Disputes  
 - Moon, Elizabeth:  
 - Moorcock, Michael: A Nomad of the Time streams  
 - Moore, Peter: V is for Villain  
 - Morillo, Christina: 97 Things Every Information Security Pro Should Know  
+- Munninghoff, Alexander: The Son and Heir (kindle)  
 - Murakami, Haruki: The Wind-up Bird Chronicle  
 - Murakami, Ryu: Popular Hits of the Showa Era  
 - Murata, Sayaka: Convenience Store Woman  
@@ -367,7 +404,7 @@
 - Murray, Williamson: Military Innovation in the Interwar Period  
 - Murtagh, Niall: The Blue-Eyed Salaryman  
 - Musker, Jackson: The Sea in the Sky  
-- Navarro, Joe: What every Body is saying; The dictionary of body language  
+- Navarro, Joe: What every Body is saying; The dictionary of body language (kindle)  
 - Nesbit, E:  
 - Ness, Patrick: Chaos Walking: trilogy  
 - Netz, Reviel: The Archimedes Codex  
@@ -375,6 +412,7 @@
 - Newitz, Annalee: The Future of Another Timeline 
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
+- Niven, Larry: 3) Outies (kindle?)  
 - Nobu: A memoir  
 - Noesner, Gary: Stalling For Time  
 - North, Ryan: How to Invent Everything: A Survival Guide for the Stranded Time Traveler  
@@ -385,7 +423,8 @@
 - Pacitti, Tony: My Best Friend is a Wookiee  
 - Pollan, Michael: The Omnivore's Dilemma  
 - Palmer, Ada: 1) Too Like the Lightning; 2) Seven Surrenders  
-- Paolini, Christopher: To Sleep in a Sea of Stars 
+- Paolini, Christopher: To Sleep in a Sea of Stars  
+- Parazynski, Scott: The Sky Below (kindle)  
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
 - Pene du Bois, William: The Twenty-One Balloons  
 - Pham, Andrew: Catfish and Mandala  
@@ -400,6 +439,7 @@
 - Pratchett, Terry: Discworld books  
 - Pressfield, Steven: Gates of Fire  
 - Putnam, Robert: Bowling Alone  
+- Randel, Weina Dai: The Last Rose of Shanghai (kindle)  
 - Rawls, Wilson: Where the Red Fern Grows  
 - Raymer, Edward: Descent into Darkeness  
 - Redman, Jason: Overcome  
@@ -450,6 +490,7 @@
 - Shepherd, Peng: The Cartographers  
 - Sherry, Miranda: Black Dog Summer  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
+- Shoemaker, Martin: The Last Dance (kindle)  
 - Sinek, Simon: Together is Better: A little book of Inspiration ; Leaders eat Last; The Infinite Game  
 - Singer, PW & August Cole: Burn-In: A Novel of the Real Robotic Revolution & Ghost Fleet  
 - Singh, Simon: Fermats Enigma  
@@ -477,6 +518,7 @@
 - Suarez, Daniel: Change Agent  
 - Sulliven, Michael J.: Theft of Swords  
 - Sundem, Garth: The Geeks Guide to World Domination  
+- Sunzi: The Art of War (kindle)  
 - Taggart, Caroline: I Used to Know That  
 - Tan, Cheryl: A Tiger in the Kitchen  
 - Tan, Sue Lynn: Daughter of the Moon Goddess  
@@ -486,6 +528,7 @@
 - Tchaikovsky, Adrian: 1) Empire in Back and Gold; Ogres  
 - Thames, Elizabeth: Meet the Frugalwoods  
 - The Talent Code: Greatness isnt born.  Its grown   
+- Thompson, Eldon: Unbowed: A Kronus Tale (kindle)  
 - Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future  
 - Till, Geoffrey: Sea Power  
 - Tokunaga, Wendy: Marriage in Translation  
@@ -496,6 +539,7 @@
 - Trichter, Judd: Love in the Age of Mechanical Reproduction  
 - Trotter, William: Frozen Hell  
 - Tuchman, Barbara: March of Folly: From Troy to Vietnam; The Guns of August  
+- Tuhovsky, Ian: The Art of Reading People (kindle)  
 - Turnbull, Cadwell: The Lesson  
 - Urschel, John: Mind & Matter  
 - Vance, Jack: The Eyes of the Overworld  
@@ -511,6 +555,7 @@
 - Walker, Sam: The Captain Class  
 - Wallace, Danny: F You very Much  
 - Wallace, David Foster: Infinite Jest  
+- Walter, Susan: Good as Dead (kindle)  
 - Walzer, Michael: Just and Unjust Wars  
 - Ward, David: Between Two Ends  
 - Ware, Ruth: In a Dark, Dark Wood  
@@ -546,4 +591,163 @@
 - Zetter, Kim: Countdown to Zero Day  
 - Zinni, Tony: Before the First Shot is Fired: How America can win lose off the Battlefield  
 ----
+</details>
+----
+<details>
+  <summary> Audible I have</summary>
+  <pre>
+#### Alpha sorted  
+- Abercrombie, Joe: Half the World  
+- Abraham, Daniel: The Dragon's Path  
+- Adams, Scott: How to Fail at Almost Everything and Still Win Big  
+- Ackerman, Sara: Red Sky over Hawaii  
+- Ahn, Flora: The Golden Orchard  
+- Albala, Ken: History of Bourbon  
+- Aldrete, Gregory: History's Great Military Blunders and the Lessons They Teach  
+- Anderson, Chris: TED Talks  
+- Anderson, Hans Christian: The Snow Queen  
+- Anderson, Kevin: Captain Nemo  
+- Anspach, Jason: Forget Nothing  
+- Asher, Neal: Dark Intelligence  
+- Atchison, Jarrod: The Art of Debate  
+- Avery, Sean: Ice Capades  
+- Ball, WW Rouse: A Short Account of the History of Math  
+- Bear, Greg: War Dogs  
+- Bennett, R. William: Jacob T. Marley (already listened?)  
+- Bernheimer, Jim: Origins of a D-List Supervillian  
+- Bock, Laszlo: Work Rules!  
+- Bohem, Less: Junk  
+- Bova, Ben: The SCI FI HOF Vol.2-B  
+- Braddon, Mary: The Christmas Hirelings  
+- Brierley, Saroo: Lion  
+- Burns, Steve: Foreverwhere  
+- Byrd, Max: Pont Neuf  
+- Cale, David: Harry Clarke  
+- Camp, Jim: Start with No (read?)  
+- Campbell, Bruce: If Chins could Kill  
+- Chiang, Ted: Stories of Your Life and others  
+- Child, Lee: Persuader  
+- Christian, Brian: Algorithms to Live By  
+- Clarke, Neil: The best SCHFI of the Year: Volume One  
+- Coelho: Paulo: Gather 'Round the Sound  
+- Cole, Dean: Solitude  
+- Correia, Larry: Monster Hunter Legion; A Murder of Manatees  
+- Corson, Trevor: The Story of Sushi  
+- Cox, Greg: Captain to Captain  
+- Crouch, Blake: Pines  
+- Dalzelle, Joshua: Marine  
+- Derby, Matthew: Phreaks  
+- Dommek Jr., James: Midnight Son  
+- Donahue, Greg: The Minuteman  
+- Doucette, Gene: Immortal; The Spaceship Next Door  
+- Dues, Michael: The Art of Conflict Management  
+- Elwes, Cary: As you Wish  
+- Emmich, Val: Dear Evan Hansen  
+- Feist, Raymond: King of Ashes; Magician: Apprentice; Shadow of a Dark Queen  
+- Fennel, Marc: Nut Jobs  
+- Feynman, Richard: The Pleasure of Finding Things out  
+- Foster, Amy: The Rift Uprising  
+- Frank, Pat: Alas, Babylon  
+- Freeman, Sally Mott  
+- Gaiman, Neil: Trigger Warning; Neverwhere; the Sandman  
+- Garcia, Hector: Ikigai  
+- Garcia, Kami: The X-Files Origins: Agent of Chaos  
+- Gibson, William: Alien III  
+- Gillham, David: Alone with the Stars  
+- Godin, Seth: The Dip  
+- Grabenstein, Chris: Riley Mack and the Other Known Troublemakers; Stuck  
+- Grant, Adam: Power Moves  
+- Greaney, Mark: Dead Eye  
+- Gunderson, Lauren: The Half-Life of Marie Curie  
+- Hamilton, ALexander: The Federalist Paper  
+- Harms, Kelly: You Can Thank Me Later  
+- Harris, Joe: The X-Files: Cold Cases  
+- Hawkins, Jeff: A Thousand Brains  
+- Haywood, RR: Extracted  
+- Heinlein, Robert: The SCIFI Hall of Fame, Vol. 1 1929-1964; The Moon is a Harsh Mistress  
+- Hempton, Gordon: Hoh Rainforest  
+- Hirsch, Jeff: Sovereign  
+- Hoff, Benjamin: The Tao of Pooh  
+- Huxley, Aldous: Island  
+- Islington, James: The Shadow of What was Lost  
+- Janca, Tanya: Alice and Bob Learn Application Security  
+- Khoury, Jessica: The Mystwick School of Musicraft  
+- King, Stephen: 11-22-63  
+- Koontz, Dean: Lightning  
+- Krappweis, Tommy: A Crazy Inheritance  
+- Lecesne, James: The Absolute Brightness of Leonard Pelkey  
+- Lee, Tony: Dodge & Twist  
+- Levy, Steven: In the Plex; Hackers: Heroes of the Comp;uter Revolution  
+- Livingston, Michael: Black Crow, White Snow  
+- Ma, YoYo: Beginner's Mind  
+- Maberry, Jonathan: Trust No One  
+- Macdonald, Erin: The Science of Sci-fi  
+- Martin, George RR, et al.: Wild Cards I  
+- Mather, Matthew: CyberSpace  
+- Maxwell, John: Good Leaders Ask Great Questions  
+- McDermid, Val: Forensics  
+- McGirk, James: The Perfect Swing  
+- McLain, Paula: A mind of her Own  
+- McKinty, Adrian: The Lighthouse War, The Lighthouse Land  
+- McRaven, William: Sea Stories  
+- Metaxas, Eric: Seven Men  
+- Meyer, LA: Under the Jolly Roger; Bloody Jack; Curse of the Blue Tattoo  
+- Michener, James: Hawaii  
+- Mitnick, Kevin: The Art of Deception; The Art of Invisibility  
+- Mogel, Wendy: Voice Lessons for Parents  
+- Moss, Stephen: Fear the Sky  
+- Nichols, Michael: The Lost Art of Listening  
+- Nye, Bill: Everything All at once; Unstoppable  
+- Patterson, James: Private  
+- Perenyi, Ken: Caveat Emptor: The Secret Life of an American Art Forger  
+- Peterson, David: Beyond Strange Lands  
+- Pollard, Matthew: The Introvert's Edge  
+- Pomare, JP: Tell me Lies  
+- Poulson, Kevin: Kingpin  
+- Powell, Colin: It Worked for Me  
+- Rather, Dan: Stories of a Lifetime  
+- Rich, Ben: Skunk Works  
+- Rich, Simon: Screwball  
+- Riddle, AG: Departure  
+- Robinson, Jeremy: Infinite: Exo-Hunter  
+- Ross, Marty: The Darkwater Bride  
+- Rowe, Andrew: Sufficiently Advanced Magic; How to Defeat a Demon King in Ten Easy Steps  
+- Rowling, JK: The Tales of Beedle the Bard  
+- Sainsbury, Ian: The World Walker  
+- Sakey, Marcus: Brilliance  
+- Salamo, Lin: Mark Twain's Helpful Hints for Good Living  
+- Salvatore, RA: Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories  
+- Sanderson, Brandon: Legion: The Many Lives of Stephen Leeds (2 others? Mitosis read it think); Warbreaker (read?); Elantris (Read); Arcanum Unbounded  
+- Scalzi, John: Dispatcher; The Collapsing Empire  
+- Schwab, VE: A Darker Shade of Magic  
+- Schulman, Daniel: Sons of Wichita  
+- Sedaris, David: Holidays on Ice  
+- Sherry, Miranda: Black Dog Summer  
+- Shetterly, Margot Lee: Hidden Figures  
+- Seim, Carrie: The Flying Flamingo Sisters  
+- Sinek, Simon: Leader Eat Last; The Infinite Game  
+- Smith, Jan: Killer by Nature  
+- Snider, Brandon: Beezer  
+- Stanier, Michael: The Coaching Habit  
+- Stashower, Daniel: Sherlock Holmes in America  
+- Stein, Jacob: Jukebox Joyride  
+- Steinmetz, Greg: The Richest Man who Ever Lived  
+- Stevenson, Robert Louis: Treasure Island (Read?)  
+- Stone, Brad: The Everything Store  
+- Sturgeon, Theodore: SCIFI Hall of Fame, Vol.2-A  
+- Sullivan, Michael: The Jester (A Riyria Chronicles); Age of Myth  
+- Taylor, James: Break Shot: My First 21 Years  
+- Tchaikovsky, Adrian: Children of Time  
+- Terrill, Cristin: All Our Yesterdays  
+- Tolkien, JRR: The Fellowship of the Ring; The Two Towers; Return of the King  
+- Various: Menu Excerpts from Our Favorite Neward Restaurants  
+- Voth, Grant: Great Mythologies of the World  
+- Wade, Adam: You Ought to Know Adam Wade  
+- Weir, Andy: Project Hail Mary   
+- Wezowski, Kasia: Without saying a word  
+- Wheeler, Jeff: The Queen's Poisoner  
+- Williams, Florence: The 3-Day Effect  
+- Wright, Craig: The Hidden Habits of Genius  
+- Wyman, Patrick: The Verges  
+- Zwillich, Todd: The Man who knew the Way to the Moon  
 </details>
