@@ -31,7 +31,7 @@
 - Malarkey, Don: Easy Company Soldier  
 - Mitnick, Kevin: The Art of Deception  
 - Montgomery, Sy: The Soul of an Octopus 1.2022  
-- Morelli, Laura: The Stolen Lady (MAR 22): Story about stolen art work Mona Lisa? during WWII Paris and also jumps to Leonardo Da Vinci's time in 1400s  
+- Morelli, Laura: The Stolen Lady (MAR 22): Story about stolen art work, Mona Lisa during WWII Paris and also jumps to Leonardo Da Vinci's time in the 1400s, and a maiden of a family who asked Leo to paint the mistress Lisa    
 - Mundy, Liza: Code Girls  
 - Niven, Larry: Lucifer's Hammer; 1) The Mote in God's Eye, 2) The Gripping Hand  
 - Pohl, Frederik: The World at the End of Time  
