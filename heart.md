@@ -1,5 +1,18 @@
 ## New up top  
 
+### 3.22 Dr. Calvin Yeang San Diego talk regarding lp(a)  
+
+- 90% determined by Genes with kids 50% chance to inherit  
+- LP(a) causal lifely of OxPL oxidized phospholipids pro inflamation and calcification  
+- Coronary Calcium Score (CAC) lower is better for LP(a)  
+- Statins can actually raise LP(a)  
+- -Does Niacin reduce LP(a).  Yes but no benefit to CVD. Niacin 2g and Apheresis helps lower LP(a) however does it reduce CVD.  Wont know for a couple of years.  Pelacarsen and Olipasiran clinical trials.  Note that Niacin is linked to an increase risk of bleeding, diabetes, and death.  AKA Vitamin B3  
+- Continue with healthy lifestyle/exercise, good body weight, non smoke, etc...  
+- PCSK9 inhibitors can reduce LP(a) modestly  
+- Lipoprotein Apheresis can reduce LP(a) ~70% but my LDL is ~60 when it needs to be above 100 for insurance to cover.  
+- Does low carb diet reduce Lp(a)? possibly doesn't hurt to try :)  
+- CRP testing? sensitive marker (someone recovering by cold can have elevation here)  
+
 ### 3.22.22 Notes and Dr. Penn and Lipid lab results   
 
 Are all Fats Bad for You?
