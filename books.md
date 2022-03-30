@@ -16,10 +16,13 @@ FORGOTTEN REALMS SEMBIA MULTIPLE AUTHORS: 1)The Halls of Stormweather(HAVE), 2)S
 FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) The Black Bouquet, 3) The Crimson Gold, 4) The Yellow Silk  
 
 ### Brett, Peter  
-~~1) The Warded Man, 2) The Desert Spear,~~ 3) The Daylight War, 4) The Skull Throne, 5) The Core
+~~1) The Warded Man, 2) The Desert Spear,~~ 3) The Daylight War, 4) The Skull Throne, 5) The Core  
+
+### Brin, David  
+THE UPLIFT WAR: 1) Brightness Reef, 2) Startide Rising, 3) Uplift War  
 
 ### Brooks, Terry  
-WORD AND VOID: ~~1)Running with the Demon (Feb22), 2)A Knight of the Word (Mar22)~~, 3)Angel Fire East  
+WORD AND VOID: ~~1)Running with the Demon (Feb22), 2)A Knight of the Word (Mar22), 3)Angel Fire East (Mar22)~~ First set of stories of the Shannara world.  I did not realize until I saw the MTV Shannara series that this world was originally earth before some sort of apocolypse.  John Ross and Nest Freemark are the protagonists battling various demons that look like humans.      
 THE GENESIS OF SHANNARA: 1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph  
 LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
 ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
@@ -40,10 +43,10 @@ RED RISING SAGA: ~~1) Red Rising,~~ 2) Golden Son, 3) Morning Star, 4) Iron Gold
 In a Sunburned Country,  
 
 ### Burke, Sue:  
-1) Semiosis, 2) Interference    
+SEMIOSIS DUOLOGY: 1) Semiosis, 2) Interference    
 
 ### Buxton, Kira J.:  
-1)Hollow Kingdom, 2)  
+HOLLOW KINGDOM: 1)Hollow Kingdom, 2)  
 
 ### Byers, Richard Lee  
 FORGOTTEN REALMS HAUNTED LANDS: 1) Unclean (HAVE), 2) Undead (HAVE), 3) Unholy, 4) Realms of the Dead by Susan J Morris  
@@ -61,7 +64,7 @@ THE SHADOW SERIES: 1) Ender's Shadow, 2) Shadow of the Hegemon, 3) Shadow Puppet
 THE FIRST FORMIC WAR SERIES: 1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens  
 
 ### Clarke, Arthur C.:  
-1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
+RAMA: 1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
 
 ### Corey, James  
 THE EXPANSE: 1) Leviathan Wakes, 2) Caliban's War, 3) Abaddon's Gate, 4) Cibola Burn, 5) Nemesis Games, 6) Babylon's Ashes, 7) Persepolis Rising  
@@ -87,7 +90,7 @@ THE MALLOREON: 1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Kar
 SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City    
 
 ### Ellis, Lindsay:   
-1) Axiom's End, 2) Truth of the Divine   
+NOUMENA: 1) Axiom's End, 2) Truth of the Divine   
 
 ### Elrod, P.N.  
 VAMPIRE FILES: ~~1) Bloodlist, 2) Lifeblood,~~ 2.5) Chicks Kick Butt by Rachel Caine, 3)Bloodcircle, 4) Art in the Blood, 5) Fire in the Blood, 6) Blood in the Water, 7) A Chill in the Blood, 8) The Dark Sleep, 9) Lady Crymsyn, 10) Cold Streets, 11), Song in the Dark, 11.4) Many Bloody Returns by Charlaine Harris, 11.5) My Big Fat Supernatural Honeymoon, 11.6) Strange Brew, 12) Dark Road Rising, 12.5) The Devil You Know, 12.6) Dark and Stormy Knights  
@@ -124,10 +127,10 @@ THE FARSEER TRILOGY: ~~1) Assassin's Apprentice,~~ 2) Royal Assassin, 3) Assassi
 THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven,~~ 3) City of Dragons, 4) Blood of Dragons  
 
 ### Howey, Hugh:  
-1) Wool, 2) Shift, 3) Dust  
+SILO SERIES: 1) Wool, 2) Shift, 3) Dust  
 
 ### Huchu, TL:   
-1) Library of the Dead, 2) Our Lady of Mysterious Ailments    
+EDINBURGH NIGHTS: 1) Library of the Dead, 2) Our Lady of Mysterious Ailments    
 
 ### Jordan, Robert   
 WHEEL OF TIME: ~~0) New Spring, 0.1) The Strike at Shayol Ghul, 0.2) Earlier-Ravens, 1)The Eye of the World, 2) The Great Hunt(JAN22), 3)The Dragon Reborn (MAR22)~~, 4)The Shadow Rising, 5)The Fires of Heaven, 6)Lord of Chaos, 7)A Crown of Swords, 8)The Path of Daggers, 8.5)Snow, 9)Winter's Heart, 9.5) Glimmers, 10)Crossroads of Twilight, 11)Knife of Dreams, 12)The Gathering Storm, 13)Towers of Midnight, 13.5)By Grace and Banners Fallen, 14)A Memory of Light, Unfettered by Shawn Speakman, A fire within the Ways  
@@ -260,22 +263,22 @@ GAEA TRILOGY: 1) Titan, 2) Wizard, 3) Demon
 LORDS OF DUS SERIES: 1) The Lure of the Basilisk, 2) The Seven Altars of Dusarra, 3) The Sword of Bheleu, 4) The Book of Silence  
 
 ### Weis, Margaret  
-1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)  
+THE DRAGONVARLD TRILOGY: 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)  
 
 ### Wells, Martha:  
-Murderbot Diaries, 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry   
+MURDERBOT DIARIES: 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry   
 
 ### Wendig, Chuck  
 STAR WARS AFTERMATH: 1) Aftermath, 2) Life Debt, ~~3) Empire's End~~  
 
 ### Williams, Tad  
-~~1) The Dragonbone Chair,~~ 2) Stone of Farewell, 3) To Green Angel Tower, 3.5) The Heart of What was Lost    
+MEMORY, SORROW, AND THORN: ~~1) The Dragonbone Chair,~~ 2) Stone of Farewell, 3) To Green Angel Tower, 3.5) The Heart of What was Lost    
 
 ### Williams, Walter J   
 DAGMAR SHAW SERIES: ~~This is Not a Game~~ WAS S'OK    
 
 ### Wilson, Robert C    
-1) Spin, 2) Axis, 3) Vortex    
+SPIN: 1) Spin, 2) Axis, 3) Vortex    
 
 ### Wurts, Janny  
 WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Merior, Warhost of Vastmark~~; Arc 3 (ALLIANCE OF LIGHT): Fugitive Prince, Grand Conspirary, Peril's Gate, Traitor's Knot, Stormed Fortress; Arc 4 (SWORD OF THE CANON): Initiate's Trail, Destiny's Conflict; Arc 5 (SONG OF THE MYSTERIES): Song of the Mysteries  
