@@ -145,6 +145,7 @@
 - Cristie, Agatha:  
 - Cronin, Justin: The Passage  
 - Crouch, Blake: Dark Matter  
+- Curtis, Houston: Billion Dollar Hollywood Heist  
 - Cushman, Marc: Star Trek  
 - Danesi, Marcel: The Puzzle Instinct  
 - Danker, Sean: Admiral
@@ -274,6 +275,7 @@
 - Hornfischer, James: Neptune's Inferno; The Fleet at Flood Tide; The Last Stand of the Tin Can Sailors  
 - Howard, Michael: The Salaryman  
 - Howarth, David: We Die Alone  
+- Huang, S.L.: Zero Sum Game  
 - Huff, Tanya: Blood Prince  
 - Hughes, Wayne: Fleet Tactics and Coastal Combat  
 - Hunter, Dave: Along Interstate-75  
@@ -287,7 +289,8 @@
 - Jackson, John: One Nation under Drones  
 - Jackson, Phil: Eleven Rings  
 - Jemisin, NK: Emergency Skin  
-- Jiang, Jia: Rejection Proof 
+- Jiang, Jia: Rejection Proof  
+- Johnson, Micaiah: The Space between Worlds  
 - Jones, Dhani: The Sportsman  
 - Jones, Dylan: David Bowie  
 - Jones, Gwyneth: Proof of Concept  
@@ -304,6 +307,7 @@
 - Kendi, Ibram: How to be an Antiracist  
 - Kennedy, Paul: Rise and Fall of the Great Powers  
 - Kent, Jasper: Twelve  
+- Kershaw, Alex: Against all Odds  
 - Keyes, Daniel: Flowers for Algernon  
 - Khoury, Jessica: THE FORBIDDEN WISH  
 - Kim, Bo-Young: I'm Waiting for You and Other Stories  
@@ -313,6 +317,7 @@
 - Kloos, Marko  
 - Klune, TJ: Under the Whispering Door  
 - Knight, Phil: Shoe Dog  
+- Kohanek, Jeffrey: Fate of Wizardom  
 - Kolker, Claudia: The Immigrant Advantage  
 - Koontz, Dean: Strangers; Quicksilver   
 - Kritzer, Naomi: Catfishing on CatNet  
@@ -427,6 +432,7 @@
 - Parazynski, Scott: The Sky Below (kindle)  
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
 - Pene du Bois, William: The Twenty-One Balloons  
+- Pentecost, Kate: That Dark Infinity  
 - Pham, Andrew: Catfish and Mandala  
 - Phillips, Lucas: The Greatest Raid of All  
 - Pierceson, Jason: Sexual Minorities and Politics  
@@ -584,6 +590,7 @@
 - Worms (superhero book)  
 - Wright, Richard: Burglars on the Job  
 - Yancey, Richard: The 5th wave  
+- Yang, Jeff: Rise  
 - Yates, Brook: Cannonball
 - Yoshihara, Toshi & James R. Holmes: Red Star over the Pacific  
 - Young, Shannon: How Does One Dress to Buy Dragonfruit  
