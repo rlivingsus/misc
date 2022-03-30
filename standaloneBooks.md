@@ -13,7 +13,7 @@
 - DeGrasse Tyson, Neil: Astrophysics for People in a Hurry  
 - De Los Santos, Marisa: Saving Lucas Biggs  
 - Doyle, Arthur Conan: The Lost World  
-- Freeman, Brian: Infinite   
+- Freeman, Brian: Infinite (MAR 22): A book that started off a bit slow about the passing of a man's wife and then he starts getting questioned about killing her when all of the sudden he sees a doppelganger.  The story takes an odd twist when there is discussion of "many worlds" which is caused whenever a decision is made in your life and the idea is another you and universe is created with an alternate you taking the other path related to another decision.  So many of yous can exist.  He hunts an evil version of him entering various worlds to kill people and get his counterpart in trouble.  Eventually the story takes a twist near the end related to his wife's death.  The book ended pretty good.  
 - Goldsmith, Connie: Kiyo Sato (Mar 22: Story about a Japanese American and her experience during WWI internment camps)  
 - Goulston, Mark: Just Listen  
 - Grohl, Dave: The Storyteller   
