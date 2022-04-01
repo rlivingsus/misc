@@ -22,6 +22,7 @@
 - Hanh, Thit That: The Heart of the Buddha's Teaching   
 - Hartley, Gregory: How to spot a liar 1.2022    
 - Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
+- Jorgenson, Eric: The Almanack of Naval Ravikant (Apr22) Stories and quotes from Naval Ravikant who is a successful venture capitalist, tech individual born in India  
 - Kalanithi, Paul: When Breath Becomes Air  
 - Kemp, Paul: Star Wars Riptide  
 - King, Stephen: Billy Summers; Dark Tower 7 books; Elevation; Outsider; The Institute; Riding the Bullet; Joyland     
