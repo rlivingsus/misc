@@ -123,13 +123,14 @@
 - Carpenter, Thomas K.: Saturn's Monsters  
 - Carroll, Raymonde: Cultural Misunderstandings  
 - Carse, James: Finite and Infinite Games  
+- Celt, Adrienne: End of the World House  
 - Chabon, Michael: The Yiddish Policeman's Union   
 - Chambers, Becky: The Long Way to a Small, Angry Planet  
 - Chen, Andrew: The Cold Start Problem  
 - Chen, Mike: Light Years from Home  
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
-- Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle)  
+- Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
 - Clark, Christopher: The Sleepwalkers (kindle)
 - Clark, Richard & Robert K. Knake: The Fifth Domain  
 - Clarke, Susanna: Jonathan Strange and Mr. Norrell; Piranesi    
@@ -151,10 +152,12 @@
 - Danesi, Marcel: The Puzzle Instinct  
 - Danker, Sean: Admiral
 - Daviau, Mo: EVERY ANXIOUS WAVE  
+- Davidson, James Dale: The Sovereign Individual  
 - Davis, Sampson: The Pact  
 - Dawkins, Richard: The Magic of Reality  
 - Del Monte, Louis A.: Genius Weapons  
 - Demopoulos, Ted: Infosec Rock Star (kindle)  
+- Deutsch, David: The Beginning of Infinity  
 - Dick, Phillip K.: Electric Dreams?  
 - Dignan, Aaron: Gameframe  
 - Dinniman, Matt: Dungeon Crawler Carl  
@@ -182,10 +185,12 @@
 - Erikson, Steven: Gardens of the Moon  
 - Erwig, Martin: Once Upon an Algorithm  
 - Espinosa, Christian: The Smartest Person in the Room  
+- Epstein, Lewis Carroll: Thinking Physics  
 - Ettenberg, Jodi: The Food Traveler's Handbook  
 - Evans, Ceri: Perform under Pressure  
 - Evan, Erin: The Bone Wars  
 - Falaye, Deborah: Blood Scion  
+- Falcone, Paul: 101 Tough Conversations to Have with Employees  
 - Fallon, Jennifer: Tide Lords series  
 - Farr, Richard: The Fire Seekers (kindle)
 - Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
@@ -203,7 +208,8 @@
 - Forlee, Sherwood: Walls Notebook  
 - Foster, Jack: How to Get Ideas  
 - Frankl, Viktor: Man's Search for Meaning  
-- Freedman, Lawrence: The Future of War
+- Freedman, Lawrence: The Future of War  
+- Freeman, Brian (thrillers): Frost Easton: 1) The Night Bird  
 - Frey, Dan: The Future is Yours  
 - Friedman, C.S.: Feasts of Souls  
 - Friedman, George: The Next 100 Years  
@@ -249,6 +255,7 @@
 - Hall, Kindra: Stories that Stick  
 - Hanh, Thich Nhat: Fear  
 - Hanson, Jason: Spy Secrets that can save your life (kindle)  
+- Harari, Yuval Noah: Sapiens: A Brief History of Humankind  
 - Harkin, Jo: Tell Me an Ending  
 - Harris, Josh: Captain Phil Harris  
 - Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon  
@@ -265,6 +272,7 @@
 - Helm, Leslie: Yokohama Yankee  
 - Henderson, Randy: Finn Fancy Necromancy  
 - Hernandez, Jose: Reaching for the Stars (kindle)  
+- Hesse, Herman: Siddhartha  
 - Hibbing, John: Predisposed  
 - Hirano, Keiichiro: A Man (kindle)  
 - Hoffman, Carl: The Lunatic Express  
@@ -320,7 +328,8 @@
 - Knight, Phil: Shoe Dog  
 - Kohanek, Jeffrey: Fate of Wizardom  
 - Kolker, Claudia: The Immigrant Advantage  
-- Koontz, Dean: Strangers; Quicksilver   
+- Koontz, Dean: Strangers; Quicksilver; Mr. Murder  
+- Krishnamurti, Jiddu: The Book of Life  
 - Kritzer, Naomi: Catfishing on CatNet  
 - Kundera, Milan: the Unbearable Lightness of Being  
 - Laberge, Stephen: Exploring the World of Lucid Dreaming  
@@ -336,6 +345,7 @@
 - Le Couteur, Penny: Napoleon's Buttons  
 - Leckie, Ann: Ancillary Justice  
 - Ledbetter, William: Level Five and Level Six  
+- Lee, Bruce: Striking Thoughts  
 - Lee, Chang-rae: My Year Abroad  
 - Lefevre, Edwin: Reminiscenses of a Stock Operator  
 - Lem, Stanislaw: Solaris  
@@ -365,6 +375,7 @@
 - Mack, Katie: The End of Everything  
 - Majumdar, Simon: Fed, White and Blue  
 - Mandela, Nelson: Long Walk to Freedom  
+- Mandel, Emily St. John: Sea of Tranquility  
 - Marchout, Jo: Decoding the Heavens 
 - Marcinko, Rich: Leadership secrets of the Rogue Warrior  
 - Marillier, Juliet: Heir to Seven Waters  
@@ -401,8 +412,10 @@
 - Moon, Elizabeth:  
 - Moorcock, Michael: A Nomad of the Time streams  
 - Moore, Peter: V is for Villain  
-- Morillo, Christina: 97 Things Every Information Security Pro Should Know  
+- Morillo, Christina: 97 Things Every Information Security Pro Should Know   
+- Munger, Charlie: Poor Charlie's Almanack  
 - Munninghoff, Alexander: The Son and Heir (kindle)  
+- Munroe, Randall: The Thing Explainer  
 - Murakami, Haruki: The Wind-up Bird Chronicle  
 - Murakami, Ryu: Popular Hits of the Showa Era  
 - Murata, Sayaka: Convenience Store Woman  
@@ -456,16 +469,20 @@
 - Reynolds, Jason: Long Way Down  
 - Rhodes, Richard: Dark Sun  
 - Richards, Carl: The One-Page Financial Plan  
+- Richards, Douglas: ALIEN ARTIFACT: 1) The Enigma Cube, 2) A Pivot in Time  
 - Riddle, AG: Winter World  
+- Ridley, Matt: The Rational Optimist  
 - Rigsby, Rick: Lessons from a Third Grade Dropout  
 - Riley, Brett: Freaks  
 - Riordan, Rick: The Red Pyramid  
 - Roach, Mary: My Planet: Finding Humor in the Oddest Places  
+- Roanhorse, Rebecca: Trail of Lightning, Fevered Star  
 - Roberts, Adam: Jack Glass  
 - Roberto, Adam: The Thing Itself  
 - Rollins, James: The Starless Crown 
 - Rosling, Hans: Factfulness  
 - Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear  
+- Rovelli, Carlo: Seven Brief Lesson in Physics  
 - Rubenstein, David: The American Experiment  
 - Rueckert, Veronica: Outspoken  
 - Rumiz, Paolo: The Fault Line  
@@ -527,12 +544,13 @@
 - Sundem, Garth: The Geeks Guide to World Domination  
 - Sunzi: The Art of War (kindle)  
 - Taggart, Caroline: I Used to Know That  
+- Taleb, Nassim: Skin in the Game  
 - Tan, Cheryl: A Tiger in the Kitchen  
 - Tan, Sue Lynn: Daughter of the Moon Goddess  
 - Taulli, Tom: Artificial Intelligence Basics  
 - Taylor, Jodi: Just One Damned Thing After Another  
 - Taylor, Steven: The Psychology of Pandemics  
-- Tchaikovsky, Adrian: 1) Empire in Back and Gold; Ogres  
+- Tchaikovsky, Adrian: 1) Empire in Back and Gold; Ogres; THE FINAL ARCHITECTURE: 1)Shards of Earth, 2)Eyes of the Void  
 - Thames, Elizabeth: Meet the Frugalwoods  
 - The Talent Code: Greatness isnt born.  Its grown   
 - Thompson, Eldon: Unbowed: A Kronus Tale (kindle)  
