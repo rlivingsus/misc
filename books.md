@@ -233,6 +233,7 @@ GENERATIONS: 1) Timeless(Dnhave), 2) Boundless(Dnhave), 3) Relentless(Dnhave)
 THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels  
 CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse  
 THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge (soon?2022)  
+SOLO?: The Color of Dragons  
 
 ### Sanderson, Brandon   
 MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History, 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,  
@@ -242,7 +243,8 @@ ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion a
 RITHMATIST: 1) The Rithmatist  
 SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn~~, 3)Cytonic (audible), ~~3.1)Evershore (read before cytonic),~~ 4) Defiant    
 INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
-WARBREAKER: 1) Warbreaker, 2) Nightblood   
+WARBREAKER: 1) Warbreaker, 2) Nightblood  
+SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell  
 
 ### Scalzi, John  
 OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades, The Sagan Diary, The Last Colony, Zoe's Tale, After the Coup, The Human Division, The B-Team, Walk the Plank, We only need the Heads, A Voice in the Wilderness, Tales from the Clarke, The Back Channel, The Dog King, The Sound of Rebellion, The Observers, This must be the Place, A Problem of Proportion, The Gentle Art of Cracking Heads, Earth Below Sky Above, The Human Division Extras, The End of All Things, The Life of the Mind, This Hollow Union, Can Long Endure, To Stand or Fall  
