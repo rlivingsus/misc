@@ -91,6 +91,7 @@
 - Barton, Craig: How I wished I'd Maths  
 - Baskin, Jonathan Salem: Strange in Place  
 - Bauer, Craig: Unsolved; Secret History  
+- Bazterrica, Agustina: Tender is the Flesh  
 - Beach, Edward: Run Silent, Run Deep  
 - Bear, Elizabeth: Karen Memory  
 - Beers and Anderle?: THE WAR MACHINE  
@@ -123,22 +124,25 @@
 - Carpenter, Thomas K.: Saturn's Monsters  
 - Carroll, Raymonde: Cultural Misunderstandings  
 - Carse, James: Finite and Infinite Games  
+- Cassidy, Lisa: A Tale of Stars and Shadow  
 - Celt, Adrienne: End of the World House  
 - Chabon, Michael: The Yiddish Policeman's Union   
-- Chambers, Becky: The Long Way to a Small, Angry Planet  
+- Chambers, Becky: The Long Way to a Small, Angry Planet; A Psalm for the Wild-Built   
 - Chen, Andrew: The Cold Start Problem  
 - Chen, Mike: Light Years from Home  
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
-- Clark, Christopher: The Sleepwalkers (kindle)
+- Clark, Christopher: The Sleepwalkers (kindle)  
+- Clark, P. Djeli: DEAD DJINN UNIVERSE: 1)A Master of Djinn  
 - Clark, Richard & Robert K. Knake: The Fifth Domain  
 - Clarke, Susanna: Jonathan Strange and Mr. Norrell; Piranesi    
 - Clearfield, Chris: Meltdown  
 - Cline, Peter: Threshold; The Broken Room  
 - Cogman, Genevieve: The Untold Story  
 - Cohen, Steve: Win the Crowd  
-- Connolly, John: The Gate...
+- Connolly, John: The Gate...  
+- Cordova, Zoraida: The Inheritance of Orquidea Divina  
 - Coremen, Thomas: Algorithms Unlocked  
 - Corey, James: The Expanse  
 - Costello, Barry: Fortune favors Boldness  
@@ -192,6 +196,7 @@
 - Falaye, Deborah: Blood Scion  
 - Falcone, Paul: 101 Tough Conversations to Have with Employees  
 - Fallon, Jennifer: Tide Lords series  
+- Farmer's, Philip Jose THE DUNGEON SERIES: 1)The Black Tower, 2)The Dark Abyss, 3)The Valley of Thunder, 4)The Lake of Fire, 5)The Hidden City, 6)The Final Battle  
 - Farr, Richard: The Fire Seekers (kindle)
 - Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
 - Feynman, Richard: The Pleasure of Finding things out  
@@ -239,7 +244,7 @@
 - Grann, David: Killers of the Flower Moon  
 - Grant, Adam: Give and Take  
 - Grant, Michael: Magnificient 12: The Call  
-- Grant, Mira: Anything  
+- Grant, Mira: Anything; Rolling in the Deep  
 - Grant, Ulysses: The Personal Memoirs of Ulysses S. Grant  
 - Graudin, Ryan: Wolf by wolf  
 - Gray, Claudia: Defy the Stars  
@@ -276,6 +281,7 @@
 - Hibbing, John: Predisposed  
 - Hirano, Keiichiro: A Man (kindle)  
 - Hoffman, Carl: The Lunatic Express  
+- Hogarth, M.C.A: HER INSTRUMENTS: 1)Earthrise  
 - Holiday, Ryan: Ego is the Enemy; Conspiracy  
 - Holmberg, Charlie: Star Father  
 - Holmes, James: A Brief guide to Maritime Strategy  
@@ -388,6 +394,7 @@
 - Martin, George RR: Wildcards Novels  
 - Martinet, Jeanne: The Art of Mingling  
 - Mattis, Jim: Call Sign Chaos  
+- Maxwell, Everina: Winter's Orbit  
 - McCandless, David: Beautiful News  
 - McCarthy, Andrew: Journeys Home  
 - McChrystal, Standley: Team of Teams  
@@ -395,7 +402,7 @@
 - McDonald, Ed: Blackwing  
 - McFate, Sean: The New Rules of War  
 - McGrath, Ben: Riverman: An American Odyssey  
-- McGuire, Seanan: Where the Drowned Girls Go  
+- McGuire, Seanan: Where the Drowned Girls Go; OCTOBER DAYE: .5)Rat-Catcher, 1)Rosemary and Rue,   
 - McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
 - McNeill, Graham: Ultramarines Omnibus  
 - McQuiston, Casey: One Last Stop  
@@ -413,6 +420,7 @@
 - Moorcock, Michael: A Nomad of the Time streams  
 - Moore, Peter: V is for Villain  
 - Morillo, Christina: 97 Things Every Information Security Pro Should Know   
+- Muir, Tamsyn: THE LOCKED TOMB: 1)Gideon the Ninth  
 - Munger, Charlie: Poor Charlie's Almanack  
 - Munninghoff, Alexander: The Son and Heir (kindle)  
 - Munroe, Randall: The Thing Explainer  
@@ -427,7 +435,7 @@
 - Nesbit, E:  
 - Ness, Patrick: Chaos Walking: trilogy  
 - Netz, Reviel: The Archimedes Codex  
-- Neuvel, Sylvain: The Test  
+- Neuvel, Sylvain: The Test; TAKE THEM TO THE STARS: 1)A History of What Comes Next  
 - Newitz, Annalee: The Future of Another Timeline 
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
@@ -439,9 +447,10 @@
 - O'Brien, Phillips Payson: The 2nd Most Powerful Man in the World  
 - O'Brien, Tim: The Things they Carried  
 - Okorafor, Nnedi: Lagoon, Remote Control  
+- Onyebuchi, Tochi: Riot Baby  
 - Pacitti, Tony: My Best Friend is a Wookiee  
 - Pollan, Michael: The Omnivore's Dilemma  
-- Palmer, Ada: 1) Too Like the Lightning; 2) Seven Surrenders  
+- Palmer, Ada: TERRA IGNOTA: 1) Too Like the Lightning; 2) Seven Surrenders  
 - Paolini, Christopher: To Sleep in a Sea of Stars  
 - Parazynski, Scott: The Sky Below (kindle)  
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
@@ -459,6 +468,7 @@
 - Pratchett, Terry: Discworld books  
 - Pressfield, Steven: Gates of Fire  
 - Putnam, Robert: Bowling Alone  
+- Quinn, Kate: The Diamond Eye  
 - Randel, Weina Dai: The Last Rose of Shanghai (kindle)  
 - Rawls, Wilson: Where the Red Fern Grows  
 - Raymer, Edward: Descent into Darkeness  
@@ -466,6 +476,7 @@
 - Reed, Steven: Making Common Sense of Japan  
 - Rekulak, Jason: The Impossible Fortress  
 - Reich, Simon & Peter Dombrowski: The end of grand strategy  
+- Reid, Rob: Year Zero  
 - Reynolds, Jason: Long Way Down  
 - Rhodes, Richard: Dark Sun  
 - Richards, Carl: The One-Page Financial Plan  
@@ -483,6 +494,7 @@
 - Rosling, Hans: Factfulness  
 - Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear  
 - Rovelli, Carlo: Seven Brief Lesson in Physics  
+- Rowe, Andrew: Sufficiently Advanced Magic  
 - Rubenstein, David: The American Experiment  
 - Rueckert, Veronica: Outspoken  
 - Rumiz, Paolo: The Fault Line  
@@ -496,6 +508,7 @@
 - Sanger, David: The Perfect Weapon  
 - Sarnicola, Thomas: No Kings, No Kooks  
 - Sato, Yuya: Dendera  
+- Saulter, Stephanie: EVOLUTION 1)Gemsigns  
 - Scalzi, John: Kaiju preservation society; Lock In  
 - Scharre, Paul: Army of None  
 - Schulz, Kathryn: Being Wrong  
@@ -511,7 +524,7 @@
 - Shand, Mark: Travels on My Elephant  
 - Shaw, Julia: The Memory Illusion  
 - Shea, Kieran: Off Rock  
-- Shepherd, Peng: The Cartographers  
+- Shepherd, Peng: The Cartographers; The Book of M  
 - Sherry, Miranda: Black Dog Summer  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
 - Shoemaker, Martin: The Last Dance (kindle)  
@@ -523,6 +536,7 @@
 - Smith, Ali: HOW TO BE BOTH  
 - Smith, Mandy: Cabin Fever  
 - Smith, Nicholas: Hell Divers  
+- Solomon, Rivers: The Deep  
 - Spakowski, Andrzej: Blood of Elves  
 - Stackpole, Michael: A Secret Atlas  
 - Star Trek: Department of Temporal Investigations  
@@ -551,6 +565,7 @@
 - Taylor, Jodi: Just One Damned Thing After Another  
 - Taylor, Steven: The Psychology of Pandemics  
 - Tchaikovsky, Adrian: 1) Empire in Back and Gold; Ogres; THE FINAL ARCHITECTURE: 1)Shards of Earth, 2)Eyes of the Void  
+- Tesh, Emily: THE GREENHOLLOW DUOLOGY: 1)Silver in the Wood,   
 - Thames, Elizabeth: Meet the Frugalwoods  
 - The Talent Code: Greatness isnt born.  Its grown   
 - Thompson, Eldon: Unbowed: A Kronus Tale (kindle)  
@@ -571,6 +586,7 @@
 - Vann, David: A Mile Down  
 - Verducci, Tom: The Cubs Way  
 - Viega, John: The Myths of Security  
+- Villoso, K.S.: CHRONICLES OF THE BITCH QUEEN: 1)The Wolf of Oren-Yaro  
 - Vinge, Vernor: A Fire Upon the Deep  
 - Volk, Steve: Fringe-ology  
 - Voigt, Emily: The Dragon behind the Glass  
@@ -590,7 +606,7 @@
 - Watts, Peter: Starfish  
 - Wearing, Judy: Edisons Concreate Piano  
 - Webb, James: I Heard My Country Calling  
-- Weeks, Brent: The Way of Shadows  
+- Weeks, Brent: The Way of Shadows; The Black Prism  
 - Weinberg, Robert: Blood War  
 - Weir, Andy: Project Hail Mary  
 - Westerfeld, Scott: Leviathan  
@@ -610,7 +626,8 @@
 - Wright, Richard: Burglars on the Job  
 - Yancey, Richard: The 5th wave  
 - Yang, Jeff: Rise  
-- Yates, Brook: Cannonball
+- Yates, Brook: Cannonball  
+- Yi-Sheng, Ng: Lion City  
 - Yoshihara, Toshi & James R. Holmes: Red Star over the Pacific  
 - Young, Shannon: How Does One Dress to Buy Dragonfruit  
 - Zauner, Michelle: Crying in H Mart  
