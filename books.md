@@ -4,7 +4,7 @@
 The Blade Itself; The First Law books; The Last Arguments of Kings   
 
 ### Anthony, Piers  
-Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass,~~ 3)With a Tangled Skein, 4)Wielding a Red Sword, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
+Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22),~~ 4)Wielding a Red Sword, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
 
 ### Asimov, Isaac  
 The End of Eternity; Prelude to Foundation; The God Themselves   
