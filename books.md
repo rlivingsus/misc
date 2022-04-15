@@ -1,7 +1,7 @@
 ## Books sorted by author's last name
 
 ### Abercrombie, Joe:   
-The Blade Itself; The First Law books; The Last Arguments of Kings   
+THE FIRST LAW: 1)The Blade Itself, 2)Before they are Hanged, 3)The Last Arguments of Kings, 4)Best Served Cold, 5)The Heroes, 6)Red Country  
 
 ### Anthony, Piers  
 Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22),~~ 4)Wielding a Red Sword, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
@@ -10,7 +10,13 @@ Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourg
 The End of Eternity; Prelude to Foundation; The God Themselves   
 
 ### Athans, Philip  
-FORGOTTEN REALMS SEMBIA MULTIPLE AUTHORS: 1)The Halls of Stormweather(HAVE), 2)Shadow's witness, 3)The Shattered Mask(HAVE), 4)Black wolf, 5)Heirs of Prophecy(HAVE), 6)Sands of the Soul, 7)Lord of Stormweather
+FORGOTTEN REALMS SEMBIA MULTIPLE AUTHORS: 1)The Halls of Stormweather(HAVE), 2)Shadow's witness, 3)The Shattered Mask(HAVE), 4)Black wolf, 5)Heirs of Prophecy(HAVE), 6)Sands of the Soul, 7)Lord of Stormweather  
+
+### Banks, Iain  
+CULTURE: 1)Consider Phlebas, 2)The Player of Games, 3)Use of Weapons, 4)Excession, 5)Inversions, 6)Look to Windward, 7)Matter, 8)Surface Detail, 9)The Hydrogen Sonata  
+
+### Barker, RJ  
+THE TIDE CHILD: 1)The Bone Ships, 2)Call of the Bone Ships, 3)The Bone Ship's Wake  
 
 ### Bolme, Edward  
 FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) The Black Bouquet, 3) The Crimson Gold, 4) The Yellow Silk  
@@ -169,6 +175,9 @@ GENTLEMEN BASTARD: 1) The Lies of Locke Lamora, 2) Red Seas under Red Skies, 3) 
 ### Martin, George RR  
 A SONG OF ICE AND FIRE: ~~1) Game of Thrones, 2) A Clash of Kings, 3) A Storm of Swords,~~ 4) A Feast for Crows, 5) A Dance with Dragons, 6) The Winds of Winter (forthcoming), 7) A Dream of Spring  
 
+### Maas, Sarah  
+A COURT OF THORN AND ROSES: 1)A Court of Thorns and Roses, 2)A Court of Mist and Fury, 3)A Court of Wings and Ruin, 3.1)A Court of Frost and Starlight, 4)A Court of Silver Flames  
+
 ### McCaffrey, Anne   
 DRAGONRIDERS OF PERN Harper Hall Trilogy: ~~(4)Dragonsong, (5)Dragonsinger, (6)Dragondrums~~   
 DRAGONRIDERS OF PERN Original Trilogy: ~~(1)Dragonflight, (2)Dragonquest, (3)The White Dragon~~   
@@ -217,6 +226,9 @@ The End and Other Beginnings: Stories from the Future
 ### Rothfuss, Patrick  
 KINGKILLER CHRONICLES: 0.5) The Lightning Tree, 1) The Name of the Wind, 2) The Wise Man's Fear, 2.5) The Slow Regard of Silent Things, 3) The Doors of Stone  
 
+### Ruocchio, Christopher  
+SUN EATER: 1)Empire of Silence, 1.5)The Lesser Devil, 2)Howling Dark, 2.5)Parallel Worlds:The Heroes Within, 3)Demon in White, 4)Kingdoms of Death, 5)Ashes of Man  
+
 ### Sage, Angie  
 SEPTIMUS HEAP SERIES: 1)Magyk, 2)Flyte, 3)Physik, 4)Queste, 5)Syren, 6)Darke, 7)Fyre  
 
@@ -261,6 +273,7 @@ Bobiverse 1) We are Legion (We are Bob),
 
 ### Tchaikovsky, Adrian:  
 1)Shards of Earth, The FInal Architecture; 2) Dark Stars   
+SHADOW OF APT: 0.5)Spoils of War, 1)Empire in Black and Gold, 2)Dragonfly Falling, 3)Blood of the Mantis, 4)Salute the Dark, 5)The Scarab Path, 6)The Sea Watch  
 
 ### Varley, John  
 GAEA TRILOGY: 1) Titan, 2) Wizard, 3) Demon  
@@ -285,6 +298,9 @@ DAGMAR SHAW SERIES: ~~This is Not a Game~~ WAS S'OK
 
 ### Wilson, Robert C    
 SPIN: 1) Spin, 2) Axis, 3) Vortex    
+
+### Wolfe, Gene  
+BOOK OF THE NEW SUN: 1)The Shadow of the Torturer, 2)The Claw of the Conciliator, 3)The Sword of the Lictor, 4)The Citadel of the Autarch, 5)The Urth of the Sun
 
 ### Wurts, Janny  
 WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Merior, Warhost of Vastmark~~; Arc 3 (ALLIANCE OF LIGHT): Fugitive Prince, Grand Conspirary, Peril's Gate, Traitor's Knot, Stormed Fortress; Arc 4 (SWORD OF THE CANON): Initiate's Trail, Destiny's Conflict; Arc 5 (SONG OF THE MYSTERIES): Song of the Mysteries  
