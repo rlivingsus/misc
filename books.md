@@ -155,6 +155,9 @@ CRAZY RICH ASIANS: ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich Peo
 OBSIDIAN MOUNTAIN SERIES: ~~1) Outstretched Shadow,~~ 2) To Light a Candle, 3) When Darkness Falls  
 VALDEMAR SERIES IN ORDER: 1) The Black Gryphon, 2) The White Gryphon, 3) The Silver Gryphon, 4) Beyond, 5) Into the West, 6) Magic's Pawn, 7) Magic's Promise, 8) Magic's Price, 9) Foundation, 10) Intrigues, 11) Changes, 12) Redoubt, 13), Bastion, 14) Closer to Home, 15) Closer to the Heart, 16) Closer to the Chest, 17) The Hills have Spies, 18) Eye Spy, 19) Spy, Spy Again, 20) Brightly Burning, 21) The Oathbound, 22) Oathbreakers, 23) Oathblood, 24) Exile's Honor, 25) Exile's Valor, 26) Take a Thief, ~~27) Arrows of the Queen, 28) Arrow's Flight, 29) Arrow's Fall,~~ 30) By the Sword, 31) Winds of Fate, 32) Winds of Change, 33) Winds of Fury, 34) Storm Warning, 35) Storm Rising, 36) Storm Breaking, 37) Owlflight, 38) Owlsight, 39) Owlknight   
 
+### Legends:Short Novels by the Masters of Modern Fantasy
+LEGENDS: Book 1, Book 2, Book 3  
+
 ### Le Guin, Ursula  
 HAINISH CYCLE: ~~1) Rocannon's World,~~ 2) Planet of Exile, 3) City of Illusions, 4) The Left Hand of Darkness, 5) Winter's King, 6) The Word for World is Forest, 7) The Dispossessed, 8) The Day before the Revolution, 9) A Fisherman of the Inland Sea, 10) Four Ways to Forgiveness, 11) The Telling, 12) The Birthday of the World and Other Stories  
 ### Lowry, Lois  
@@ -167,16 +170,16 @@ GENTLEMEN BASTARD: 1) The Lies of Locke Lamora, 2) Red Seas under Red Skies, 3) 
 A SONG OF ICE AND FIRE: ~~1) Game of Thrones, 2) A Clash of Kings, 3) A Storm of Swords,~~ 4) A Feast for Crows, 5) A Dance with Dragons, 6) The Winds of Winter (forthcoming), 7) A Dream of Spring  
 
 ### McCaffrey, Anne   
-DRAGONRIDERS OF PERN Harper Hall Trilogy: ~~Dragonsong, Dragonsinger, Dragondrums~~   
-DRAGONRIDERS OF PERN Original Trilogy: ~~Dragonflight, Dragonquest, The White Dragon~~   
-DRAGONRIDERS OF PERN First Pass aka Dragonriders' Dawn: Dragonsdawn, The Chronicles of Pern: First Fall (The P.E.R.N. Survey, The Dolphin's Bell, The Ford of Red Hanrahan, The Second Weyr, Rescue Run)    
-DRAGONRIDERS OF PERN First Interval: Dragonsblood (windblossom parts)   
-DRAGONRIDERS OF PERN Second Pass: Red Star Rising, Ever the Twain   
-DRAGONRIDERS OF PERN Second Interval: Dragon's Kin, Dragon's Fire, Dragon Harper, Dragonsblood (Lorana parts)  
-DRAGONRIDERS OF PERN Third Pass: Dragonheart, Dragongirl, Dragon's Time, Sky Dragons  
-DRAGONRIDERS OF PERN Sixth Pass: Moreta: Dragonlady of Pern, Beyond Between, Nerilka's Story  
-DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, All the Weyrs of Pern, The Dolphins of Pern, The Skies of Pern  
-OTHER PERN?: The Renegades of Pern, Chronicles of Pern  
+DRAGONRIDERS OF PERN Harper Hall Trilogy: ~~(4)Dragonsong, (5)Dragonsinger, (6)Dragondrums~~   
+DRAGONRIDERS OF PERN Original Trilogy: ~~(1)Dragonflight, (2)Dragonquest, (3)The White Dragon~~   
+DRAGONRIDERS OF PERN ~~(9)First Pass aka Dragonriders' Dawn: Dragonsdawn:Arrival from Earth and populating Pern~~, (12)The Chronicles of Pern: First Fall (The P.E.R.N. Survey, The Dolphin's Bell, The Ford of Red Hanrahan, The Second Weyr, Rescue Run)    
+DRAGONRIDERS OF PERN First Interval: (18)Dragonsblood (windblossom parts)   
+DRAGONRIDERS OF PERN Second Pass: Red Star Rising aka (14)Dragonseye, Ever the Twain in A Gift of Dragons  
+DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper, Dragonsblood (Lorana parts)  
+DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
+DRAGONRIDERS OF PERN Sixth Pass: (7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels), (8)Nerilka's Story  
+DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, (11)All the Weyrs of Pern, (13)The Dolphins of Pern, (16)The Skies of Pern  
+OTHER PERN?: (10)The Renegades of Pern, (14)Dragonseye, (25)Dragon's Code  
 
 ### McDevitt, Jack  
 ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
