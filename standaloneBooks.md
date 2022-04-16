@@ -8,6 +8,10 @@
 - Brooks, Terry, et al.: Unfettered  
 - Brotherton, Marcus: Shifty's War  
 - Carey, MR: The Girl with All the Gifts  
+- Chen, Mike: Light Years from Home: a guy and his dad who disappears from modern times and was in an intergalactic war he sends his dad back home who continues to search for his son until his death.  Then the guy comes back to earth to search for the key to the war;  
+Here and Now and Then;   
+We Could be Heroes;   
+A Beginning at the End 
 - Cialdini, Robert: Influence  
 - Covey, Stephen: Seven Habits of Highly Efficient People  
 - DeGrasse Tyson, Neil: Astrophysics for People in a Hurry  
@@ -129,7 +133,6 @@
 - Chabon, Michael: The Yiddish Policeman's Union   
 - Chambers, Becky: The Long Way to a Small, Angry Planet; A Psalm for the Wild-Built   
 - Chen, Andrew: The Cold Start Problem  
-- Chen, Mike: Light Years from Home  
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
