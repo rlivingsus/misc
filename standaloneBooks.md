@@ -8,10 +8,11 @@
 - Brooks, Terry, et al.: Unfettered  
 - Brotherton, Marcus: Shifty's War  
 - Carey, MR: The Girl with All the Gifts  
-- Chen, Mike: Light Years from Home: a guy and his dad who disappears from modern times and was in an intergalactic war he sends his dad back home who continues to search for his son until his death.  Then the guy comes back to earth to search for the key to the war;  
+- Chen, Mike:  
+Light Years from Home: a guy and his dad who disappears from modern times and was in an intergalactic war he sends his dad back home who continues to search for his son until his death.  Then the guy comes back to earth to search for the key to the war;  
 Here and Now and Then;   
 We Could be Heroes;   
-A Beginning at the End 
+A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where billions have died and the world is still fairly same but still large changes  
 - Cialdini, Robert: Influence  
 - Covey, Stephen: Seven Habits of Highly Efficient People  
 - DeGrasse Tyson, Neil: Astrophysics for People in a Hurry  
@@ -20,6 +21,7 @@ A Beginning at the End
 - Freeman, Brian: Infinite (MAR 22): A book that started off a bit slow about the passing of a man's wife and then he starts getting questioned about killing her when all of the sudden he sees a doppelganger.  The story takes an odd twist when there is discussion of "many worlds" which is caused whenever a decision is made in your life and the idea is another you and universe is created with an alternate you taking the other path related to another decision.  So many of yous can exist.  He hunts an evil version of him entering various worlds to kill people and get his counterpart in trouble.  Eventually the story takes a twist near the end related to his wife's death.  The book ended pretty good.  
 - Goldsmith, Connie: Kiyo Sato (Mar 22: Story about a Japanese American and her experience during WWI internment camps)  
 - Goulston, Mark: Just Listen  
+- Gray, Claudia: Defy the Stars  
 - Grohl, Dave: The Storyteller   
 - Guarnere, William: Brothers in Battle, Best of Friends  
 - Hillenbrand, Laura: Unbroken  
@@ -250,7 +252,6 @@ A Beginning at the End
 - Grant, Mira: Anything; Rolling in the Deep  
 - Grant, Ulysses: The Personal Memoirs of Ulysses S. Grant  
 - Graudin, Ryan: Wolf by wolf  
-- Gray, Claudia: Defy the Stars  
 - Gray, Colin: Fighting Talk: Forty Maxims on War, Peace, and Strategy;  The Future of Strategy;  
 - Green, John: Turtles All the Way Down  
 - Green, Simon: The Nightside  
