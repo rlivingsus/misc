@@ -2,18 +2,18 @@
 
 ### 4.19.22 Appointment with Mark Anstadt  
 
--meeting #2
--Labs #2 found.  LDL 59 where optimal is <70 ideal <50 (European standards).  I'm only on Atorvastatin.  Newer meds PCSK9 which isn't covered by insurance unless <70 LDL.
--New med Azetia? single pill once a day with or without pills.  Lower the LDL the better.
--LP(a) genetic in liver breaks down less LDL.  No medicine affects this (yet?).  Trials at end stage to be out in public in 2 or 3 years from closed.  Last phase now and Mark will check to see if I can be added.  Med: Pelicarson; study name: Heritage?/Horizon study.  ClinicalTrials.gov @ NIH
--Maybe PCSK9 ok in future if over 70 LDL
--My glucose levels are a bit high and statins that may cause it to elevate is usually at the beginning stages
--Talk to Dr. Hoffman about my A1C levels and maybe increase Jardiance to 2 10mg or 25mg a day also helps to reduce heart failure
--Change from carbs to healty fats/proteins.  
--5 good grains or ancient grains: 1) Quinoa, 2) Buckwheat Grotes?, 3) Amaranth? seed with oatmeal, 4) Wheat berry (whole grain of wheat), 5) Millet aka bird seed.  See Splendid Grain book by Rebecca Wood
--Asked about low LDL affecting strokes and such.  Based on a single study.  My atheroschrosis and plaque issue is more critical than "rupture of plaque".  Newborns have 20s LDL and are OK.  Cells can make fats and such on it's own so we do not need fats in our bloodstream.  
--Regarding Cardiologist and Laser work on RCA with stent works on reactive vice preventive and how does the cure really affect/help me.
--Next appt. 3 months with lab draws again  
+- meeting #2
+- Labs #2 found.  LDL 59 where optimal is <70 ideal <50 (European standards).  I'm only on Atorvastatin.  Newer meds PCSK9 which isn't covered by insurance unless <70 LDL.
+- New med Azetia? single pill once a day with or without pills.  Lower the LDL the better.
+- LP(a) genetic in liver breaks down less LDL.  No medicine affects this (yet?).  Trials at end stage to be out in public in 2 or 3 years from closed.  Last phase now and Mark will check to see if I can be added.  Med: Pelicarson; study name: Heritage?/Horizon study.  ClinicalTrials.gov @ NIH
+- Maybe PCSK9 ok in future if over 70 LDL
+- My glucose levels are a bit high and statins that may cause it to elevate is usually at the beginning stages
+- Talk to Dr. Hoffman about my A1C levels and maybe increase Jardiance to 2 10mg or 25mg a day also helps to reduce heart failure
+- Change from carbs to healty fats/proteins.  
+- 5 good grains or ancient grains: 1) Quinoa, 2) Buckwheat Grotes?, 3) Amaranth? seed with oatmeal, 4) Wheat berry (whole grain of wheat), 5) Millet aka bird seed.  See Splendid Grain book by Rebecca Wood
+- Asked about low LDL affecting strokes and such.  Based on a single study.  My atheroschrosis and plaque issue is more critical than "rupture of plaque".  Newborns have 20s LDL and are OK.  Cells can make fats and such on it's own so we do not need fats in our bloodstream.  
+- Regarding Cardiologist and Laser work on RCA with stent works on reactive vice preventive and how does the cure really affect/help me.
+- Next appt. 3 months with lab draws again   
 
 ### 3.22 Dr. Calvin Yeang San Diego talk regarding lp(a)  
 
