@@ -21,7 +21,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Freeman, Brian: Infinite (MAR 22): A book that started off a bit slow about the passing of a man's wife and then he starts getting questioned about killing her when all of the sudden he sees a doppelganger.  The story takes an odd twist when there is discussion of "many worlds" which is caused whenever a decision is made in your life and the idea is another you and universe is created with an alternate you taking the other path related to another decision.  So many of yous can exist.  He hunts an evil version of him entering various worlds to kill people and get his counterpart in trouble.  Eventually the story takes a twist near the end related to his wife's death.  The book ended pretty good.  
 - Goldsmith, Connie: Kiyo Sato (Mar 22: Story about a Japanese American and her experience during WWI internment camps)  
 - Goulston, Mark: Just Listen  
-- Gray, Claudia: Defy the Stars  
+- Gray, Claudia: Defy the Stars (Apr 22: Galactic war between the Genesis which seem to be pioneers from Earth but are technologically less capable and Earth which "rules" over many planets and send "mechs" to battle Genesis and other planets.  The Protagonist is able to take control of a mech and enter areas ruled by Earth.)   
 - Grohl, Dave: The Storyteller   
 - Guarnere, William: Brothers in Battle, Best of Friends  
 - Hillenbrand, Laura: Unbroken  
@@ -105,6 +105,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Bennett, Robert Jackson: City of Miracles  
 - Berger, Eric: Liftoff  
 - Berkun, Scott: Mindfire  
+- Bhattacharya, Ananyo: The Man from the Future: The Visionary Life of John von Neumann  
 - Bilton, Nick: American Kingpin  
 - Blake, Olivie: The Atlas Six  
 - Boatright, Billy: Swing Away: Conquering Imposter Syndrome  
@@ -138,6 +139,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
+- Clair, Kassia St.: The Secret Lives of Color  
 - Clark, Christopher: The Sleepwalkers (kindle)  
 - Clark, P. Djeli: DEAD DJINN UNIVERSE: 1)A Master of Djinn  
 - Clark, Richard & Robert K. Knake: The Fifth Domain  
@@ -147,6 +149,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Cogman, Genevieve: The Untold Story  
 - Cohen, Steve: Win the Crowd  
 - Connolly, John: The Gate...  
+- Collins, Megan: The Family Plot  
 - Cordova, Zoraida: The Inheritance of Orquidea Divina  
 - Coremen, Thomas: Algorithms Unlocked  
 - Corey, James: The Expanse  
@@ -184,6 +187,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Dweck, Carol: Mindset  
 - Ebrahim, Zak: The Terrorist's Son  
 - Edmondson, Amy: the Fearless Organization  
+- Egan, Timothy: The Immortal Irishman  
 - Einstein, Albert: Ideas and Opinions  
 - Eisenmann, Tom: Why Startups Fail  
 - El-Mohtar, Amal: This is How you Lose the Time War  
@@ -198,6 +202,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Ettenberg, Jodi: The Food Traveler's Handbook  
 - Evans, Ceri: Perform under Pressure  
 - Evan, Erin: The Bone Wars  
+- Fader, Mirin: Giannis  
 - Falaye, Deborah: Blood Scion  
 - Falcone, Paul: 101 Tough Conversations to Have with Employees  
 - Fallon, Jennifer: Tide Lords series  
@@ -225,9 +230,11 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Friedman, George: The Next 100 Years  
 - Gaiman, Neil: American Gods  
 - Garcia, Kami: Beautiful Creatures  
+- Garcia, Mayte: The Most Beautiful  
 - Garvin, Ann: I thought you said this would work (kindle?)   
 - Gates, Robert: Duty: Memoirs of a Secretary at War  
 - Gaunt, Derek: Ego, Authority, Failure  
+- Gaynor, Hazel: Last Christmas in Paris: A Novel of World War I  
 - Gee, Emily: The Sentinel Mage  
 - Gibson, William: Neuromancer  
 - Girard, Danielle: White Out (kindle)  
@@ -269,6 +276,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Harris, Josh: Captain Phil Harris  
 - Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon  
 - Hartley, Gemma: Fed Up  
+- Harwood, JJA: The Shadow in the Glass  
 - Hawke, Mykel: Hawke's Special Forces Survival Handbook  
 - Hawker, Natasha: From Hire to FIre & Everything in Between  
 - Hayes, Drew: SuperPowered  
@@ -292,6 +300,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Holmes, Jamie: 12 Seconds of Silence  
 - Hoff, Benjamin: The Tao of Pooh  
 - Hornfischer, James: Neptune's Inferno; The Fleet at Flood Tide; The Last Stand of the Tin Can Sailors  
+- Housel, Morgan: The Psychology of Money  
 - Howard, Michael: The Salaryman  
 - Howarth, David: We Die Alone  
 - Huang, S.L.: Zero Sum Game  
@@ -315,12 +324,13 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Jones, Gwyneth: Proof of Concept  
 - Kahn, David: The Codebreakers  
 - Kahneman, Daniel: Thinking, Fast, and SLow  
-- Kaku, Michio: Physics of the Future; Hyperspace  
+- Kaku, Michio: Physics of the Future; Hyperspace; The God Equation: The Quest for a Theory of Everything  
 - Kai, Christopher: Big Game Hunting  
 - Kasparov, Garry: Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins  
 - Katayama, Lisa: Urawaza  
 - Kaufman, Josh: The personal MBA  
 - Kawakami, Hiromi: Manazuru  
+- Kean, Sam: The Bastard Brigade  
 - Kearney, Paul: The Ten Thousand  
 - Kelly, Kevin: The Inevitable  
 - Kendi, Ibram: How to be an Antiracist  
@@ -332,6 +342,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Kim, Bo-Young: I'm Waiting for You and Other Stories  
 - King, Stephen: The Eyes of the Dragon; UR; 11/22/63  
 - King, Wesley: The Vindico  
+- Kingfisher, T.: Nettle & Bone  
 - Kissinger, Henry: Diplomacy, World Order  
 - Kloos, Marko  
 - Klune, TJ: Under the Whispering Door  
@@ -422,6 +433,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Mnookin, Robert: Create Value in Deals and Disputes  
 - Moon, Elizabeth:  
 - Moorcock, Michael: A Nomad of the Time streams  
+- Moore, Demi: Inside Out  
 - Moore, Peter: V is for Villain  
 - Morillo, Christina: 97 Things Every Information Security Pro Should Know   
 - Muir, Tamsyn: THE LOCKED TOMB: 1)Gideon the Ninth  
@@ -435,6 +447,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Murray, Williamson: Military Innovation in the Interwar Period  
 - Murtagh, Niall: The Blue-Eyed Salaryman  
 - Musker, Jackson: The Sea in the Sky  
+- Naumburg, Carla: How to Stop Losing your Sh*t with your kids  
 - Navarro, Joe: What every Body is saying; The dictionary of body language (kindle)  
 - Nesbit, E:  
 - Ness, Patrick: Chaos Walking: trilogy  
@@ -494,6 +507,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Roanhorse, Rebecca: Trail of Lightning, Fevered Star  
 - Roberts, Adam: Jack Glass  
 - Roberto, Adam: The Thing Itself  
+- Robson, David: The Expectation Effect: How your Mindset Can Change your World  
 - Rollins, James: The Starless Crown 
 - Rosling, Hans: Factfulness  
 - Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear  
@@ -515,6 +529,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Saulter, Stephanie: EVOLUTION 1)Gemsigns  
 - Scalzi, John: Kaiju preservation society; Lock In  
 - Scharre, Paul: Army of None  
+- Schreier, Jason: Blood, Sweat, and Pixels  
 - Schulz, Kathryn: Being Wrong  
 - Schwab, VE: Vicious; A DARKER SHADE OF MAGIC; The Invisible Life of Addie Larue; Gallant
 - Schwarcz, Joe: Radar, Hula Hoops< and Playful Pigs  
@@ -550,6 +565,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Staveley, Brian: Skullsworn  
 - Stavridis, James: The Leaders Bookshelf; SeaPower  
 - Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World, New Found Land: The Long Haul     
+- Stewart, Andrea: The Bone Shard Emperor  
 - Stirling, SM: The Forge  
 - Stoll, Cliff: The Cuckoos Egg  
 - Stoller, Matt: Goliath  
@@ -573,6 +589,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Thames, Elizabeth: Meet the Frugalwoods  
 - The Talent Code: Greatness isnt born.  Its grown   
 - Thompson, Eldon: Unbowed: A Kronus Tale (kindle)  
+- Thorne, Kip: The Science of Interstellar  
 - Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future  
 - Till, Geoffrey: Sea Power  
 - Tokunaga, Wendy: Marriage in Translation  
@@ -585,6 +602,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Tuchman, Barbara: March of Folly: From Troy to Vietnam; The Guns of August  
 - Tuhovsky, Ian: The Art of Reading People (kindle)  
 - Turnbull, Cadwell: The Lesson  
+- Tyson, Neil deGrasse: Astrophysics for Peole in a Hurry  
 - Urschel, John: Mind & Matter  
 - Vance, Jack: The Eyes of the Overworld  
 - Vann, David: A Mile Down  
