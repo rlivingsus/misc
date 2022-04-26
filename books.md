@@ -122,6 +122,9 @@ SWORD OF TRUTH: 0) The First Confessor, 0.5) Debt of Bones, ~~1) Wizards First R
 ### Goyer, David  
 HEAVEN'S SHADOW: ~~1) Heaven's Shadow,~~ 2)Heaven's War, 3) Heaven's Fall  
 
+### Gray, Claudia  
+CONSTELLATION: ~~1) Defy the Stars (Apr 22: Galactic war between the Genesis which seem to be pioneers from Earth but are technologically less capable and Earth which "rules" over many planets and send "mechs" to battle Genesis and other planets.  The Protagonist is able to take control of a mech and enter areas ruled by Earth. Sort of a love story between the Genesis soldier and highly intelligent mech)~~, 2) Defy the Worlds, 3) Defy the Fates     
+
 ### Haldeman, Joe  
 FOREVER WAR: ~~1) The Forever War,~~2) Forever Peace, ~~3) Forever Free~~  
 
