@@ -868,7 +868,7 @@ THE FALL OF SHANNARA: 1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stieh
 MAGIC KINGDOM OF LANDOVER: ~~1) Magic Kingdom for Sale/Sold,~~ 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
 
 ### Brown, Pierce  
-RED RISING SAGA: ~~1) Red Rising,~~ 2) Golden Son, 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer  
+RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various gold folks who isn't happy that he is where he is at.  Various folks discover he is a Red and at the end of the book he is taken by folks he shouldn't have trusted)~~, 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer  
 
 ### Bryson, Bill:  
 In a Sunburned Country,  
