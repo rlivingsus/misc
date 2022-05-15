@@ -1,5 +1,48 @@
 ## New up top  
 
+### 5.15.22 Notes about CTO  
+
+Chronic Total Occlusion (CTO) Percutaneous Coronary Intervention (PCI)  
+- 7 common principles that widely accepted best practices:
+-- Ischemic symptom improvement is the primary indication for CTO-PCI like strokes?
+-- Dual coronary angiography (and, if available, coronary computed tomography angiography) are key for planning and safely performing CTO-PCI
+-- Use of microcatheter is essential for optimal guidewire manipulation and exchanges
+-- Antegrade wiring, antegrade dissection and reentry, retrograde approach are complementary and necessary crossing strategies
+-- If initially selected crossing strategy fails alternative crossing technique increases the likelihood of eventual PCI success, shortens procedure time, and lower radiation and contrast use.
+-- Specific CTO-PCI expertise and volume/availability of specialized equipement will increase likelihood of success and facilitate prevention and management of complications such as perforation
+-- Attention to lesion preparation and stenting technique is required to ensure optimum stent expansion and minimize risk of short/long term adverse events
+- evaluation of collateral circulation is critical for determining the feasibility of retrograde approach which differs from antegrade approach and occlusion is approached from the distal vessel
+
+- CTOs are blockages that present for three months or more.  Blockages generally result of severe build-up of fatty deposits of plaque within the arteries (atherosclerosis) or fatty deposits
+- Success rates approaching near 90%
+- How Safe? Kidney damage elevated risk due to intravenous contrast use and bleeding at entry site into arteries in the groin.  Most other risks are similar to what is seen routine angioplasty and can include: bleeding at puncture site, damage to blood vessel at puncture site, sudden closure of the coronary artery, tear in inner lining of the artery, heart attack 
+- partial success occurs sometime will be reattempted 6-8 weeks later
+- 2 catheters are placed to go forward or backwards as needed.  
+
+CTO: To treat or not to treat?  
+- successful results improvement in patient symptoms, quality of life, left ventricular function, and survival.  Scientific evidence comes from observational studies (based on successful vs. unsuccessful cohorts) and no randomized study has yet been published. 
+- tx for Angina should be treated, depends
+- tx for Ischemia is restriction in blood supply
+- tx for ventricular dysfunction
+- patients should be selected very carefully, especially if they are asymptomatic or very few symptoms. and the benefits obtained in terms of complications during the procedure, the quality of life obtained and further ischemic events avoided should be evaluated systematically.
+
+BALANCE Benefits, Risk, Costs of CTO PCI  
+
+chronic total occlusion percutaneous coronary intervention risks  
+
+REF: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.039797
+https://www.massgeneral.org/heart-center/treatments-and-services/chronic-total-occlusion-percutaneous-coronary-intervention-cto-pci
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4110610/
+https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.119.007809  
+
+Ornish Diet?  
+- conceived by Dean Ornish, MD restricts dietary fat severley (to less than 10% of daily calories) and all fats come from plant sources.
+- Supposedly prevents CAD AND improves artery plaques.
+- HOWEVER, clinical studies in which dietary fat was restricted to less than 25% of daily calories have failed to demonstrate a cardiovascular benefit.  The AHA once recommended a low-fat diet but has since change its guidelines.
+- possibly good for weight loss but "should be regarded as an intriguing hypothesis"
+
+REF: https://www.verywellfit.com/does-the-ornish-diet-really-work-1746343  
+
 ### 4.19.22 Appointment with Mark Anstadt  
 
 - meeting #2
