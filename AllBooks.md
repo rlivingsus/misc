@@ -115,6 +115,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Brahm, Ajahn: The Art of Disappearing  
 - Brin, David: Sundiver, Startide Rising, Uplift War then Brightness Reed, Heaven Reach, Infinitys Shore  
 - Brooks, David: The Road to Character 
+- Brown, Brene: Dare to Lead: Brave Work. Tough Conversations. Whole Hearts  
 - Brown, Peter: The WIld Robot Escapes  
 - Brown, Rachel, Manija: Stranger  
 - Brown, Ryk: The Frontiers Saga (kindle) 
@@ -125,6 +126,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Burt, Alexandra: Remember Mia  
 - Burvine, Lee: Kafir Project  
 - Butler, Octavia: Anything, Kindred   
+- Cain, Susan: Quiet: The Power of Introverts in a World That Can't Stop Talking  
 - Camp, Jim: Start with No  
 - Campbell, John: Who Goes There?:  
 - Campbell, Tom: The Old Man's Trail  
@@ -183,6 +185,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Dozois, Gardner: The Very Best of the Best: 35 Years of the Year's Best Sci-Fi  
 - Drayden, Nickey: The Prey of Gods  
 - Dreeke, Robin: It's Not all about "me"  
+- Drucker, Peter: The Practice of Management  
 - Durant, Will/Ariel: The Lessons of History  
 - Dweck, Carol: Mindset  
 - Ebrahim, Zak: The Terrorist's Son  
@@ -294,6 +297,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Hirano, Keiichiro: A Man (kindle)  
 - Hoffman, Carl: The Lunatic Express  
 - Hogarth, M.C.A: HER INSTRUMENTS: 1)Earthrise  
+- Holes, Paul: Unmasked: My Life Solving America's Cold Cases  
 - Holiday, Ryan: Ego is the Enemy; Conspiracy  
 - Holmberg, Charlie: Star Father  
 - Holmes, James: A Brief guide to Maritime Strategy  
@@ -319,6 +323,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Jemisin, NK: Emergency Skin  
 - Jiang, Jia: Rejection Proof  
 - Johnson, Micaiah: The Space between Worlds  
+- Jonasson, Jonas: The 100-Year-Old Man who Climbed out the Window and Disappeared  
 - Jones, Dhani: The Sportsman  
 - Jones, Dylan: David Bowie  
 - Jones, Gwyneth: Proof of Concept  
@@ -425,6 +430,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Meister, Ellen: Dorothy Parker Drank Here
 - Mersinger, Holly: The Curse of Jacob Tracy  
 - Meyer, Michael: In Manchuria  
+- Miller, Chanel: Know my Name  
 - Miller, Christian: The Character Gap  
 - Miller, Lulu: Why Fish Don't Exist: A story of Loss, Love, and Hidden Order of Life  
 - Mindell, David: Our Robots, Ourselves  
@@ -457,6 +463,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
 - Niven, Larry: 3) Outies (kindle?)  
+- Nix, Garth: 1)Sabriel, 2)Lirael, 3)Abhorsen, 4)Clariel, 5)Goldenhand, 6)Terciel & Eleanor  
 - Nobu: A memoir  
 - Noesner, Gary: Stalling For Time  
 - North, Ryan: How to Invent Everything: A Survival Guide for the Stranded Time Traveler  
@@ -474,6 +481,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Pene du Bois, William: The Twenty-One Balloons  
 - Pentecost, Kate: That Dark Infinity  
 - Pham, Andrew: Catfish and Mandala  
+- Phillips, Helen: The Need  
 - Phillips, Lucas: The Greatest Raid of All  
 - Pierceson, Jason: Sexual Minorities and Politics  
 - Pillsbury, Michael: The Hundred-Year Marathon  
@@ -491,9 +499,10 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Raymer, Edward: Descent into Darkeness  
 - Redman, Jason: Overcome  
 - Reed, Steven: Making Common Sense of Japan  
-- Rekulak, Jason: The Impossible Fortress  
+- Rekulak, Jason: The Impossible Fortress, Hidden Pictures  
 - Reich, Simon & Peter Dombrowski: The end of grand strategy  
 - Reid, Rob: Year Zero  
+- Repino, Robert: The War with No Name: 1) Mort(e)  
 - Reynolds, Jason: Long Way Down  
 - Rhodes, Richard: Dark Sun  
 - Richards, Carl: The One-Page Financial Plan  
@@ -529,7 +538,9 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Saulter, Stephanie: EVOLUTION 1)Gemsigns  
 - Scalzi, John: Kaiju preservation society; Lock In  
 - Scharre, Paul: Army of None  
+- Schlender, Brent and Rick Tetzeli: Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader  
 - Schreier, Jason: Blood, Sweat, and Pixels  
+- Schroeder, Alice: The Snowball: Warren Buffett and the Business of Life  
 - Schulz, Kathryn: Being Wrong  
 - Schwab, VE: Vicious; A DARKER SHADE OF MAGIC; The Invisible Life of Addie Larue; Gallant
 - Schwarcz, Joe: Radar, Hula Hoops< and Playful Pigs  
@@ -646,12 +657,15 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Wong, Khan: The Circus Infinite  
 - Worms (superhero book)  
 - Wright, Richard: Burglars on the Job  
+- Vance, Ashlee: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future  
+- Willink, Jocko & Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - Yancey, Richard: The 5th wave  
 - Yang, Jeff: Rise  
 - Yates, Brook: Cannonball  
 - Yi-Sheng, Ng: Lion City  
 - Yoshihara, Toshi & James R. Holmes: Red Star over the Pacific  
 - Young, Shannon: How Does One Dress to Buy Dragonfruit  
+- Zaleski, Laurie: Funny Farm  
 - Zauner, Michelle: Crying in H Mart  
 - Zetter, Kim: Countdown to Zero Day  
 - Zinni, Tony: Before the First Shot is Fired: How America can win lose off the Battlefield  
@@ -959,6 +973,9 @@ STAR WARS: Lost Stars; Bloodline; Leia; Master & Apprentice; Into the Dark; Fall
 ### Haldeman, Joe  
 FOREVER WAR: ~~1) The Forever War,~~2) Forever Peace, ~~3) Forever Free~~  
 
+### Heinlein, Robert  
+Glory Road, The Moon is a Harsh Mistress; The SciFi Hall of Fame Vol.1 1929-1964; The SciFi Hall of Fame Vol.2-a   
+
 ### Hickman, Tracy  
 THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~  
 
@@ -987,6 +1004,7 @@ ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow I
 ### Koontz, Dean  
 JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
 ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, 1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
+Innocence  
 
 ### Kwan, Kevin  
 CRAZY RICH ASIANS: ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich People Problems~~   
@@ -1036,6 +1054,9 @@ RINGWORLD: ~~1) Ringworld,~~ 2) The Ringworld Engineers, 3) The Ringworld Throne
 
 ### Norton, Mary  
 THE BORROWERS: 1)The Borrowers, 2)The Borrowers Afield, 3)The Borrowers Afloat, 4)The Borrowers Aloft, 5)The Borrowers Avenged   
+
+### Pohl, Frederik  
+MISC:  
 
 ### Prineas, Sarah  
 MAGIC THIEF SERIES: ~~1) The Magic Thief,~~ 2) Lost, 3) Found, 3.5) A Proper Wizard, 4) Home  
