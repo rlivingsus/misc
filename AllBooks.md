@@ -841,7 +841,7 @@ THE FIRST LAW: 1)The Blade Itself, 2)Before they are Hanged, 3)The Last Argument
 EARTHEND SAGA: 1) A Vision of Fire, 2) A Dream of Ice  
 
 ### Anthony, Piers  
-Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22),~~ 4)Wielding a Red Sword, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
+Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22), 4)Wielding a Red Sword (May 22)An Indian Prince who becomes Mars the incarnation of War ~~, 5)Being a Green Mother, 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
 
 ### Asimov, Isaac  
 The End of Eternity; Prelude to Foundation; The God Themselves   
@@ -1040,7 +1040,7 @@ DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)D
 DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
 DRAGONRIDERS OF PERN Sixth Pass: (7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels), (8)Nerilka's Story  
 DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, (11)All the Weyrs of Pern, (13)The Dolphins of Pern, (16)The Skies of Pern  
-OTHER PERN?: (10)The Renegades of Pern, (14)Dragonseye, (25)Dragon's Code  
+OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code  
 
 ### McDevitt, Jack  
 ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
