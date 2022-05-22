@@ -29,6 +29,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
 - Jorgenson, Eric: The Almanack of Naval Ravikant (Apr22) Stories and quotes from Naval Ravikant who is a successful venture capitalist, tech individual born in India  
 - Kalanithi, Paul: When Breath Becomes Air  
+- Kelly, Kevin: The Inevitable (May 22, 12 technologies that will shape our future)  
 - Kemp, Paul: Star Wars Riptide  
 - King, Stephen: Billy Summers; Dark Tower 7 books; Elevation; Outsider; The Institute; Riding the Bullet; Joyland     
 - Koontz, Dean: The Good Guy  
@@ -141,6 +142,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
+- Cho, Zen: Sorcerer to the Crown  
 - Clair, Kassia St.: The Secret Lives of Color  
 - Clark, Christopher: The Sleepwalkers (kindle)  
 - Clark, P. Djeli: DEAD DJINN UNIVERSE: 1)A Master of Djinn  
@@ -151,6 +153,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Cogman, Genevieve: The Untold Story  
 - Cohen, Steve: Win the Crowd  
 - Connolly, John: The Gate...  
+- Collins, Eileen: Through the Glass Ceiling to the Stars  
 - Collins, Megan: The Family Plot  
 - Cordova, Zoraida: The Inheritance of Orquidea Divina  
 - Coremen, Thomas: Algorithms Unlocked  
@@ -195,6 +198,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Eisenmann, Tom: Why Startups Fail  
 - El-Mohtar, Amal: This is How you Lose the Time War  
 - Ellenberg, Jordan: How Not to be Wrong  
+- Ellis, Joseph: The Cause, The American Revolution  
 - Ellsberg, Michael: The Education of Millionaires  
 - Endo, Shusaku: Silence  
 - Ericsson, Anders: Peak  
@@ -205,6 +209,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Ettenberg, Jodi: The Food Traveler's Handbook  
 - Evans, Ceri: Perform under Pressure  
 - Evan, Erin: The Bone Wars  
+- Evans, William & Omar Holmon: Black Nerd Problems  
 - Fader, Mirin: Giannis  
 - Falaye, Deborah: Blood Scion  
 - Falcone, Paul: 101 Tough Conversations to Have with Employees  
@@ -239,6 +244,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Gaunt, Derek: Ego, Authority, Failure  
 - Gaynor, Hazel: Last Christmas in Paris: A Novel of World War I  
 - Gee, Emily: The Sentinel Mage  
+- Gentill, Sulari: The Woman in the Library  
 - Gibson, William: Neuromancer  
 - Girard, Danielle: White Out (kindle)  
 - Gladstone, Max: Last Exit; This is How you Lose the Time War  
@@ -271,6 +277,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Gyasi, Yaa: Homegoing  
 - Haig, Matt: The Midnight Library  
 - Hall, Edward: The Hidden Dimension  
+- Hall, Kerstin: Star Eater  
 - Hall, Kindra: Stories that Stick  
 - Hanh, Thich Nhat: Fear  
 - Hanson, Jason: Spy Secrets that can save your life (kindle)  
@@ -337,7 +344,6 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Kawakami, Hiromi: Manazuru  
 - Kean, Sam: The Bastard Brigade  
 - Kearney, Paul: The Ten Thousand  
-- Kelly, Kevin: The Inevitable  
 - Kendi, Ibram: How to be an Antiracist  
 - Kennedy, Paul: Rise and Fall of the Great Powers  
 - Kent, Jasper: Twelve  
@@ -423,6 +429,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - McFate, Sean: The New Rules of War  
 - McGrath, Ben: Riverman: An American Odyssey  
 - McGuire, Seanan: Where the Drowned Girls Go; OCTOBER DAYE: .5)Rat-Catcher, 1)Rosemary and Rue,   
+- McKinty, Adrian: The Island  
 - McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
 - McNeill, Graham: Ultramarines Omnibus  
 - McQuiston, Casey: One Last Stop  
@@ -658,6 +665,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Worms (superhero book)  
 - Wright, Richard: Burglars on the Job  
 - Vance, Ashlee: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future  
+- Varol, Ozan: Think Like a Rocket Scientist  
 - Willink, Jocko & Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - Yancey, Richard: The 5th wave  
 - Yang, Jeff: Rise  
