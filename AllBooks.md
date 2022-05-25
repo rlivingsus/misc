@@ -29,7 +29,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Isaacson, Walter: The Codebreaker; Benjamin Franklin: An American Life  
 - Jorgenson, Eric: The Almanack of Naval Ravikant (Apr22) Stories and quotes from Naval Ravikant who is a successful venture capitalist, tech individual born in India  
 - Kalanithi, Paul: When Breath Becomes Air  
-- Kelly, Kevin: The Inevitable (May 22, 12 technologies that will shape our future)  
+- Kelly, Kevin: The Inevitable (May 22, 12 technologies that will shape our future about internet, VR, IoT, technology that shapes our lives)  
 - Kemp, Paul: Star Wars Riptide  
 - King, Stephen: Billy Summers; Dark Tower 7 books; Elevation; Outsider; The Institute; Riding the Bullet; Joyland     
 - Koontz, Dean: The Good Guy  
