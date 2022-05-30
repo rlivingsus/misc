@@ -11,6 +11,7 @@
 - Chen, Mike:  
 Light Years from Home: a guy and his dad who disappears from modern times and was in an intergalactic war he sends his dad back home who continues to search for his son until his death.  Then the guy comes back to earth to search for the key to the war;  
 Here and Now and Then;   
+Brotherhood;  
 We Could be Heroes;   
 A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where billions have died and the world is still fairly same but still large changes  
 - Cialdini, Robert: Influence  
@@ -155,12 +156,13 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Connolly, John: The Gate...  
 - Collins, Eileen: Through the Glass Ceiling to the Stars  
 - Collins, Megan: The Family Plot  
+- Cooper, Anderson: Vanderbilt  
 - Cordova, Zoraida: The Inheritance of Orquidea Divina  
 - Coremen, Thomas: Algorithms Unlocked  
 - Corey, James: The Expanse  
 - Costello, Barry: Fortune favors Boldness  
 - Couch, Dick: A Tactical Ethic  
-- Crichton, Michael: Sphere  
+- Crichton, Michael: Sphere; Rising Sun; The Great Train Robbery;   
 - Cristie, Agatha:  
 - Cronin, Justin: The Passage  
 - Crouch, Blake: Dark Matter  
@@ -219,6 +221,8 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
 - Feynman, Richard: The Pleasure of Finding things out  
 - Fick, Nathaniel: One Bullet Away: The Making of a Marine Officer  
+- Fils-Aime, Reggie: Disrupting the Game: From the Bronx to the Top of Nintendo  
+- Finnegan, William: Barbarian Days: a Surfing Life  
 - Finney, Jack: Time and Again  
 - Fisher, Roger: Getting to Yes  
 - Fisher, Sharon Lynn: Echo 8  
@@ -258,6 +262,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Goodkind, Terry: The Sky People  
 - Goodman, Marc: Future Crimes
 - Gordon, Andrew: The Rules of the Game  
+- Gorenberg, Gershom: War of Shadows  
 - Goulding, Matt: Rice, Noodle, Fish  
 - Graedon, Joe: Top Screwups Doctors Make and How to Avoid them  
 - Graff, Lisa: A Tangle of Knots  
@@ -391,6 +396,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Lipman, Joanne: That's What She Said  
 - Liu, Cixin: The Three-Body Problem  
 - Liu, Ken: The Armies of Those I Love; Invisible Planets  
+- Liu, Simu: We were Dreamers  
 - Livingston, Jessica: Founders at Work 
 - Lloyd-Jones, Emily: Illusive  
 - Lockwood, Charles: Tragedy at Honda  
@@ -469,6 +475,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Newitz, Annalee: The Future of Another Timeline 
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
+- Nicholson, Dean: Nala's World  
 - Niven, Larry: 3) Outies (kindle?)  
 - Nix, Garth: 1)Sabriel, 2)Lirael, 3)Abhorsen, 4)Clariel, 5)Goldenhand, 6)Terciel & Eleanor  
 - Nobu: A memoir  
@@ -487,6 +494,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
 - Pene du Bois, William: The Twenty-One Balloons  
 - Pentecost, Kate: That Dark Infinity  
+- Perlroth, Nicole: This is How They Tell Me the World Ends: The Cyberweapons Arms Race  
 - Pham, Andrew: Catfish and Mandala  
 - Phillips, Helen: The Need  
 - Phillips, Lucas: The Greatest Raid of All  
@@ -543,7 +551,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Sarnicola, Thomas: No Kings, No Kooks  
 - Sato, Yuya: Dendera  
 - Saulter, Stephanie: EVOLUTION 1)Gemsigns  
-- Scalzi, John: Kaiju preservation society; Lock In  
+- Scalzi, John: Kaiju preservation society; Lock In; Head On  
 - Scharre, Paul: Army of None  
 - Schlender, Brent and Rick Tetzeli: Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader  
 - Schreier, Jason: Blood, Sweat, and Pixels  
@@ -561,6 +569,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Shand, Mark: Travels on My Elephant  
 - Shaw, Julia: The Memory Illusion  
 - Shea, Kieran: Off Rock  
+- Sheff, David: The Buddhist on Death Row  
 - Shepherd, Peng: The Cartographers; The Book of M  
 - Sherry, Miranda: Black Dog Summer  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
@@ -864,6 +873,9 @@ GRISHA: 0.5) Demon in the Wood, 0.75) The Witch of Duva, 1) Shadow and Bone, 2) 
 
 ### Barker, RJ  
 THE TIDE CHILD: 1)The Bone Ships, 2)Call of the Bone Ships, 3)The Bone Ship's Wake  
+
+### Bear, Greg  
+THE WAY: 0)Legacy, 1)Eon, 2)Eternity  
 
 ### Bolme, Edward  
 FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) The Black Bouquet, 3) The Crimson Gold, 4) The Yellow Silk  
