@@ -1,5 +1,16 @@
 ## New up top  
 
+### 6.5.22 Various Notes  
+
+-- Call AETNA/FSBP regarding payments for Angiogram which was a few thousand vice stent and childbirth and hernia for Noa which we didn’t pay much  
+-- Balancing the Benefits, Risks, and Costs of Chronic Total Occlusion Percutaneous Coronary Intervention by Nadia Sutton and Eric Bates  
+-- **Benefit/Risk for CTO-PCI are less favorable than for PCI in non-CTO lesions and the procedure should probably only be offered to patients with high angina or ischemia burdens despite Optimal Medical Therapy (OMT) and performed only at hospitals with on-site surgery by dedicated interventional cardiologists with annual volume of at least 50 procedures**  
+-- REF: https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.119.007809  
+-- Alphabetic list of common cooking oils that contain more "better for you" fats and less saturated fats (from AHA website)  
+-- *Canola*, Corn, Olive, Peanut, Safflower, Soybean, *Sunflower* & some specialty oils which may cost more or are harder to find: avocado, grapeseed, rice bran, sesame or <4g of sat. fat per tablespoon.  
+-- The ones marked with * above are supposedly not good looking at another heart website  
+-- 13g saturated fats a day max says AHA  
+
 ### 5.15.22 Notes about CTO  
 
 Chronic Total Occlusion (CTO) Percutaneous Coronary Intervention (PCI)  
