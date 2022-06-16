@@ -1058,7 +1058,7 @@ DRAGONRIDERS OF PERN First Interval: (18)Dragonsblood (windblossom parts)
 DRAGONRIDERS OF PERN Second Pass: Red Star Rising aka (14)Dragonseye, Ever the Twain in A Gift of Dragons  
 DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper, Dragonsblood (Lorana parts)  
 DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
-DRAGONRIDERS OF PERN Sixth Pass: (7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels), (8)Nerilka's Story  
+DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),~~ (8)Nerilka's Story  
 DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, (11)All the Weyrs of Pern, (13)The Dolphins of Pern, (16)The Skies of Pern  
 OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code  
 
