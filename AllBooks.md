@@ -323,7 +323,6 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Huff, Tanya: Blood Prince  
 - Hughes, Wayne: Fleet Tactics and Coastal Combat  
 - Hunter, Dave: Along Interstate-75  
-- Hurley, Kameron: The Stars are Legion  
 - Hunter, Georgia: We were the Lucky Ones  
 - Huxley, Aldous: Brave New WOrld  
 - Iger, Robert: The RIde of a Lifetime  
