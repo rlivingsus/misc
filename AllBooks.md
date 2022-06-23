@@ -887,7 +887,7 @@ THE UPLIFT WAR: 1) Brightness Reef, 2) Startide Rising, 3) Uplift War
 
 ### Brooks, Terry  
 WORD AND VOID: ~~1)Running with the Demon (Feb22), 2)A Knight of the Word (Mar22), 3)Angel Fire East (Mar22)~~ First set of stories of the Shannara world.  I did not realize until I saw the MTV Shannara series that this world was originally earth before some sort of apocolypse.  John Ross and Nest Freemark are the protagonists battling various demons that look like humans.      
-THE GENESIS OF SHANNARA: 1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph  
+THE GENESIS OF SHANNARA: ~~1) Armageddon's Children;~~ 2)The Elves of Cintra; 3)The Gypsy Morph  
 LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
 ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
 Indomitable, Dark Wraith of Shannara~~  
@@ -1057,7 +1057,7 @@ DRAGONRIDERS OF PERN First Interval: (18)Dragonsblood (windblossom parts)
 DRAGONRIDERS OF PERN Second Pass: Red Star Rising aka (14)Dragonseye, Ever the Twain in A Gift of Dragons  
 DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper, Dragonsblood (Lorana parts)  
 DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
-DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),~~ (8)Nerilka's Story  
+DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),(8)Nerilka's Story~~  
 DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, (11)All the Weyrs of Pern, (13)The Dolphins of Pern, (16)The Skies of Pern  
 OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code  
 
