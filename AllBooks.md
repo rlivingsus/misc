@@ -144,6 +144,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
 - Cho, Zen: Sorcerer to the Crown  
+- Cipri, Nino: Finna  
 - Clair, Kassia St.: The Secret Lives of Color  
 - Clark, Christopher: The Sleepwalkers (kindle)  
 - Clark, P. Djeli: DEAD DJINN UNIVERSE: 1)A Master of Djinn  
@@ -163,7 +164,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Costello, Barry: Fortune favors Boldness  
 - Couch, Dick: A Tactical Ethic  
 - Crichton, Michael: Sphere; Rising Sun; The Great Train Robbery;   
-- Cristie, Agatha:  
+- Cristie, Agatha:  TOMMY & TUPPENCE: 2) Partners in Crime, 3) N or M?, 4) By the Pricking of My Thumbs, 5) Postern of Fate HERCULE POIROT: various  
 - Cronin, Justin: The Passage  
 - Crouch, Blake: Dark Matter  
 - Curtis, Houston: Billion Dollar Hollywood Heist  
@@ -280,7 +281,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Greenspan, Alan: The man who knew: the Life & Times of Alan Greenspan  
 - Grossman, Lev: The Map of Tiny Perfect Things  
 - Gyasi, Yaa: Homegoing  
-- Haig, Matt: The Midnight Library  
+- Haig, Matt: The Midnight Library, Notes on a Nervous Planet  
 - Hall, Edward: The Hidden Dimension  
 - Hall, Kerstin: Star Eater  
 - Hall, Kindra: Stories that Stick  
@@ -368,6 +369,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Krishnamurti, Jiddu: The Book of Life  
 - Kritzer, Naomi: Catfishing on CatNet  
 - Kundera, Milan: the Unbearable Lightness of Being  
+- Kunsken, Derek: THE QUANTUM EVOLUTION: 1) The Quantum Magician, 2) Quantum Garden, 3) Quantum War  
 - Laberge, Stephen: Exploring the World of Lucid Dreaming  
 - Lallo, Joseph: The Book of Deacon (kindle)  
 - Lanagan, Margo: Tender Morsels  
@@ -530,6 +532,8 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Roanhorse, Rebecca: Trail of Lightning, Fevered Star  
 - Roberts, Adam: Jack Glass  
 - Roberto, Adam: The Thing Itself  
+- Robinson, Frank M: The Dark Beyond the Stars  
+- Robinson, Kim Stanley: Aurora  
 - Robson, David: The Expectation Effect: How your Mindset Can Change your World  
 - Rollins, James: The Starless Crown 
 - Rosling, Hans: Factfulness  
@@ -853,6 +857,9 @@ SERIES
 ### Abercrombie, Joe:   
 THE FIRST LAW: 1)The Blade Itself, 2)Before they are Hanged, 3)The Last Arguments of Kings, 4)Best Served Cold, 5)The Heroes, 6)Red Country  
 
+### Anderson, Kevin:  
+HEXWORLD: 1) Roll, 2) Play, 3) End  
+
 ### Anderson, Gillian:   
 EARTHEND SAGA: 1) A Vision of Fire, 2) A Dream of Ice  
 
@@ -1009,7 +1016,7 @@ SILO SERIES: 1) Wool, 2) Shift, 3) Dust
 EDINBURGH NIGHTS: 1) Library of the Dead, 2) Our Lady of Mysterious Ailments    
 
 ### Jordan, Robert   
-WHEEL OF TIME: ~~0) New Spring, 0.1) The Strike at Shayol Ghul, 0.2) Earlier-Ravens, 1)The Eye of the World, 2) The Great Hunt(JAN22), 3)The Dragon Reborn (MAR22), 4)The Shadow Rising (MAY22): Multiple stories: Rand to the Aielland; Perrin to Two Rivers; Elayne and Nynaeve to a City to chase the Black Ajah and obtain some artifacts; Also Min to Tar Valon and the fall of the Aes Sedai leaders Siuan?, 5)The Fires of Heaven~~, 6)Lord of Chaos, 7)A Crown of Swords, 8)The Path of Daggers, 8.5)Snow, 9)Winter's Heart, 9.5) Glimmers, 10)Crossroads of Twilight, 11)Knife of Dreams, 12)The Gathering Storm, 13)Towers of Midnight, 13.5)By Grace and Banners Fallen, 14)A Memory of Light, Unfettered by Shawn Speakman, A fire within the Ways  
+WHEEL OF TIME: ~~0) New Spring, 0.1) The Strike at Shayol Ghul, 0.2) Earlier-Ravens, 1)The Eye of the World, 2) The Great Hunt(JAN22), 3)The Dragon Reborn (MAR22), 4)The Shadow Rising (MAY22): Multiple stories: Rand to the Aielland; Perrin to Two Rivers; Elayne and Nynaeve to a City to chase the Black Ajah and obtain some artifacts; Also Min to Tar Valon and the fall of the Aes Sedai leaders Siuan?, 5)The Fires of Heaven, 6)Lord of Chaos~~, 7)A Crown of Swords, 8)The Path of Daggers, 8.5)Snow, 9)Winter's Heart, 9.5) Glimmers, 10)Crossroads of Twilight, 11)Knife of Dreams, 12)The Gathering Storm, 13)Towers of Midnight, 13.5)By Grace and Banners Fallen, 14)A Memory of Light, Unfettered by Shawn Speakman, A fire within the Ways  
 The Warrior of Altaii  
 
 ### Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
