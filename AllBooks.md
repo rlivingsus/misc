@@ -867,7 +867,10 @@ EARTHEND SAGA: 1) A Vision of Fire, 2) A Dream of Ice
 Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22), 4)Wielding a Red Sword (May 22)An Indian Prince who becomes Mars the incarnation of War, 5)Being a Green Mother (Jun 22)~~ , 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
 
 ### Asimov, Isaac  
-The End of Eternity; Prelude to Foundation; The God Themselves   
+The End of Eternity; Prelude to Foundation; The God Themselves  
+ROBOTS: 1) Robot Dreams, Robot Vision, The Rest of the Robots, Gold: The FInal SCIFI Collection, Nemesis; 2) I, Robot; 3) Mother Earth; 4) The Positronic Man; 5) The Complete Robot; 6) Caves of Steel; 7) The Naked Sun; 8) The Robots of Dawn; 9) Robots and Empire.  
+EMPIRE: 1) The Stars, Like Dust; 2) The Currents of Space; 3) Pebble in the Sky; 4) Blind Alley  
+FOUNDATION: 1) Prelude to Foundation; 2) Forward the Foundation; 3) Foundation; 4) Foundation and Empire; 5) Second Foundation; 6) Foundation's Edge; 7) Foundation and Earth; 8) The End of Eternity  
 
 ### Athans, Philip  
 FORGOTTEN REALMS SEMBIA MULTIPLE AUTHORS: 1)The Halls of Stormweather(HAVE), 2)Shadow's witness, 3)The Shattered Mask(HAVE), 4)Black wolf, 5)Heirs of Prophecy(HAVE), 6)Sands of the Soul, 7)Lord of Stormweather  
@@ -937,6 +940,7 @@ THE FIRST FORMIC WAR SERIES: 1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens
 
 ### Clarke, Arthur C.:  
 RAMA: 1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
+SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) The Final Odyssey  
 
 ### Clavell, James:  
 THE ASIAN SAGA: 1) Shogun  
@@ -1001,6 +1005,9 @@ FOREVER WAR: ~~1) The Forever War,~~2) Forever Peace, ~~3) Forever Free~~
 
 ### Heinlein, Robert  
 Glory Road, The Moon is a Harsh Mistress; The SciFi Hall of Fame Vol.1 1929-1964; The SciFi Hall of Fame Vol.2-a   
+
+### Herbert, Frant  
+DUNE: 1) The Butlerian Jihad; 2) The Machine Crusade; 3) The Battle of Corrin; 4) Sisterhood of Dune; 5) Mentats of Dune; 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen; 9) House Corrino; 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
 
 ### Hickman, Tracy  
 THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~  
