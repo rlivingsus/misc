@@ -1003,7 +1003,7 @@ FIREBIRD: 1)A Thousand Pieces of You, 2)Ten Thousand Skies Above You, 3)A Millio
 STAR WARS: Lost Stars; Bloodline; Leia; Master & Apprentice; Into the Dark; Fallen Star  
 
 ### Haldeman, Joe  
-FOREVER WAR: ~~1) The Forever War,~~2) Forever Peace, ~~3) Forever Free~~  
+FOREVER WAR: ~~1) The Forever War, 2) Forever Peace, 3) Forever Free~~  
 
 ### Heinlein, Robert  
 Glory Road, The Moon is a Harsh Mistress; The SciFi Hall of Fame Vol.1 1929-1964; The SciFi Hall of Fame Vol.2-a   
