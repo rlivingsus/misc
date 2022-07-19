@@ -566,6 +566,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Scott, James: Rampage  
 - Scott, James C.: The Art of Not Being Governed  
 - Seigel, Rob: Memoirs of a Hack Mechanic  
+- Sen, Paul: Einsteins Fridge    
 - Shafak, Elif: 10 Minutes 38 Seconds in this Strange World  
 - Shalleck, David: Mediterranean Summer  
 - Shapiro, Joseph: No Pity  
@@ -645,6 +646,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Vonnegut, Kurt: Slaughterhouse-5, Breakfast of Champions  
 - Vuong, Ocean: On Earth Were Briefly Gorgeous  
 - Wakin, Malham: War, Morality, and the Military Profession  
+- Walker, ?: Your Head is a Houseboat: A Chaotic Guide to Mental Clarity (Seattle Public Library ebook)  
 - Walker, Sam: The Captain Class  
 - Wallace, Danny: F You very Much  
 - Wallace, David Foster: Infinite Jest  
@@ -1038,6 +1040,7 @@ ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow I
 JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
 ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, 1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
 Innocence  
+The Big Dark Sky  
 
 ### Kwan, Kevin  
 CRAZY RICH ASIANS: ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich People Problems~~   
