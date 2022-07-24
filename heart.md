@@ -1,15 +1,55 @@
 ## New up top  
 
+### 7.22.22 About trans fat & updated labs from 4.11.22  
+
+**partially hydrogenated oil**(avoid) aka trans fat
+- healthier oils are extra-virgin olive oil and coconut oil?
+- trans fats increases your LDL and lower HDL 
+- note if amount of trans fat per serving is less than 0.5 mg then food manufacturers may not specifically list trans fat content on the package.  
+
+4.11.22 Labs via Sound Family Health:  
+
+- glucose mg/dL: 107 (above high normal) but 65-99 normal
+- BUN mg/dL: 15; 6-24 normal
+- creatinine mg/dL: 0.8; 0.76-1.27 normal
+- eGFR mL/min/1.73: 109; unsure what normal is
+- BUN/creatinine ratio: 19; 9-20 normal
+- sodium mmol/L: 141; 134-144 normal
+- potassium mmol/L: 3.7; 3.5-5.2 normal
+- chloride mmol/L: 105; 96-106 normal
+- carbon dioxide, total mmol/L: 20; 20-29 normal
+- calcium mg/dL: 9.1; 8.7-10.2 normal
+- protein, total g/dL: 6.8; 6-8.5 normal
+- albumin g/dL: 4.6; 4-5 normal
+- globulin, total g/dL: 2.2; 1.5-4.5 normal
+- A/G ratio: 2.1; 1.2-2.2 normal
+- bilirubin, total mg/dL: 1.7 (above high normal); 0-1.2 normal
+- alkaline phosphatase IU/L: 101; 44-121 normal
+- AST (SGOT) IU/L: 22; 0-40 normal
+- ALT (SGPT) IU/L: 29; 0-44 normal
+&  
+
+lipid panel, serum
+- cholesterol, total mg/dL: 114; 100-199 normal
+- triglycerides mg/dL: 95; 0-149 normal
+- HDL cholesterol mg/dL: 37 (below low normal); 39 and higher best
+- VLDL cholesterol cal mg/dL: 18; 5-40 normal
+- LDL chol calc (nih) mg/dL: 59; 0-99 normal
+&  
+
+HbA1c(hemoglobin A1c), blood
+- hemoglobin A1C% 6 (above high normal); 4.8-5.6 normal; 5.7-6.4 prediabetic; >6.4 diabetes; >7.0 glycemic control for adults  
+
 ### 6.5.22 Various Notes  
 
--- Call AETNA/FSBP regarding payments for Angiogram which was a few thousand vice stent and childbirth and hernia for Noa which we didn’t pay much  
--- Balancing the Benefits, Risks, and Costs of Chronic Total Occlusion Percutaneous Coronary Intervention by Nadia Sutton and Eric Bates  
--- **Benefit/Risk for CTO-PCI are less favorable than for PCI in non-CTO lesions and the procedure should probably only be offered to patients with high angina or ischemia burdens despite Optimal Medical Therapy (OMT) and performed only at hospitals with on-site surgery by dedicated interventional cardiologists with annual volume of at least 50 procedures**  
+- Call AETNA/FSBP regarding payments for Angiogram which was a few thousand vice stent and childbirth and hernia for Noa which we didn’t pay much  
+- Balancing the Benefits, Risks, and Costs of Chronic Total Occlusion Percutaneous Coronary Intervention by Nadia Sutton and Eric Bates  
+- **Benefit/Risk for CTO-PCI are less favorable than for PCI in non-CTO lesions and the procedure should probably only be offered to patients with high angina or ischemia burdens despite Optimal Medical Therapy (OMT) and performed only at hospitals with on-site surgery by dedicated interventional cardiologists with annual volume of at least 50 procedures**  
 -- REF: https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.119.007809  
--- Alphabetic list of common cooking oils that contain more "better for you" fats and less saturated fats (from AHA website)  
--- *Canola*, Corn, Olive, Peanut, Safflower, Soybean, *Sunflower* & some specialty oils which may cost more or are harder to find: avocado, grapeseed, rice bran, sesame or <4g of sat. fat per tablespoon.  
--- The ones marked with * above are supposedly not good looking at another heart website  
--- 13g saturated fats a day max says AHA  
+- Alphabetic list of common cooking oils that contain more "better for you" fats and less saturated fats (from AHA website)  
+- *Canola*, Corn, Olive, Peanut, Safflower, Soybean, *Sunflower* & some specialty oils which may cost more or are harder to find: avocado, grapeseed, rice bran, sesame or <4g of sat. fat per tablespoon.  
+- The ones marked with * above are supposedly not good looking at another heart website  
+- 13g saturated fats a day max says AHA  
 
 ### 5.15.22 Notes about CTO  
 
