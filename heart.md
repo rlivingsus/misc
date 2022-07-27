@@ -1,5 +1,14 @@
 ## New up top  
 
+### 7.26.22 appointment with Mark Anstadt Polyclinic    
+- how to view results of labs?  online lab view of labcorp  
+- LDL 38 great with 59 new meds to under 50.  
+- LPA lowering medication forgot the name Pelacarsen.  He's looking for outcomes but sounds to be on track for late next year possibly but keep blood sugars from going up.    
+- HDL 41.  Coconut oil with raise LDL and HDL so don't take this.  
+- Total cholesterol 95  
+- **Doctor Hoffman A1C check maybe increase Jardiance.  10mg starting dose but maybe increase.  5.8 --> 6.0 and this time didn't check  
+- **Followup in 3-6 months.  Monday December 5th.  3:30pm next meeting  
+
 ### 7.22.22 About trans fat & updated labs from 4.11.22  
 
 **partially hydrogenated oil**(avoid) aka trans fat
