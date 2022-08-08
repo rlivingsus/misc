@@ -65,6 +65,8 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
   <summary> Books To Read</summary>
   <pre>
 #### Alpha sorted  
+- Abdullah, Chelsea: The Stardust Thief 
+- Acemoglu, Daron: Why Nations Fail  
 - Achor, Shawn: The Happiness Advantage  
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
 - Adams, Marilee: Change your Questions  
@@ -80,6 +82,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Andrews, Jesse: Me, Earl and the Dying Girl  
 - Angelou, Maya: I Know why the Caged Bird Sings  
 - AN INNOCENT ABROAD: Lonely Planet  
+- Aoki, Ryka: Light from Uncommon Stars  
 - Archer, Ursula: FIVE   
 - Ariely, Dan: The Honest Truth about Dishonesty  
 - Asher, Neal: Dark Intelligence: Transformation  
@@ -96,6 +99,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Banerjee, Dillon: The Insider's guide to the peace corps  
 - Banks, Iain: Culture series: A Player of Games, Excession, ...  
 - Barker, Eric: Barking up the wrong tree  
+- Barnes, Jennifer: The Inheritance Games: 1) The Inheritance Games, 2) The Hawthorne Legacy, 3) The Final Gambit  
 - Barton, Craig: How I wished I'd Maths  
 - Baskin, Jonathan Salem: Strange in Place  
 - Bauer, Craig: Unsolved; Secret History  
@@ -133,12 +137,14 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Campbell, John: Who Goes There?:  
 - Campbell, Tom: The Old Man's Trail  
 - Carpenter, Thomas K.: Saturn's Monsters  
+- Carreyrou, John: Bad Blood  
 - Carroll, Raymonde: Cultural Misunderstandings  
 - Carse, James: Finite and Infinite Games  
 - Cassidy, Lisa: A Tale of Stars and Shadow  
 - Celt, Adrienne: End of the World House  
 - Chabon, Michael: The Yiddish Policeman's Union   
 - Chambers, Becky: The Long Way to a Small, Angry Planet; A Psalm for the Wild-Built   
+- Chee, Traci: A Thousand Steps into Night  
 - Chen, Andrew: The Cold Start Problem  
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
@@ -228,12 +234,14 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Fisher, Roger: Getting to Yes  
 - Fisher, Sharon Lynn: Echo 8  
 - Fletcher, C.A.: A Boy and his Dog at the End of the World  
+- Fletcher, Jeff: Sho-Time: The Inside Story of Shohei Ohtani and the Greatest Baseball Season Ever Played  
 - Flynn, Gillian: Gone Girl   
 - Follett, Ken: PILLARS OF THE EARTH  
 - Fogg, BJ: Tiny Habits  
 - Ford, Jeffrey: The Shadow Year  
 - Forester, CS: The Good Shepherd  
 - Forlee, Sherwood: Walls Notebook  
+- Forleo, Marie: Everything is Figureoutable  
 - Foster, Jack: How to Get Ideas  
 - Frankl, Viktor: Man's Search for Meaning  
 - Freedman, Lawrence: The Future of War  
@@ -311,7 +319,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Hoffman, Carl: The Lunatic Express  
 - Hogarth, M.C.A: HER INSTRUMENTS: 1)Earthrise  
 - Holes, Paul: Unmasked: My Life Solving America's Cold Cases  
-- Holiday, Ryan: Ego is the Enemy; Conspiracy  
+- Holiday, Ryan: Ego is the Enemy; Conspiracy; Stillness is the Key  
 - Holmberg, Charlie: Star Father  
 - Holmes, James: A Brief guide to Maritime Strategy  
 - Holmes, Jamie: 12 Seconds of Silence  
@@ -343,6 +351,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Kahneman, Daniel: Thinking, Fast, and SLow  
 - Kaku, Michio: Physics of the Future; Hyperspace; The God Equation: The Quest for a Theory of Everything  
 - Kai, Christopher: Big Game Hunting  
+- Kaplan, Robert: The Revenge of Geography  
 - Kasparov, Garry: Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins  
 - Katayama, Lisa: Urawaza  
 - Kaufman, Josh: The personal MBA  
@@ -395,7 +404,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Lewis, Michael: The Undoing Project 
 - Le Guin, Ursula K.: The Dispossessed  
 - Lipman, Joanne: That's What She Said  
-- Liu, Cixin: The Three-Body Problem  
+- Liu, Cixin: The Three-Body Problem; To Hold up the Sky; Supernova ERA  
 - Liu, Ken: The Armies of Those I Love; Invisible Planets  
 - Liu, Simu: We were Dreamers  
 - Livingston, Jessica: Founders at Work 
@@ -467,6 +476,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Murray, Williamson: Military Innovation in the Interwar Period  
 - Murtagh, Niall: The Blue-Eyed Salaryman  
 - Musker, Jackson: The Sea in the Sky  
+- Naam, Ramez: Nexus  
 - Naumburg, Carla: How to Stop Losing your Sh*t with your kids  
 - Navarro, Joe: What every Body is saying; The dictionary of body language (kindle)  
 - Nesbit, E:  
@@ -544,6 +554,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Rueckert, Veronica: Outspoken  
 - Rumiz, Paolo: The Fault Line  
 - Russ, Joanna: The Female Man  
+- Russell, Bill: Second Wind: Memoirs of an Opinionated Man  
 - Russell, Mary Doria: The Sparrow  
 - Russell, Stuart: Human Compatible, Artificial Intelligence and the Problem of Control  
 - Sachs, Dana: The Life We Were Given  
@@ -606,6 +617,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Stross, Charles: The Atrocity Archives  
 - Suarez, Daniel: Change Agent  
 - Sulliven, Michael J.: Theft of Swords  
+- Sun, Jomny: Everyones a Aliebn when ur a Aliebn too (illustrated book)  
 - Sundem, Garth: The Geeks Guide to World Domination  
 - Sunzi: The Art of War (kindle)  
 - Taggart, Caroline: I Used to Know That  
@@ -677,6 +689,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Wolfe, Gene: Shadow & Claw  
 - Wong, Khan: The Circus Infinite  
 - Worms (superhero book)  
+- Wright, Jaime Jo: The Souls of Lost Lake  
 - Wright, Richard: Burglars on the Job  
 - Vance, Ashlee: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future  
 - Varol, Ozan: Think Like a Rocket Scientist  
