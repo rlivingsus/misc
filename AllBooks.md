@@ -823,7 +823,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Rich, Ben: Skunk Works  
 - Rich, Simon: Screwball  
 - Riddle, AG: Departure  
-- Robinson, Jeremy: Infinite: Exo-Hunter  
+- Robinson, Jeremy: 1) Infinite, ...6)Exo-Hunter  
 - Ross, Marty: The Darkwater Bride  
 - Rowe, Andrew: Sufficiently Advanced Magic; How to Defeat a Demon King in Ten Easy Steps  
 - Rowling, JK: The Tales of Beedle the Bard  
