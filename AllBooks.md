@@ -128,6 +128,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Brown, Theresa: Critical Care  
 - Browne, M. Neil: Asking the Right Questions  
 - Buck, Leslie: Cutting Back  
+- Buck, Rinker: Life on the Mississippi: An Epic American Adventure  
 - Burnison, Gary: Lead  
 - Burt, Alexandra: Remember Mia  
 - Burvine, Lee: Kafir Project  
@@ -340,6 +341,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Jackall, Robert: Moral Mazes  
 - Jackson, John: One Nation under Drones  
 - Jackson, Phil: Eleven Rings  
+- Jean, Emiko: Mika in Real Life; Tokyo Ever After  
 - Jemisin, NK: Emergency Skin  
 - Jiang, Jia: Rejection Proof  
 - Johnson, Micaiah: The Space between Worlds  
@@ -461,7 +463,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Mitchell, Maggie: Pretty is:  
 - Mnookin, Robert: Create Value in Deals and Disputes  
 - Moon, Elizabeth:  
-- Moorcock, Michael: A Nomad of the Time streams  
+- Moorcock, Michael: A Nomad of the Time streams; Elric de Melnibone   
 - Moore, Demi: Inside Out  
 - Moore, Peter: V is for Villain  
 - Morillo, Christina: 97 Things Every Information Security Pro Should Know   
@@ -487,6 +489,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
 - Nicholson, Dean: Nala's World  
+- Nietfeld, Emi: Acceptance: A Memoir  
 - Niven, Larry: 3) Outies (kindle?)  
 - Nix, Garth: 1)Sabriel, 2)Lirael, 3)Abhorsen, 4)Clariel, 5)Goldenhand, 6)Terciel & Eleanor  
 - Nobu: A memoir  
@@ -503,6 +506,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Paolini, Christopher: To Sleep in a Sea of Stars  
 - Parazynski, Scott: The Sky Below (kindle)  
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
+- Paul, Annie Murphy: The Extended Mind  
 - Pene du Bois, William: The Twenty-One Balloons  
 - Pentecost, Kate: That Dark Infinity  
 - Perlroth, Nicole: This is How They Tell Me the World Ends: The Cyberweapons Arms Race  
@@ -589,6 +593,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Sherry, Miranda: Black Dog Summer  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
 - Shoemaker, Martin: The Last Dance (kindle)  
+- Silvera, Adam: They both die at the end  
 - Sinek, Simon: Together is Better: A little book of Inspiration ; Leaders eat Last; The Infinite Game  
 - Singer, PW & August Cole: Burn-In: A Novel of the Real Robotic Revolution & Ghost Fleet  
 - Singh, Simon: Fermats Enigma  
@@ -646,6 +651,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Tuhovsky, Ian: The Art of Reading People (kindle)  
 - Turnbull, Cadwell: The Lesson  
 - Tyson, Neil deGrasse: Astrophysics for Peole in a Hurry  
+- Urrea, Luis Alberto: The House of Broken Angels  
 - Urschel, John: Mind & Matter  
 - Vance, Jack: The Eyes of the Overworld  
 - Vann, David: A Mile Down  
@@ -703,6 +709,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Zaleski, Laurie: Funny Farm  
 - Zauner, Michelle: Crying in H Mart  
 - Zetter, Kim: Countdown to Zero Day  
+- Zevin, Gabrielle: The Storied life of AJ Fikry  
 - Zinni, Tony: Before the First Shot is Fired: How America can win lose off the Battlefield  
 ----
 </details>
@@ -904,6 +911,9 @@ THE WAY: 0)Legacy, 1)Eon, 2)Eternity
 ### Bolme, Edward  
 FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) The Black Bouquet, 3) The Crimson Gold, 4) The Yellow Silk  
 
+### Bradley, Marion Zimmer  
+DARKOVER: 1) The Spell Sword, 2) The Forbidden Tower, 3) The Bloody Sun  
+
 ### Brett, Peter  
 ~~1) The Warded Man, 2) The Desert Spear,~~ 3) The Daylight War, 4) The Skull Throne, 5) The Core  
 
@@ -981,7 +991,8 @@ WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman
 ### Eddings, David   
 THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
 THE MALLOREON: 1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
-SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City    
+SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City   
+DREAMERS: 1) The Elder Gods, 2) The Treasured One, 3) Crystal Gorge, 4) The Younger Gods  
 
 ### Ellis, Lindsay:   
 NOUMENA: 1) Axiom's End, 2) Truth of the Divine   
@@ -1146,13 +1157,13 @@ THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~
 TRANSITIONS: ~~1) The Orc King (Mar22)~~, 2) The Pirate King, 3) The Ghost King  
 NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold  
 THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
-COMPANIONS CODEX: 1)Night of the Hunter, 2)Rise of the King, 3)Vengence of the Iron Dwarf  
+COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf  
 HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero  
 GENERATIONS: 1) Timeless(Dnhave), 2) Boundless(Dnhave), 3) Relentless(Dnhave)  
 THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels  
 CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse  
 THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge (soon?2022)  
-SOLO?: The Color of Dragons  
+SOLO?: The Color of Dragons, The Legend of Drizzt: The Collected Stories (AUDIBLE)   
 
 ### Sanderson, Brandon   
 MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History, 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,  
@@ -1185,8 +1196,17 @@ GAEA TRILOGY: 1) Titan, 2) Wizard, 3) Demon
 ### Watt-Evans, Lawrence  
 LORDS OF DUS SERIES: 1) The Lure of the Basilisk, 2) The Seven Altars of Dusarra, 3) The Sword of Bheleu, 4) The Book of Silence  
 
-### Weis, Margaret  
+### Weis, Margaret  & Tracy Hickman (sometimes)   
 THE DRAGONVARLD TRILOGY: 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)  
+THE DEATH GATE CYCLE: 1) Dragonwing, 2) Elven Star, 3) Fire Sea, 4) Serpent Mage, 5) Hand of Chaos, 6) Into the Labyrinth, 7) The Seventh Gate  
+STAR OF THE GUARDIANS: 1) The Lost King, 2) King's Test, 3) Ghost Legion  
+THE DARK DISCIPLE: 1) Amber and Ashes, 2) Amber and Iron, 3) Amber and Blood 
+THE DRAGON CORSAIRS: 1) Spymaster, 2) Privateer, 3) Kingmaker  
+DRAGON BRIGADE: 1) Shadow Raiders, 2) Storm Riders, 3) The Seventh Sigil  
+DRAGONSHIPS OF VINDRAS: 1) Bones of the Dragon, 2) Secret of the Dragon, 3) Rage of the Dragon, 4) Doom of the Dragon  
+DARDSWORD TRILOGY: 1) Forging the Darksword, 2) Doom of the Darksword, 3) Triumph of the Darksword  
+BRONZE CANTICLES: 1) Mystic Warrior, 2) Mystic Quest  
+ANNALS OF DRAKIS: 1) Song of the Dragon, 2) Citadels of the Lost, 3) Blood of the Emporer  
 
 ### Wells, Martha:  
 MURDERBOT DIARIES: 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry   
@@ -1211,7 +1231,7 @@ WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Meri
 
 ### Zahn, Timothy  
 - THE THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
-- THRAWN:  ~~1)Thrawn,(Feb2022)~~ 2)Thrawn:Alliances, 3)Thrawn:Treason  
+- THRAWN:  ~~1)Thrawn,(Feb2022) 2)Thrawn:Alliances~~, 3)Thrawn:Treason  
 - THE HAND OF THRAWN DUOLOGY:  1)Specter of the Past, 2)Vision of the Future  
 - THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good, 3)Lesser Evil  
 - DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
