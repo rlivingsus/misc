@@ -1093,7 +1093,7 @@ A COURT OF THORN AND ROSES: 1)A Court of Thorns and Roses, 2)A Court of Mist and
 ### McCaffrey, Anne   
 DRAGONRIDERS OF PERN Harper Hall Trilogy: ~~(4)Dragonsong, (5)Dragonsinger, (6)Dragondrums~~   
 DRAGONRIDERS OF PERN Original Trilogy: ~~(1)Dragonflight, (2)Dragonquest, (3)The White Dragon~~   
-DRAGONRIDERS OF PERN ~~(9)First Pass aka Dragonriders' Dawn: Dragonsdawn:Arrival from Earth and populating Pern~~, (12)The Chronicles of Pern: First Fall (The P.E.R.N. Survey, The Dolphin's Bell, The Ford of Red Hanrahan, The Second Weyr, Rescue Run)    
+DRAGONRIDERS OF PERN ~~(9)First Pass aka Dragonriders' Dawn: Dragonsdawn:Arrival from Earth and populating Pern, (12)The Chronicles of Pern: First Fall (The P.E.R.N. Survey, The Dolphin's Bell, The Ford of Red Hanrahan, The Second Weyr, Rescue Run)~~      
 DRAGONRIDERS OF PERN First Interval: (18)Dragonsblood (windblossom parts)   
 DRAGONRIDERS OF PERN Second Pass: Red Star Rising aka (14)Dragonseye, Ever the Twain in A Gift of Dragons  
 DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper, Dragonsblood (Lorana parts)  
