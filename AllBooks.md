@@ -439,12 +439,14 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Martinet, Jeanne: The Art of Mingling  
 - Mattis, Jim: Call Sign Chaos  
 - Maxwell, Everina: Winter's Orbit  
+- McAllister, Gillian: Wrong Place Wrong Time  
 - McCandless, David: Beautiful News  
 - McCarthy, Andrew: Journeys Home  
 - McChrystal, Standley: Team of Teams  
 - McDonald, Brian: Invisible Ink, The Golden Theme (kindle)    
 - McDonald, Ed: Blackwing  
 - McFate, Sean: The New Rules of War  
+- McGonigal, Jane: Reality is Broken  
 - McGrath, Ben: Riverman: An American Odyssey  
 - McGuire, Seanan: Where the Drowned Girls Go; OCTOBER DAYE: .5)Rat-Catcher, 1)Rosemary and Rue,   
 - McKinty, Adrian: The Island  
@@ -539,6 +541,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Richards, Douglas: ALIEN ARTIFACT: 1) The Enigma Cube, 2) A Pivot in Time  
 - Riddle, AG: Winter World  
 - Ridley, Matt: The Rational Optimist  
+- Ries, Eric: The Lean Startup  
 - Rigsby, Rick: Lessons from a Third Grade Dropout  
 - Riley, Brett: Freaks  
 - Riordan, Rick: The Red Pyramid  
@@ -626,7 +629,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Sundem, Garth: The Geeks Guide to World Domination  
 - Sunzi: The Art of War (kindle)  
 - Taggart, Caroline: I Used to Know That  
-- Taleb, Nassim: Skin in the Game  
+- Taleb, Nassim: Skin in the Game; Antifragile  
 - Tan, Cheryl: A Tiger in the Kitchen  
 - Tan, Sue Lynn: Daughter of the Moon Goddess  
 - Taulli, Tom: Artificial Intelligence Basics  
@@ -700,7 +703,6 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Vance, Ashlee: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future  
 - Varol, Ozan: Think Like a Rocket Scientist  
 - Willink, Jocko & Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win
-- Yancey, Richard: The 5th wave  
 - Yang, Jeff: Rise  
 - Yates, Brook: Cannonball  
 - Yi-Sheng, Ng: Lion City  
@@ -1154,7 +1156,7 @@ THE LEGACY OF THE DROW: ~~1)The Legacy, 2)Starless Night, 3)Siege of Darkness, 4
 THE PATHS OF DARKNESS: ~~1)The Silent Blade, 2)The Spine of the World, 3)Sea of Swords~~  
 THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
 THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
-TRANSITIONS: ~~1) The Orc King (Mar22)~~, 2) The Pirate King, 3) The Ghost King  
+TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King~~, 3) The Ghost King  
 NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold  
 THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
 COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf  
@@ -1227,7 +1229,10 @@ SPIN: 1) Spin, 2) Axis, 3) Vortex
 BOOK OF THE NEW SUN: 1)The Shadow of the Torturer, 2)The Claw of the Conciliator, 3)The Sword of the Lictor, 4)The Citadel of the Autarch, 5)The Urth of the Sun
 
 ### Wurts, Janny  
-WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Merior, Warhost of Vastmark~~; Arc 3 (ALLIANCE OF LIGHT): Fugitive Prince, Grand Conspirary, Peril's Gate, Traitor's Knot, Stormed Fortress; Arc 4 (SWORD OF THE CANON): Initiate's Trail, Destiny's Conflict; Arc 5 (SONG OF THE MYSTERIES): Song of the Mysteries  
+WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Merior, Warhost of Vastmark~~; Arc 3 (ALLIANCE OF LIGHT): Fugitive Prince, Grand Conspirary, Peril's Gate, Traitor's Knot, Stormed Fortress; Arc 4 (SWORD OF THE CANON): Initiate's Trail, Destiny's Conflict; Arc 5 (SONG OF THE MYSTERIES): Song of the Mysteries 
+
+### Yancey, Richard  
+THE 5TH WAVE: 1) The 5th wave, 2) The Infinite Sea, 3) The Last Star   
 
 ### Zahn, Timothy  
 - THE THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
