@@ -888,7 +888,7 @@ HEXWORLD: 1) Roll, 2) Play, 3) End
 EARTHEND SAGA: 1) A Vision of Fire, 2) A Dream of Ice  
 
 ### Anthony, Piers  
-Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22), 4)Wielding a Red Sword (May 22)An Indian Prince who becomes Mars the incarnation of War, 5)Being a Green Mother (Jun 22)~~ , 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak  
+Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22), 4)Wielding a Red Sword (May 22)An Indian Prince who becomes Mars the incarnation of War, 5)Being a Green Mother (Jun 22), 6)For Love of Evil~~, 7)And Eternity, 8)Under a Velvet Cloak  
 
 ### Asimov, Isaac  
 The End of Eternity; Prelude to Foundation; The God Themselves  
@@ -1232,7 +1232,7 @@ BOOK OF THE NEW SUN: 1)The Shadow of the Torturer, 2)The Claw of the Conciliator
 WARS OF LIGHT AND SHADOW: ~~Arc 1: Curse of the Mistwraith; Arc 2: Ships of Merior, Warhost of Vastmark~~; Arc 3 (ALLIANCE OF LIGHT): Fugitive Prince, Grand Conspirary, Peril's Gate, Traitor's Knot, Stormed Fortress; Arc 4 (SWORD OF THE CANON): Initiate's Trail, Destiny's Conflict; Arc 5 (SONG OF THE MYSTERIES): Song of the Mysteries 
 
 ### Yancey, Richard  
-THE 5TH WAVE: 1) The 5th wave, 2) The Infinite Sea, 3) The Last Star   
+THE 5TH WAVE: ~~1) The 5th wave~~, 2) The Infinite Sea, 3) The Last Star   
 
 ### Zahn, Timothy  
 - THE THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
