@@ -8,6 +8,12 @@
 - Total cholesterol 95  
 - **Doctor Hoffman A1C check maybe increase Jardiance.  10mg starting dose but maybe increase.  5.8 --> 6.0 and this time didn't check  
 - **Followup in 3-6 months.  Monday December 5th.  3:30pm next meeting  
+- LABS: LDL (nmol/L) 446 (under standard 1000)  
+- LDL-C 38 (optimal < 100)  
+- HDL-C 41 (optimal > 39)  
+- Triglycerides 77 (opt. 0-149)  
+- Cholesterol 95 kinda low (opt. 100-199)  
+- HDL-P 28.6 low (opt. >=30.5)    
 
 ### 7.22.22 About trans fat & updated labs from 4.11.22  
 
