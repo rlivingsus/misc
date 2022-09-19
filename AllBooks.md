@@ -1067,6 +1067,7 @@ JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~
 ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, 1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
 Innocence  
 The Big Dark Sky  
+Dark Rivers of the Heart  
 
 ### Kwan, Kevin  
 CRAZY RICH ASIANS: ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich People Problems~~   
@@ -1135,6 +1136,7 @@ POSEIDON'S CHILDREN: 1) Blue Remembered Earth, 2) On the Steel Breeze, 3) Poseid
 ### Riddle, AG  
 ORIGIN MYSTERY: ~~1) Atlantis Gene,~~ 2) Atlantis Plague, 3) Atlantis World  
 THE LONG WINTER: 1) Winter World, 2) The Solar War, 3) The Lost Colony  
+Lost in Time  
 
 ### Roth, Veronica  
 DIVERGENT: ~~1) Divergent, 2) Insurgent, 3) Allegiant~~ Four: Divergent Story Collection  
@@ -1168,8 +1170,8 @@ THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge 
 SOLO?: The Color of Dragons, The Legend of Drizzt: The Collected Stories (AUDIBLE)   
 
 ### Sanderson, Brandon   
-MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History, 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,  
-STORMLIGHT ARCHIVE: ~~1)The Way of Kings, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 4)Rhythm of War, 5)Highprince of War  
+MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History (on Arcanum Unbounded), ~~4) The Alloy of Law~~, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,  
+STORMLIGHT ARCHIVE: ~~1)The Way of Kings, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella, 4)Rhythm of War, 5)Highprince of War  
 RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity,~~ 4) Lux  
 ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
 RITHMATIST: 1) The Rithmatist  
