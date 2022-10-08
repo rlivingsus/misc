@@ -162,6 +162,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Cogman, Genevieve: The Untold Story  
 - Cohen, Steve: Win the Crowd  
 - Connolly, John: The Gate...  
+- Connolly, Rebecca: A Brilliant Night of Stars and Ice  
 - Collins, Eileen: Through the Glass Ceiling to the Stars  
 - Collins, Megan: The Family Plot  
 - Cooper, Anderson: Vanderbilt  
@@ -260,6 +261,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Gee, Emily: The Sentinel Mage  
 - Gentill, Sulari: The Woman in the Library  
 - Gibson, William: Neuromancer  
+- Giesbrecht, Jennifer: The Monster of Elendhaven  
 - Girard, Danielle: White Out (kindle)  
 - Gladstone, Max: Last Exit; This is How you Lose the Time War  
 - Gladwell, Malcolm: Blink; Outliers  
@@ -325,6 +327,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Holmes, James: A Brief guide to Maritime Strategy  
 - Holmes, Jamie: 12 Seconds of Silence  
 - Hoff, Benjamin: The Tao of Pooh  
+- Hood, Ann: Fly Girl  
 - Hornfischer, James: Neptune's Inferno; The Fleet at Flood Tide; The Last Stand of the Tin Can Sailors  
 - Housel, Morgan: The Psychology of Money  
 - Howard, Michael: The Salaryman  
@@ -337,7 +340,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Huxley, Aldous: Brave New WOrld  
 - Iger, Robert: The RIde of a Lifetime  
 - Isaacson, Walter: Einstein: His Life and Universe  
-- Ishiguro, Kazuo: Klara and the Sun, The Buried Giant; The Remains of the Day  
+- Ishiguro, Kazuo: Klara and the Sun, The Buried Giant, The Remains of the Day, Never Let me go  
 - Jackall, Robert: Moral Mazes  
 - Jackson, John: One Nation under Drones  
 - Jackson, Phil: Eleven Rings  
@@ -367,6 +370,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Keyes, Daniel: Flowers for Algernon  
 - Khoury, Jessica: THE FORBIDDEN WISH  
 - Kim, Bo-Young: I'm Waiting for You and Other Stories  
+- Kincaid, S.J.: The Diabolic
 - King, Stephen: The Eyes of the Dragon; UR; 11/22/63  
 - King, Wesley: The Vindico  
 - Kingfisher, T.: Nettle & Bone  
@@ -414,7 +418,8 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Lockwood, Charles: Tragedy at Honda  
 - Logothetis, Leon: The Kindness Diaries  
 - Lopez-Alt, J. Kenji: The Food Lab  
-- Lourey, Jess: Unspeakable Things (kindle)  
+- Lourey, Jess: Unspeakable Things (kindle) 
+- Lovecraft, H.P: At the Mountains of Madness  
 - Lowell, Nathan: Solar Clipper  
 - Lucas, George: Military Ethics  
 - Luepnitz, Deborah: Schopenhauer's Porcupines  
@@ -457,6 +462,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Meister, Ellen: Dorothy Parker Drank Here
 - Mersinger, Holly: The Curse of Jacob Tracy  
 - Meyer, Michael: In Manchuria  
+- Mihalik, Jessie: Polaris Rising  
 - Miller, Chanel: Know my Name  
 - Miller, Christian: The Character Gap  
 - Miller, Lulu: Why Fish Don't Exist: A story of Loss, Love, and Hidden Order of Life  
@@ -497,6 +503,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Nobu: A memoir  
 - Noesner, Gary: Stalling For Time  
 - North, Ryan: How to Invent Everything: A Survival Guide for the Stranded Time Traveler  
+- Novik, Naomi: A Deadly Education  
 - Oakley, Barbara: A Mind for Numbers  
 - O'Brien, Phillips Payson: The 2nd Most Powerful Man in the World  
 - O'Brien, Tim: The Things they Carried  
@@ -596,6 +603,7 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Sherry, Miranda: Black Dog Summer  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
 - Shoemaker, Martin: The Last Dance (kindle)  
+- Shusterman, Neal: Scythe  
 - Silvera, Adam: They both die at the end  
 - Sinek, Simon: Together is Better: A little book of Inspiration ; Leaders eat Last; The Infinite Game  
 - Singer, PW & August Cole: Burn-In: A Novel of the Real Robotic Revolution & Ghost Fleet  
@@ -685,6 +693,8 @@ A Beginning at the End: Post apocolyptic (pandemic) story written in 2020 where 
 - Weinberg, Robert: Blood War  
 - Weir, Andy: Project Hail Mary  
 - Westerfeld, Scott: Leviathan  
+- White, Alex: A Big Ship at the Edge of the Universe  
+- White, Richard: Who Killed Jane Stanford?  
 - Wickre, Karen: Take the Work out of Networking  
 - Williams, Tad: Memory, Sorrow, and Thorn  
 - Williams, Walter Jon: This is Not a Game  
@@ -1087,11 +1097,17 @@ THE GIVER SERIES: 1) The Giver, 2) Gathering Blue, 3) The Messenger, 4) Son
 ### Lynch, Scott  
 GENTLEMEN BASTARD: 1) The Lies of Locke Lamora, 2) Red Seas under Red Skies, 3) The Republic of Theives, 4) The Thorn of Emberlain  
 
+### Maas, Sarah  
+A COURT OF THORN AND ROSES: 1)A Court of Thorns and Roses, 2)A Court of Mist and Fury, 3)A Court of Wings and Ruin, 3.1)A Court of Frost and Starlight, 4)A Court of Silver Flames  
+
 ### Martin, George RR  
 A SONG OF ICE AND FIRE: ~~1) Game of Thrones, 2) A Clash of Kings, 3) A Storm of Swords,~~ 4) A Feast for Crows, 5) A Dance with Dragons, 6) The Winds of Winter (forthcoming), 7) A Dream of Spring  
 
-### Maas, Sarah  
-A COURT OF THORN AND ROSES: 1)A Court of Thorns and Roses, 2)A Court of Mist and Fury, 3)A Court of Wings and Ruin, 3.1)A Court of Frost and Starlight, 4)A Court of Silver Flames  
+### Martine, Arkady   
+TEIXCALAAN SERIES: 1) A Memory Called Empire; 2) A Desolation Called Peace  
+
+### Martinez, Gama Ray  
+DEFENDERS OF LORE SERIES: 1) God of Neverland, 2) Queens of Wonderland  
 
 ### McCaffrey, Anne   
 DRAGONRIDERS OF PERN Harper Hall Trilogy: ~~(4)Dragonsong, (5)Dragonsinger, (6)Dragondrums~~   
@@ -1193,6 +1209,9 @@ Bobiverse 1) We are Legion (We are Bob),
 ### Tchaikovsky, Adrian:  
 1)Shards of Earth, The FInal Architecture; 2) Dark Stars   
 SHADOW OF APT: 0.5)Spoils of War, 1)Empire in Black and Gold, 2)Dragonfly Falling, 3)Blood of the Mantis, 4)Salute the Dark, 5)The Scarab Path, 6)The Sea Watch  
+
+### Tintera, Amy  
+SERIES: 1) Reboot 2) Rebel  
 
 ### Varley, John  
 GAEA TRILOGY: 1) Titan, 2) Wizard, 3) Demon  
