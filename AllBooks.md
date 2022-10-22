@@ -30,8 +30,10 @@
 - Azuma-Nelson, Caleb: Open Water  
 - Bach, Richard: Jonathan Livingston Seagull  
 - Baggett, Jennifer: The Lost Girls  
-- Bailey, Joseph: Memoirs of a Muppets Writer  
+- Bailey, Chris: HyperFocus  
+- Bailey, Joseph: Memoirs of a Muppets Writer    
 - Ballantyne, Lisa: Everything She Forgot  
+- Ballard, JG: Empire of the Sun  
 - Ballou, Linda: Lost Angel Walkabout  
 - Banerjee, Dillon: The Insider's guide to the peace corps  
 - Banks, Iain: Culture series: A Player of Games, Excession, ...  
@@ -64,6 +66,7 @@
 - Brown, Ryk: The Frontiers Saga (kindle) 
 - Brown, Theresa: Critical Care  
 - Browne, M. Neil: Asking the Right Questions  
+- Bryson, Bill: A Short History of Nearly Everything  
 - Buck, Leslie: Cutting Back  
 - Buck, Rinker: Life on the Mississippi: An Epic American Adventure  
 - Burnison, Gary: Lead  
@@ -84,6 +87,7 @@
 - Chambers, Becky: The Long Way to a Small, Angry Planet; A Psalm for the Wild-Built   
 - Chee, Traci: A Thousand Steps into Night  
 - Chen, Andrew: The Cold Start Problem  
+- Chen, Mike: Here and Now and Then; Brotherhood; We Could be Heroes;   
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
@@ -163,7 +167,8 @@
 - Falcone, Paul: 101 Tough Conversations to Have with Employees  
 - Fallon, Jennifer: Tide Lords series  
 - Farmer's, Philip Jose THE DUNGEON SERIES: 1)The Black Tower, 2)The Dark Abyss, 3)The Valley of Thunder, 4)The Lake of Fire, 5)The Hidden City, 6)The Final Battle  
-- Farr, Richard: The Fire Seekers (kindle)
+- Farr, Richard: The Fire Seekers (kindle)  
+- Fenning, Chris: The First Minute  
 - Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
 - Feynman, Richard: The Pleasure of Finding things out  
 - Fick, Nathaniel: One Bullet Away: The Making of a Marine Officer  
@@ -182,6 +187,7 @@
 - Forlee, Sherwood: Walls Notebook  
 - Forleo, Marie: Everything is Figureoutable  
 - Foster, Jack: How to Get Ideas  
+- Foroux, Darius?: Win your inner battles; Do it Today  
 - Frankl, Viktor: Man's Search for Meaning  
 - Freedman, Lawrence: The Future of War  
 - Freeman, Brian (thrillers): Frost Easton: 1) The Night Bird  
@@ -249,6 +255,7 @@
 - Healey, Jane: The Secret Stealers (kindle)  
 - Heath, Chip: Made to Stick   
 - Hedfield, Chris: The Apollo Murders  
+- Heinlein, Robert: The Moon is a Harsh Mistress  
 - Helgerson, John: Getting to Know the President  
 - Helm, Leslie: Yokohama Yankee  
 - Henderson, Randy: Finn Fancy Necromancy  
@@ -259,7 +266,8 @@
 - Hoffman, Carl: The Lunatic Express  
 - Hogarth, M.C.A: HER INSTRUMENTS: 1)Earthrise  
 - Holes, Paul: Unmasked: My Life Solving America's Cold Cases  
-- Holiday, Ryan: Ego is the Enemy; Conspiracy; Stillness is the Key  
+- Holiday, Ryan: Ego is the Enemy; Conspiracy; Stillness is the Key; Obstacle is the way  
+- Hollins, Peter?: Finish what you start  
 - Holmberg, Charlie: Star Father  
 - Holmes, James: A Brief guide to Maritime Strategy  
 - Holmes, Jamie: 12 Seconds of Silence  
@@ -306,6 +314,7 @@
 - Kershaw, Alex: Against all Odds  
 - Keyes, Daniel: Flowers for Algernon  
 - Khoury, Jessica: THE FORBIDDEN WISH  
+- Kidd, Jess: The Night Ship; Things in a Jar  
 - Kim, Bo-Young: I'm Waiting for You and Other Stories  
 - Kincaid, S.J.: The Diabolic
 - King, Stephen: The Eyes of the Dragon; UR; 11/22/63  
@@ -358,6 +367,7 @@
 - Lourey, Jess: Unspeakable Things (kindle) 
 - Lovecraft, H.P: At the Mountains of Madness  
 - Lowell, Nathan: Solar Clipper  
+- Lowndes, Leil: How to talk to anyone  
 - Lucas, George: Military Ethics  
 - Luepnitz, Deborah: Schopenhauer's Porcupines  
 - Luttgens, Jason: Incident Response & Computer Forensics (kindle)  
@@ -381,6 +391,7 @@
 - Martinet, Jeanne: The Art of Mingling  
 - Mattis, Jim: Call Sign Chaos  
 - Maxwell, Everina: Winter's Orbit  
+- Maxwell, John: How successful people think  
 - McAllister, Gillian: Wrong Place Wrong Time  
 - McCandless, David: Beautiful News  
 - McCarthy, Andrew: Journeys Home  
@@ -420,10 +431,12 @@
 - Murakami, Ryu: Popular Hits of the Showa Era  
 - Murata, Sayaka: Convenience Store Woman  
 - Muratyan, Vahram: Paris versus New York  
+- Murphy, Joseph: the Power of your subconcious mind  
 - Murray, Williamson: Military Innovation in the Interwar Period  
 - Murtagh, Niall: The Blue-Eyed Salaryman  
 - Musker, Jackson: The Sea in the Sky  
 - Naam, Ramez: Nexus  
+- Nafousi, Roxie: Manifest  
 - Naumburg, Carla: How to Stop Losing your Sh*t with your kids  
 - Navarro, Joe: What every Body is saying; The dictionary of body language (kindle)  
 - Nesbit, E:  
@@ -433,6 +446,7 @@
 - Newitz, Annalee: The Future of Another Timeline 
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
+- Ng, Celeste: Our Missing Hearts  
 - Nicholson, Dean: Nala's World  
 - Nietfeld, Emi: Acceptance: A Memoir  
 - Niven, Larry: 3) Outies (kindle?)  
@@ -440,12 +454,13 @@
 - Nobu: A memoir  
 - Noesner, Gary: Stalling For Time  
 - North, Ryan: How to Invent Everything: A Survival Guide for the Stranded Time Traveler  
-- Novik, Naomi: A Deadly Education  
+- Novik, Naomi: A Deadly Education, Uprooted    
 - Oakley, Barbara: A Mind for Numbers  
 - O'Brien, Phillips Payson: The 2nd Most Powerful Man in the World  
 - O'Brien, Tim: The Things they Carried  
 - Okorafor, Nnedi: Lagoon, Remote Control  
 - Onyebuchi, Tochi: Riot Baby  
+- Owens, Delia: Where the Crawdads Sing  
 - Pacitti, Tony: My Best Friend is a Wookiee  
 - Pollan, Michael: The Omnivore's Dilemma  
 - Palmer, Ada: TERRA IGNOTA: 1) Too Like the Lightning; 2) Seven Surrenders  
@@ -475,6 +490,7 @@
 - Raymer, Edward: Descent into Darkeness  
 - Redman, Jason: Overcome  
 - Reed, Steven: Making Common Sense of Japan  
+- Reklau, Marc?: 30 days  
 - Rekulak, Jason: The Impossible Fortress, Hidden Pictures  
 - Reich, Simon & Peter Dombrowski: The end of grand strategy  
 - Reid, Rob: Year Zero  
@@ -488,6 +504,7 @@
 - Ries, Eric: The Lean Startup  
 - Rigsby, Rick: Lessons from a Third Grade Dropout  
 - Riley, Brett: Freaks  
+- Rimmer, Kelly: The German Wife  
 - Riordan, Rick: The Red Pyramid  
 - Roach, Mary: My Planet: Finding Humor in the Oddest Places  
 - Roanhorse, Rebecca: Trail of Lightning, Fevered Star  
@@ -547,7 +564,9 @@
 - Singh, Simon: Fermats Enigma  
 - Slater, Tracy: The Good Shufu
 - Slim, Viscount: Defeat into Victory  
+- Slineni, Haemin?: The things you can see only when you slow down  
 - Smith, Ali: HOW TO BE BOTH  
+- Smith, Julie: Why has nobody told me this before?  
 - Smith, Mandy: Cabin Fever  
 - Smith, Nicholas: Hell Divers  
 - Solomon, Rivers: The Deep  
@@ -573,6 +592,7 @@
 - Sun, Jomny: Everyones a Aliebn when ur a Aliebn too (illustrated book)  
 - Sundem, Garth: The Geeks Guide to World Domination  
 - Sunzi: The Art of War (kindle)  
+- Swami, Om: Mind full to mindful  
 - Taggart, Caroline: I Used to Know That  
 - Taleb, Nassim: Skin in the Game; Antifragile  
 - Tan, Cheryl: A Tiger in the Kitchen  
@@ -585,6 +605,7 @@
 - Thames, Elizabeth: Meet the Frugalwoods  
 - The Talent Code: Greatness isnt born.  Its grown   
 - Thompson, Eldon: Unbowed: A Kronus Tale (kindle)  
+- Thomson, Keith: Born to be Hanged  
 - Thorne, Kip: The Science of Interstellar  
 - Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future  
 - Till, Geoffrey: Sea Power  
@@ -632,6 +653,7 @@
 - Westerfeld, Scott: Leviathan  
 - White, Alex: A Big Ship at the Edge of the Universe  
 - White, Richard: Who Killed Jane Stanford?  
+- Whiten, Hannah: For the Wolf  
 - Wickre, Karen: Take the Work out of Networking  
 - Williams, Tad: Memory, Sorrow, and Thorn  
 - Williams, Walter Jon: This is Not a Game  
@@ -835,7 +857,7 @@ HEXWORLD: 1) Roll, 2) Play, 3) End
 EARTHEND SAGA: 1) A Vision of Fire, 2) A Dream of Ice  
 
 ### Anthony, Piers  
-Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22), 4)Wielding a Red Sword (May 22)An Indian Prince who becomes Mars the incarnation of War, 5)Being a Green Mother (Jun 22), 6)For Love of Evil~~, 7)And Eternity, 8)Under a Velvet Cloak  
+Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22), 4)Wielding a Red Sword (May 22)An Indian Prince who becomes Mars the incarnation of War, 5)Being a Green Mother (Jun 22), 6)For Love of Evil, 7)And Eternity~~, 8)Under a Velvet Cloak  
 
 ### Asimov, Isaac  
 The End of Eternity; Prelude to Foundation; The God Themselves  
@@ -1131,7 +1153,7 @@ RITHMATIST: 1) The Rithmatist
 SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant ~2023   
 INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 WARBREAKER: 1) Warbreaker, 2) Nightblood  
-SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell  
+SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell, 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.    
 The Original  
 
 ### Scalzi, John  
