@@ -329,6 +329,7 @@
 - Koontz, Dean: Strangers; Quicksilver; Mr. Murder  
 - Krishnamurti, Jiddu: The Book of Life  
 - Kritzer, Naomi: Catfishing on CatNet  
+- Kuang, RF: Babel  
 - Kundera, Milan: the Unbearable Lightness of Being  
 - Kunsken, Derek: THE QUANTUM EVOLUTION: 1) The Quantum Magician, 2) Quantum Garden, 3) Quantum War  
 - Laberge, Stephen: Exploring the World of Lucid Dreaming  
@@ -439,6 +440,7 @@
 - Nafousi, Roxie: Manifest  
 - Naumburg, Carla: How to Stop Losing your Sh*t with your kids  
 - Navarro, Joe: What every Body is saying; The dictionary of body language (kindle)  
+- Nayler, Ray: The Mountain in the Sea  
 - Nesbit, E:  
 - Ness, Patrick: Chaos Walking: trilogy  
 - Netz, Reviel: The Archimedes Codex  
@@ -533,7 +535,7 @@
 - Sarnicola, Thomas: No Kings, No Kooks  
 - Sato, Yuya: Dendera  
 - Saulter, Stephanie: EVOLUTION 1)Gemsigns  
-- Scalzi, John: Kaiju preservation society; Lock In; Head On  
+- Scalzi, John: Kaiju preservation society; Lock In; Head On; The Dispatcher; Murder by Other Means; Travel by Bullet  
 - Scharre, Paul: Army of None  
 - Schlender, Brent and Rick Tetzeli: Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader  
 - Schreier, Jason: Blood, Sweat, and Pixels  
@@ -579,6 +581,7 @@
 - Staveley, Brian: Skullsworn  
 - Stavridis, James: The Leaders Bookshelf; SeaPower  
 - Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World, New Found Land: The Long Haul     
+- Stephenson, Simon: Sometimes people die reading Greg Burns; Set My Heart to Five  
 - Stewart, Andrea: The Bone Shard Emperor  
 - Stirling, SM: The Forge  
 - Stoll, Cliff: The Cuckoos Egg  
@@ -678,9 +681,10 @@
 - Yoshihara, Toshi & James R. Holmes: Red Star over the Pacific  
 - Young, Shannon: How Does One Dress to Buy Dragonfruit  
 - Zaleski, Laurie: Funny Farm  
+- Zamora, Javier: Solito  
 - Zauner, Michelle: Crying in H Mart  
 - Zetter, Kim: Countdown to Zero Day  
-- Zevin, Gabrielle: The Storied life of AJ Fikry  
+- Zevin, Gabrielle: The Storied life of AJ Fikry; Tomorrow and Tomorrow and Tomorrow    
 - Zinni, Tony: Before the First Shot is Fired: How America can win lose off the Battlefield  
 ----
 </details>
@@ -864,6 +868,7 @@ The End of Eternity; Prelude to Foundation; The God Themselves
 ROBOTS: 1) Robot Dreams, Robot Vision, The Rest of the Robots, Gold: The FInal SCIFI Collection, Nemesis; 2) I, Robot; 3) Mother Earth; 4) The Positronic Man; 5) The Complete Robot; 6) Caves of Steel; 7) The Naked Sun; 8) The Robots of Dawn; 9) Robots and Empire.  
 EMPIRE: 1) The Stars, Like Dust; 2) The Currents of Space; 3) Pebble in the Sky; 4) Blind Alley  
 FOUNDATION: 1) Prelude to Foundation; 2) Forward the Foundation; 3) Foundation; 4) Foundation and Empire; 5) Second Foundation; 6) Foundation's Edge; 7) Foundation and Earth; 8) The End of Eternity  
+Nightfall  
 
 ### Athans, Philip  
 FORGOTTEN REALMS SEMBIA MULTIPLE AUTHORS: 1)The Halls of Stormweather(HAVE), 2)Shadow's witness, 3)The Shattered Mask(HAVE), 4)Black wolf, 5)Heirs of Prophecy(HAVE), 6)Sands of the Soul, 7)Lord of Stormweather  
