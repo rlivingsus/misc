@@ -861,7 +861,7 @@ HEXWORLD: 1) Roll, 2) Play, 3) End
 EARTHEND SAGA: 1) A Vision of Fire, 2) A Dream of Ice  
 
 ### Anthony, Piers  
-Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22), 4)Wielding a Red Sword (May 22)An Indian Prince who becomes Mars the incarnation of War, 5)Being a Green Mother (Jun 22), 6)For Love of Evil, 7)And Eternity~~, 8)Under a Velvet Cloak  
+Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22), 4)Wielding a Red Sword (May 22)An Indian Prince who becomes Mars the incarnation of War, 5)Being a Green Mother (Jun 22), 6)For Love of Evil, 7)And Eternity~~, 8)Under a Velvet Cloak (difficult to find this book)   
 
 ### Asimov, Isaac  
 The End of Eternity; Prelude to Foundation; The God Themselves  
@@ -898,7 +898,7 @@ THE UPLIFT WAR: 1) Brightness Reef, 2) Startide Rising, 3) Uplift War
 
 ### Brooks, Terry  
 WORD AND VOID: ~~1)Running with the Demon (Feb22), 2)A Knight of the Word (Mar22), 3)Angel Fire East (Mar22)~~ First set of stories of the Shannara world.  I did not realize until I saw the MTV Shannara series that this world was originally earth before some sort of apocolypse.  John Ross and Nest Freemark are the protagonists battling various demons that look like humans.      
-THE GENESIS OF SHANNARA: ~~1) Armageddon's Children;~~ 2)The Elves of Cintra; 3)The Gypsy Morph  
+THE GENESIS OF SHANNARA: ~~1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph~~    
 LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
 ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
 Indomitable, Dark Wraith of Shannara~~  
