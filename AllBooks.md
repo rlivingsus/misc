@@ -15,6 +15,7 @@
 - Al-Kadhi, Amrou: Life as a Unicorn  
 - Allred, Lance: Longshot  
 - Alpert, Steve: Sharing a House with the Never-Ending Man:  
+- Alterman, Lix: The Perfect Neighborhood  
 - Anderson, Kevin: Enemies and Allies  
 - Andrews, Jesse: Me, Earl and the Dying Girl  
 - Angelou, Maya: I Know why the Caged Bird Sings  
@@ -29,6 +30,7 @@
 - Aurelius, Marcus: Meditations  
 - Azuma-Nelson, Caleb: Open Water  
 - Bach, Richard: Jonathan Livingston Seagull  
+- Bacigalupi, Paolo: The Windup Girl  
 - Baggett, Jennifer: The Lost Girls  
 - Bailey, Chris: HyperFocus  
 - Bailey, Joseph: Memoirs of a Muppets Writer    
@@ -72,7 +74,8 @@
 - Burnison, Gary: Lead  
 - Burt, Alexandra: Remember Mia  
 - Burvine, Lee: Kafir Project  
-- Butler, Octavia: Anything, Kindred   
+- Butler, Octavia: Anything, Kindred  
+- Bujold, Lois: Paladin of Souls  
 - Cain, Susan: Quiet: The Power of Introverts in a World That Can't Stop Talking  
 - Camp, Jim: Start with No  
 - Campbell, John: Who Goes There?:  
@@ -82,6 +85,7 @@
 - Carroll, Raymonde: Cultural Misunderstandings  
 - Carse, James: Finite and Infinite Games  
 - Cassidy, Lisa: A Tale of Stars and Shadow  
+- Cast, PC: Into the Mist  
 - Celt, Adrienne: End of the World House  
 - Chabon, Michael: The Yiddish Policeman's Union   
 - Chambers, Becky: The Long Way to a Small, Angry Planet; A Psalm for the Wild-Built   
@@ -231,7 +235,8 @@
 - Gray, Colin: Fighting Talk: Forty Maxims on War, Peace, and Strategy;  The Future of Strategy;  
 - Green, John: Turtles All the Way Down  
 - Green, Simon: The Nightside  
-- Greenberg, Andy: Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hacker  
+- Greenberg, Andy: Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hacker; Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency  
+- Greene, Robert: The Laws of Human Nature  
 - Greenspan, Alan: The man who knew: the Life & Times of Alan Greenspan  
 - Grossman, Lev: The Map of Tiny Perfect Things  
 - Gyasi, Yaa: Homegoing  
@@ -242,6 +247,7 @@
 - Hanh, Thich Nhat: Fear  
 - Hanson, Jason: Spy Secrets that can save your life (kindle)  
 - Harari, Yuval Noah: Sapiens: A Brief History of Humankind  
+- Hardy, Darren: The Compound Effect  
 - Harkin, Jo: Tell Me an Ending  
 - Harris, Josh: Captain Phil Harris  
 - Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon  
@@ -262,6 +268,7 @@
 - Hernandez, Jose: Reaching for the Stars (kindle)  
 - Hesse, Herman: Siddhartha  
 - Hibbing, John: Predisposed  
+- Hill, Napoleon: Outwitting the Devil: The Secret to Freedom and Success; The Law of Success in Sixteen Lessons  
 - Hirano, Keiichiro: A Man (kindle)  
 - Hoffman, Carl: The Lunatic Express  
 - Hogarth, M.C.A: HER INSTRUMENTS: 1)Earthrise  
@@ -290,7 +297,7 @@
 - Jackson, John: One Nation under Drones  
 - Jackson, Phil: Eleven Rings  
 - Jean, Emiko: Mika in Real Life; Tokyo Ever After  
-- Jemisin, NK: Emergency Skin  
+- Jemisin, NK: Emergency Skin; The Stone Sky  
 - Jiang, Jia: Rejection Proof  
 - Johnson, Micaiah: The Space between Worlds  
 - Jonasson, Jonas: The 100-Year-Old Man who Climbed out the Window and Disappeared  
@@ -327,11 +334,13 @@
 - Kohanek, Jeffrey: Fate of Wizardom  
 - Kolker, Claudia: The Immigrant Advantage  
 - Koontz, Dean: Strangers; Quicksilver; Mr. Murder  
+- Kowal, Mary: The Calculating Stars  
 - Krishnamurti, Jiddu: The Book of Life  
 - Kritzer, Naomi: Catfishing on CatNet  
 - Kuang, RF: Babel  
 - Kundera, Milan: the Unbearable Lightness of Being  
 - Kunsken, Derek: THE QUANTUM EVOLUTION: 1) The Quantum Magician, 2) Quantum Garden, 3) Quantum War  
+- Kurzweil, Ray: The Singularity is Near: When Humans Transcend Biology  
 - Laberge, Stephen: Exploring the World of Lucid Dreaming  
 - Lallo, Joseph: The Book of Deacon (kindle)  
 - Lanagan, Margo: Tender Morsels  
@@ -355,7 +364,7 @@
 - Levy, Lawrence: To Pixar and Beyond (kindle)  
 - Lewis, Joseph Robert: Aetherium (kindle)  
 - Lewis, Michael: The Undoing Project 
-- Le Guin, Ursula K.: The Dispossessed  
+- Le Guin, Ursula K.: The Dispossessed; The Left Hand of Darkness  
 - Lipman, Joanne: That's What She Said  
 - Liu, Cixin: The Three-Body Problem; To Hold up the Sky; Supernova ERA  
 - Liu, Ken: The Armies of Those I Love; Invisible Planets  
@@ -402,7 +411,8 @@
 - McFate, Sean: The New Rules of War  
 - McGonigal, Jane: Reality is Broken  
 - McGrath, Ben: Riverman: An American Odyssey  
-- McGuire, Seanan: Where the Drowned Girls Go; OCTOBER DAYE: .5)Rat-Catcher, 1)Rosemary and Rue,   
+- McGuire, Seanan: Where the Drowned Girls Go; OCTOBER DAYE: .5)Rat-Catcher, 1)Rosemary and Rue,  
+- McIntyre, Vonda: Dreamsnake  
 - McKinty, Adrian: The Island  
 - McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
 - McNeill, Graham: Ultramarines Omnibus  
@@ -411,6 +421,7 @@
 - Meister, Ellen: Dorothy Parker Drank Here
 - Mersinger, Holly: The Curse of Jacob Tracy  
 - Meyer, Michael: In Manchuria  
+- Mieville, China: The City & The City  
 - Mihalik, Jessie: Polaris Rising  
 - Miller, Chanel: Know my Name  
 - Miller, Christian: The Character Gap  
@@ -470,6 +481,7 @@
 - Parazynski, Scott: The Sky Below (kindle)  
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
 - Paul, Annie Murphy: The Extended Mind  
+- Peale, Norman: The Power of Positive Thinking   
 - Pene du Bois, William: The Twenty-One Balloons  
 - Pentecost, Kate: That Dark Infinity  
 - Perlroth, Nicole: This is How They Tell Me the World Ends: The Cyberweapons Arms Race  
@@ -481,6 +493,7 @@
 - Pink, Daniel: To Sell is Human  
 - Porter, Lindsay: Assassination  
 - Potts, Rolf: Marco Polo Didn't Go There  
+- Pohl, Frederik: Gateway  
 - Poulsen, Kevin: Kingpin  
 - Powell, Colin: It Worked for Me; My American Journey  
 - Pratchett, Terry: Discworld books  
@@ -510,6 +523,7 @@
 - Riordan, Rick: The Red Pyramid  
 - Roach, Mary: My Planet: Finding Humor in the Oddest Places  
 - Roanhorse, Rebecca: Trail of Lightning, Fevered Star  
+- Robb, John: Brave New War, The Next Stage of Terrorism and the End of Globalization  
 - Roberts, Adam: Jack Glass  
 - Roberto, Adam: The Thing Itself  
 - Robinson, Frank M: The Dark Beyond the Stars  
@@ -580,7 +594,7 @@
 - Stark, Kio: Dont Go Back to School  
 - Staveley, Brian: Skullsworn  
 - Stavridis, James: The Leaders Bookshelf; SeaPower  
-- Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World, New Found Land: The Long Haul     
+- Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World, New Found Land: The Long Haul, The Diamond Age  
 - Stephenson, Simon: Sometimes people die reading Greg Burns; Set My Heart to Five  
 - Stewart, Andrea: The Bone Shard Emperor  
 - Stirling, SM: The Forge  
@@ -674,7 +688,14 @@
 - Wright, Richard: Burglars on the Job  
 - Vance, Ashlee: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future  
 - Varol, Ozan: Think Like a Rocket Scientist  
-- Willink, Jocko & Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win
+- Vinge, Vernor: A Deepness in the Sky  
+- Walton, Jo: Among Others  
+- Wearmouth, Darren: Dont Move  
+- Wells, Martha: Network Effect  
+- Wilhelm, Kate: Where Late the Sweet Birds Sang  
+- Willink, Jocko & Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win  
+- Willis, Connie: Doomsday Book  
+- Wolfe, Gene: The Claw of the Conciliator  
 - Yang, Jeff: Rise  
 - Yates, Brook: Cannonball  
 - Yi-Sheng, Ng: Lion City  
