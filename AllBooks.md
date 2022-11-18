@@ -936,7 +936,7 @@ RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various go
 #### Canavan, Trudi: THE BLACK MAGICIAN: 0.5) The Magician's Apprentice, 0.7) Epic: Legends of Fantasy by John Joseph Adams & Legends of Australian Fantasy by Jack Dann, 1)The Magician's Guild(HAVE), 2)The Novice, 3)The High Lord  
 #### Canavan: THE TRAITOR SPY: 1) The Ambassador's Mission, 2) The Rogue, 3) The Traitor Queen  
 
-#### Card, Orson Scott: ENDER'S SAGA: ~~1) Ender's Game, 2) Speaker for the Dead,~~ 3) Xenocide, 4) Children of the Mind, 5) Ender in Exile  
+#### Card, Orson Scott: ENDER'S SAGA: ~~1) Ender's Game, 2) Speaker for the Dead, 3) Xenocide, 4) Children of the Mind~~, 5) Ender in Exile  
 #### Card: Mithermages: 1) The Lost Gate,  
 #### Card: THE SHADOW SERIES: 1) Ender's Shadow, 2) Shadow of the Hegemon, 3) Shadow Puppets, 4) Shadow of the Giant, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow    
 #### Card: THE FIRST FORMIC WAR SERIES: 1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens  
