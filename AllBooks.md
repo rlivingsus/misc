@@ -1,7 +1,4 @@
-<details>
-  <summary> Books To Read</summary>
-  <pre>
-#### Alpha sorted  
+#### BOOKS TO READ
 - Abdullah, Chelsea: The Stardust Thief 
 - Acemoglu, Daron: Why Nations Fail  
 - Achor, Shawn: The Happiness Advantage  
@@ -708,12 +705,8 @@
 - Zevin, Gabrielle: The Storied life of AJ Fikry; Tomorrow and Tomorrow and Tomorrow    
 - Zinni, Tony: Before the First Shot is Fired: How America can win lose off the Battlefield  
 ----
-</details>
-----
-<details>
-  <summary> Audible I have</summary>
-  <pre>
-#### Alpha sorted  
+#### AUDIBLE BOOKS I HAVE
+ 
 - Abercrombie, Joe: Half the World  
 - Abraham, Daniel: The Dragon's Path  
 - Adams, Scott: How to Fail at Almost Everything and Still Win Big  
@@ -867,10 +860,8 @@
 - Wright, Craig: The Hidden Habits of Genius  
 - Wyman, Patrick: The Verges  
 - Zwillich, Todd: The Man who knew the Way to the Moon  
-</details>
 
-SERIES
-## Books sorted by author's last name
+#### BOOK SERIES
 
 #### Abercrombie, Joe: THE FIRST LAW: 1)The Blade Itself, 2)Before they are Hanged, 3)The Last Arguments of Kings, 4)Best Served Cold, 5)The Heroes, 6)Red Country  
 
