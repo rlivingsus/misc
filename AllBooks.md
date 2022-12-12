@@ -243,7 +243,7 @@
 - Hall, Kindra: Stories that Stick  
 - Hanh, Thich Nhat: Fear  
 - Hanson, Jason: Spy Secrets that can save your life (kindle)  
-- Harari, Yuval Noah: Sapiens: A Brief History of Humankind  
+- ~~Harari, Yuval Noah: Sapiens: A Brief History of Humankind~~    
 - Hardy, Darren: The Compound Effect  
 - Harkin, Jo: Tell Me an Ending  
 - Harris, Josh: Captain Phil Harris  
@@ -905,8 +905,8 @@ Indomitable, Dark Wraith of Shannara~~
 THE HERITAGE OF SHANNARA: ~~1)The Scions of Shannara, 2)The Druid of Shannara, 3)The Elf Queen of Shannara, 4)The Talismans of Shannara (Feb20)~~  
 THE VOYAGE OF THE JERLE SHANNARA:~~1)Iise Witch;2)Antrax;3)Morgawr~~  
 THE HIGH DRUID OF SHANNARA:~~1)Jarka Ruus; 2)Tanequil; 3)Straken~~  
-#### Brooks: PALADINS OF SHANNARA: 1)Allanon's Quest; 2)The Weapon Master's Choice; 3)The Black Irix  
-#### Brooks: DARK LEGACY OF SHANNARA SERIES: 1. Wards of Faerie, 2) Blood Fire Quest, 3) Witch Wraith  
+#### Brooks: PALADINS OF SHANNARA (did not find in Libby): 1)Allanon's Quest; 2)The Weapon Master's Choice; 3)The Black Irix  
+#### Brooks: DARK LEGACY OF SHANNARA SERIES: ~~1) Wards of Faerie,~~ 2) Blood Fire Quest, 3) Witch Wraith  
 #### Brooks: DEFENDERS OF SHANNARA: 1) The High Druid's Blade, 2) The Darkling Child; 3)The Sorcerer's Daughter  
 #### Brooks: THE FALL OF SHANNARA: 1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stiehl Assassin; 4) The Last Druid  
 #### Brooks: MAGIC KINGDOM OF LANDOVER: 1) Magic Kingdom for Sale/Sold, 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
