@@ -455,8 +455,9 @@
 - MacDonald, Eileen: Shoot the women first  
 - Mack, Katie: The End of Everything  
 - Majumdar, Simon: Fed, White and Blue  
+- Manansala, Mia: Tita Rosie's Kitchen Mystery Series (3) 1) Arsenic and Adobo  
 - Mandela, Nelson: Long Walk to Freedom  
-- Mandel, Emily St. John: Sea of Tranquility  
+- Mandel, Emily St. John: Station Eleven; Sea of Tranquility  
 - Marchout, Jo: Decoding the Heavens 
 - Marcinko, Rich: Leadership secrets of the Rogue Warrior  
 - Marillier, Juliet: Heir to Seven Waters  
@@ -469,6 +470,7 @@
 - Martin, George RR: Wildcards Novels  
 - Martinet, Jeanne: The Art of Mingling  
 - Mattis, Jim: Call Sign Chaos  
+- Maugham, W. Somerset: ebook The Razor's Edge  
 - Maxwell, Everina: Winter's Orbit  
 - Maxwell, John: How successful people think  
 - McAllister, Gillian: Wrong Place Wrong Time  
@@ -487,11 +489,14 @@
 - McNeill, Graham: Ultramarines Omnibus  
 - McQuiston, Casey: One Last Stop  
 - McRaven, William: Make Your Bed  
+- McTier, Moiya: The Milky Way  
+- Meacham, Jon: And There Was Light: Abraham Lincolns  
 - Meister, Ellen: Dorothy Parker Drank Here
 - Mersinger, Holly: The Curse of Jacob Tracy  
 - Meyer, Michael: In Manchuria  
 - Mieville, China: The City & The City  
 - Mihalik, Jessie: Polaris Rising  
+- Miles, Kathryn: Trailed  
 - Miller, Chanel: Know my Name  
 - Miller, Christian: The Character Gap  
 - Miller, Lulu: Why Fish Don't Exist: A story of Loss, Love, and Hidden Order of Life  
@@ -504,7 +509,9 @@
 - Moore, Demi: Inside Out  
 - Moore, Peter: V is for Villain  
 - Morillo, Christina: 97 Things Every Information Security Pro Should Know   
-- Muir, Tamsyn: THE LOCKED TOMB: 1)Gideon the Ninth  
+- Morrison, Toni: The Bluest Eye  
+- Morton, Andrew: The Queen: Her Life  
+- Muir, Tamsyn: THE LOCKED TOMB: 1)Gideon the Ninth; Nona the Ninth  
 - Munger, Charlie: Poor Charlie's Almanack  
 - Munninghoff, Alexander: The Son and Heir (kindle)  
 - Munroe, Randall: The Thing Explainer  
@@ -514,6 +521,7 @@
 - Muratyan, Vahram: Paris versus New York  
 - Murphy, Joseph: the Power of your subconcious mind  
 - Murray, Williamson: Military Innovation in the Interwar Period  
+- Musgrave, David: Lambda  
 - Murtagh, Niall: The Blue-Eyed Salaryman  
 - Musker, Jackson: The Sea in the Sky  
 - Naam, Ramez: Nexus  
@@ -528,7 +536,9 @@
 - Newitz, Annalee: The Future of Another Timeline 
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
+- Nez, Chester: Code Talker  
 - Ng, Celeste: Our Missing Hearts  
+- Nguyen, Joseph: Don't Believe Everything you Think  
 - Nicholson, Dean: Nala's World  
 - Nietfeld, Emi: Acceptance: A Memoir  
 - Niven, Larry: 3) Outies (kindle?)  
@@ -541,43 +551,55 @@
 - O'Brien, Phillips Payson: The 2nd Most Powerful Man in the World  
 - O'Brien, Tim: The Things they Carried  
 - Okorafor, Nnedi: Lagoon, Remote Control  
-- Onyebuchi, Tochi: Riot Baby  
+- Omara, Margaret: The Code: Silicon Valley and the Remaking of America 
+- Onyebuchi, Tochi: Goliath; Riot Baby  
 - Owens, Delia: Where the Crawdads Sing  
 - Pacitti, Tony: My Best Friend is a Wookiee  
 - Pollan, Michael: The Omnivore's Dilemma  
 - Palmer, Ada: TERRA IGNOTA: 1) Too Like the Lightning; 2) Seven Surrenders  
 - Paolini, Christopher: To Sleep in a Sea of Stars  
 - Parazynski, Scott: The Sky Below (kindle)  
+- Parker, KJ: Pulling the Wings Off Angels  
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
 - Paul, Annie Murphy: The Extended Mind  
 - Peale, Norman: The Power of Positive Thinking   
+- Pearlman, Jeff: The Last Folk Hero: The Life and Myth of Bo Jackson  
+- Peck, Josh: Happy People are Annoying  
+- Pelt, Shelby Van: Remarkably Bright Creatures  
 - Pene du Bois, William: The Twenty-One Balloons  
 - Pentecost, Kate: That Dark Infinity  
 - Perlroth, Nicole: This is How They Tell Me the World Ends: The Cyberweapons Arms Race  
+- Perry, Matthew: Friends, Lovers, and the Big Terrible Thing  
 - Pham, Andrew: Catfish and Mandala  
 - Phillips, Helen: The Need  
 - Phillips, Lucas: The Greatest Raid of All  
 - Pierceson, Jason: Sexual Minorities and Politics  
 - Pillsbury, Michael: The Hundred-Year Marathon  
-- Pink, Daniel: To Sell is Human  
+- Pink, Daniel: The Power of Regret, When, To Sell is Human, Drive, A Whole New Mind, The Adventures of Johnny Bunko, Free Agent Nation    
 - Porter, Lindsay: Assassination  
 - Potts, Rolf: Marco Polo Didn't Go There  
 - Pohl, Frederik: Gateway  
 - Poulsen, Kevin: Kingpin  
 - Powell, Colin: It Worked for Me; My American Journey  
 - Pratchett, Terry: Discworld books  
-- Pressfield, Steven: Gates of Fire  
+- Presley, Priscilla: Elvis and Me  
+- Pressfield, Steven: The War of Art; Gates of Fire  
+- Prince Harry: Spare  
+- Pullman, Philip: His Dark Materials series  
 - Putnam, Robert: Bowling Alone  
+- Quick, Matthew: The Silver Lining Playbook; We Are the Light  
 - Quinn, Kate: The Diamond Eye  
 - Randel, Weina Dai: The Last Rose of Shanghai (kindle)  
 - Rawls, Wilson: Where the Red Fern Grows  
 - Raymer, Edward: Descent into Darkeness  
 - Redman, Jason: Overcome  
 - Reed, Steven: Making Common Sense of Japan  
+- Reid, Thomas: ebook 1) The Gossamer Plain from Empyrean Odyssey  
 - Reklau, Marc?: 30 days  
 - Rekulak, Jason: The Impossible Fortress, Hidden Pictures  
 - Reich, Simon & Peter Dombrowski: The end of grand strategy  
 - Reid, Rob: Year Zero  
+- Rendon, Marcie: Cash Blackbear series (3) 1) Murder on the Red River  
 - Repino, Robert: The War with No Name: 1) Mort(e)  
 - Reynolds, Jason: Long Way Down  
 - Rhodes, Richard: Dark Sun  
@@ -593,12 +615,14 @@
 - Roach, Mary: My Planet: Finding Humor in the Oddest Places  
 - Roanhorse, Rebecca: Trail of Lightning, Fevered Star  
 - Robb, John: Brave New War, The Next Stage of Terrorism and the End of Globalization  
-- Roberts, Adam: Jack Glass  
 - Roberto, Adam: The Thing Itself  
+- Roberts, Adam: Jack Glass  
+- Robertson, Donald: How to Think Like a Roman Emporer  
 - Robinson, Frank M: The Dark Beyond the Stars  
 - Robinson, Kim Stanley: Aurora  
 - Robson, David: The Expectation Effect: How your Mindset Can Change your World  
 - Rollins, James: The Starless Crown 
+- Ronson, Jon: So You've been Publicly Shamed  
 - Rosling, Hans: Factfulness  
 - Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear  
 - Rovelli, Carlo: Seven Brief Lesson in Physics  
@@ -613,13 +637,17 @@
 - Sachs, Dana: The Life We Were Given  
 - Sahn, Seung: Dropping Ashes on the Buddha  
 - Saint, Jennifer: Ariadne  
+- Saintcrow, Lilith: The Iron Wyrm Affair book 1  
 - Sajer, Guy: The Forgotten Soldier  
+- Saladino, Dan: Eating to Extinction: The World's Rarest Foods and Why we Need to Save Them  
+- Salinger, JD: The Catcher in the Rye  
 - Sanger, David: The Perfect Weapon  
 - Sarnicola, Thomas: No Kings, No Kooks  
 - Sato, Yuya: Dendera  
 - Saulter, Stephanie: EVOLUTION 1)Gemsigns  
 - Scalzi, John: Kaiju preservation society; Lock In; Head On; The Dispatcher; Murder by Other Means; Travel by Bullet  
 - Scharre, Paul: Army of None  
+- Schiff, Stacy: The Revolutionary: Samuel Adams  
 - Schlender, Brent and Rick Tetzeli: Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader  
 - Schreier, Jason: Blood, Sweat, and Pixels  
 - Schroeder, Alice: The Snowball: Warren Buffett and the Business of Life  
@@ -629,6 +657,7 @@
 - Schwartz, David: The Magic of Thinking Big  
 - Scott, James: Rampage  
 - Scott, James C.: The Art of Not Being Governed  
+- Seife, Charles: Zero: The Biography of a Dangerous Idea  
 - Seigel, Rob: Memoirs of a Hack Mechanic  
 - Sen, Paul: Einsteins Fridge    
 - Shafak, Elif: 10 Minutes 38 Seconds in this Strange World  
@@ -639,24 +668,30 @@
 - Shea, Kieran: Off Rock  
 - Sheff, David: The Buddhist on Death Row  
 - Shepherd, Peng: The Cartographers; The Book of M  
+- Sheridan, Sam: The Disaster Diaries  
 - Sherry, Miranda: Black Dog Summer  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
 - Shoemaker, Martin: The Last Dance (kindle)  
 - Shusterman, Neal: Scythe  
 - Silvera, Adam: They both die at the end  
-- Sinek, Simon: Together is Better: A little book of Inspiration ; Leaders eat Last; The Infinite Game  
+- Simon, George: In Sheep's Clothing  
+- Sinek, Simon: Together is Better: A little book of Inspiration ; Find your WHy; Leaders eat Last; The Infinite Game  
 - Singer, PW & August Cole: Burn-In: A Novel of the Real Robotic Revolution & Ghost Fleet  
 - Singh, Simon: Fermats Enigma  
 - Slater, Tracy: The Good Shufu
 - Slim, Viscount: Defeat into Victory  
 - Slineni, Haemin?: The things you can see only when you slow down  
+- Smedman, Lisa: ebook House of Serpents 1) Venom's Taste  
 - Smith, Ali: HOW TO BE BOTH  
+- Smith, Betty: A Tree Grows in Brooklyn  
 - Smith, Julie: Why has nobody told me this before?  
 - Smith, Mandy: Cabin Fever  
 - Smith, Nicholas: Hell Divers  
+- Smith, Patti: Just Kids  
 - Solomon, Rivers: The Deep  
 - Spakowski, Andrzej: Blood of Elves  
 - Stackpole, Michael: A Secret Atlas  
+- Standage, Tom: A history of world in 6 glasses  
 - Star Trek: Department of Temporal Investigations  
 - Star Trek Gateways  
 - Star Wars OLD REPUBLIC:Fatal Alliance, DECEIVED, Revan, Annihilation;  
@@ -670,7 +705,8 @@
 - Stoll, Cliff: The Cuckoos Egg  
 - Stoller, Matt: Goliath  
 - Stone, Douglass: Difficult Conversations  
-- Strahan, Jonathan: Years Best Sci-Fi Vol 1 2020 and 2 2021  
+- Storr, Will: The Science of Storytelling  
+- Strahan, Jonathan: Years Best Sci-Fi Vol 1 2020 and 2 2021; Book 1) Engineering Infinity  
 - Strogatz, Steven: The Joy of X  
 - Stross, Charles: The Atrocity Archives  
 - Suarez, Daniel: Change Agent  
@@ -679,7 +715,9 @@
 - Sundem, Garth: The Geeks Guide to World Domination  
 - Sunzi: The Art of War (kindle)  
 - Swami, Om: Mind full to mindful  
+- Sweterlitsch, Thomas: Tomorrow and Tomorrow  
 - Taggart, Caroline: I Used to Know That  
+- Tahir, Sabaa: All my Rage  
 - Taleb, Nassim: Skin in the Game; Antifragile  
 - Tan, Cheryl: A Tiger in the Kitchen  
 - Tan, Sue Lynn: Daughter of the Moon Goddess  
@@ -693,12 +731,15 @@
 - Thompson, Eldon: Unbowed: A Kronus Tale (kindle)  
 - Thomson, Keith: Born to be Hanged  
 - Thorne, Kip: The Science of Interstellar  
+- Thoureau, Henry David: Walden  
 - Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future  
 - Till, Geoffrey: Sea Power  
 - Tokunaga, Wendy: Marriage in Translation  
 - Toll, Ian: Six Frigates  
 - Tolstoy, Leo: The Death of Ivan Ilyich  
 - Torseter, Oyvind: The Hole  
+- Townsend, Anthony: Ghost Road: Beyond the Driverless Car  
+- Tracy, Brian: Eat that Frog  
 - Tremblay, Paul: The Last Conversation  
 - Trichter, Judd: Love in the Age of Mechanical Reproduction  
 - Trotter, William: Frozen Hell  
@@ -706,14 +747,19 @@
 - Tuhovsky, Ian: The Art of Reading People (kindle)  
 - Turnbull, Cadwell: The Lesson  
 - Tyson, Neil deGrasse: Astrophysics for Peole in a Hurry  
+- Tzu, Sun: The Art of War  
+- Union, Gabrielle: Were going to Need More Wine  
 - Urrea, Luis Alberto: The House of Broken Angels  
 - Urschel, John: Mind & Matter  
+- Vance, Ashlee: Elon Musk  
 - Vance, Jack: The Eyes of the Overworld  
 - Vann, David: A Mile Down  
 - Verducci, Tom: The Cubs Way  
+- Varol, Ozan: Think Like a Rocket Scientist  
 - Viega, John: The Myths of Security  
 - Villoso, K.S.: CHRONICLES OF THE BITCH QUEEN: 1)The Wolf of Oren-Yaro  
-- Vinge, Vernor: A Fire Upon the Deep  
+- Vinge, Vernor: A Fire Upon the Deep; A Deepness in the Sky  
+- Vo, Nghi: Siren Queen  
 - Volk, Steve: Fringe-ology  
 - Voigt, Emily: The Dragon behind the Glass  
 - Vonnegut, Kurt: Slaughterhouse-5, Breakfast of Champions  
@@ -724,7 +770,9 @@
 - Wallace, Danny: F You very Much  
 - Wallace, David Foster: Infinite Jest  
 - Walter, Susan: Good as Dead (kindle)  
+- Walton, Sam: Made in America
 - Walzer, Michael: Just and Unjust Wars  
+- Wang, Qian: Beautiful Country  
 - Ward, David: Between Two Ends  
 - Ware, Ruth: In a Dark, Dark Wood  
 - Warner, Roger: Shooting at the Moon  
@@ -745,19 +793,18 @@
 - Williams, Walter Jon: This is Not a Game  
 - Willink, Jocko & Leif Babin: The Dichotomy of Leadership  
 - Willis, Connie: Blackout; Doomsday book   
+- Wilson, Kevin: Nothing to See Here  
 - Wilson-Howarth, Jane: How to Shit Around the World  
 - Winters, Mary-Frances: We cant talk about that at work!  
 - Wise, David: Spy  
 - Wittes, Benjamin & Gabriella Blum: The Future of Violence  
 - Wohlleben, Peter: The Hidden Life of Trees  
 - Wolfe, Gene: Shadow & Claw  
+- Wolke, Robert: What Einstein told his Barber  
 - Wong, Khan: The Circus Infinite  
 - Worms (superhero book)  
 - Wright, Jaime Jo: The Souls of Lost Lake  
 - Wright, Richard: Burglars on the Job  
-- Vance, Ashlee: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future  
-- Varol, Ozan: Think Like a Rocket Scientist  
-- Vinge, Vernor: A Deepness in the Sky  
 - Walton, Jo: Among Others  
 - Wearmouth, Darren: Dont Move  
 - Wells, Martha: Network Effect  
@@ -765,10 +812,13 @@
 - Willink, Jocko & Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win  
 - Willis, Connie: Doomsday Book  
 - Wolfe, Gene: The Claw of the Conciliator  
+- Wu, Constance: Making a Scene  
+- Yager, Jan: How to Finish everything you start  
 - Yang, Jeff: Rise  
 - Yates, Brook: Cannonball  
 - Yi-Sheng, Ng: Lion City  
 - Yoshihara, Toshi & James R. Holmes: Red Star over the Pacific  
+- Young, Adrienne: Spells for Forgetting  
 - Young, Shannon: How Does One Dress to Buy Dragonfruit  
 - Zaleski, Laurie: Funny Farm  
 - Zamora, Javier: Solito  
@@ -776,6 +826,7 @@
 - Zetter, Kim: Countdown to Zero Day  
 - Zevin, Gabrielle: The Storied life of AJ Fikry; Tomorrow and Tomorrow and Tomorrow    
 - Zinni, Tony: Before the First Shot is Fired: How America can win lose off the Battlefield  
+- Zinsser, William: On Writing Well  
 ----
 #### AUDIBLE BOOKS I HAVE
  
@@ -970,13 +1021,13 @@
 #### Brin, David: THE UPLIFT WAR: 1) Brightness Reef, 2) Startide Rising, 3) Uplift War  
 
 #### Brooks, Terry: WORD AND VOID: ~~1)Running with the Demon (Feb22), 2)A Knight of the Word (Mar22), 3)Angel Fire East (Mar22)~~ First set of stories of the Shannara world.  I did not realize until I saw the MTV Shannara series that this world was originally earth before some sort of apocolypse.  John Ross and Nest Freemark are the protagonists battling various demons that look like humans.      
-THE GENESIS OF SHANNARA: ~~1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph~~    
-LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
-ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
+#### THE GENESIS OF SHANNARA: ~~1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph~~    
+#### LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
+#### ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
 Indomitable, Dark Wraith of Shannara~~  
-THE HERITAGE OF SHANNARA: ~~1)The Scions of Shannara, 2)The Druid of Shannara, 3)The Elf Queen of Shannara, 4)The Talismans of Shannara (Feb20)~~  
-THE VOYAGE OF THE JERLE SHANNARA:~~1)Iise Witch;2)Antrax;3)Morgawr~~  
-THE HIGH DRUID OF SHANNARA:~~1)Jarka Ruus; 2)Tanequil; 3)Straken~~  
+#### THE HERITAGE OF SHANNARA: ~~1)The Scions of Shannara, 2)The Druid of Shannara, 3)The Elf Queen of Shannara, 4)The Talismans of Shannara (Feb20)~~  
+#### THE VOYAGE OF THE JERLE SHANNARA:~~1)Iise Witch;2)Antrax;3)Morgawr~~  
+#### THE HIGH DRUID OF SHANNARA:~~1)Jarka Ruus; 2)Tanequil; 3)Straken~~  
 #### ~~Brooks: PALADINS OF SHANNARA (did not find in Libby, Short Stories in ebook format and did not read): 1)Allanon's Quest; 2)The Weapon Master's Choice; 3)The Black Irix~~    
 #### Brooks: DARK LEGACY OF SHANNARA SERIES: ~~1) Wards of Faerie, 2) Blood Fire Quest, 3) Witch Wraith~~
 #### Brooks: DEFENDERS OF SHANNARA: 1) The High Druid's Blade, 2) The Darkling Child; 3)The Sorcerer's Daughter  
@@ -1153,33 +1204,34 @@ The End and Other Beginnings: Stories from the Future
 #### Sage, Angie: SEPTIMUS HEAP SERIES: 1)Magyk, 2)Flyte, 3)Physik, 4)Queste, 5)Syren, 6)Darke, 7)Fyre  
 
 #### Salvatore, R.A.:  
-THE DARK ELF TRILOGY: ~~1) Homeland, 2) Exile, 3)Sojourn~~  
-THE ICEWIND DALE TRILOGY: ~~1) The Crystal Shard, 2) Streams of Silver, 3) The Hafling's Gem~~  
-THE LEGACY OF THE DROW: ~~1)The Legacy, 2)Starless Night, 3)Siege of Darkness, 4)Passage to Dawn~~ 
-THE PATHS OF DARKNESS: ~~1)The Silent Blade, 2)The Spine of the World, 3)Sea of Swords~~  
-THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
-THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
-TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King~~, 3) The Ghost King  
-Salvatore: NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold  
-Salvatore: THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
-Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf  
-Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero  
-Salvatore: GENERATIONS: 1) Timeless(Dnhave), 2) Boundless(Dnhave), 3) Relentless(Dnhave)  
-Salvatore: THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels  
-Salvatore: CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse  
-Salvatore: THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge (soon?2022)  
-Salvatore: SOLO?: The Color of Dragons, The Legend of Drizzt: The Collected Stories (AUDIBLE)   
+#### Salvatore THE DARK ELF TRILOGY: ~~1) Homeland, 2) Exile, 3)Sojourn~~  
+#### Salvatore THE ICEWIND DALE TRILOGY: ~~1) The Crystal Shard, 2) Streams of Silver, 3) The Hafling's Gem~~  
+#### Salvatore THE LEGACY OF THE DROW: ~~1)The Legacy, 2)Starless Night, 3)Siege of Darkness, 4)Passage to Dawn~~ 
+#### Salvatore THE PATHS OF DARKNESS: ~~1)The Silent Blade, 2)The Spine of the World, 3)Sea of Swords~~  
+#### Salvatore THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
+#### Salvatore THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
+#### Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King~~, 3) The Ghost King  
+#### Salvatore: NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold  
+#### Salvatore: THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
+#### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf  
+#### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero  
+#### Salvatore: GENERATIONS: 1) Timeless(Dnhave), 2) Boundless(Dnhave), 3) Relentless(Dnhave)  
+#### Salvatore: THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels  
+#### Salvatore: CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse   
+#### Salvatore: Spearwielders 1)The Woods out Back  
+#### Salvatore: THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge (soon?2022)  
+#### Salvatore: SOLO?: The Color of Dragons, The Legend of Drizzt: The Collected Stories (AUDIBLE)   
 
-### Sanderson, Brandon: MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History (on Arcanum Unbounded), ~~4) The Alloy of Law~~, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,  
-Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella, 4)Rhythm of War, 5)Highprince of War  
-Sanderson: RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
-Sanderson: ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
-Sanderson: RITHMATIST: 1) The Rithmatist  
-SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant ~2023   
-INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
-Sanderson: WARBREAKER: 1) Warbreaker, 2) Nightblood  
-Sanderson: SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell, 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.    
-The Original  
+#### Sanderson, Brandon: MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History (on Arcanum Unbounded), ~~4) The Alloy of Law~~, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,  
+#### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella, 4)Rhythm of War, 5)Highprince of War  
+#### Sanderson: RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
+#### Sanderson: ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
+#### Sanderson: RITHMATIST: 1) The Rithmatist  
+#### SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant ~2023   
+#### INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
+#### Sanderson: WARBREAKER: 1) Warbreaker, 2) Nightblood  
+#### Sanderson: SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell, 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.    
+#### The Original  
 
 #### Scalzi, John: OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades, The Sagan Diary, The Last Colony, Zoe's Tale, After the Coup, The Human Division, The B-Team, Walk the Plank, We only need the Heads, A Voice in the Wilderness, Tales from the Clarke, The Back Channel, The Dog King, The Sound of Rebellion, The Observers, This must be the Place, A Problem of Proportion, The Gentle Art of Cracking Heads, Earth Below Sky Above, The Human Division Extras, The End of All Things, The Life of the Mind, This Hollow Union, Can Long Endure, To Stand or Fall  
 
@@ -1197,16 +1249,16 @@ SHADOW OF APT: 0.5)Spoils of War, 1)Empire in Black and Gold, 2)Dragonfly Fallin
 #### Watt-Evans, Lawrence: LORDS OF DUS SERIES: 1) The Lure of the Basilisk, 2) The Seven Altars of Dusarra, 3) The Sword of Bheleu, 4) The Book of Silence  
 
 #### Weis, Margaret  & Tracy Hickman (sometimes):   
-Weis: THE DRAGONVARLD TRILOGY: 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)  
-Weis: THE DEATH GATE CYCLE: 1) Dragonwing, 2) Elven Star, 3) Fire Sea, 4) Serpent Mage, 5) Hand of Chaos, 6) Into the Labyrinth, 7) The Seventh Gate  
-Weis: STAR OF THE GUARDIANS: 1) The Lost King, 2) King's Test, 3) Ghost Legion  
-Weis: THE DARK DISCIPLE: 1) Amber and Ashes, 2) Amber and Iron, 3) Amber and Blood 
-Weis: THE DRAGON CORSAIRS: 1) Spymaster, 2) Privateer, 3) Kingmaker  
-Weis: DRAGON BRIGADE: 1) Shadow Raiders, 2) Storm Riders, 3) The Seventh Sigil  
-Weis: DRAGONSHIPS OF VINDRAS: 1) Bones of the Dragon, 2) Secret of the Dragon, 3) Rage of the Dragon, 4) Doom of the Dragon  
-Weis: DARDSWORD TRILOGY: 1) Forging the Darksword, 2) Doom of the Darksword, 3) Triumph of the Darksword  
-Weis: BRONZE CANTICLES: 1) Mystic Warrior, 2) Mystic Quest  
-Weis: ANNALS OF DRAKIS: 1) Song of the Dragon, 2) Citadels of the Lost, 3) Blood of the Emporer  
+#### Weis: THE DRAGONVARLD TRILOGY: 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)  
+#### Weis: THE DEATH GATE CYCLE: 1) Dragonwing, 2) Elven Star, 3) Fire Sea, 4) Serpent Mage, 5) Hand of Chaos, 6) Into the Labyrinth, 7) The Seventh Gate  
+#### Weis: STAR OF THE GUARDIANS: 1) The Lost King, 2) King's Test, 3) Ghost Legion  
+#### Weis: THE DARK DISCIPLE: 1) Amber and Ashes, 2) Amber and Iron, 3) Amber and Blood 
+#### Weis: THE DRAGON CORSAIRS: 1) Spymaster, 2) Privateer, 3) Kingmaker  
+#### Weis: DRAGON BRIGADE: 1) Shadow Raiders, 2) Storm Riders, 3) The Seventh Sigil  
+#### Weis: DRAGONSHIPS OF VINDRAS: 1) Bones of the Dragon, 2) Secret of the Dragon, 3) Rage of the Dragon, 4) Doom of the Dragon  
+#### Weis: DARDSWORD TRILOGY: 1) Forging the Darksword, 2) Doom of the Darksword, 3) Triumph of the Darksword  
+#### Weis: BRONZE CANTICLES: 1) Mystic Warrior, 2) Mystic Quest  
+#### Weis: ANNALS OF DRAKIS: 1) Song of the Dragon, 2) Citadels of the Lost, 3) Blood of the Emporer  
 
 #### Wells, Martha: MURDERBOT DIARIES: 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry   
 
@@ -1225,21 +1277,22 @@ Weis: ANNALS OF DRAKIS: 1) Song of the Dragon, 2) Citadels of the Lost, 3) Blood
 #### Yancey, Richard: THE 5TH WAVE: ~~1) The 5th wave~~, 2) The Infinite Sea, 3) The Last Star   
 
 #### Zahn, Timothy: HE THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
-Zahn: THRAWN:  ~~1)Thrawn,(Feb2022) 2)Thrawn:Alliances, 3)Thrawn:Treason~~  
-Zahn: THE HAND OF THRAWN DUOLOGY:  1)Specter of the Past, 2)Vision of the Future  
-Zahn: THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good, 3)Lesser Evil  
-Zahn: DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
-Zahn: QUADRAIL:  1)Night Train to Rigel, 2)The Third Lynx, 3)Odd Girl Out, 4)The Domino Pattern, 5)Judgment at Proteus  
-Zahn: THE CONQUERORS SAGA:  1)Conquerors' Pride, 2)Conquerors' Heritage, 3)Conquerors' Legacy  
-Zahn: COBRA:  1)Cobra, 2)Cobra Strike, 3)Cobra Bargain  
-Zahn: BLACKCOLLAR:  1)The Blackcollar, 2)The Backlash Mission, 3)The Judas Solution  
-Zahn: COBRA WAR:  1)Cobra Alliance, 2)Cobra Guardian, 3)Cobra Gamble  
-Zahn: THE SIBYL'S WAR:  1)Pawn, 2)Knight:AChronicle of the Sibyl's War, 3)Queen:AChronicle of the Sibyl's War  
-Zahn: COBRA REBELLION:  1)Cobra Slave, 2)Cobra Outlaw, 3)Cobra Traitor  
+#### Zahn: THRAWN:  ~~1)Thrawn,(Feb2022) 2)Thrawn:Alliances, 3)Thrawn:Treason~~  
+#### Zahn: THE HAND OF THRAWN DUOLOGY:  1)Specter of the Past, 2)Vision of the Future  
+#### Zahn: THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good, 3)Lesser Evil  
+#### Zahn: DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
+#### Zahn: QUADRAIL:  1)Night Train to Rigel, 2)The Third Lynx, 3)Odd Girl Out, 4)The Domino Pattern, 5)Judgment at Proteus  
+#### Zahn: THE CONQUERORS SAGA:  1)Conquerors' Pride, 2)Conquerors' Heritage, 3)Conquerors' Legacy  
+#### Zahn: COBRA:  1)Cobra, 2)Cobra Strike, 3)Cobra Bargain  
+#### Zahn: BLACKCOLLAR:  1)The Blackcollar, 2)The Backlash Mission, 3)The Judas Solution  
+#### Zahn: COBRA WAR:  1)Cobra Alliance, 2)Cobra Guardian, 3)Cobra Gamble  
+#### Zahn: THE SIBYL'S WAR:  1)Pawn, 2)Knight:AChronicle of the Sibyl's War, 3)Queen:AChronicle of the Sibyl's War  
+#### Zahn: COBRA REBELLION:  1)Cobra Slave, 2)Cobra Outlaw, 3)Cobra Traitor  
 
 #### STARWARS  
-Miller, John Jackson: Kenobi  
-Johnson, EK: Ahsoka  
-Ireland, Justina: The High Republic: A Test of Courage  
-Gray, Claudia: Journey to Star Wars: The Last Jedi Leia, Princess of Alderaan :From a Certain Point of View  
-Star Wars the High Republic: 1) Light of the Jedi, 2) The Rising Storm, 3) A Test of Courage, 4) Into the Dark, 5) Tempest Runner, 6) Out of the Shadows, 7) The Fallen Star, 8) Midnight Horizon, 9) Convergence  
+#### Miller, John Jackson: Kenobi  
+#### Johnson, EK: Ahsoka  
+#### Ireland, Justina: The High Republic: A Test of Courage  
+#### Gray, Claudia: Journey to Star Wars: The Last Jedi Leia, Princess of Alderaan :From a Certain Point of View  
+#### Wendig, Chuck: audiobook 2) Aftermath Life Debt  
+#### Star Wars the High Republic: 1) Light of the Jedi, 2) The Rising Storm, 3) A Test of Courage, 4) Into the Dark, 5) Tempest Runner, 6) Out of the Shadows, 7) The Fallen Star, 8) Midnight Horizon, 9) Convergence  
