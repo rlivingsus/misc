@@ -848,6 +848,7 @@
 - Bear, Greg: War Dogs  
 - Bennett, R. William: Jacob T. Marley (already listened?)  
 - Bernheimer, Jim: Origins of a D-List Supervillian  
+- Best, Samuel: Titan Chronicles Mission one book one  
 - Bock, Laszlo: Work Rules!  
 - Bohem, Less: Junk  
 - Bova, Ben: The SCI FI HOF Vol.2-B  
@@ -856,33 +857,42 @@
 - Burns, Steve: Foreverwhere  
 - Byrd, Max: Pont Neuf  
 - Cale, David: Harry Clarke  
-- Camp, Jim: Start with No (read?)  
+- Camp, Jim: Start with No  
 - Campbell, Bruce: If Chins could Kill  
+- Carr, John: Best of Jerry Pournelle  
+- Chaney, JN: Sunkiller book 1  
 - Chiang, Ted: Stories of Your Life and others  
 - Child, Lee: Persuader  
 - Christian, Brian: Algorithms to Live By  
+- Christie, Agatha: Hercule Poirot complete short stories  
+- Clarke, Arthur C: The Collected Stories of Arthur Clarke  
 - Clarke, Neil: The best SCHFI of the Year: Volume One  
 - Coelho: Paulo: Gather 'Round the Sound  
 - Cole, Dean: Solitude  
+- Cooper, Harmon: Infinite Dusk Cowboy Necromancer Book 1  
 - Correia, Larry: Monster Hunter Legion; A Murder of Manatees  
 - Corson, Trevor: The Story of Sushi  
 - Cox, Greg: Captain to Captain  
 - Crouch, Blake: Pines  
 - Dalzelle, Joshua: Marine  
 - Derby, Matthew: Phreaks  
+- Dickens, Charles: Oliver Twist  
+- Dinniman, Matt: Dungeon Crawler Carl  
 - Dommek Jr., James: Midnight Son  
 - Donahue, Greg: The Minuteman  
 - Doucette, Gene: Immortal; The Spaceship Next Door  
 - Dues, Michael: The Art of Conflict Management  
 - Elwes, Cary: As you Wish  
 - Emmich, Val: Dear Evan Hansen  
+- Estrella, LG: Cosmic Delivery Boy Book 1  
+- Ewalt, David: Of Dice and Men  
 - Feist, Raymond: King of Ashes; Magician: Apprentice; Shadow of a Dark Queen  
 - Fennel, Marc: Nut Jobs  
 - Feynman, Richard: The Pleasure of Finding Things out  
 - Foster, Amy: The Rift Uprising  
 - Frank, Pat: Alas, Babylon  
 - Freeman, Sally Mott  
-- Gaiman, Neil: Trigger Warning; Neverwhere; the Sandman  
+- Gaiman, Neil: Trigger Warning; Neverwhere; the Sandman Act1&2&3     
 - Garcia, Hector: Ikigai  
 - Garcia, Kami: The X-Files Origins: Agent of Chaos  
 - Gibson, William: Alien III  
@@ -901,6 +911,7 @@
 - Hempton, Gordon: Hoh Rainforest  
 - Hirsch, Jeff: Sovereign  
 - Hoff, Benjamin: The Tao of Pooh  
+- Hubbard, L.Ron: Writers of the Future, v.34  
 - Huxley, Aldous: Island  
 - Islington, James: The Shadow of What was Lost  
 - Janca, Tanya: Alice and Bob Learn Application Security  
@@ -918,11 +929,13 @@
 - Martin, George RR, et al.: Wild Cards I  
 - Mather, Matthew: CyberSpace  
 - Maxwell, John: Good Leaders Ask Great Questions  
+- McCormack, Una: Autobiography of Kathryn Janeway  
 - McDermid, Val: Forensics  
 - McGirk, James: The Perfect Swing  
 - McLain, Paula: A mind of her Own  
 - McKinty, Adrian: The Lighthouse War, The Lighthouse Land  
 - McRaven, William: Sea Stories  
+- Mendoza, Nathan: Greek Mythology  
 - Metaxas, Eric: Seven Men  
 - Meyer, LA: Under the Jolly Roger; Bloody Jack; Curse of the Blue Tattoo  
 - Michener, James: Hawaii  
@@ -941,7 +954,7 @@
 - Rather, Dan: Stories of a Lifetime  
 - Rich, Ben: Skunk Works  
 - Rich, Simon: Screwball  
-- Riddle, AG: Departure  
+- Riddle, AG: Atlantis Plague Book 2; Departure  
 - Robinson, Jeremy: 1) Infinite, ...6)Exo-Hunter.....11)The Order    
 - Ross, Marty: The Darkwater Bride  
 - Rowe, Andrew: Sufficiently Advanced Magic; How to Defeat a Demon King in Ten Easy Steps  
@@ -950,7 +963,7 @@
 - Sakey, Marcus: Brilliance  
 - Salamo, Lin: Mark Twain's Helpful Hints for Good Living  
 - Salvatore, RA: Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories  
-- Sanderson, Brandon: Legion: The Many Lives of Stephen Leeds (2 others? Mitosis read it think); Warbreaker (read?); Elantris (Read); Arcanum Unbounded  
+- Sanderson, Brandon: Shadows for Silence in the Forests of Hell & Perfect State; The Way of Kings; Legion: The Many Lives of Stephen Leeds (2 others? Mitosis read it think); Warbreaker (read?); ~~Elantris~~; Arcanum Unbounded  
 - Scalzi, John: Dispatcher; The Collapsing Empire  
 - Schwab, VE: A Darker Shade of Magic  
 - Schulman, Daniel: Sons of Wichita  
@@ -972,10 +985,12 @@
 - Taylor, James: Break Shot: My First 21 Years  
 - Tchaikovsky, Adrian: Children of Time  
 - Terrill, Cristin: All Our Yesterdays  
+- Thorensen, Olan: Harbinger Janus book 1  
 - Tolkien, JRR: The Fellowship of the Ring; The Two Towers; Return of the King  
 - Various: Menu Excerpts from Our Favorite Neward Restaurants  
 - Voth, Grant: Great Mythologies of the World  
 - Wade, Adam: You Ought to Know Adam Wade  
+- Weber, David: Oath of Swords book 1  
 - Weir, Andy: Project Hail Mary   
 - Wezowski, Kasia: Without saying a word  
 - Wheeler, Jeff: The Queen's Poisoner  
