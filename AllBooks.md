@@ -193,7 +193,7 @@
 - Erikson, Thomas: Surrounded by Idiots; surrounded by psychopaths;  
 - Erwig, Martin: Once Upon an Algorithm  
 - Espinosa, Christian: The Smartest Person in the Room  
-- Epstein, Lewis Carroll: Thinking Physics  
+- !!!~~Epstein, Lewis Carroll: Thinking Physics.  No audiobook~~    
 - Ettenberg, Jodi: The Food Traveler's Handbook  
 - Evans, Ceri: Perform under Pressure  
 - Evan, Erin: The Bone Wars  
