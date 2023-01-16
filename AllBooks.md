@@ -643,7 +643,6 @@
 - Salinger, JD: The Catcher in the Rye  
 - Sanger, David: The Perfect Weapon  
 - Sarnicola, Thomas: No Kings, No Kooks  
-- Sato, Yuya: Dendera  
 - Saulter, Stephanie: EVOLUTION 1)Gemsigns  
 - Scalzi, John: Kaiju preservation society; Lock In; Head On; The Dispatcher; Murder by Other Means; Travel by Bullet  
 - Scharre, Paul: Army of None  
