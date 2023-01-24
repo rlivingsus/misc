@@ -961,7 +961,7 @@
 - Sainsbury, Ian: The World Walker  
 - Sakey, Marcus: Brilliance  
 - Salamo, Lin: Mark Twain's Helpful Hints for Good Living  
-- Salvatore, RA: Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories  
+- ~~Salvatore, RA: Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories ~~ 
 - Sanderson, Brandon: Shadows for Silence in the Forests of Hell & Perfect State; The Way of Kings; Legion: The Many Lives of Stephen Leeds (2 others? Mitosis read it think); Warbreaker (read?); ~~Elantris~~; Arcanum Unbounded  
 - Scalzi, John: Dispatcher; The Collapsing Empire  
 - Schwab, VE: A Darker Shade of Magic  
@@ -1235,6 +1235,7 @@ The End and Other Beginnings: Stories from the Future
 #### Salvatore: Spearwielders 1)The Woods out Back  
 #### Salvatore: THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge (soon?2022)  
 #### Salvatore: SOLO?: The Color of Dragons, The Legend of Drizzt: The Collected Stories (AUDIBLE)   
+#### Salvatore: SAGA OF THE FIRST KING: 1) The Highwayman (AUDIBLE), 2) The Ancient   
 
 #### Sanderson, Brandon: MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History (on Arcanum Unbounded), ~~4) The Alloy of Law~~, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,  
 #### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella, 4)Rhythm of War, 5)Highprince of War  
