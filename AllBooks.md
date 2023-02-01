@@ -2,6 +2,7 @@
 - Abdullah, Chelsea: The Stardust Thief 
 - Acemoglu, Daron: Why Nations Fail  
 - Achor, Shawn: The Happiness Advantage  
+- Ackerman, Sara: The Codebreaker's Secret (another audible)  
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
 - Adams, Marilee: Change your Questions  
 - Adams, Richard: Watership Down  
@@ -219,7 +220,9 @@
 - Fletcher, C.A.: A Boy and his Dog at the End of the World  
 - Fletcher, Jeff: Sho-Time: The Inside Story of Shohei Ohtani and the Greatest Baseball Season Ever Played  
 - Flynn, Gillian: Gone Girl   
+- Fofana, Sidik: Stories from the Tenants Downstairs  
 - Follett, Ken: PILLARS OF THE EARTH  
+- Foley, Lucy: The Paris Apartment  
 - Fogg, BJ: Tiny Habits  
 - Forleo, Marie: Everything is Figureoutable  
 - Ford, Jeffrey: The Shadow Year  
@@ -287,10 +290,11 @@
 - Griffith, Joseph: Dark Psychology  
 - Griffith, Nicola: Spear  
 - Grossman, Lev: The Map of Tiny Perfect Things  
+- Grove, Andrew: Only the Paranoid Survive   
 - Gyasi, Yaa: Homegoing  
 - Haberman, Maggie: Confidence Man  
 - Haidt, Johnathan: The Happiness Hypothesis  
-- Haig, Matt: The Midnight Library; Notes on a Nervous Planet; The Humans  
+- Haig, Matt: The Midnight Library; Notes on a Nervous Planet; The Humans; How to Stop Time;   
 - Hall, Edward: The Hidden Dimension  
 - Hall, Kerstin: Star Eater  
 - Hall, Kindra: Stories that Stick  
@@ -307,7 +311,7 @@
 - Harwood, JJA: The Shadow in the Glass  
 - Hawke, Mykel: Hawke's Special Forces Survival Handbook  
 - Hawker, Natasha: From Hire to FIre & Everything in Between  
-- Hawking, Stephen: A Brief History of Time  
+- Hawking, Stephen: A Brief History of Time; The Origin of Almost Everything  
 - Hayes, Drew: SuperPowered  
 - Haynes, Peter: Toward a New Maritime Strategy  
 - Hays, Katy: The Cloisters  
@@ -386,10 +390,12 @@
 - Kidd, Jess: The Night Ship; Things in a Jar  
 - Kim, Bo-Young: I'm Waiting for You and Other Stories  
 - Kim, Gene: The Phoenix Project: novelization about IT, DevOps  
-- Kincaid, S.J.: The Diabolic
+- Kincaid, S.J.: The Diabolic  
+- King, Laurie: Back to the Garden  
 - King, Stephen: ~~Fairy Tale~~,The Eyes of the Dragon; UR; 11/22/63  
 - King, Wesley: The Vindico  
 - Kingfisher, T.: Nettle & Bone  
+- Kishimi, Ichiro: The Courage to be Disliked  
 - Kissinger, Henry: Diplomacy, World Order  
 - Kloos, Marko  
 - Klune, TJ: The House in the Cerulean Sea; Under the Whispering Door  
@@ -417,7 +423,7 @@
 - Laurain, Antoine: Vintage 1954  
 - Lawrence, Mark: The Book of the Ancestor  
 - Le Couteur, Penny: Napoleon's Buttons  
-- Leckie, Ann: Ancillary Justice  
+- Leckie, Ann: Ancillary Justice; Translation State  
 - Ledbetter, William: Level Five and Level Six  
 - Lee, Bruce: Striking Thoughts  
 - Lee, Chang-rae: My Year Abroad  
@@ -429,7 +435,7 @@
 - Levy, Lawrence: To Pixar and Beyond (kindle)  
 - Levy, Steven: Hackers: Heroes of the Computer Revolution; Facebook: The Inside Story; Plex: How Google thinks, works, and shapes our lives  
 - Lewis, Joseph Robert: Aetherium (kindle)  
-- Lewis, Michael: The Undoing Project 
+- Lewis, Michael: The Undoing Project; The Premonition  
 - Le Guin, Ursula K.: The Dispossessed; The Left Hand of Darkness  
 - Li, Grace: Portrait of a Thief  
 - Lipman, Joanne: That's What She Said  
@@ -440,6 +446,7 @@
 - Livingston, Jessica: Founders at Work 
 - Lloyd-Jones, Emily: Illusive  
 - Lockwood, Charles: Tragedy at Honda  
+- Loewen, James: Lies my Teacher Told Me  
 - Logothetis, Leon: The Kindness Diaries  
 - Lopez-Alt, J. Kenji: The Food Lab  
 - Lourey, Jess: Unspeakable Things (kindle) 
@@ -450,9 +457,11 @@
 - Luepnitz, Deborah: Schopenhauer's Porcupines  
 - Lung, Haha: Mind Manipulation   
 - Luttgens, Jason: Incident Response & Computer Forensics (kindle)  
+- Lu, Marie: Legend then Prodigy  
 - Lynch, Scott: The Lies of Locke Lamora: Gentleman Bastards  
 - Maberry, Jonathan: Joe Ledger  
 - MacDonald, Eileen: Shoot the women first  
+- Mackintosh, Clare: The Last Party  
 - Mack, Katie: The End of Everything  
 - Majumdar, Simon: Fed, White and Blue  
 - Manansala, Mia: Tita Rosie's Kitchen Mystery Series (3) 1) Arsenic and Adobo  
@@ -479,6 +488,7 @@
 - McChrystal, Standley: Team of Teams  
 - McDonald, Brian: Invisible Ink, The Golden Theme (kindle)    
 - McDonald, Ed: Blackwing  
+- McDougall, Christopher: Born to Run  
 - McFate, Sean: The New Rules of War  
 - McGonigal, Jane: Reality is Broken  
 - McGrath, Ben: Riverman: An American Odyssey  
@@ -534,6 +544,7 @@
 - Netz, Reviel: The Archimedes Codex  
 - Neuvel, Sylvain: The Test; TAKE THEM TO THE STARS: 1)A History of What Comes Next  
 - Newitz, Annalee: The Future of Another Timeline 
+- Newman, TJ: Falling  
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
 - Nez, Chester: Code Talker  
@@ -570,6 +581,7 @@
 - Pentecost, Kate: That Dark Infinity  
 - Perlroth, Nicole: This is How They Tell Me the World Ends: The Cyberweapons Arms Race  
 - Perry, Matthew: Friends, Lovers, and the Big Terrible Thing  
+- Peterson, Jordan: 12 Rules for Life  
 - Pham, Andrew: Catfish and Mandala  
 - Phillips, Helen: The Need  
 - Phillips, Lucas: The Greatest Raid of All  
@@ -605,7 +617,7 @@
 - Rhodes, Richard: Dark Sun  
 - Richards, Carl: The One-Page Financial Plan  
 - Richards, Douglas: ALIEN ARTIFACT: 1) The Enigma Cube, 2) A Pivot in Time  
-- Riddle, AG: Winter World  
+- Riddle, AG: (see audible & series below)   
 - Ridley, Matt: The Rational Optimist  
 - Ries, Eric: The Lean Startup  
 - Rigsby, Rick: Lessons from a Third Grade Dropout  
@@ -628,6 +640,7 @@
 - Rovelli, Carlo: Seven Brief Lesson in Physics  
 - Rowe, Andrew: Sufficiently Advanced Magic  
 - Rubenstein, David: The American Experiment  
+- Rubin, Rick: The Creative Act; A Way of Being  
 - Rueckert, Veronica: Outspoken  
 - Rumiz, Paolo: The Fault Line  
 - Russ, Joanna: The Female Man  
@@ -683,10 +696,12 @@
 - Smedman, Lisa: ebook House of Serpents 1) Venom's Taste  
 - Smith, Ali: HOW TO BE BOTH  
 - Smith, Betty: A Tree Grows in Brooklyn  
+- Smith, Clint: How the Word is Passed  
 - Smith, Julie: Why has nobody told me this before?  
 - Smith, Mandy: Cabin Fever  
 - Smith, Nicholas: Hell Divers  
 - Smith, Patti: Just Kids  
+- Smith, Stephen: Straight Shooter  
 - Solomon, Rivers: The Deep  
 - Spakowski, Andrzej: Blood of Elves  
 - Stackpole, Michael: A Secret Atlas  
@@ -696,7 +711,7 @@
 - Star Wars OLD REPUBLIC:Fatal Alliance, DECEIVED, Revan, Annihilation;  
 - Stark, Kio: Dont Go Back to School  
 - Staveley, Brian: Skullsworn  
-- Stavridis, James: The Leaders Bookshelf; SeaPower  
+- Stavridis, James: The Leaders Bookshelf; SeaPower; 2034: A Novel of the Next World War;    
 - Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World, New Found Land: The Long Haul, The Diamond Age  
 - Stephenson, Simon: Sometimes people die reading Greg Burns; Set My Heart to Five  
 - Stewart, Andrea: The Bone Shard Emperor  
@@ -758,6 +773,7 @@
 - Viega, John: The Myths of Security  
 - Villoso, K.S.: CHRONICLES OF THE BITCH QUEEN: 1)The Wolf of Oren-Yaro  
 - Vinge, Vernor: A Fire Upon the Deep; A Deepness in the Sky  
+- Virts, Terry: How to Astronaut  
 - Vo, Nghi: Siren Queen  
 - Volk, Steve: Fringe-ology  
 - Voigt, Emily: The Dragon behind the Glass  
@@ -784,6 +800,7 @@
 - Weinberg, Robert: Blood War  
 - Weir, Andy: Project Hail Mary  
 - Westerfeld, Scott: Leviathan  
+- Westover, Tara: Educated a memoir  
 - White, Alex: A Big Ship at the Edge of the Universe  
 - White, Richard: Who Killed Jane Stanford?  
 - Whiten, Hannah: For the Wolf  
@@ -802,6 +819,7 @@
 - Wolke, Robert: What Einstein told his Barber  
 - Wong, Khan: The Circus Infinite  
 - Worms (superhero book)  
+- Worsley, Lucy: Agatha Christie and elusive woman  
 - Wright, Jaime Jo: The Souls of Lost Lake  
 - Wright, Richard: Burglars on the Job  
 - Walton, Jo: Among Others  
@@ -815,6 +833,7 @@
 - Yager, Jan: How to Finish everything you start  
 - Yang, Jeff: Rise  
 - Yates, Brook: Cannonball  
+- Yeager, Corey: How Am I Doing?  
 - Yi-Sheng, Ng: Lion City  
 - Yoshihara, Toshi & James R. Holmes: Red Star over the Pacific  
 - Young, Adrienne: Spells for Forgetting  
@@ -953,7 +972,7 @@
 - Rather, Dan: Stories of a Lifetime  
 - Rich, Ben: Skunk Works  
 - Rich, Simon: Screwball  
-- Riddle, AG: Atlantis Plague Book 2; Departure  
+- Riddle, AG: Atlantis Plague Book 2; Departure (see below)  
 - Robinson, Jeremy: 1) Infinite, ...6)Exo-Hunter.....11)The Order    
 - Ross, Marty: The Darkwater Bride  
 - Rowe, Andrew: Sufficiently Advanced Magic; How to Defeat a Demon King in Ten Easy Steps  
@@ -1007,6 +1026,8 @@
 #### Anderson, Gillian: EARTHEND SAGA: 1) A Vision of Fire, 2) A Dream of Ice  
 
 #### !!!Anthony, Piers: Incarnations of Immortality:  ~~1)On a Pale Horse (Feb 2022), 2)Bearing an Hourglass, 3)With a Tangled Skein (APR 22), 4)Wielding a Red Sword (May 22)An Indian Prince who becomes Mars the incarnation of War, 5)Being a Green Mother (Jun 22), 6)For Love of Evil, 7)And Eternity, 8)Under a Velvet Cloak (difficult to find this book)~~     
+
+#### Archer, CJ: GLASS LIBRARY SERIES: 1) The Librarian of Crooked Lane  
 
 #### Asimov, Isaac: The End of Eternity; Prelude to Foundation; The God Themselves  
 #### Asimov: ROBOTS: 1) Robot Dreams, Robot Vision, The Rest of the Robots, Gold: The FInal SCIFI Collection, Nemesis; 2) I, Robot; 3) Mother Earth; 4) The Positronic Man; 5) The Complete Robot; 6) Caves of Steel; 7) The Naked Sun; 8) The Robots of Dawn; 9) Robots and Empire.  
@@ -1131,6 +1152,8 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### Hobb, Robin: THE FARSEER TRILOGY: ~~1) Assassin's Apprentice,~~ 2) Royal Assassin, 3) Assassin's Quest  
 #### Hobb: THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven,~~ 3) City of Dragons, 4) Blood of Dragons  
 
+#### Hogan, James: GIANT SERIES: 1) Inherit the Stars  
+
 #### Howey, Hugh: SILO SERIES: 1) Wool, 2) Shift, 3) Dust  
 
 #### Huchu, TL: EDINBURGH NIGHTS: 1) Library of the Dead, 2) Our Lady of Mysterious Ailments    
@@ -1204,9 +1227,9 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### Reynolds, Alastair: POSEIDON'S CHILDREN: 1) Blue Remembered Earth, 2) On the Steel Breeze, 3) Poseidon's Wake  
 
-#### Riddle, AG: ORIGIN MYSTERY: ~~1) Atlantis Gene,~~ 2) Atlantis Plague, 3) Atlantis World  
+#### Riddle, AG: ORIGIN MYSTERY: ~~1) Atlantis Gene,~~ 2) Atlantis Plague (audible), 3) Atlantis World  
 #### Riddle: THE LONG WINTER: 1) Winter World, 2) The Solar War, 3) The Lost Colony  
-#### Riddle: Lost in Time  
+#### Riddle: Lost in Time, Departure (audible)  
 
 #### !!!Roth, Veronica: DIVERGENT: ~~1) Divergent, 2) Insurgent, 3) Allegiant~~ Four: Divergent Story Collection  
 The End and Other Beginnings: Stories from the Future  
@@ -1246,7 +1269,8 @@ The End and Other Beginnings: Stories from the Future
 #### INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 #### Sanderson: WARBREAKER: 1) Warbreaker, 2) Nightblood  
 #### Sanderson: SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell, 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.    
-#### The Original  
+#### Sanderson: The Original  
+#### Sanderson: 1) The Dark One (comic?), 2) Forgotten  
 
 #### Scalzi, John: OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades, The Sagan Diary, The Last Colony, Zoe's Tale, After the Coup, The Human Division, The B-Team, Walk the Plank, We only need the Heads, A Voice in the Wilderness, Tales from the Clarke, The Back Channel, The Dog King, The Sound of Rebellion, The Observers, This must be the Place, A Problem of Proportion, The Gentle Art of Cracking Heads, Earth Below Sky Above, The Human Division Extras, The End of All Things, The Life of the Mind, This Hollow Union, Can Long Endure, To Stand or Fall  
 
