@@ -6,6 +6,7 @@
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
 - Adams, Marilee: Change your Questions  
 - Adams, Richard: Watership Down  
+- Alam, Rumaan: Leave the World Behind  
 - Alanson, Craig:  
 - Alderman, Naomi: The Power 
 - Alexander, Michelle: The New Jim Crow  
@@ -33,6 +34,7 @@
 - Azuma-Nelson, Caleb: Open Water  
 - Bach, Richard: Jonathan Livingston Seagull  
 - Bacigalupi, Paolo: The Windup Girl  
+- Backman, Fredrik: Bear Town; Anxious People  
 - Baggett, Jennifer: The Lost Girls  
 - Bailey, Chris: HyperFocus  
 - Bailey, Joseph: Memoirs of a Muppets Writer    
@@ -42,6 +44,7 @@
 - Ballou, Linda: Lost Angel Walkabout  
 - Banerjee, Dillon: The Insider's guide to the peace corps  
 - Banks, Iain: Culture series: A Player of Games, Excession, ...  
+- Banks, Russell: The Magic Kingdom  
 - Barker, Eric: Barking up the wrong tree  
 - Barnes, Jennifer: The Inheritance Games: 1) The Inheritance Games, 2) The Hawthorne Legacy, 3) The Final Gambit  
 - Barton, Craig: How I wished I'd Maths  
@@ -64,7 +67,8 @@
 - Boatright, Billy: Swing Away: Conquering Imposter Syndrome  
 - Botelho, Elena: The CEO Next Door  
 - Bono: Surrender  
-- Booth, Kyle Murchison: The Bone Key
+- Booth, Kyle Murchison: The Bone Key  
+- Bourdain, Anthony: World Travel  
 - Bouton, Jim: Ball Four  
 - Bradbury, Ray:  Fahrenheit 451  
 - Brahm, Ajahn: The Art of Disappearing  
@@ -80,7 +84,7 @@
 - Browne, M. Neil: Asking the Right Questions  
 - Bryson, Bill: Notes from a Small Island, The Road to Little Dribbling, A Short History of Nearly Everything  
 - Buck, Leslie: Cutting Back  
-- Buck, Rinker: Life on the Mississippi: An Epic American Adventure  
+- Buck, Rinker: Life on the Mississippi: An Epic American Adventure    
 - Burkeman, Oliver: Four Thousand Weeks  
 - Burnison, Gary: Lead  
 - Burt, Alexandra: Remember Mia  
@@ -117,10 +121,11 @@
 - Cisneros, Sandra: The House on Mango Street  
 - Clair, Kassia St.: The Secret Lives of Color  
 - Clark, Christopher: The Sleepwalkers (kindle)  
+- Clark, Liz: Swell  
 - Clark, P. Djeli: DEAD DJINN UNIVERSE: 1)A Master of Djinn  
 - Clark, Richard & Robert K. Knake: The Fifth Domain  
 - Clarke, Susanna: Jonathan Strange and Mr. Norrell; Piranesi    
-- Clearfield, Chris: Meltdown  
+- Clearfield, Chris: Meltdown   
 - Cline, Peter: Threshold; The Broken Room  
 - Cogman, Genevieve: The Untold Story  
 - Cohen, Steve: Win the Crowd  
@@ -138,7 +143,7 @@
 - Crichton, Michael: Sphere; Rising Sun; Andromeda Strain; The Great Train Robbery;   
 - Cristie, Agatha:  TOMMY & TUPPENCE: 2) Partners in Crime, 3) N or M?, 4) By the Pricking of My Thumbs, 5) Postern of Fate HERCULE POIROT: various  
 - Cronin, Justin: The Passage  
-- Crouch, Blake: Recursion; Dark Matter  
+- Crouch, Blake: Recursion; Dark Matter; Upgrade   
 - Cunningham, Elain: ebook 1) Elfshadow    
 - Curtis, Houston: Billion Dollar Hollywood Heist  
 - Cushman, Marc: Star Trek  
@@ -147,6 +152,7 @@
 - Daviau, Mo: EVERY ANXIOUS WAVE  
 - Davidson, James Dale: The Sovereign Individual  
 - Davis, Sampson: The Pact  
+- Davis, Wade: Into the Silence  
 - Dawkins, Richard: The Magic of Reality  
 - Del Monte, Louis A.: Genius Weapons  
 - Delaney, Rob: A Heart that Works  
@@ -176,7 +182,7 @@
 - Duckworth, Angela: Grit  
 - Duncan, Dave: ebook 1) The Reluctant Swordsman  
 - Dunham, Lena: Not that Kind of Girl  
-- Durant, Will/Ariel: The Lessons of History  
+- Durant, Will/Ariel: The Lessons of History; The Story of Civilization  
 - Dweck, Carol: Mindset  
 - Dyachenko, Marina: Vita Nostra  
 - Ebrahim, Zak: The Terrorist's Son  
@@ -210,7 +216,7 @@
 - Fenning, Chris: The First Minute  
 - Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
 - Fexeus, Henrik: The Art of Reading Minds  
-- Feynman, Richard: The Pleasure of Finding things out  
+- Feynman, Richard: The Pleasure of Finding things out; Surely You're Joking Mr. Feynman  
 - Fick, Nathaniel: One Bullet Away: The Making of a Marine Officer  
 - Fils-Aime, Reggie: Disrupting the Game: From the Bronx to the Top of Nintendo  
 - Finnegan, William: Barbarian Days: a Surfing Life  
@@ -259,6 +265,7 @@
 - Girard, Danielle: White Out (kindle)  
 - Gladstone, Max: Last Exit; This is How you Lose the Time War  
 - Gladwell, Malcolm: Blink; Outliers  
+- Gleick, James: Genius: The Life and Science of Richard Feynman  
 - Godin, Seth: The Dip: A little book that teaches you when to quit (& when to stick)  
 - Goggins, David: Cant hurt me  
 - Goldratt, Eliyahu: The Choice  
@@ -281,6 +288,7 @@
 - Grant, Ulysses: The Personal Memoirs of Ulysses S. Grant  
 - Graudin, Ryan: Wolf by wolf  
 - Gray, Colin: Fighting Talk: Forty Maxims on War, Peace, and Strategy;  The Future of Strategy;  
+- Green, Alexander: Beyond Wealth  
 - Green, John: The Anthropocene Reviewed; Turtles All the Way Down  
 - Green, Simon: The Nightside  
 - Greenberg, Andy: Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hacker; Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency  
@@ -290,7 +298,8 @@
 - Griffith, Joseph: Dark Psychology  
 - Griffith, Nicola: Spear  
 - Grossman, Lev: The Map of Tiny Perfect Things  
-- Grove, Andrew: Only the Paranoid Survive   
+- Grove, Andrew: Only the Paranoid Survive  
+- Guidara, Will: Unreasonable Hospitality  
 - Gyasi, Yaa: Homegoing  
 - Haberman, Maggie: Confidence Man  
 - Haidt, Johnathan: The Happiness Hypothesis  
@@ -307,6 +316,7 @@
 - Harkin, Jo: Tell Me an Ending  
 - Harris, Josh: Captain Phil Harris  
 - Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon  
+- Hart, Rob: The Paradox Hotel  
 - Hartley, Gemma: Fed Up  
 - Harwood, JJA: The Shadow in the Glass  
 - Hawke, Mykel: Hawke's Special Forces Survival Handbook  
@@ -317,10 +327,13 @@
 - Hays, Katy: The Cloisters  
 - Hazlitt, Henry: Economics in One Lesson  
 - Healey, Jane: The Secret Stealers (kindle)  
+- Heat-Moon, William Least: Blue Highways  
 - Heath, Chip: Made to Stick   
 - Hedfield, Chris: The Apollo Murders  
-- Heinlein, Robert: The Moon is a Harsh Mistress; Stranger in a Strange Land;  The Rolling Stones  
+- Heinlein, Robert: The Moon is a Harsh Mistress; ~~Stranger in a Strange Land~~;  The Rolling Stones; Red Planet    
+- Heisey, Monica: really good, actually  
 - Helgerson, John: Getting to Know the President  
+- Heller, Michael: Mine!  
 - Helm, Leslie: Yokohama Yankee  
 - Henderson, Randy: Finn Fancy Necromancy  
 - Hernandez, Jose: Reaching for the Stars (kindle)  
@@ -332,6 +345,7 @@
 - Hogarth, M.C.A: HER INSTRUMENTS: 1)Earthrise  
 - Holes, Paul: Unmasked: My Life Solving America's Cold Cases  
 - Holiday, Ryan: Ego is the Enemy; Conspiracy; Stillness is the Key; Obstacle is the way; Discipline is Destiny  
+- Holland, Jacqueline: The God of Endings  
 - Hollins, Peter?: Finish what you start; The Power of Self-Discipline  
 - Holmberg, Charlie: Star Father  
 - Holmes, James: A Brief guide to Maritime Strategy  
@@ -373,10 +387,12 @@
 - Kai, Christopher: Big Game Hunting  
 - Kaku, Michio: Physics of the Future; Hyperspace; The God Equation: The Quest for a Theory of Everything  
 - Kaplan, Robert: The Revenge of Geography  
+- Karunatilaka, Shehan: The Seven Moons of Maali Almeida  
 - Kasparov, Garry: Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins  
 - Katayama, Lisa: Urawaza  
 - Katwala, Amit: Tremors in the Blood  
 - Kaufman, Josh: The personal MBA  
+- Kawaguchi, Toshikazu: Before the Coffee Gets Cold  
 - Kawakami, Hiromi: Manazuru  
 - Kean, Sam: The Bastard Brigade  
 - Kearney, Paul: The Ten Thousand  
@@ -392,7 +408,6 @@
 - Kim, Gene: The Phoenix Project: novelization about IT, DevOps  
 - Kincaid, S.J.: The Diabolic  
 - King, Laurie: Back to the Garden  
-- King, Stephen: ~~Fairy Tale~~,The Eyes of the Dragon; UR; 11/22/63  
 - King, Wesley: The Vindico  
 - Kingfisher, T.: Nettle & Bone  
 - Kishimi, Ichiro: The Courage to be Disliked  
@@ -404,11 +419,13 @@
 - Kolker, Claudia: The Immigrant Advantage  
 - Koontz, Dean: Strangers; Quicksilver; Mr. Murder  
 - Kowal, Mary: The Calculating Stars  
+- Krakauer, John: Into the Wild   
 - Krishnamurti, Jiddu: The Book of Life  
 - Kritzer, Naomi: Catfishing on CatNet  
 - Kuang, RF: Babel  
 - Kundera, Milan: the Unbearable Lightness of Being  
 - Kunsken, Derek: THE QUANTUM EVOLUTION: 1) The Quantum Magician, 2) Quantum Garden, 3) Quantum War  
+- Kurson, Robert: Shadow Divers  
 - Kurzweil, Ray: The Singularity is Near: When Humans Transcend Biology  
 - Laberge, Stephen: Exploring the World of Lucid Dreaming  
 - Lallo, Joseph: The Book of Deacon (kindle)  
@@ -418,8 +435,9 @@
 - Lang, Ruth: The Wilderwoman  
 - Langer, Ellen: Mindfullness  
 - Lanier, Randy: Survival of the Fastest  
+- Lansing, Alfred: Endurance  
 - Laplander, Robert: Finding the Lost Battalion  
-- Larson, Erik: The Devil in the White City  
+- Larson, Erik: The Devil in the White City; Dead Wake  
 - Laurain, Antoine: Vintage 1954  
 - Lawrence, Mark: The Book of the Ancestor  
 - Le Couteur, Penny: Napoleon's Buttons  
@@ -427,6 +445,7 @@
 - Ledbetter, William: Level Five and Level Six  
 - Lee, Bruce: Striking Thoughts  
 - Lee, Chang-rae: My Year Abroad  
+- Lee, Min Jin: Pachinko  
 - Lefevre, Edwin: Reminiscenses of a Stock Operator  
 - Lem, Stanislaw: Solaris  
 - Lemelle, Salim: Refresh  
@@ -438,6 +457,7 @@
 - Lewis, Michael: The Undoing Project; The Premonition  
 - Le Guin, Ursula K.: The Dispossessed; The Left Hand of Darkness  
 - Li, Grace: Portrait of a Thief  
+- Lindbergh, Anne Morrow: Gift from the Sea  
 - Lipman, Joanne: That's What She Said  
 - Lippman, Laura: Tess Monaghan Series (15?) 1) Baltimore Blues  
 - Liu, Cixin: The Three-Body Problem; To Hold up the Sky; Supernova ERA  
@@ -463,6 +483,7 @@
 - MacDonald, Eileen: Shoot the women first  
 - Mackintosh, Clare: The Last Party  
 - Mack, Katie: The End of Everything  
+- Magary, Drew: The Hike (ebook only?)  
 - Majumdar, Simon: Fed, White and Blue  
 - Manansala, Mia: Tita Rosie's Kitchen Mystery Series (3) 1) Arsenic and Adobo  
 - Mandela, Nelson: Long Walk to Freedom  
@@ -472,8 +493,10 @@
 - Marillier, Juliet: Heir to Seven Waters  
 - Marin, David: This is US  
 - Marlantes, Karl: Matterhorn; What it is like to go to war  
-- Marquez, Gabriel Garcia: One Hundred Years of Solitude  
+- Marquez, Gabriel Garcia: One Hundred Years of Solitude; The Story of a Shipwrecked Sailor  
 - Marr, Elle: The Missing Sister (kindle)  
+- Marrs, John: The One  
+- Marshall, Kate Alice: What Lies in the Woods  
 - Martel, Jay: The Present  
 - Martel, Yann: The High Mountains of Portugal  
 - Martin, George RR: Wildcards Novels  
@@ -485,7 +508,7 @@
 - McAllister, Gillian: Wrong Place Wrong Time  
 - McCandless, David: Beautiful News  
 - McCarthy, Andrew: Journeys Home  
-- McChrystal, Standley: Team of Teams  
+- McChrystal, Stanley: Team of Teams; Leaders  
 - McDonald, Brian: Invisible Ink, The Golden Theme (kindle)    
 - McDonald, Ed: Blackwing  
 - McDougall, Christopher: Born to Run  
@@ -501,31 +524,34 @@
 - McRaven, William: Make Your Bed  
 - McTier, Moiya: The Milky Way  
 - Meacham, Jon: And There Was Light: Abraham Lincolns  
-- Meister, Ellen: Dorothy Parker Drank Here
+- Meister, Ellen: Dorothy Parker Drank Here  
+- Merritt, Jerry: A Gift of Time  
 - Mersinger, Holly: The Curse of Jacob Tracy  
 - Meyer, Michael: In Manchuria  
 - Mieville, China: The City & The City  
 - Mihalik, Jessie: Polaris Rising  
 - Miles, Kathryn: Trailed  
+- Millard, Candice: River of the Gods  
 - Miller, Chanel: Know my Name  
 - Miller, Christian: The Character Gap  
 - Miller, Lulu: Why Fish Don't Exist: A story of Loss, Love, and Hidden Order of Life  
 - Mindell, David: Our Robots, Ourselves  
 - Miodownik, Mark: Stuff Matters (kindle)  
 - Mitchell, Maggie: Pretty is:  
-- Mnookin, Robert: Create Value in Deals and Disputes  
+- Mnookin, Robert: Create Value in Deals and Disputes; Beyond WInning   
 - Moon, Elizabeth:  
 - Moorcock, Michael: A Nomad of the Time streams; Elric de Melnibone   
 - Moore, Demi: Inside Out  
 - Moore, Peter: V is for Villain  
 - Morillo, Christina: 97 Things Every Information Security Pro Should Know   
+- Morris, Jan: Manhattan '45  
 - Morrison, Toni: The Bluest Eye  
 - Morton, Andrew: The Queen: Her Life  
 - Muir, Tamsyn: THE LOCKED TOMB: 1)Gideon the Ninth; Nona the Ninth  
 - Munger, Charlie: Poor Charlie's Almanack  
 - Munninghoff, Alexander: The Son and Heir (kindle)  
 - Munroe, Randall: The Thing Explainer  
-- Murakami, Haruki: The Wind-up Bird Chronicle  
+- Murakami, Haruki: The Wind-up Bird Chronicle; Kafka on the Shore   
 - Murakami, Ryu: Popular Hits of the Showa Era  
 - Murata, Sayaka: Convenience Store Woman  
 - Muratyan, Vahram: Paris versus New York  
@@ -561,7 +587,9 @@
 - Oakley, Barbara: A Mind for Numbers  
 - O'Brien, Phillips Payson: The 2nd Most Powerful Man in the World  
 - O'Brien, Tim: The Things they Carried  
+- Ogas, Ogi: This is what it sounds like  
 - Okorafor, Nnedi: Lagoon, Remote Control  
+- Ollestad, Norman: Crazy for the Storm  
 - Omara, Margaret: The Code: Silicon Valley and the Remaking of America 
 - Onyebuchi, Tochi: Goliath; Riot Baby  
 - Owens, Delia: Where the Crawdads Sing  
@@ -581,6 +609,7 @@
 - Pentecost, Kate: That Dark Infinity  
 - Perlroth, Nicole: This is How They Tell Me the World Ends: The Cyberweapons Arms Race  
 - Perry, Matthew: Friends, Lovers, and the Big Terrible Thing  
+- Perry, Michael: Population: 485  
 - Peterson, Jordan: 12 Rules for Life  
 - Pham, Andrew: Catfish and Mandala  
 - Phillips, Helen: The Need  
@@ -617,7 +646,7 @@
 - Rhodes, Richard: Dark Sun  
 - Richards, Carl: The One-Page Financial Plan  
 - Richards, Douglas: ALIEN ARTIFACT: 1) The Enigma Cube, 2) A Pivot in Time  
-- Riddle, AG: (see audible & series below)   
+- Riddle, AG: Quantum Radio; (see audible & series below)   
 - Ridley, Matt: The Rational Optimist  
 - Ries, Eric: The Lean Startup  
 - Rigsby, Rick: Lessons from a Third Grade Dropout  
@@ -635,6 +664,7 @@
 - Robson, David: The Expectation Effect: How your Mindset Can Change your World  
 - Rollins, James: The Starless Crown 
 - Ronson, Jon: So You've been Publicly Shamed  
+- Rosenbloom, Stephanie: Alone Time  
 - Rosling, Hans: Factfulness  
 - Rothfuss, Patrick: The Name of the Wind (Kingkiller Chronicle), The Wise Man's Fear  
 - Rovelli, Carlo: Seven Brief Lesson in Physics  
@@ -643,6 +673,7 @@
 - Rubin, Rick: The Creative Act; A Way of Being  
 - Rueckert, Veronica: Outspoken  
 - Rumiz, Paolo: The Fault Line  
+- Ruskovich, Emily: Idaho  
 - Russ, Joanna: The Female Man  
 - Russell, Bill: Second Wind: Memoirs of an Opinionated Man  
 - Russell, Mary Doria: The Sparrow  
@@ -669,9 +700,11 @@
 - Schwartz, David: The Magic of Thinking Big  
 - Scott, James: Rampage  
 - Scott, James C.: The Art of Not Being Governed  
+- Scott, Kim: Radical Candor  
 - Seife, Charles: Zero: The Biography of a Dangerous Idea  
 - Seigel, Rob: Memoirs of a Hack Mechanic  
 - Sen, Paul: Einsteins Fridge    
+- Seo, Bo: Good Arguments  
 - Shafak, Elif: 10 Minutes 38 Seconds in this Strange World  
 - Shalleck, David: Mediterranean Summer  
 - Shapiro, Joseph: No Pity  
@@ -687,6 +720,7 @@
 - Shusterman, Neal: Scythe  
 - Silvera, Adam: They both die at the end  
 - Simon, George: In Sheep's Clothing  
+- Simpson, Joe: Touching the Void  
 - Sinek, Simon: Together is Better: A little book of Inspiration ; Find your WHy; Leaders eat Last; The Infinite Game  
 - Singer, PW & August Cole: Burn-In: A Novel of the Real Robotic Revolution & Ghost Fleet  
 - Singh, Simon: Fermats Enigma  
@@ -712,6 +746,7 @@
 - Stark, Kio: Dont Go Back to School  
 - Staveley, Brian: Skullsworn  
 - Stavridis, James: The Leaders Bookshelf; SeaPower; 2034: A Novel of the Next World War;    
+- Steinbeck, John: Travels with Charley in Search of America  
 - Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World, New Found Land: The Long Haul, The Diamond Age  
 - Stephenson, Simon: Sometimes people die reading Greg Burns; Set My Heart to Five  
 - Stewart, Andrea: The Bone Shard Emperor  
@@ -721,6 +756,7 @@
 - Stone, Douglass: Difficult Conversations  
 - Storr, Will: The Science of Storytelling  
 - Strahan, Jonathan: Years Best Sci-Fi Vol 1 2020 and 2 2021; Book 1) Engineering Infinity  
+- Strayed, Cheryl: Wild  
 - Strogatz, Steven: The Joy of X  
 - Stross, Charles: The Atrocity Archives  
 - Suarez, Daniel: Change Agent  
@@ -735,6 +771,7 @@
 - Taleb, Nassim: Skin in the Game; Antifragile  
 - Tan, Cheryl: A Tiger in the Kitchen  
 - Tan, Sue Lynn: Daughter of the Moon Goddess  
+- Tarantino, Quentin: Cinema Speculation  
 - Taulli, Tom: Artificial Intelligence Basics  
 - Taylor, Jodi: Just One Damned Thing After Another  
 - Taylor, Steven: The Psychology of Pandemics  
@@ -742,7 +779,10 @@
 - Tesh, Emily: THE GREENHOLLOW DUOLOGY: 1)Silver in the Wood,   
 - Thames, Elizabeth: Meet the Frugalwoods  
 - The Talent Code: Greatness isnt born.  Its grown   
+- Theroux, Paul: Under the Wave at Waimea; The Mosquito Coast; Hotel Honolulu  
 - Thompson, Eldon: Unbowed: A Kronus Tale (kindle)  
+- Thompson, Hunter: Fear and Loathing in Las Vegas  
+- Thompson, Juan: Stories I tell Myself  
 - Thomson, Keith: Born to be Hanged  
 - Thorne, Kip: The Science of Interstellar  
 - Thoureau, Henry David: Walden  
@@ -754,7 +794,7 @@
 - Torseter, Oyvind: The Hole  
 - Townsend, Anthony: Ghost Road: Beyond the Driverless Car  
 - Tracy, Brian: Eat that Frog  
-- Tremblay, Paul: The Last Conversation  
+- Tremblay, Paul: The Last Conversation; The Cabin at the End of the World  
 - Trichter, Judd: Love in the Age of Mechanical Reproduction  
 - Trotter, William: Frozen Hell  
 - Tuchman, Barbara: March of Folly: From Troy to Vietnam; The Guns of August  
@@ -798,6 +838,7 @@
 - Webb, James: I Heard My Country Calling  
 - Weeks, Brent: The Way of Shadows; The Black Prism  
 - Weinberg, Robert: Blood War  
+- Weiner, Eric: The Geography of Bliss  
 - Weir, Andy: Project Hail Mary  
 - Westerfeld, Scott: Leviathan  
 - Westover, Tara: Educated a memoir  
@@ -1046,6 +1087,7 @@
 #### Barker, RJ: THE TIDE CHILD: 1)The Bone Ships, 2)Call of the Bone Ships, 3)The Bone Ship's Wake  
 
 #### Bear, Greg: THE WAY: 0)Legacy, 1)Eon, 2)Eternity  
+#### Bear: WAR DOG SERIES: 1) ?, 2)Killing Titan  
 
 #### Bolme, Edward: FORGOTTEN REALMS THE ROGUE SERIES MULTIPLE AUTHORS: 1) The Alabaster Staff, 2) The Black Bouquet, 3) The Crimson Gold, 4) The Yellow Silk  
 
@@ -1065,7 +1107,7 @@ Indomitable, Dark Wraith of Shannara~~
 #### !!!THE HIGH DRUID OF SHANNARA:~~1)Jarka Ruus; 2)Tanequil; 3)Straken~~  
 #### !!!~~Brooks: PALADINS OF SHANNARA (did not find in Libby, Short Stories in ebook format and did not read): 1)Allanon's Quest; 2)The Weapon Master's Choice; 3)The Black Irix~~    
 #### !!!Brooks: DARK LEGACY OF SHANNARA SERIES: ~~1) Wards of Faerie, 2) Blood Fire Quest, 3) Witch Wraith~~
-#### Brooks: DEFENDERS OF SHANNARA: 1) The High Druid's Blade, 2) The Darkling Child; 3)The Sorcerer's Daughter  
+#### Brooks: DEFENDERS OF SHANNARA: ~~1) The High Druid's Blade~~, 2) The Darkling Child; 3)The Sorcerer's Daughter  
 #### Brooks: THE FALL OF SHANNARA: 1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stiehl Assassin; 4) The Last Druid  
 #### Brooks: MAGIC KINGDOM OF LANDOVER: 1) Magic Kingdom for Sale/Sold, 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
 
@@ -1073,6 +1115,8 @@ Indomitable, Dark Wraith of Shannara~~
 RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various gold folks who isn't happy that he is where he is at.  Various folks discover he is a Red and at the end of the book he is taken by folks he shouldn't have trusted), 3) Morning Star, 4) Iron Gold, 5) Dark Age~~, 6) Lightbringer  
 
 #### Bryson, Bill: In a Sunburned Country,  
+
+#### Burg, Bob: GO-GIVER SERIES: 1) The Go-Giver  
 
 #### Burke, Sue: SEMIOSIS DUOLOGY: 1) Semiosis, 2) Interference    
 
@@ -1085,7 +1129,7 @@ RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various go
 #### Canavan, Trudi: THE BLACK MAGICIAN: 0.5) The Magician's Apprentice, 0.7) Epic: Legends of Fantasy by John Joseph Adams & Legends of Australian Fantasy by Jack Dann, 1)The Magician's Guild(HAVE), 2)The Novice, 3)The High Lord  
 #### Canavan: THE TRAITOR SPY: 1) The Ambassador's Mission, 2) The Rogue, 3) The Traitor Queen  
 
-#### Card, Orson Scott: ENDER'S SAGA: ~~1) Ender's Game, 2) Speaker for the Dead, 3) Xenocide, 4) Children of the Mind, 4.5) A War of Gifts~~ 5) Ender in Exile 6) GOTO SHADOW SERIES
+#### Card, Orson Scott: ENDER'S SAGA: ~~1) Ender's Game, 2) Speaker for the Dead, 3) Xenocide, 4) Children of the Mind, 4.5) A War of Gifts 5) Ender in Exile~~ 6) GOTO SHADOW SERIES
 #### Card: Mithermages: 1) The Lost Gate,  
 #### Card: THE SHADOW SERIES: 1) Ender's Shadow, 2) Shadow of the Hegemon, 3) Shadow Puppets, 4) Shadow of the Giant, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow    
 #### Card: THE FIRST FORMIC WAR SERIES: 1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens  
@@ -1094,14 +1138,14 @@ RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various go
 #### Clarke, Arthur C.: RAMA: 1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
 SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) The Final Odyssey  
 
-#### Clavell, James: THE ASIAN SAGA: 1) Shogun  
+#### Clavell, James: THE ASIAN SAGA: 1) Shogun, 2) Taipan, 3)Gaijin, 4)King Rat, 5)Noble House, 6)Whirlwind  
 
 #### Corey, James: THE EXPANSE: 1) Leviathan Wakes, 2) Caliban's War, 3) Abaddon's Gate, 4) Cibola Burn, 5) Nemesis Games, 6) Babylon's Ashes, 7) Persepolis Rising  
 
 #### Cunningham, Elaine: FORGOTTEN REALMS SONGS & SWORDS: 1) Elfshadow (HAVE), 2) Elfsong (HAVE), 3) Silvershadows, 4) Thornhold, 5) The Dream Spheres, 6) Reclamation    
 #### Drake, David: LORD OF THE ISLES: 1) The Lord of the Isles (HAVE?), 2) Queen of Demons, 3) Servant of the Dragon, 4) Mistress of the Catacombs, 5) Goddess of the Ice Realm, 6) Master of the Cauldron, 7) Fortress of Glass, 8) Mirror of Worlds, 9) The Gods Return  
 
-#### Donaldson, Stephen: THE CHRONICLES OF THOMAS COVENANT THE UNBELIEVER: 1) Lord Foul's Bane, 2) The Illearth War, 3) The Power that Preserves  
+#### Donaldson, Stephen: THE CHRONICLES OF THOMAS COVENANT THE UNBELIEVER: ~~1) Lord Foul's Bane~~, 2) The Illearth War, 3) The Power that Preserves  
 #### Donaldson: THE SECOND CHRONICLES OF THOMAS COVENANT: 1) The Wounded Land, 2) The One Tree, 3) White Gold Wielder  
 #### Donaldson: THE LAST CHRONICLES OF THOMAS COVENANT: 1) The Runes of the Earth, 2) Fatal Revenant, 3) Against all Things Ending, 4) The Last Dark  
 #### Donaldson: KING'S JUSTICE: The Augur's Gambit, The King's Justice   
@@ -1109,7 +1153,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### Douglass, Sara: WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
 #### Eddings, David: THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
-#### Eddings: THE MALLOREON: ~~1) Guardians of the West~~, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
+#### Eddings: THE MALLOREON: ~~1) Guardians of the West, 2) King of Murgos~~, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
 #### Eddings: SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City   
 #### Eddings: DREAMERS: 1) The Elder Gods, 2) The Treasured One, 3) Crystal Gorge, 4) The Younger Gods  
 
@@ -1119,12 +1163,14 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Erikson, Steven: MALAZAN BOOK OF THE FALLEN: 1) Gardens of the Moon, 2) Deadhouse Gates, 3) Memories of Ice, 4) House of Chains, 5) Midnight Tides, 6) The Bonehunters, 7) Reaper's Gale, 8) Toll the Hounds, 9) Dust of Dreams, 10) The Crippled God   
 
-#### Feist, Raymond: RIFTWAR SAGA: ~~1)Magician: Apprentice~~, 2)Magician: Master, 3)Silverthorn, 3)A Darkness at Sethanon  
-#### Feist: EMPIRE TRILOGY: ~~1)Daughter of the Empire~~, 2)Servant of the Empire, 3)Mistress of the Empire  
+#### Evans, Richard: THE THIRD REICH TRILOGY:  
+
+#### Feist, Raymond: RIFTWAR SAGA: ~~1)Magician: Apprentice, 2)Magician: Master, 3)Silverthorn, 3)A Darkness at Sethanon~~
+#### Feist: EMPIRE TRILOGY: ~~1)Daughter of the Empire, 2)Servant of the Empire, 3)Mistress of the Empire~~  
 #### Feist: KRONDOR'S SONS: 1)Prince of the Blood, 2)The King's Buccaneer  
 #### Feist: SERPENT WAR SAGA: 1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King, 4)Shards of a Broken Crown  
 #### Feist: RIFTWAR LEGACY: 1)Krondor: The Betrayal, 2)Krondor: The Assassins, 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler  
-#### Feist: LEGENDS OF RIFTWAR (coincide with riftwar saga): 1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand  
+#### Feist: LEGENDS OF RIFTWAR (coincide with riftwar saga): ~~1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand~~  
 #### Feist: CONCAVE OF SHADOWS: 1)Talon of the Silver Hawk, 2)King of Foxes, 3)Exile's Return  
 #### Feist: DARKWAR SAGA: 1)Flight of the Nighthawks(have), 2)Into a Dark Realm, 3)Wrath of a Mad God  
 #### Feist: DEMONWAR SAGA: 1)Rides a Dread Legion, 2)At the Gates of Darkness  
@@ -1132,7 +1178,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Goodkind, Terry: SWORD OF TRUTH: 0) The First Confessor, 0.5) Debt of Bones, ~~1) Wizards First Rule,~~, 2) Stone of Tears, 3) Blood of the Fold, 4) Temple of Winds, 5) Soul of the Fire, 6) Faith of the Fallen, 7) The Pillars of Creation, 8) Naked Empire, 9) Chainfire, 10) Phantom, 11) Confessor, 12) The Omen Machine, 13) The Third Kingdom, 14) Severed Souls, 15) Warheart, 15.5) The Law of Nines  
 
-#### Goyer, David: HEAVEN'S SHADOW: ~~1) Heaven's Shadow,~~ 2)Heaven's War, 3) Heaven's Fall  
+#### Goyer, David: HEAVEN'S SHADOW: ~~1) Heaven's Shadow, 2)Heaven's War~~, 3) Heaven's Fall  
 
 #### Gray, Claudia: CONSTELLATION: ~~1) Defy the Stars (Apr 22: Galactic war between the Genesis which seem to be pioneers from Earth but are technologically less capable and Earth which "rules" over many planets and send "mechs" to battle Genesis and other planets.  The Protagonist is able to take control of a mech and enter areas ruled by Earth. Sort of a love story between the Genesis soldier and highly intelligent mech)~~, 2) Defy the Worlds, 3) Defy the Fates 
 
@@ -1169,6 +1215,9 @@ The Warrior of Altaii
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
+#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland~~,The Eyes of the Dragon; UR; 11/22/63  
+#### King, Stephen: BILL HODGES: ~~1) Mr. Mercedes~~; 2) Finders Keepers; 3) End of Watch  
+
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
 #### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, 1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
 #### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart  
@@ -1182,7 +1231,7 @@ The Warrior of Altaii
 #### Legends:Short Novels by the Masters of Modern Fantasy
 LEGENDS: Book 1, Book 2, Book 3  
 
-#### Le Guin, Ursula: HAINISH CYCLE: ~~1) Rocannon's World,~~ 2) Planet of Exile, 3) City of Illusions, 4) The Left Hand of Darkness, 5) Winter's King, 6) The Word for World is Forest, 7) The Dispossessed, 8) The Day before the Revolution, 9) A Fisherman of the Inland Sea, 10) Four Ways to Forgiveness, 11) The Telling, 12) The Birthday of the World and Other Stories  
+#### Le Guin, Ursula: HAINISH CYCLE: ~~1) Rocannon's World, 2) Planet of Exile~~, 3) City of Illusions, 4) The Left Hand of Darkness, 5) Winter's King, 6) The Word for World is Forest, 7) The Dispossessed, 8) The Day before the Revolution, 9) A Fisherman of the Inland Sea, 10) Four Ways to Forgiveness, 11) The Telling, 12) The Birthday of the World and Other Stories  
 
 #### !!!~~Lowry, Lois: THE GIVER SERIES: 1) The Giver, 2) Gathering Blue, 3) The Messenger, 4) Son~~    
 
@@ -1247,7 +1296,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Salvatore THE PATHS OF DARKNESS: ~~1)The Silent Blade, 2)The Spine of the World, 3)Sea of Swords~~  
 #### !!!Salvatore THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
 #### !!!Salvatore THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
-#### Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King~~, 3) The Ghost King  
+#### Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King, 3) The Ghost King~~  
 #### Salvatore: NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold  
 #### Salvatore: THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
 #### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf  
