@@ -36,7 +36,7 @@
 - Bacigalupi, Paolo: The Windup Girl  
 - Backman, Fredrik: Bear Town; Anxious People  
 - Baggett, Jennifer: The Lost Girls  
-- Bailey, Chris: HyperFocus  
+- ~~Bailey, Chris: HyperFocus~~  
 - Bailey, Joseph: Memoirs of a Muppets Writer    
 - Baldree, Travis: Legends & Lattes  
 - Ballantyne, Lisa: Everything She Forgot  
