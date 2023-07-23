@@ -1,7 +1,8 @@
 #### BOOKS TO READ
 - Abdullah, Chelsea: The Stardust Thief 
 - Acemoglu, Daron: Why Nations Fail  
-- Achor, Shawn: The Happiness Advantage  
+- Achor, Shawn: The Happiness Advantage
+- Ackerman, Jennifer: What an Owl knows  
 - Ackerman, Sara: The Codebreaker's Secret (another audible)  
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
 - Adams, Marilee: Change your Questions  
@@ -15,7 +16,8 @@
 - Al-Kadhi, Amrou: Life as a Unicorn  
 - Allred, Lance: Longshot  
 - Alpert, Steve: Sharing a House with the Never-Ending Man:  
-- Alterman, Lix: The Perfect Neighborhood  
+- Alterman, Lix: The Perfect Neighborhood
+- Amelinckx, Andrew: Satellite Boy  
 - Amish, Ram: Scion of Ikshvaku  
 - Anderson, Kevin: Enemies and Allies  
 - Andrews, Jesse: Me, Earl and the Dying Girl  
@@ -35,7 +37,8 @@
 - Azuma-Nelson, Caleb: Open Water  
 - Bach, Richard: Jonathan Livingston Seagull  
 - Bacigalupi, Paolo: The Windup Girl  
-- Backman, Fredrik: Bear Town; Anxious People  
+- Backman, Fredrik: Bear Town; Anxious People
+- Bacon, John: Let Them Lead  
 - Baggett, Jennifer: The Lost Girls  
 - ~~Bailey, Chris: HyperFocus~~  
 - Bailey, Joseph: Memoirs of a Muppets Writer    
@@ -83,7 +86,7 @@
 - Brown, Ryk: The Frontiers Saga (kindle) 
 - Brown, Theresa: Critical Care  
 - Browne, M. Neil: Asking the Right Questions  
-- Bryson, Bill: Notes from a Small Island, The Road to Little Dribbling, A Short History of Nearly Everything  
+- Bryson, Bill: Notes from a Small Island, The Road to Little Dribbling, A Short History of Nearly Everything, The Mother Tongue  
 - Buck, Leslie: Cutting Back  
 - Buck, Rinker: Life on the Mississippi: An Epic American Adventure    
 - Burkeman, Oliver: Four Thousand Weeks  
@@ -271,7 +274,7 @@
 - Giesbrecht, Jennifer: The Monster of Elendhaven  
 - Girard, Danielle: White Out (kindle)  
 - Gladstone, Max: Last Exit; This is How you Lose the Time War  
-- Gladwell, Malcolm: Blink; Outliers  
+- Gladwell, Malcolm: Blink; Outliers; The Bomber Mafia  
 - Gleick, James: Genius: The Life and Science of Richard Feynman  
 - Godin, Seth: The Dip: A little book that teaches you when to quit (& when to stick)  
 - Goggins, David: Cant hurt me, Never Finished  
@@ -283,7 +286,8 @@
 - Goodman, Marc: Future Crimes
 - Gordon, Andrew: The Rules of the Game  
 - Gorenberg, Gershom: War of Shadows  
-- Goulding, Matt: Roads & Kingdoms Presents: 1) Rice, Noodle, Fish; 2) Grape, Olive, Pig; 3) Pasta, Pane, Vino    
+- Goulding, Matt: Roads & Kingdoms Presents: 1) Rice, Noodle, Fish; 2) Grape, Olive, Pig; 3) Pasta, Pane, Vino
+- Grabenstein, Chris: Home Sweet Motel (Book 1, Welcome to Wonderland)  
 - Graedon, Joe: Top Screwups Doctors Make and How to Avoid them  
 - Graff, Lisa: A Tangle of Knots  
 - Grafton, Sue:  
@@ -343,7 +347,8 @@
 - Heisey, Monica: really good, actually  
 - Helgerson, John: Getting to Know the President  
 - Heller, Michael: Mine!  
-- Helm, Leslie: Yokohama Yankee  
+- Helm, Leslie: Yokohama Yankee
+- Henderson, Andrew: Nomad Capitalist  
 - Henderson, Randy: Finn Fancy Necromancy  
 - Hernandez, Jose: Reaching for the Stars (kindle)  
 - Hersey, John: Hiroshima  
@@ -634,7 +639,8 @@
 - Phillips, Lucas: The Greatest Raid of All  
 - Pierceson, Jason: Sexual Minorities and Politics  
 - Pillsbury, Michael: The Hundred-Year Marathon  
-- Pink, Daniel: The Power of Regret, When, To Sell is Human, Drive, A Whole New Mind, The Adventures of Johnny Bunko, Free Agent Nation    
+- Pink, Daniel: The Power of Regret, When, To Sell is Human, Drive, A Whole New Mind, The Adventures of Johnny Bunko, Free Agent Nation
+- Popkin, Jim: Code Name Blue Wren  
 - Porter, Lindsay: Assassination  
 - Potts, Rolf: Marco Polo Didn't Go There  
 - Pohl, Frederik: Gateway  
@@ -791,7 +797,8 @@
 - Tan, Cheryl: A Tiger in the Kitchen  
 - Tan, Sue Lynn: Daughter of the Moon Goddess  
 - Tarantino, Quentin: Cinema Speculation  
-- Taulli, Tom: Artificial Intelligence Basics  
+- Taulli, Tom: Artificial Intelligence Basics
+- Tavares, Nathan: A Fractured Infinity  
 - Taylor, Jodi: Just One Damned Thing After Another  
 - Taylor, Steven: The Psychology of Pandemics  
 - Tchaikovsky, Adrian: 1) Empire in Back and Gold; Ogres; THE FINAL ARCHITECTURE: 1)Shards of Earth, 2)Eyes of the Void  
@@ -1057,7 +1064,7 @@
 - Salamo, Lin: Mark Twain's Helpful Hints for Good Living  
 - ~~Salvatore, RA: !!!Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories ~~ 
 - Sanderson, Brandon: Shadows for Silence in the Forests of Hell & Perfect State; The Way of Kings; Legion: The Many Lives of Stephen Leeds (2 others? Mitosis read it think); Warbreaker (read?); ~~Elantris~~; Arcanum Unbounded  
-- Scalzi, John: Dispatcher; The Collapsing Empire  
+- Scalzi, John: Dispatcher; The Collapsing Empire; The Kaiju Preservation Society (I think I bought this)
 - Schwab, VE: A Darker Shade of Magic  
 - Schulman, Daniel: Sons of Wichita  
 - Sedaris, David: Holidays on Ice  
@@ -1189,7 +1196,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### Douglass, Sara: WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
 #### Eddings, David: THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
-#### Eddings: THE MALLOREON: ~~1) Guardians of the West, 2) King of Murgos~~, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell  
+#### Eddings: THE MALLOREON: ~~1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell~~    
 #### Eddings: SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City   
 #### Eddings: DREAMERS: 1) The Elder Gods, 2) The Treasured One, 3) Crystal Gorge, 4) The Younger Gods  
 
@@ -1214,7 +1221,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Goodkind, Terry: SWORD OF TRUTH: 0) The First Confessor, 0.5) Debt of Bones, ~~1) Wizards First Rule,~~, 2) Stone of Tears, 3) Blood of the Fold, 4) Temple of Winds, 5) Soul of the Fire, 6) Faith of the Fallen, 7) The Pillars of Creation, 8) Naked Empire, 9) Chainfire, 10) Phantom, 11) Confessor, 12) The Omen Machine, 13) The Third Kingdom, 14) Severed Souls, 15) Warheart, 15.5) The Law of Nines  
 
-#### Goyer, David: HEAVEN'S SHADOW: ~~1) Heaven's Shadow, 2)Heaven's War~~, 3) Heaven's Fall  
+#### Goyer, David: HEAVEN'S SHADOW: ~~1) Heaven's Shadow, 2)Heaven's War, 3) Heaven's Fall~~    
 
 #### Gray, Claudia: CONSTELLATION: ~~1) Defy the Stars (Apr 22: Galactic war between the Genesis which seem to be pioneers from Earth but are technologically less capable and Earth which "rules" over many planets and send "mechs" to battle Genesis and other planets.  The Protagonist is able to take control of a mech and enter areas ruled by Earth. Sort of a love story between the Genesis soldier and highly intelligent mech)~~, 2) Defy the Worlds, 3) Defy the Fates 
 
@@ -1251,7 +1258,7 @@ The Warrior of Altaii
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
-#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland~~, Night Shift; UR; 11/22/63  
+#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man~~; UR; 11/22/63  
 #### !!!King, Stephen: BILL HODGES: ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
@@ -1373,7 +1380,7 @@ SHADOW OF APT: 0.5)Spoils of War, 1)Empire in Black and Gold, 2)Dragonfly Fallin
 #### Watt-Evans, Lawrence: LORDS OF DUS SERIES: 1) The Lure of the Basilisk, 2) The Seven Altars of Dusarra, 3) The Sword of Bheleu, 4) The Book of Silence  
 
 #### Weis, Margaret  & Tracy Hickman (sometimes):   
-#### Weis: THE DRAGONVARLD TRILOGY: 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)  
+#### ~~Weis: THE DRAGONVARLD TRILOGY: 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)~~    
 #### Weis: THE DEATH GATE CYCLE: 1) Dragonwing, 2) Elven Star, 3) Fire Sea, 4) Serpent Mage, 5) Hand of Chaos, 6) Into the Labyrinth, 7) The Seventh Gate  
 #### Weis: STAR OF THE GUARDIANS: 1) The Lost King, 2) King's Test, 3) Ghost Legion  
 #### Weis: THE DARK DISCIPLE: 1) Amber and Ashes, 2) Amber and Iron, 3) Amber and Blood 
@@ -1400,10 +1407,10 @@ SHADOW OF APT: 0.5)Spoils of War, 1)Empire in Black and Gold, 2)Dragonfly Fallin
 
 #### Yancey, Richard: THE 5TH WAVE: ~~1) The 5th wave~~, 2) The Infinite Sea, 3) The Last Star   
 
-#### Zahn, Timothy: HE THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
+#### Zahn, Timothy: THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
 #### !!!Zahn: THRAWN:  ~~1)Thrawn,(Feb2022) 2)Thrawn:Alliances, 3)Thrawn:Treason~~  
 #### Zahn: THE HAND OF THRAWN DUOLOGY:  1)Specter of the Past, 2)Vision of the Future  
-#### Zahn: THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good, 3)Lesser Evil  
+#### Zahn: ~~THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good,~~ 3)Lesser Evil  
 #### Zahn: DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
 #### Zahn: QUADRAIL:  1)Night Train to Rigel, 2)The Third Lynx, 3)Odd Girl Out, 4)The Domino Pattern, 5)Judgment at Proteus  
 #### Zahn: THE CONQUERORS SAGA:  1)Conquerors' Pride, 2)Conquerors' Heritage, 3)Conquerors' Legacy  
