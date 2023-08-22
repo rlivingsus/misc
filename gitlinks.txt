@@ -1,3 +1,11 @@
+-https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/  //acoustic attacks
+-https://cyberscoop.com/viasat-ka-sat-hack-black-hat/  //viasat sat attack
+-https://hackasat.com/players-corner/  //hackasat player's corner
+-https://github.com/solar-wine/writeups  //player writeups hackasat
+-https://redteamrecipe.com/Satellite-Hacking-Demystified/  //sat writeup
+-https://www.yahoo.com/news/officials-found-suspected-chinese-malware-001006451.html  //chinese malware not surveillance but disruption which is new and 'disturbing'
+-https://gandalf.lakera.ai/  //gandalf ai password game
+
 https://try.github.io/
 https://www.activecountermeasures.com/tshark-examples-theory-implementation/
 https://www.activecountermeasures.com/malware-of-the-day-backoff/
