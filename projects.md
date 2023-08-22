@@ -1,10 +1,10 @@
 ## PROJECTS/TO DO
 
 #### Art  
--https://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html  //etherington brothers art  
--https://www.sunset.com/home-garden/diy-projects/mini-wreath-dollhouse?utm_source=Sailthru&utm_medium=email&utm_campaign=Sunset%20Weekender%20Newsletter%20%28Engaged%29%202021-11-21&utm_content=Final&utm_term=SUN%20Weekly%20NL:%20Engaged  //tiny wreaths  
--https://creativecloud.adobe.com/discover/article/ugly-christmas-sweater-in-a-few-clicks-with-a-free-photoshop-action?trackingid=PYPVPXVM&mv=email&locale=en  //adobe ugly sweater  
--https://creativecloud.adobe.com/discover/article/free-photoshop-templates-for-cozy-winter-greeting-cards?trackingid=PQ7SQ6BP&mv=email&locale=en  //adobe winter greeting card  
+- https://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html  //etherington brothers art  
+- https://www.sunset.com/home-garden/diy-projects/mini-wreath-dollhouse?utm_source=Sailthru&utm_medium=email&utm_campaign=Sunset%20Weekender%20Newsletter%20%28Engaged%29%202021-11-21&utm_content=Final&utm_term=SUN%20Weekly%20NL:%20Engaged  //tiny wreaths  
+- https://creativecloud.adobe.com/discover/article/ugly-christmas-sweater-in-a-few-clicks-with-a-free-photoshop-action?trackingid=PYPVPXVM&mv=email&locale=en  //adobe ugly sweater  
+- https://creativecloud.adobe.com/discover/article/free-photoshop-templates-for-cozy-winter-greeting-cards?trackingid=PQ7SQ6BP&mv=email&locale=en  //adobe winter greeting card  
 -
 
 #### Cybersecurity  
