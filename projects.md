@@ -1,13 +1,13 @@
 ## PROJECTS/TO DO
 
-### Art  
+#### Art  
 -https://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html  //etherington brothers art  
 -https://www.sunset.com/home-garden/diy-projects/mini-wreath-dollhouse?utm_source=Sailthru&utm_medium=email&utm_campaign=Sunset%20Weekender%20Newsletter%20%28Engaged%29%202021-11-21&utm_content=Final&utm_term=SUN%20Weekly%20NL:%20Engaged  //tiny wreaths  
 -https://creativecloud.adobe.com/discover/article/ugly-christmas-sweater-in-a-few-clicks-with-a-free-photoshop-action?trackingid=PYPVPXVM&mv=email&locale=en  //adobe ugly sweater  
 -https://creativecloud.adobe.com/discover/article/free-photoshop-templates-for-cozy-winter-greeting-cards?trackingid=PQ7SQ6BP&mv=email&locale=en  //adobe winter greeting card  
 -
 
-### Cybersecurity  
+#### Cybersecurity  
 -https://blog.korelogic.com/blog/2014/04/04/pathwell_topologies  //pw topology  
 -reverse engineering [reverse engineer](https://0xinfection.github.io/reversing/)  
 -https://en.wikipedia.org/wiki/Infer_Static_Analyzer  //appsec  
@@ -78,7 +78,7 @@
 -https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/  //cmd hijack  
 -
 
-### Programming  
+#### Programming  
 -https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014  //data structure tries  
 -https://javascript.plainenglish.io/how-to-scroll-automatically-to-the-bottom-of-the-page-with-javascript-14241ab1b751  //javascript  
 -https://codepen.io/trending  //codepen  
@@ -115,7 +115,7 @@
 -https://betterprogramming.pub/7-ways-to-code-rock-paper-scissors-in-javascript-4189a5e7e535   //jankenpo javascript  
 -
 
-### Tech  
+#### Tech  
 -https://www.cnet.com/tech/computing/how-to-read-epub-files-on-your-kindle/  //reading epub on kindle  
 -https://prezu.ca/post/2021-07-30-totp-1/  //google authenticator  
 -https://infosecwriteups.com/how-luks-works-with-full-disk-encryption-in-linux-6452ad1a42e8  //linux encryption  
@@ -131,7 +131,7 @@
 -https://www.instructables.com/How-to-Hack-and-Upgrade-Your-Car-Using-CAN-Bus/  //Car CANBUS  
 -
 
-### Training  
+#### Training  
 -https://www.coursera.org/professional-certificates/google-it-automation  //Google with Python  
 -https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer  //packet tracer  
 -https://github.com/EbookFoundation/free-programming-books  //free e-books  
