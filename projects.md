@@ -149,11 +149,5 @@
 - https://www.mandiant.com/resources/flare-on-8-challenge-solutions  //flare-on challenges  
 - https://hshrzd.wordpress.com/2021/10/23/flare-on-8-task-9/  //more flare-on  
 - https://cwinfosec.org/Pwn-School-Syllabus/  //pwnschool  
-- https://bishopfox.com/blog/fuzzing-aka-fuzz-testing?utm_campaign=200601_Awareness_Labs%20Launch&utm_medium=email&_hsmi=166879342&utm_content=166879342&utm_source=hs_email  //intro to fuzzing  
-- https://www.dfir.training/  //DFIR training  
-- https://dfirdiva.com/  //DFIR diva  
-- https://canyouhack.us/  //solve challenges  
-- https://github.com/BitnomadLive/OffensiveReading  //Offensive Security reading  
-- https://www.freemote.com/  //freemote freelance dev  
--
+
 
