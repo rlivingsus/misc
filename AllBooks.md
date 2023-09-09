@@ -152,7 +152,7 @@
 - Crouch, Blake: Recursion; Dark Matter; Upgrade   
 - Cunningham, Elain: ebook 1) Elfshadow    
 - Curtis, Houston: Billion Dollar Hollywood Heist  
-- Cushman, Marc: Star Trek  
+- Cushman, Marc: Star Trek
 - Danesi, Marcel: The Puzzle Instinct  
 - Danker, Sean: Admiral
 - Daviau, Mo: EVERY ANXIOUS WAVE  
@@ -163,7 +163,8 @@
 - Del Monte, Louis A.: Genius Weapons  
 - Delaney, Rob: A Heart that Works  
 - Demopoulos, Ted: Infosec Rock Star (kindle)  
-- Deutsch, David: The Beginning of Infinity  
+- Deutsch, David: The Beginning of Infinity
+- Diamond, Michael & Horowitz, Adam: Beastie Boys Books  
 - Dick, Phillip K.: Electric Dreams?  
 - Dickens, Charles: A Tale of Two Cities; Oliver Twist  
 - Dicks, Matthew: Storyworthy  
@@ -386,7 +387,8 @@
 - Jackall, Robert: Moral Mazes  
 - Jackson, John: One Nation under Drones  
 - Jackson, Phil: Eleven Rings  
-- Jacobs, AJ: The Know It All  
+- Jacobs, AJ: The Know It All
+- Jain, Vibhuti: Our Best Intentions  
 - Jaku, Eddie: The Happiest Man on Earth  
 - Jay, Joshua: How Magicians Think  
 - Jean, Emiko: Mika in Real Life; Tokyo Ever After  
@@ -416,7 +418,7 @@
 - Kennedy, Paul: Rise and Fall of the Great Powers  
 - Kent, Jasper: Twelve  
 - Kerr, Katherine: ebook 1) Daggerspell  
-- Kershaw, Alex: Against all Odds  
+- Kershaw, Alex: Against all Odds, The First Wave   
 - Keyes, Daniel: Flowers for Algernon  
 - Khoury, Jessica: THE FORBIDDEN WISH  
 - Kidd, Jess: The Night Ship; Things in a Jar  
@@ -542,7 +544,8 @@
 - McQuiston, Casey: One Last Stop  
 - McRaven, William: Make Your Bed  
 - McTier, Moiya: The Milky Way  
-- Meacham, Jon: And There Was Light: Abraham Lincolns  
+- Meacham, Jon: And There Was Light: Abraham Lincolns
+- Mechanic, Michael:  Jackpot, How the Super-Rich Really Live  
 - Meister, Ellen: Dorothy Parker Drank Here  
 - Merritt, Jerry: A Gift of Time  
 - Mersinger, Holly: The Curse of Jacob Tracy  
@@ -571,7 +574,7 @@
 - Muir, Tamsyn: THE LOCKED TOMB: 1)Gideon the Ninth; Nona the Ninth  
 - Munger, Charlie: Poor Charlie's Almanack  
 - Munninghoff, Alexander: The Son and Heir (kindle)  
-- Munroe, Randall: The Thing Explainer  
+- Munroe, Randall: The Thing Explainer; What If?; What If 2?    
 - Murakami, Haruki: The Wind-up Bird Chronicle; Kafka on the Shore   
 - Murakami, Ryu: Popular Hits of the Showa Era  
 - Murata, Sayaka: Convenience Store Woman  
@@ -685,7 +688,8 @@
 - Robertson, Donald: How to Think Like a Roman Emporer  
 - Robinson, Frank M: The Dark Beyond the Stars  
 - Robinson, Kim Stanley: Aurora  
-- Robson, David: The Expectation Effect: How your Mindset Can Change your World  
+- Robson, David: The Expectation Effect: How your Mindset Can Change your World
+- Rogers, Fred: Dear Mister Rogers  
 - Rollins, James: The Starless Crown 
 - Ronson, Jon: So You've been Publicly Shamed  
 - Rosenbloom, Stephanie: Alone Time  
@@ -711,7 +715,8 @@
 - Salinger, JD: The Catcher in the Rye  
 - Sanger, David: The Perfect Weapon  
 - Sarnicola, Thomas: No Kings, No Kooks  
-- Saulter, Stephanie: EVOLUTION 1)Gemsigns  
+- Saulter, Stephanie: EVOLUTION 1)Gemsigns
+- Savage, Adam: Every Tool's a Hammer   
 - Scalzi, John: Kaiju preservation society; Lock In; Head On; The Dispatcher; Murder by Other Means; Travel by Bullet  
 - Scharre, Paul: Army of None  
 - Schiff, Stacy: The Revolutionary: Samuel Adams  
@@ -761,7 +766,8 @@
 - Smith, Patti: Just Kids  
 - Smith, Stephen: Straight Shooter  
 - Solomon, Rivers: The Deep  
-- Spakowski, Andrzej: Blood of Elves  
+- Spakowski, Andrzej: Blood of Elves
+- Spalding, Katie: Edison's Ghosts  
 - Stackpole, Michael: A Secret Atlas  
 - Standage, Tom: A history of world in 6 glasses  
 - Star Trek: Department of Temporal Investigations  
@@ -814,7 +820,8 @@
 - Thorne, Kip: The Science of Interstellar  
 - Thoureau, Henry David: Walden  
 - Thiel, Peter: Zero to One: Notes on Startups, or How to Build the Future  
-- Till, Geoffrey: Sea Power  
+- Till, Geoffrey: Sea Power
+- Tintera, Amy: Reboot  
 - Tokunaga, Wendy: Marriage in Translation  
 - Toll, Ian: Six Frigates  
 - Tolstoy, Leo: The Death of Ivan Ilyich  
@@ -901,7 +908,8 @@
 - Wilhelm, Kate: Where Late the Sweet Birds Sang  
 - Willink, Jocko & Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win  
 - Willis, Connie: Doomsday Book  
-- Wolfe, Gene: The Claw of the Conciliator  
+- Wolfe, Gene: The Claw of the Conciliator
+- Wong, Ali: Dear Girls  
 - Wu, Constance: Making a Scene  
 - Yager, Jan: How to Finish everything you start  
 - Yang, Jeff: Rise  
@@ -927,7 +935,7 @@
 - Adams, Scott: How to Fail at Almost Everything and Still Win Big  
 - Ackerman, Sara: Red Sky over Hawaii  
 - Ahn, Flora: The Golden Orchard  
-- Alanson, Craig: Expeditionary Force Book 1 Columbus Day  
+- Alanson, Craig: Expeditionary Force Book 1 Columbus Day; Expeditionary Forces: Mavericks Book 1 Deathtrap (DONOTHAVE), Book 2 Freefall    
 - Albala, Ken: History of Bourbon  
 - Aldrete, Gregory: History's Great Military Blunders and the Lessons They Teach  
 - Anderson, Chris: TED Talks  
@@ -957,7 +965,8 @@
 - Chiang, Ted: Stories of Your Life and others  
 - Child, Lee: Persuader  
 - Christian, Brian: Algorithms to Live By  
-- Christie, Agatha: Hercule Poirot complete short stories  
+- Christie, Agatha: Hercule Poirot complete short stories
+- Clancy, Tom: Jack Ryan (Chronicalogical): 1) Patriot Games, 2) Red Rabbit  
 - Clarke, Arthur C: The Collected Stories of Arthur Clarke  
 - Clarke, Neil: The best SCHFI of the Year: Volume One  
 - Coelho: Paulo: Gather 'Round the Sound  
@@ -1055,7 +1064,7 @@
 - Rich, Ben: Skunk Works  
 - Rich, Simon: Screwball  
 - Riddle, AG: Atlantis Plague Book 2; Departure (see below)  
-- Robinson, Jeremy: 1) Infinite, ...6)Exo-Hunter.....11)The Order    
+- Robinson, Jeremy: 1) Infinite, ...6)Exo-Hunter.....11)The Order; Khaos  
 - Ross, Marty: The Darkwater Bride  
 - Rowe, Andrew: Sufficiently Advanced Magic; How to Defeat a Demon King in Ten Easy Steps  
 - Rowling, JK: The Tales of Beedle the Bard  
@@ -1063,7 +1072,7 @@
 - Sakey, Marcus: Brilliance  
 - Salamo, Lin: Mark Twain's Helpful Hints for Good Living  
 - ~~Salvatore, RA: !!!Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories ~~ 
-- Sanderson, Brandon: Shadows for Silence in the Forests of Hell & Perfect State; The Way of Kings; Legion: The Many Lives of Stephen Leeds (2 others? Mitosis read it think); Warbreaker (read?); ~~Elantris~~; Arcanum Unbounded  
+- Sanderson, Brandon: Shadows for Silence in the Forests of Hell & Perfect State; The Way of Kings; 1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; Warbreaker (read?); ~~Elantris~~; Arcanum Unbounded  
 - Scalzi, John: Dispatcher; The Collapsing Empire; The Kaiju Preservation Society (I think I bought this)
 - Schwab, VE: A Darker Shade of Magic  
 - Schulman, Daniel: Sons of Wichita  
@@ -1176,7 +1185,7 @@ RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various go
 #### Card: Mithermages: 1) The Lost Gate,  
 #### Card: THE SHADOW SERIES: ~~1) Ender's Shadow, 2) Shadow of the Hegemon,~~ 3) Shadow Puppets, 4) Shadow of the Giant, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow    
 #### Card: THE FIRST FORMIC WAR SERIES: 1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens  
-#### Card: Duplex  
+#### Card: Duplex, Lost and Found  
 
 #### Clarke, Arthur C.: RAMA: 1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
 SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) The Final Odyssey  
@@ -1187,6 +1196,8 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Cunningham, Elaine: FORGOTTEN REALMS SONGS & SWORDS: 1) Elfshadow (HAVE), 2) Elfsong (HAVE), 3) Silvershadows, 4) Thornhold, 5) The Dream Spheres, 6) Reclamation    
 #### Drake, David: LORD OF THE ISLES: 1) The Lord of the Isles (HAVE?), 2) Queen of Demons, 3) Servant of the Dragon, 4) Mistress of the Catacombs, 5) Goddess of the Ice Realm, 6) Master of the Cauldron, 7) Fortress of Glass, 8) Mirror of Worlds, 9) The Gods Return  
+
+#### DeMille, Nelson: Scott Brodie Series: 1) The Deserter, 2) Blood Lines  
 
 #### Donaldson, Stephen: THE CHRONICLES OF THOMAS COVENANT THE UNBELIEVER: ~~1) Lord Foul's Bane~~, 2) The Illearth War, 3) The Power that Preserves  
 #### Donaldson: THE SECOND CHRONICLES OF THOMAS COVENANT: 1) The Wounded Land, 2) The One Tree, 3) White Gold Wielder  
@@ -1354,13 +1365,13 @@ The End and Other Beginnings: Stories from the Future
 #### Salvatore: SAGA OF THE FIRST KING: 1) The Highwayman (AUDIBLE), 2) The Ancient   
 
 #### !!!Sanderson, Brandon: MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History (on Arcanum Unbounded), ~~4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,~~  
-#### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella, 4)Rhythm of War, 5)Highprince of War  
+#### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella (audible?), 4)Rhythm of War, 5)Highprince of War  
 #### !!!Sanderson: RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
 #### Sanderson: ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
 #### Sanderson: RITHMATIST: 1) The Rithmatist  
 #### !!!SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant ~2023   
 #### !!!INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
-#### Sanderson: WARBREAKER: 1) Warbreaker, 2) Nightblood  
+#### Sanderson: WARBREAKER: 1) Warbreaker (audible?), 2) Nightblood  
 #### Sanderson: SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell, 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.    
 #### Sanderson: The Original  
 #### Sanderson: 1) The Dark One (comic?), 2) Forgotten  
