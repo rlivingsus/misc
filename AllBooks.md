@@ -179,7 +179,7 @@
 - Douglass, Sara: ebook 1) The Wayfarer Redemption  
 - Dower, John: Embracing Defeat: Japan in the Wake of World War II  
 - Doyle, Arthur Conan: Complete Sherlock Holmes (kindle)
-- Dozois, Gardner: The Very Best of the Best: 35 Years of the Year's Best Sci-Fi  
+- ~~Dozois, Gardner: The Very Best of the Best: 35 Years of the Year's Best Sci-Fi~~  
 - Drake, David: 1) Crown of the Isles (physical)  
 - Drayden, Nickey: The Prey of Gods  
 - Dreeke, Robin: It's Not all about "me"  
@@ -471,7 +471,7 @@
 - Levi, Primo: The Periodic Table  
 - Levin, Michael: Broken Windows, Broken Business: How the Smallest Remedies Reap Biggest Rewards (kindle)  
 - Levy, Lawrence: To Pixar and Beyond (kindle)  
-- Levy, Steven: Hackers: Heroes of the Computer Revolution; Facebook: The Inside Story; Plex: How Google thinks, works, and shapes our lives  
+- Levy, Steven: Hackers: Heroes of the Computer Revolution; Facebook: The Inside Story; ~~In The Plex: How Google thinks, works, and shapes our lives~~    
 - Lewis, Joseph Robert: Aetherium (kindle)  
 - Lewis, Michael: The Undoing Project; The Premonition  
 - Le Guin, Ursula K.: The Dispossessed; The Left Hand of Darkness  
@@ -822,7 +822,7 @@
 - Torseter, Oyvind: The Hole  
 - Townsend, Anthony: Ghost Road: Beyond the Driverless Car  
 - Tracy, Brian: Eat that Frog  
-- Tremblay, Paul: The Last Conversation; The Cabin at the End of the World  
+- Tremblay, Paul: The Last Conversation; ~~The Cabin at the End of the World~~  
 - Trichter, Judd: Love in the Age of Mechanical Reproduction  
 - Trotter, William: Frozen Hell  
 - Tuchman, Barbara: March of Folly: From Troy to Vietnam; The Guns of August  
@@ -1212,7 +1212,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### !!!Feist: EMPIRE TRILOGY: ~~1)Daughter of the Empire, 2)Servant of the Empire, 3)Mistress of the Empire~~  
 #### Feist: KRONDOR'S SONS: 1)Prince of the Blood, 2)The King's Buccaneer  
 #### Feist: SERPENT WAR SAGA: 1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King, 4)Shards of a Broken Crown  
-#### Feist: RIFTWAR LEGACY: ~~1)Krondor: The Betrayal, 2)Krondor: The Assassins,~~ 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler  
+#### !!!Feist: RIFTWAR LEGACY: ~~1)Krondor: The Betrayal, 2)Krondor: The Assassins, 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler~~  
 #### !!!Feist: LEGENDS OF RIFTWAR (coincide with riftwar saga): ~~1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand~~  
 #### Feist: CONCAVE OF SHADOWS: 1)Talon of the Silver Hawk, 2)King of Foxes, 3)Exile's Return  
 #### Feist: DARKWAR SAGA: 1)Flight of the Nighthawks(have), 2)Into a Dark Realm, 3)Wrath of a Mad God  
@@ -1238,7 +1238,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### Hickman, Tracy  
 !!!THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~  
 
-#### Hobb, Robin: THE FARSEER TRILOGY: ~~1) Assassin's Apprentice,~~ 2) Royal Assassin, 3) Assassin's Quest  
+#### !!!Hobb, Robin: THE FARSEER TRILOGY: ~~1) Assassin's Apprentice, 2) Royal Assassin, 3) Assassin's Quest~~  
 #### Hobb: THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven, 3) City of Dragons,~~ 4) Blood of Dragons  
 
 #### Hogan, James: GIANT SERIES: 1) Inherit the Stars  
@@ -1258,7 +1258,7 @@ The Warrior of Altaii
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
-#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man~~; UR; 11/22/63  
+#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman~~  UR; 11/22/63  
 #### !!!King, Stephen: BILL HODGES: ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
@@ -1311,13 +1311,14 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### Pohl, Frederik: MISC:  
 
-#### Prineas, Sarah: MAGIC THIEF SERIES: ~~1) The Magic Thief,~~ 2) Lost, 3) Found, 3.5) A Proper Wizard, 4) Home  
+#### !!!Prineas, Sarah: MAGIC THIEF SERIES: ~~1) The Magic Thief, 2) Lost, 3) Found, 3.5) A Proper Wizard, 4) Home~~    
 
 #### Redick, Robert VS: THE CHATHRAND VOYAGE SERIES: ~~1) The Red Wolf Conspiracy~~, 2) The Rats and the Ruling Sea, 3) The River of Shadows, 4) The Night of the Swarm  
 
 #### Reid, Thomas M.: FORGOTTEN REALMS EMPYREAN ODYSSEY: 1) The Gossamer Plain (HAVE), 2) The Fractured Sky (HAVE), 3) The Crystal Mountain  
 
 #### Reynolds, Alastair: POSEIDON'S CHILDREN: 1) Blue Remembered Earth, 2) On the Steel Breeze, 3) Poseidon's Wake  
+#### Reynolds, Alastair: ~~Eversion~~    
 
 #### Riddle, AG: ORIGIN MYSTERY: ~~1) Atlantis Gene,~~ 2) Atlantis Plague (audible), 3) Atlantis World  
 #### Riddle: THE LONG WINTER: 1) Winter World, 2) The Solar War, 3) The Lost Colony  
