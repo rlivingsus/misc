@@ -59,9 +59,11 @@
 - Beacham, Travis: Impact Winter; Carnival Row; Pacific Rim  
 - Bear, Elizabeth: Karen Memory  
 - Beers and Anderle?: THE WAR MACHINE  
-- Benedict, Marie: The only woman in the room  
+- Benedict, Marie: The only woman in the room
+- !!! ~~Benjamin, Ali: The thing about Jellyfish~~  
 - Bennett, Robert Jackson: City of Miracles  
-- Berger, Eric: Liftoff  
+- Berger, Eric: Liftoff
+- Bergner, Daniel: The Mind and the Moon  
 - Berkun, Scott: Mindfire  
 - Berne, Eric: Games People Play  
 - Bhattacharya, Ananyo: The Man from the Future: The Visionary Life of John von Neumann  
@@ -301,7 +303,7 @@
 - Graudin, Ryan: Wolf by wolf  
 - Gray, Colin: Fighting Talk: Forty Maxims on War, Peace, and Strategy;  The Future of Strategy;  
 - Green, Alexander: Beyond Wealth  
-- Green, John: The Anthropocene Reviewed; Turtles All the Way Down  
+- Green, John: The Anthropocene Reviewed; Turtles All the Way Down; Paper Towns  
 - Green, Simon: The Nightside  
 - Greenberg, Andy: Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hacker; Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency  
 - Greene, Brian: Until the End of Time  
@@ -316,7 +318,8 @@
 - Gyasi, Yaa: Homegoing  
 - Haberman, Maggie: Confidence Man  
 - Haidt, Johnathan: The Happiness Hypothesis  
-- Haig, Matt: The Midnight Library; Notes on a Nervous Planet; The Humans; How to Stop Time;   
+- Haig, Matt: The Midnight Library; Notes on a Nervous Planet; The Humans; How to Stop Time;
+- Hakes, Jasmin Iolani: Hula  
 - Hall, Edward: The Hidden Dimension  
 - Hall, Kerstin: Star Eater  
 - Hall, Kindra: Stories that Stick  
@@ -458,7 +461,8 @@
 - Lansing, Alfred: Endurance  
 - Laplander, Robert: Finding the Lost Battalion  
 - Larson, Erik: The Devil in the White City; Dead Wake  
-- Laurain, Antoine: Vintage 1954  
+- Laurain, Antoine: Vintage 1954
+- Lawhon, Ariel & McMorris & Meissner: When We Had Wings  
 - Lawrence, Mark: The Book of the Ancestor  
 - Le Couteur, Penny: Napoleon's Buttons  
 - Leckie, Ann: Ancillary Justice; Translation State  
@@ -481,7 +485,7 @@
 - Lindbergh, Anne Morrow: Gift from the Sea  
 - Lipman, Joanne: That's What She Said  
 - Lippman, Laura: Tess Monaghan Series (15?) 1) Baltimore Blues  
-- Liu, Cixin: The Three-Body Problem; To Hold up the Sky; Supernova ERA  
+- Liu, Cixin: Remembrance of Earth's Past series ~~1) The Three-Body Problem~~, 2) The Dark Forest, 3) Death's End; To Hold up the Sky; Supernova ERA  
 - Liu, Ken: Dandelion Dynasty: The Armies of Those I Love; Invisible Planets  
 - Liu, Simu: We were Dreamers  
 - Livingston, Jessica: Founders at Work 
@@ -643,6 +647,7 @@
 - Pierceson, Jason: Sexual Minorities and Politics  
 - Pillsbury, Michael: The Hundred-Year Marathon  
 - Pink, Daniel: The Power of Regret, When, To Sell is Human, Drive, A Whole New Mind, The Adventures of Johnny Bunko, Free Agent Nation
+- Plummer, David: Secrets of the Autistic Millionaire (Audible maybe?)  
 - Popkin, Jim: Code Name Blue Wren  
 - Porter, Lindsay: Assassination  
 - Potts, Rolf: Marco Polo Didn't Go There  
@@ -657,7 +662,8 @@
 - Putnam, Robert: Bowling Alone  
 - Quick, Matthew: The Silver Lining Playbook; We Are the Light  
 - Quinn, Kate: The Diamond Eye  
-- Randel, Weina Dai: The Last Rose of Shanghai (kindle)  
+- Randel, Weina Dai: The Last Rose of Shanghai (kindle)
+- Rao, Nilima: A Disappearance in Fiji  
 - Rawls, Wilson: Where the Red Fern Grows  
 - Raymer, Edward: Descent into Darkeness  
 - Redman, Jason: Overcome  
@@ -762,7 +768,6 @@
 - Smith, Clint: How the Word is Passed  
 - Smith, Julie: Why has nobody told me this before?  
 - Smith, Mandy: Cabin Fever  
-- Smith, Nicholas: Hell Divers  
 - Smith, Patti: Just Kids  
 - Smith, Stephen: Straight Shooter  
 - Solomon, Rivers: The Deep  
@@ -807,7 +812,6 @@
 - Tavares, Nathan: A Fractured Infinity  
 - Taylor, Jodi: Just One Damned Thing After Another  
 - Taylor, Steven: The Psychology of Pandemics  
-- Tchaikovsky, Adrian: 1) Empire in Back and Gold; Ogres; THE FINAL ARCHITECTURE: 1)Shards of Earth, 2)Eyes of the Void  
 - Tegmark, Max: Life 3.0  
 - Tesh, Emily: THE GREENHOLLOW DUOLOGY: 1)Silver in the Wood,   
 - Thames, Elizabeth: Meet the Frugalwoods  
@@ -949,7 +953,7 @@
 - Bear, Greg: War Dogs  
 - Bennett, R. William: Jacob T. Marley (already listened?)  
 - Bernheimer, Jim: Origins of a D-List Supervillian  
-- Best, Samuel: Titan Chronicles Mission one book one  
+- Best, Samuel: Titan Chronicles Mission one book one; Deep Black   
 - Bock, Laszlo: Work Rules!  
 - Bohem, Less: Junk  
 - Bova, Ben: The SCI FI HOF Vol.2-B  
@@ -1022,8 +1026,6 @@
 - Janca, Tanya: Alice and Bob Learn Application Security  
 - Kerr, Katherine: The Red Wyvern (book 1); Westlands 1) A Time of Exile (Dod Libraries); Devery Books 1-4 (Audible)  
 - Khoury, Jessica: The Mystwick School of Musicraft  
-- King, Stephen: 11-22-63  
-- Koontz, Dean: Lightning  
 - Krappweis, Tommy: A Crazy Inheritance  
 - Lecesne, James: The Absolute Brightness of Leonard Pelkey  
 - Ledbetter, William: Level Five; Killday book 1  
@@ -1049,7 +1051,8 @@
 - Meyer, LA: Under the Jolly Roger; Bloody Jack; Curse of the Blue Tattoo  
 - Michener, James: Hawaii  
 - Mitnick, Kevin: The Art of Deception; The Art of Invisibility  
-- Mogel, Wendy: Voice Lessons for Parents  
+- Mogel, Wendy: Voice Lessons for Parents
+- Morin, JS: Eve 14 
 - Moss, Stephen: Fear the Sky  
 - Nichols, Michael: The Lost Art of Listening  
 - Nye, Bill: Everything All at once; Unstoppable  
@@ -1250,6 +1253,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 !!!THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~  
 
 #### !!!Hobb, Robin: THE FARSEER TRILOGY: ~~1) Assassin's Apprentice, 2) Royal Assassin, 3) Assassin's Quest~~  
+#### !!!Hobb, Robin: LIVESHIP TRILOGY: ~~1) The Ship of Magic, 2) The Mad Ship, 3) Ship of Destiny~~  
 #### Hobb: THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven, 3) City of Dragons,~~ 4) Blood of Dragons  
 
 #### Hogan, James: GIANT SERIES: 1) Inherit the Stars  
@@ -1273,7 +1277,7 @@ The Warrior of Altaii
 #### !!!King, Stephen: BILL HODGES: ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
-#### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, 1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
+#### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, ~~1) Odd Thomas, 2) Forever Odd~~, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
 #### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart  
 
 #### Kwan, Kevin  
@@ -1319,6 +1323,8 @@ LEGENDS: Book 1, Book 2, Book 3
 #### Niven: RINGWORLD: ~~1) Ringworld,~~ 2) The Ringworld Engineers, 3) The Ringworld Throne, 4) Ringworld's Children, 5) Fate of Worlds  
 
 #### Norton, Mary: THE BORROWERS: 1)The Borrowers, 2)The Borrowers Afield, 3)The Borrowers Afloat, 4)The Borrowers Aloft, 5)The Borrowers Avenged   
+
+#### O'Keefe, Megan: DEVOURED WORLDS TRILOGY: 1) The Blighted Stars, 2) The Fractured Dark, 3) future?  
 
 #### Pohl, Frederik: MISC:  
 
@@ -1378,12 +1384,17 @@ The End and Other Beginnings: Stories from the Future
 
 #### Scalzi, John: OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades, The Sagan Diary, The Last Colony, Zoe's Tale, After the Coup, The Human Division, The B-Team, Walk the Plank, We only need the Heads, A Voice in the Wilderness, Tales from the Clarke, The Back Channel, The Dog King, The Sound of Rebellion, The Observers, This must be the Place, A Problem of Proportion, The Gentle Art of Cracking Heads, Earth Below Sky Above, The Human Division Extras, The End of All Things, The Life of the Mind, This Hollow Union, Can Long Endure, To Stand or Fall  
 
+#### Smith, Nicholas S: HELL DIVERS: 1) Hell Divers, 2) Ghost  
+
 #### Sullivan, Michael: RIYRIA REVELATIONS: 1) Theft of Swords, 2) Rise of Empire, 3) Heir of Novron  
 
 #### Taylor, Dennis: Bobiverse 1) We are Legion (We are Bob),  
 
 #### Tchaikovsky, Adrian: 1)Shards of Earth, The FInal Architecture; 2) Dark Stars   
-SHADOW OF APT: 0.5)Spoils of War, 1)Empire in Black and Gold, 2)Dragonfly Falling, 3)Blood of the Mantis, 4)Salute the Dark, 5)The Scarab Path, 6)The Sea Watch  
+#### Tchaikovsky: SHADOW OF APT: 0.5)Spoils of War, 1)Empire in Black and Gold, 2)Dragonfly Falling, 3)Blood of the Mantis, 4)Salute the Dark, 5)The Scarab Path, 6)The Sea Watch  
+#### Tchaikovsky: CHILDREN OF TIME SERIES. 1) Children of Time, 2) Children of Ruin;  
+#### Tchaikovsky: THE FINAL ARCHITECTURE: 1)Shards of Earth, 2)Eyes of the Void  
+#### Tchaikovsky: Orges; ~~WAlking to Aldebara~~  
 
 #### Tintera, Amy: SERIES: 1) Reboot 2) Rebel  
 
