@@ -14,7 +14,8 @@
 - Alexander, Michelle: The New Jim Crow  
 - Allen, Nina: The Rift  
 - Al-Kadhi, Amrou: Life as a Unicorn  
-- Allred, Lance: Longshot  
+- Allred, Lance: Longshot
+- Alongi, CM: Citadel  
 - Alpert, Steve: Sharing a House with the Never-Ending Man:  
 - Alterman, Lix: The Perfect Neighborhood
 - Amelinckx, Andrew: Satellite Boy  
@@ -401,19 +402,21 @@
 - Jonasson, Jonas: The 100-Year-Old Man who Climbed out the Window and Disappeared  
 - Jones, Dhani: The Sportsman  
 - Jones, Dylan: David Bowie  
-- Jones, Gwyneth: Proof of Concept  
+- Jones, Gwyneth: Proof of Concept
+- Jones, Phil: Exactly what to say  
 - Kahn, David: The Codebreakers  
 - Kahneman, Daniel: Thinking, Fast, and SLow  
 - Kai, Christopher: Big Game Hunting  
 - Kaku, Michio: Physics of the Future; Hyperspace; The God Equation: The Quest for a Theory of Everything  
-- Kaplan, Robert: The Revenge of Geography  
+- Kaplan, Robert: The Revenge of Geography
+- Karl, Jonathan: Tired of Winning  
 - Karunatilaka, Shehan: The Seven Moons of Maali Almeida  
 - Kasparov, Garry: Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins  
 - Katayama, Lisa: Urawaza  
 - Katwala, Amit: Tremors in the Blood  
 - Kaufman, Arnie & Jay Kristoff: Illuminae  
 - Kaufman, Josh: The personal MBA  
-- Kawaguchi, Toshikazu: Before the Coffee Gets Cold  
+- Kawaguchi, Toshikazu: Before the Coffee Gets Cold; Before your memory fades   
 - Kawakami, Hiromi: Manazuru  
 - Kean, Sam: The Bastard Brigade  
 - Kearney, Paul: The Ten Thousand  
@@ -488,7 +491,8 @@
 - Liu, Cixin: Remembrance of Earth's Past series ~~1) The Three-Body Problem~~, 2) The Dark Forest, 3) Death's End; To Hold up the Sky; Supernova ERA  
 - Liu, Ken: Dandelion Dynasty: The Armies of Those I Love; Invisible Planets  
 - Liu, Simu: We were Dreamers  
-- Livingston, Jessica: Founders at Work 
+- Livingston, Jessica: Founders at Work
+- Livingston, Michael: Origins of the Wheel of Time  
 - Lloyd-Jones, Emily: Illusive  
 - Lockwood, Charles: Tragedy at Honda  
 - Loewen, James: Lies my Teacher Told Me  
@@ -517,7 +521,8 @@
 - Marcinko, Rich: Leadership secrets of the Rogue Warrior  
 - Marillier, Juliet: Heir to Seven Waters  
 - Marin, David: This is US  
-- Marlantes, Karl: Matterhorn; What it is like to go to war  
+- Marlantes, Karl: Matterhorn; What it is like to go to war
+- Marquet, L. David: Turn the Ship Around  
 - Marquez, Gabriel Garcia: One Hundred Years of Solitude; The Story of a Shipwrecked Sailor  
 - Marr, Elle: The Missing Sister (kindle)  
 - Marrs, John: The One  
@@ -542,7 +547,8 @@
 - McGrath, Ben: Riverman: An American Odyssey  
 - McGuire, Seanan: Where the Drowned Girls Go; OCTOBER DAYE: .5)Rat-Catcher, 1)Rosemary and Rue,  
 - McIntyre, Vonda: Dreamsnake  
-- McKinty, Adrian: The Island  
+- McKinty, Adrian: The Island
+- McClellan, Brian: In the Shadow of Lightning  
 - McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
 - McNeill, Graham: Ultramarines Omnibus  
 - McQuiston, Casey: One Last Stop  
@@ -1075,7 +1081,7 @@
 - Sakey, Marcus: Brilliance  
 - Salamo, Lin: Mark Twain's Helpful Hints for Good Living  
 - ~~Salvatore, RA: !!!Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories ~~ 
-- Sanderson, Brandon: Shadows for Silence in the Forests of Hell & Perfect State; The Way of Kings; 1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; Warbreaker (read?); ~~Elantris~~; Arcanum Unbounded  
+- Sanderson, Brandon: Shadows for Silence in the Forests of Hell & Perfect State; The Way of Kings; 1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; Warbreaker (read?); ~~Elantris~~; Arcanum Unbounded; 4) Defiant  
 - Scalzi, John: Dispatcher; The Collapsing Empire; The Kaiju Preservation Society (I think I bought this)
 - Schwab, VE: A Darker Shade of Magic  
 - Schulman, Daniel: Sons of Wichita  
@@ -1167,7 +1173,7 @@ Indomitable, Dark Wraith of Shannara~~
 #### Brooks: MAGIC KINGDOM OF LANDOVER: 1) Magic Kingdom for Sale/Sold, 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
 
 #### Brown, Pierce  
-RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various gold folks who isn't happy that he is where he is at.  Various folks discover he is a Red and at the end of the book he is taken by folks he shouldn't have trusted), 3) Morning Star, 4) Iron Gold, 5) Dark Age~~, 6) Lightbringer  
+RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various gold folks who isn't happy that he is where he is at.  Various folks discover he is a Red and at the end of the book he is taken by folks he shouldn't have trusted), 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer~~  
 
 #### Bryson, Bill: In a Sunburned Country,  
 
@@ -1224,8 +1230,8 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### !!!Feist, Raymond: RIFTWAR SAGA: ~~1)Magician: Apprentice, 2)Magician: Master, 3)Silverthorn, 3)A Darkness at Sethanon~~
 #### !!!Feist: EMPIRE TRILOGY: ~~1)Daughter of the Empire, 2)Servant of the Empire, 3)Mistress of the Empire~~  
-#### Feist: KRONDOR'S SONS: 1)Prince of the Blood, 2)The King's Buccaneer  
-#### Feist: SERPENT WAR SAGA: 1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King, 4)Shards of a Broken Crown  
+#### Feist: KRONDOR'S SONS: ~~1)Prince of the Blood, 2)The King's Buccaneer~~    
+#### Feist: SERPENT WAR SAGA: ~~1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King~~, 4)Shards of a Broken Crown  
 #### !!!Feist: RIFTWAR LEGACY: ~~1)Krondor: The Betrayal, 2)Krondor: The Assassins, 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler~~  
 #### !!!Feist: LEGENDS OF RIFTWAR (coincide with riftwar saga): ~~1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand~~  
 #### Feist: CONCAVE OF SHADOWS: 1)Talon of the Silver Hawk, 2)King of Foxes, 3)Exile's Return  
@@ -1273,11 +1279,11 @@ The Warrior of Altaii
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
-#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman~~  UR; 11/22/63  
+#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile~~  UR; 11/22/63  
 #### !!!King, Stephen: BILL HODGES: ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
-#### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, ~~1) Odd Thomas, 2) Forever Odd~~, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
+#### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, ~~1) Odd Thomas, 2) Forever Odd, 3) Brother Odd~~, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
 #### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart  
 
 #### Kwan, Kevin  
@@ -1316,6 +1322,8 @@ LEGENDS: Book 1, Book 2, Book 3
 #### McCaffrey: OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code  
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
+
+#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador~~, 3)??  
 
 #### Nix, Garth: THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Case, 4) Clariel, 5) Goldenhand, 6) Terciel and Elinor  
 
@@ -1375,7 +1383,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Sanderson: RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
 #### Sanderson: ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
 #### Sanderson: RITHMATIST: 1) The Rithmatist  
-#### !!!SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant ~2023   
+#### !!!SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant 2023   
 #### !!!INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 #### Sanderson: WARBREAKER: 1) Warbreaker (audible?), 2) Nightblood  
 #### Sanderson: SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell, 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.    
