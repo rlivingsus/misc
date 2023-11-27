@@ -1080,7 +1080,6 @@
 - Sainsbury, Ian: The World Walker  
 - Sakey, Marcus: Brilliance  
 - Salamo, Lin: Mark Twain's Helpful Hints for Good Living  
-- ~~Salvatore, RA: !!!Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories ~~ 
 - Sanderson, Brandon: Shadows for Silence in the Forests of Hell & Perfect State; The Way of Kings; 1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; Warbreaker (read?); ~~Elantris~~; Arcanum Unbounded; 4) Defiant  
 - Scalzi, John: Dispatcher; The Collapsing Empire; The Kaiju Preservation Society (I think I bought this)
 - Schwab, VE: A Darker Shade of Magic  
@@ -1366,17 +1365,18 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Salvatore THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
 #### !!!Salvatore THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
 #### Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King, 3) The Ghost King~~  
-#### Salvatore: NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold  
+#### Salvatore: NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold (humbun ebooks)   
 #### Salvatore: THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
-#### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf  
-#### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero  
-#### Salvatore: GENERATIONS: 1) Timeless(audible), 2) Boundless(audible), 3) Relentless(Dnhave)  
+#### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf (humbun ebooks)    
+#### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero (humbun ebooks)    
+#### Salvatore: GENERATIONS: 1) Timeless(audible), 2) Boundless(audible), 3) Relentless(LIBBY)  
 #### Salvatore: THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels  
-#### Salvatore: CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse   
+#### Salvatore: CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse (humbun ebooks)   
 #### Salvatore: Spearwielders 1)The Woods out Back  
 #### Salvatore: THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge (soon?2022)  
 #### Salvatore: SOLO?: The Color of Dragons, The Legend of Drizzt: The Collected Stories (AUDIBLE)   
 #### Salvatore: SAGA OF THE FIRST KING: 1) The Highwayman (AUDIBLE), 2) The Ancient   
+#### ~~Salvatore, RA: !!!Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories~~   
 
 #### !!!Sanderson, Brandon: MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History (on Arcanum Unbounded), ~~4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,~~  
 #### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella (audible?), 4)Rhythm of War, 5)Highprince of War  
