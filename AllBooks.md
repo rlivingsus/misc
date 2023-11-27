@@ -950,7 +950,8 @@
 - Aldrete, Gregory: History's Great Military Blunders and the Lessons They Teach  
 - Anderson, Chris: TED Talks  
 - Anderson, Hans Christian: The Snow Queen  
-- Anderson, Kevin: Captain Nemo  
+- Anderson, Kevin: Captain Nemo
+- Andrew, JA: The Keeper Origins: COmplete Trilogy 1-3  
 - Anspach, Jason: Forget Nothing  
 - Asher, Neal: Dark Intelligence  
 - Atchison, Jarrod: The Art of Debate  
@@ -1018,7 +1019,8 @@
 - Hamilton, ALexander: The Federalist Paper  
 - Harms, Kelly: You Can Thank Me Later  
 - Harris, Joe: The X-Files: Cold Cases  
-- Hawkins, Jeff: A Thousand Brains  
+- Hawkins, Jeff: A Thousand Brains
+- Hayes, Josh: Edge of Valor  
 - Haywood, RR: Extracted  
 - Heinlein, Robert: The SCIFI Hall of Fame, Vol. 1 1929-1964; The Moon is a Harsh Mistress  
 - Hempton, Gordon: Hoh Rainforest  
@@ -1080,7 +1082,6 @@
 - Sainsbury, Ian: The World Walker  
 - Sakey, Marcus: Brilliance  
 - Salamo, Lin: Mark Twain's Helpful Hints for Good Living  
-- Sanderson, Brandon: Shadows for Silence in the Forests of Hell & Perfect State; The Way of Kings; 1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; Warbreaker (read?); ~~Elantris~~; Arcanum Unbounded; 4) Defiant  
 - Scalzi, John: Dispatcher; The Collapsing Empire; The Kaiju Preservation Society (I think I bought this)
 - Schwab, VE: A Darker Shade of Magic  
 - Schulman, Daniel: Sons of Wichita  
@@ -1099,7 +1100,6 @@
 - ~~Stone, Brad: !!!The Everything Store~~    
 - Sturgeon, Theodore: SCIFI Hall of Fame, Vol.2-A  
 - Sullivan, Michael: The Jester (A Riyria Chronicles); Age of Myth  
-- Taylor, Dennis: Bobiverse Book 1 (Name?), Book 2 For We are Many  
 - Taylor, James: Break Shot: My First 21 Years  
 - Tchaikovsky, Adrian: Children of Time  
 - Terrill, Cristin: All Our Yesterdays  
@@ -1134,6 +1134,7 @@
 #### Asimov: ROBOTS: 1) Robot Dreams, Robot Vision, The Rest of the Robots, Gold: The FInal SCIFI Collection, Nemesis; 2) I, Robot; 3) Mother Earth; 4) The Positronic Man; 5) The Complete Robot; 6) Caves of Steel; 7) The Naked Sun; 8) The Robots of Dawn; 9) Robots and Empire.  
 #### Asimov: EMPIRE: 1) The Stars, Like Dust; 2) The Currents of Space; 3) Pebble in the Sky; 4) Blind Alley  
 #### Asimov: FOUNDATION: 1) Prelude to Foundation; 2) Forward the Foundation; 3) Foundation; 4) Foundation and Empire; 5) Second Foundation; 6) Foundation's Edge; 7) Foundation and Earth; 8) The End of Eternity  
+#### Asimov: Favorite SCIFI Stories volume 3 (Audible)  
 #### !!!~~Asimov: Nightfall~~    
 
 #### Athans, Philip: FORGOTTEN REALMS SEMBIA MULTIPLE AUTHORS: 1)The Halls of Stormweather(HAVE), 2)Shadow's witness, 3)The Shattered Mask(HAVE), 4)Black wolf, 5)Heirs of Prophecy(HAVE), 6)Sands of the Soul, 7)Lord of Stormweather  
@@ -1216,7 +1217,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Eddings, David: THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
 #### Eddings: THE MALLOREON: ~~1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell~~    
-#### Eddings: SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose, 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City   
+#### Eddings: SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose,  (First 3 audible) 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City   
 #### Eddings: DREAMERS: 1) The Elder Gods, 2) The Treasured One, 3) Crystal Gorge, 4) The Younger Gods  
 
 #### Ellis, Lindsay: NOUMENA: 1) Axiom's End, 2) Truth of the Divine   
@@ -1379,15 +1380,15 @@ The End and Other Beginnings: Stories from the Future
 #### ~~Salvatore, RA: !!!Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories~~   
 
 #### !!!Sanderson, Brandon: MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History (on Arcanum Unbounded), ~~4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,~~  
-#### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella (audible?), 4)Rhythm of War, 5)Highprince of War  
+#### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings (audible) & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella (audible?), 4)Rhythm of War, 5)Highprince of War  
 #### !!!Sanderson: RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
 #### Sanderson: ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
 #### Sanderson: RITHMATIST: 1) The Rithmatist  
-#### !!!SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant 2023   
+#### !!!SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant (AUDIBLE)  
 #### !!!INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 #### Sanderson: WARBREAKER: 1) Warbreaker (audible?), 2) Nightblood  
-#### Sanderson: SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell, 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.    
-#### Sanderson: The Original  
+#### Sanderson: SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell (Audible), 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.    
+#### Sanderson:  1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; (ALL AUDIBLE)
 #### Sanderson: 1) The Dark One (comic?), 2) Forgotten  
 
 #### Scalzi, John: OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades, The Sagan Diary, The Last Colony, Zoe's Tale, After the Coup, The Human Division, The B-Team, Walk the Plank, We only need the Heads, A Voice in the Wilderness, Tales from the Clarke, The Back Channel, The Dog King, The Sound of Rebellion, The Observers, This must be the Place, A Problem of Proportion, The Gentle Art of Cracking Heads, Earth Below Sky Above, The Human Division Extras, The End of All Things, The Life of the Mind, This Hollow Union, Can Long Endure, To Stand or Fall  
@@ -1396,7 +1397,7 @@ The End and Other Beginnings: Stories from the Future
 
 #### Sullivan, Michael: RIYRIA REVELATIONS: 1) Theft of Swords, 2) Rise of Empire, 3) Heir of Novron  
 
-#### Taylor, Dennis: Bobiverse 1) We are Legion (We are Bob),  
+#### Taylor, Dennis: Bobiverse 1) We are Legion (We are Bob), Book 2 For We are Many, 3) All These Worlds (ALL AUDIBLE)   
 
 #### Tchaikovsky, Adrian: 1)Shards of Earth, The FInal Architecture; 2) Dark Stars   
 #### Tchaikovsky: SHADOW OF APT: 0.5)Spoils of War, 1)Empire in Black and Gold, 2)Dragonfly Falling, 3)Blood of the Mantis, 4)Salute the Dark, 5)The Scarab Path, 6)The Sea Watch  
