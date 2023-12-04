@@ -1085,7 +1085,7 @@
 - Scalzi, John: Dispatcher; The Collapsing Empire; The Kaiju Preservation Society (I think I bought this)
 - Schwab, VE: A Darker Shade of Magic  
 - Schulman, Daniel: Sons of Wichita  
-- Sedaris, David: Holidays on Ice  
+- ~~Sedaris, David: Holidays on Ice~~    
 - Sherry, Miranda: Black Dog Summer  
 - Shetterly, Margot Lee: Hidden Figures  
 - Seim, Carrie: The Flying Flamingo Sisters  
