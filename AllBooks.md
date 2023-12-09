@@ -684,7 +684,6 @@
 - Rhodes, Richard: Dark Sun  
 - Richards, Carl: The One-Page Financial Plan  
 - Richards, Douglas: ALIEN ARTIFACT: 1) The Enigma Cube, 2) A Pivot in Time  
-- Riddle, AG: Quantum Radio; The Extinction Trails (see audible & series below)   
 - Ridley, Matt: The Rational Optimist  
 - Ries, Eric: The Lean Startup  
 - Rigsby, Rick: Lessons from a Third Grade Dropout  
@@ -1073,7 +1072,7 @@
 - Rather, Dan: Stories of a Lifetime  
 - Rich, Ben: Skunk Works  
 - Rich, Simon: Screwball  
-- Riddle, AG: Atlantis Plague Book 2; Departure (see below)  
+- Riddle, AG: Departure (see below)  
 - Robinson, Jeremy: 1) Infinite, ...6)Exo-Hunter.....11)The Order; Khaos  
 - Ross, Marty: The Darkwater Bride  
 - Rowe, Andrew: Sufficiently Advanced Magic; How to Defeat a Demon King in Ten Easy Steps  
@@ -1344,9 +1343,9 @@ LEGENDS: Book 1, Book 2, Book 3
 #### Reynolds, Alastair: POSEIDON'S CHILDREN: 1) Blue Remembered Earth, 2) On the Steel Breeze, 3) Poseidon's Wake  
 #### Reynolds, Alastair: ~~Eversion~~    
 
-#### Riddle, AG: ORIGIN MYSTERY: ~~1) Atlantis Gene,~~ 2) Atlantis Plague (audible), 3) Atlantis World  
+#### Riddle, AG: ORIGIN MYSTERY: ~~1) Atlantis Gene, 2) Atlantis Plague (audible), 3) Atlantis World~~  
 #### Riddle: THE LONG WINTER: 1) Winter World, 2) The Solar War, 3) The Lost Colony  
-#### Riddle: Lost in Time, Departure (audible)  
+#### Riddle: Quantum Radio, Lost in Time, Departure (audible)  
 
 #### !!!Roth, Veronica: DIVERGENT: ~~1) Divergent, 2) Insurgent, 3) Allegiant~~ Four: Divergent Story Collection  
 The End and Other Beginnings: Stories from the Future  
