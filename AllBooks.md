@@ -483,7 +483,6 @@
 - Levy, Steven: Hackers: Heroes of the Computer Revolution; Facebook: The Inside Story; ~~In The Plex: How Google thinks, works, and shapes our lives~~    
 - Lewis, Joseph Robert: Aetherium (kindle)  
 - Lewis, Michael: The Undoing Project; The Premonition  
-- Le Guin, Ursula K.: The Dispossessed; The Left Hand of Darkness  
 - Li, Grace: Portrait of a Thief  
 - Lindbergh, Anne Morrow: Gift from the Sea  
 - Lipman, Joanne: That's What She Said  
@@ -1295,7 +1294,7 @@ The Warrior of Altaii
 #### Legends:Short Novels by the Masters of Modern Fantasy
 LEGENDS: Book 1, Book 2, Book 3  
 
-#### Le Guin, Ursula: HAINISH CYCLE: ~~1) Rocannon's World, 2) Planet of Exile, 3) City of Illusions,~~ 4) The Left Hand of Darkness, 5) Winter's King, 6) The Word for World is Forest, 7) The Dispossessed, 8) The Day before the Revolution, 9) A Fisherman of the Inland Sea, 10) Four Ways to Forgiveness, 11) The Telling, 12) The Birthday of the World and Other Stories  
+#### Le Guin, Ursula: HAINISH CYCLE: ~~1) Rocannon's World, 2) Planet of Exile, 3) City of Illusions, 4) The Left Hand of Darkness (Listened while sleeping and missed most of book.  Alien who is trying to recruit society into their intergalactic conglomerate.  One of first book that was omnisexual.  Worked against 2 warring groups to bring them both on board using starship circling sun to help (12.2023)~~, 5) Winter's King, 6) The Word for World is Forest, 7) The Dispossessed, 8) The Day before the Revolution, 9) A Fisherman of the Inland Sea, 10) Four Ways to Forgiveness, 11) The Telling, 12) The Birthday of the World and Other Stories  
 
 #### !!!~~Lowry, Lois: THE GIVER SERIES: 1) The Giver, 2) Gathering Blue, 3) The Messenger, 4) Son~~    
 
