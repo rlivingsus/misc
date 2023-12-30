@@ -1396,6 +1396,7 @@ The End and Other Beginnings: Stories from the Future
 #### Sullivan, Michael: RIYRIA REVELATIONS: 1) Theft of Swords, 2) Rise of Empire, 3) Heir of Novron  
 
 #### Taylor, Dennis: Bobiverse 1) We are Legion (We are Bob), Book 2 For We are Many, 3) All These Worlds (ALL AUDIBLE)   
+#### Taylor, Dennis: Roadkill (Audible)  
 
 #### Tchaikovsky, Adrian: 1)Shards of Earth, The FInal Architecture; 2) Dark Stars   
 #### Tchaikovsky: SHADOW OF APT: 0.5)Spoils of War, 1)Empire in Black and Gold, 2)Dragonfly Falling, 3)Blood of the Mantis, 4)Salute the Dark, 5)The Scarab Path, 6)The Sea Watch  
