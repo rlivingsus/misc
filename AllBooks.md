@@ -78,7 +78,8 @@
 - Bourdain, Anthony: World Travel  
 - Bouton, Jim: Ball Four  
 - Bradbury, Ray:  Fahrenheit 451  
-- Brahm, Ajahn: The Art of Disappearing  
+- Brahm, Ajahn: The Art of Disappearing
+- Brendborg, Nicklas: Jellyfish Age Backwards  
 - Brin, David: Sundiver, Startide Rising, Uplift War then Brightness Reed, Heaven Reach, Infinitys Shore  
 - Brooks, David: The Road to Character 
 - Brooks, Mel: All About Me!  
@@ -93,7 +94,8 @@
 - Buck, Leslie: Cutting Back  
 - Buck, Rinker: Life on the Mississippi: An Epic American Adventure    
 - Burkeman, Oliver: Four Thousand Weeks  
-- Burnison, Gary: Lead  
+- Burnison, Gary: Lead
+- Burns, Lawrence: Autonomy  
 - Burt, Alexandra: Remember Mia  
 - Burvine, Lee: Kafir Project  
 - Butler, Octavia: Anything, Kindred  
@@ -178,7 +180,8 @@
 - Doctorow, Cory: Little Brother  
 - Dolnick, Edward: The Rush  
 - Domesek, Erica: P.S. I Made This...I See It...  
-- Doubinsky, Sebastien: The Babylonian Trilogy  
+- Doubinsky, Sebastien: The Babylonian Trilogy
+- Dougill, John: Off the Beaten Tracks in Japan  
 - Douglas, John: Mindhunter  
 - Douglass, Sara: ebook 1) The Wayfarer Redemption  
 - Dower, John: Embracing Defeat: Japan in the Wake of World War II  
@@ -190,7 +193,8 @@
 - Drehle, David: The Book of Charlie  
 - Driver, Minnie: Managing Expectations  
 - Drucker, Peter: The Practice of Management  
-- Duckworth, Angela: Grit  
+- Duckworth, Angela: Grit
+- Dumas, Alexandre: Count of Monte Cristo  
 - Duncan, Dave: ebook 1) The Reluctant Swordsman  
 - Dunham, Lena: Not that Kind of Girl  
 - Durant, Will/Ariel: The Lessons of History; The Story of Civilization  
@@ -273,7 +277,8 @@
 - Gaunt, Derek: Ego, Authority, Failure  
 - Gaynor, Hazel: Last Christmas in Paris: A Novel of World War I  
 - Gee, Emily: The Sentinel Mage  
-- Gentill, Sulari: The Woman in the Library  
+- Gentill, Sulari: The Woman in the Library
+- Gessen, Masha: The man without a face: The unlikely rise of vladimir Putin   
 - Gibson, William: Neuromancer  
 - Giesbrecht, Jennifer: The Monster of Elendhaven  
 - Girard, Danielle: White Out (kindle)  
@@ -487,7 +492,7 @@
 - Lindbergh, Anne Morrow: Gift from the Sea  
 - Lipman, Joanne: That's What She Said  
 - Lippman, Laura: Tess Monaghan Series (15?) 1) Baltimore Blues  
-- Liu, Cixin: Remembrance of Earth's Past series ~~1) The Three-Body Problem~~, 2) The Dark Forest, 3) Death's End; To Hold up the Sky; Supernova ERA  
+- Liu, Cixin: Remembrance of Earth's Past series 0) Ball Lightning, ~~1) The Three-Body Problem~~, 2) The Dark Forest, 3) Death's End, 4) Redemption of Time; To Hold up the Sky; Supernova ERA  
 - Liu, Ken: Dandelion Dynasty: The Armies of Those I Love; Invisible Planets  
 - Liu, Simu: We were Dreamers  
 - Livingston, Jessica: Founders at Work
@@ -627,7 +632,8 @@
 - Ollestad, Norman: Crazy for the Storm  
 - Omara, Margaret: The Code: Silicon Valley and the Remaking of America 
 - Onyebuchi, Tochi: Goliath; Riot Baby  
-- Owens, Delia: Where the Crawdads Sing  
+- Owens, Delia: Where the Crawdads Sing
+- Pacat, CS: DARK RISE TRILOGY: 1) Dark Rise  
 - Pacitti, Tony: My Best Friend is a Wookiee  
 - Pollan, Michael: The Omnivore's Dilemma  
 - Palmer, Ada: TERRA IGNOTA: 1) Too Like the Lightning; 2) Seven Surrenders  
@@ -753,7 +759,8 @@
 - Sheff, David: The Buddhist on Death Row  
 - Shepherd, Peng: The Cartographers; The Book of M  
 - Sheridan, Sam: The Disaster Diaries  
-- Sherry, Miranda: Black Dog Summer  
+- Sherry, Miranda: Black Dog Summer
+- Shipman, Viola: A Wish for Winter  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
 - Shoemaker, Martin: The Last Dance (kindle)  
 - Shusterman, Neal: Scythe  
@@ -998,7 +1005,6 @@
 - Emmich, Val: Dear Evan Hansen  
 - Estrella, LG: Cosmic Delivery Boy Book 1  
 - Ewalt, David: Of Dice and Men  
-- Feist, Raymond: King of Ashes; Magician: Apprentice; Shadow of a Dark Queen  
 - Fennel, Marc: Nut Jobs  
 - Feynman, Richard: The Pleasure of Finding Things out  
 - Foster, Amy: The Rift Uprising  
@@ -1028,11 +1034,12 @@
 - Hubbard, L.Ron: Writers of the Future, v.34  
 - Huxley, Aldous: Island  
 - Hystad, Nathan & Jasper Scott: Final Days Book 1 Final Days  
-- Islington, James: The Shadow of What was Lost  
+- Islington, James: The Shadow of What was Lost; The will of many    
 - Janca, Tanya: Alice and Bob Learn Application Security  
 - Kerr, Katherine: The Red Wyvern (book 1); Westlands 1) A Time of Exile (Dod Libraries); Devery Books 1-4 (Audible)  
 - Khoury, Jessica: The Mystwick School of Musicraft  
-- Krappweis, Tommy: A Crazy Inheritance  
+- Krappweis, Tommy: A Crazy Inheritance
+- Langford, Andrea: Trail of the Lost  
 - Lecesne, James: The Absolute Brightness of Leonard Pelkey  
 - Ledbetter, William: Level Five; Killday book 1  
 - Lee, Tony: Dodge & Twist  
@@ -1166,7 +1173,7 @@ Indomitable, Dark Wraith of Shannara~~
 #### !!!THE HIGH DRUID OF SHANNARA:~~1)Jarka Ruus; 2)Tanequil; 3)Straken~~  
 #### !!!~~Brooks: PALADINS OF SHANNARA (did not find in Libby, Short Stories in ebook format and did not read): 1)Allanon's Quest; 2)The Weapon Master's Choice; 3)The Black Irix~~    
 #### !!!Brooks: DARK LEGACY OF SHANNARA SERIES: ~~1) Wards of Faerie, 2) Blood Fire Quest, 3) Witch Wraith~~
-#### Brooks: DEFENDERS OF SHANNARA: ~~1) The High Druid's Blade, 2) The Darkling Child;~~ 3)The Sorcerer's Daughter  
+#### Brooks: DEFENDERS OF SHANNARA: ~~1) The High Druid's Blade, 2) The Darkling Child; 3)The Sorcerer's DaughterSTOPPED SERIES KINDA REPEATS~~  
 #### Brooks: THE FALL OF SHANNARA: 1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stiehl Assassin; 4) The Last Druid  
 #### Brooks: MAGIC KINGDOM OF LANDOVER: 1) Magic Kingdom for Sale/Sold, 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
 
@@ -1190,7 +1197,7 @@ RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various go
 
 #### !!!Card, Orson Scott: ENDER'S SAGA: ~~1) Ender's Game, 2) Speaker for the Dead, 3) Xenocide, 4) Children of the Mind, 4.5) A War of Gifts 5) Ender in Exile~~ 6) GOTO SHADOW SERIES
 #### Card: Mithermages: 1) The Lost Gate,  
-#### Card: THE SHADOW SERIES: ~~1) Ender's Shadow, 2) Shadow of the Hegemon,~~ 3) Shadow Puppets, 4) Shadow of the Giant, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow    
+#### Card: ENDER's SHADOW SERIES: ~~1) Ender's Shadow, 2) Shadow of the Hegemon, 3) Shadow Puppets, 4) Shadow of the Giant~~, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow    
 #### Card: THE FIRST FORMIC WAR SERIES: 1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens  
 #### Card: Duplex, Lost and Found  
 
@@ -1229,13 +1236,14 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### !!!Feist, Raymond: RIFTWAR SAGA: ~~1)Magician: Apprentice, 2)Magician: Master, 3)Silverthorn, 3)A Darkness at Sethanon~~
 #### !!!Feist: EMPIRE TRILOGY: ~~1)Daughter of the Empire, 2)Servant of the Empire, 3)Mistress of the Empire~~  
 #### Feist: KRONDOR'S SONS: ~~1)Prince of the Blood, 2)The King's Buccaneer~~    
-#### Feist: SERPENT WAR SAGA: ~~1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King~~, 4)Shards of a Broken Crown  
+#### Feist: SERPENT WAR SAGA: ~~1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King, 4)Shards of a Broken Crown~~    
 #### !!!Feist: RIFTWAR LEGACY: ~~1)Krondor: The Betrayal, 2)Krondor: The Assassins, 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler~~  
 #### !!!Feist: LEGENDS OF RIFTWAR (coincide with riftwar saga): ~~1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand~~  
 #### Feist: CONCAVE OF SHADOWS: 1)Talon of the Silver Hawk, 2)King of Foxes, 3)Exile's Return  
 #### Feist: DARKWAR SAGA: 1)Flight of the Nighthawks(have), 2)Into a Dark Realm, 3)Wrath of a Mad God  
 #### Feist: DEMONWAR SAGA: 1)Rides a Dread Legion, 2)At the Gates of Darkness  
 #### Feist: CHAOSWAR SAGA: 1)A Kingdom Besieged, 2)A Crown Imperilled, 3)Magician's End  
+#### Feist: SOLO: King of Ashes (on Audible?)  
 
 #### Goodkind, Terry: SWORD OF TRUTH: 0) The First Confessor, 0.5) Debt of Bones, ~~1) Wizards First Rule,~~, 2) Stone of Tears, 3) Blood of the Fold, 4) Temple of Winds, 5) Soul of the Fire, 6) Faith of the Fallen, 7) The Pillars of Creation, 8) Naked Empire, 9) Chainfire, 10) Phantom, 11) Confessor, 12) The Omen Machine, 13) The Third Kingdom, 14) Severed Souls, 15) Warheart, 15.5) The Law of Nines  
 
@@ -1258,7 +1266,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### !!!Hobb, Robin: THE FARSEER TRILOGY: ~~1) Assassin's Apprentice, 2) Royal Assassin, 3) Assassin's Quest~~  
 #### !!!Hobb, Robin: LIVESHIP TRILOGY: ~~1) The Ship of Magic, 2) The Mad Ship, 3) Ship of Destiny~~  
-#### Hobb: THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven, 3) City of Dragons,~~ 4) Blood of Dragons  
+#### Hobb: THE RAINWILD CHRONICLES: 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven, 3) City of Dragons, 4) Blood of Dragons~~  
 
 #### Hogan, James: GIANT SERIES: 1) Inherit the Stars  
 
@@ -1321,7 +1329,7 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
 
-#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador~~, 3)??  
+#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels~~, 4) The Chaos Balance 
 
 #### Nix, Garth: THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Case, 4) Clariel, 5) Goldenhand, 6) Terciel and Elinor  
 
@@ -1377,7 +1385,7 @@ The End and Other Beginnings: Stories from the Future
 #### Salvatore: SAGA OF THE FIRST KING: 1) The Highwayman (AUDIBLE), 2) The Ancient   
 #### ~~Salvatore, RA: !!!Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories~~   
 
-#### !!!Sanderson, Brandon: MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages,~~ 3.5) Secret History (on Arcanum Unbounded), ~~4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,~~  
+#### !!!Sanderson, Brandon: MISTBORN: ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages, 3.5) Secret History (on Arcanum Unbounded), 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,~~  
 #### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings (audible) & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella (audible?), 4)Rhythm of War, 5)Highprince of War  
 #### !!!Sanderson: RECKONERS: ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
 #### Sanderson: ELANTRIS: ~~1)Elantris,~~ 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)  
@@ -1385,7 +1393,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant (AUDIBLE)  
 #### !!!INFINITY BLADE: Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 #### Sanderson: WARBREAKER: 1) Warbreaker (audible?), 2) Nightblood  
-#### Sanderson: SOLO: 1) Perfect State, 2) Shadow for Silence in the Forests of Hell (Audible), 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.    
+#### Sanderson: SOLO: 1) Perfect State, ~~2) Shadow for Silence in the Forests of Hell (Audible), 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.~~    
 #### Sanderson:  1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; (ALL AUDIBLE)
 #### Sanderson: 1) The Dark One (comic?), 2) Forgotten  
 
