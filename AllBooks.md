@@ -2,6 +2,7 @@
 - Abdullah, Chelsea: The Stardust Thief 
 - Acemoglu, Daron: Why Nations Fail  
 - Achor, Shawn: The Happiness Advantage
+- Ackerman, Elliott: 2034 and 2054  
 - Ackerman, Jennifer: What an Owl knows  
 - Ackerman, Sara: The Codebreaker's Secret (another audible)  
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
@@ -52,7 +53,8 @@
 - Banks, Russell: The Magic Kingdom  
 - Barker, Eric: Barking up the wrong tree  
 - Barnes, Jennifer: The Inheritance Games: 1) The Inheritance Games, 2) The Hawthorne Legacy, 3) The Final Gambit  
-- Barton, Craig: How I wished I'd Maths  
+- Barton, Craig: How I wished I'd Maths
+- Basham, Brendan: Swim Home to Vanished  
 - Baskin, Jonathan Salem: Strange in Place  
 - Bauer, Craig: Unsolved; Secret History  
 - Bazterrica, Agustina: Tender is the Flesh  
@@ -209,7 +211,8 @@
 - El-Mohtar, Amal: This is How you Lose the Time War  
 - Ellenberg, Jordan: How Not to be Wrong  
 - Ellis, Joseph: The Cause, The American Revolution  
-- Ellsberg, Michael: The Education of Millionaires  
+- Ellsberg, Michael: The Education of Millionaires
+- Elston, Ashley: First Lie Wins  
 - Endo, Shusaku: Silence  
 - Ericsson, Anders: Peak  
 - Erikson, Steven: Gardens of the Moon  
@@ -379,7 +382,8 @@
 - Hood, Ann: Fly Girl  
 - Hornby, Nick: Dickens and Prince  
 - Hornfischer, James: Neptune's Inferno; The Fleet at Flood Tide; The Last Stand of the Tin Can Sailors  
-- Housel, Morgan: The Psychology of Money  
+- Housel, Morgan: The Psychology of Money
+- Howard, Catherine: The Trap  
 - Howard, Michael: The Salaryman  
 - Howarth, David: We Die Alone  
 - Huang, S.L.: Zero Sum Game  
@@ -453,7 +457,7 @@
 - Krakauer, John: Into the Wild   
 - Krishnamurti, Jiddu: The Book of Life  
 - Kritzer, Naomi: Catfishing on CatNet  
-- Kuang, RF: Babel  
+- Kuang, RF: Poppy War (first book), Babel    
 - Kundera, Milan: the Unbearable Lightness of Being  
 - Kunsken, Derek: THE QUANTUM EVOLUTION: 1) The Quantum Magician, 2) Quantum Garden, 3) Quantum War  
 - Kurson, Robert: Shadow Divers  
@@ -465,7 +469,8 @@
 - Landy, Derek: Skulduggery Pleasant 1  
 - Lang, Ruth: The Wilderwoman  
 - Langer, Ellen: Mindfullness  
-- Lanier, Randy: Survival of the Fastest  
+- Lanier, Randy: Survival of the Fastest
+- Lanier, Tripp: The book will make you Dangerous  
 - Lansing, Alfred: Endurance  
 - Laplander, Robert: Finding the Lost Battalion  
 - Larson, Erik: The Devil in the White City; Dead Wake  
@@ -543,7 +548,8 @@
 - McAllister, Gillian: Wrong Place Wrong Time  
 - McCandless, David: Beautiful News  
 - McCarthy, Andrew: Journeys Home  
-- McChrystal, Stanley: Team of Teams; Leaders  
+- McChrystal, Stanley: Team of Teams; Leaders
+- McConaughhey, Matthew: Greenlights  
 - McDonald, Brian: Invisible Ink, The Golden Theme (kindle)    
 - McDonald, Ed: Blackwing  
 - McDougall, Christopher: Born to Run  
@@ -663,7 +669,8 @@
 - Popkin, Jim: Code Name Blue Wren  
 - Porter, Lindsay: Assassination  
 - Potts, Rolf: Marco Polo Didn't Go There  
-- Pohl, Frederik: Gateway  
+- Pohl, Frederik: Gateway
+- Pompliano, Polina: Hidden Genius  
 - Poulsen, Kevin: Kingpin  
 - Powell, Colin: It Worked for Me; My American Journey  
 - Pratchett, Terry: Discworld books  
@@ -770,7 +777,8 @@
 - Simpson, Joe: Touching the Void  
 - Sinek, Simon: Together is Better: A little book of Inspiration ; Find your WHy; Leaders eat Last; The Infinite Game  
 - Singer, PW & August Cole: Burn-In: A Novel of the Real Robotic Revolution & Ghost Fleet  
-- Singh, Simon: Fermats Enigma  
+- Singh, Simon: Fermats Enigma
+- Skomal, Greg: Chasing Shadows, My Life Tracking the Great White Shark  
 - Slater, Tracy: The Good Shufu
 - Slim, Viscount: Defeat into Victory  
 - Slineni, Haemin?: The things you can see only when you slow down  
@@ -920,8 +928,10 @@
 - Wright, Richard: Burglars on the Job  
 - Walton, Jo: Among Others  
 - Wearmouth, Darren: Dont Move  
-- Wells, Martha: Network Effect  
-- Wilhelm, Kate: Where Late the Sweet Birds Sang  
+- Wells, Martha: Network Effect
+- White, Ralph: Getting Out of Saigon  
+- Wilhelm, Kate: Where Late the Sweet Birds Sang
+- Williams, Billy Dee: What have we here?  
 - Willink, Jocko & Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win  
 - Willis, Connie: Doomsday Book  
 - Wolfe, Gene: The Claw of the Conciliator
@@ -1036,8 +1046,9 @@
 - Huxley, Aldous: Island  
 - Hystad, Nathan & Jasper Scott: Final Days Book 1 Final Days  
 - Islington, James: The Shadow of What was Lost; The will of many    
-- Janca, Tanya: Alice and Bob Learn Application Security  
-- Kerr, Katherine: The Red Wyvern (book 1); Westlands 1) A Time of Exile (Dod Libraries); Devery Books 1-4 (Audible)  
+- Janca, Tanya: Alice and Bob Learn Application Security
+- Kalakaua, David: Hawaiian Mythology  
+- Kerr, Katherine: The Red Wyvern (book 1); Westlands 1) A Time of Exile (Dod Libraries); ~~Devery Books 1-4~~  
 - Khoury, Jessica: The Mystwick School of Musicraft  
 - Krappweis, Tommy: A Crazy Inheritance
 - Langford, Andrea: Trail of the Lost  
@@ -1045,7 +1056,8 @@
 - Ledbetter, William: Level Five; Killday book 1  
 - Lee, Tony: Dodge & Twist  
 - Levy, Steven: In the Plex; Hackers: Heroes of the Comp;uter Revolution  
-- Livingston, Michael: Black Crow, White Snow  
+- Livingston, Michael: Black Crow, White Snow
+- Lourey, Jeff: The Taken Ones  
 - Ma, YoYo: Beginner's Mind  
 - Maberry, Jonathan: Trust No One  
 - Macdonald, Erin: The Science of Sci-fi  
