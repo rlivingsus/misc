@@ -6,7 +6,7 @@
 - Ackerman, Sara: The Codebreaker's Secret (another audible)  
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
 - Adams, Marilee: Change your Questions  
-- Adams, Richard: Watership Down  
+- ~~Adams, Richard: Watership Down~~    
 - Alam, Rumaan: Leave the World Behind  
 - Alanson, Craig:  
 - Alderman, Naomi: The Power  
@@ -517,7 +517,8 @@
 - Mackintosh, Clare: The Last Party  
 - Mack, Katie: The End of Everything  
 - Magary, Drew: The Hike (ebook only?)  
-- Majumdar, Simon: Fed, White and Blue  
+- Majumdar, Simon: Fed, White and Blue
+- ~~Malerman, Josh: Bird Box~~    
 - Manansala, Mia: Tita Rosie's Kitchen Mystery Series (3) 1) Arsenic and Adobo  
 - Mandela, Nelson: Long Walk to Freedom  
 - Mandel, Emily St. John: Station Eleven; Sea of Tranquility  
@@ -1213,7 +1214,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### DeMille, Nelson: Scott Brodie Series: 1) The Deserter, 2) Blood Lines  
 
-#### Donaldson, Stephen: THE CHRONICLES OF THOMAS COVENANT THE UNBELIEVER: ~~1) Lord Foul's Bane~~, 2) The Illearth War, 3) The Power that Preserves  
+#### Donaldson, Stephen: THE CHRONICLES OF THOMAS COVENANT THE UNBELIEVER: ~~1) Lord Foul's Bane, 2) The Illearth War~~, 3) The Power that Preserves  
 #### Donaldson: THE SECOND CHRONICLES OF THOMAS COVENANT: 1) The Wounded Land, 2) The One Tree, 3) White Gold Wielder  
 #### Donaldson: THE LAST CHRONICLES OF THOMAS COVENANT: 1) The Runes of the Earth, 2) Fatal Revenant, 3) Against all Things Ending, 4) The Last Dark  
 #### Donaldson: KING'S JUSTICE: The Augur's Gambit, The King's Justice   
@@ -1235,11 +1236,11 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### !!!Feist, Raymond: RIFTWAR SAGA: ~~1)Magician: Apprentice, 2)Magician: Master, 3)Silverthorn, 3)A Darkness at Sethanon~~
 #### !!!Feist: EMPIRE TRILOGY: ~~1)Daughter of the Empire, 2)Servant of the Empire, 3)Mistress of the Empire~~  
-#### Feist: KRONDOR'S SONS: ~~1)Prince of the Blood, 2)The King's Buccaneer~~    
-#### Feist: SERPENT WAR SAGA: ~~1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King, 4)Shards of a Broken Crown~~    
+#### !!!Feist: KRONDOR'S SONS: ~~1)Prince of the Blood, 2)The King's Buccaneer~~    
+#### !!!Feist: SERPENT WAR SAGA: ~~1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King, 4)Shards of a Broken Crown~~    
 #### !!!Feist: RIFTWAR LEGACY: ~~1)Krondor: The Betrayal, 2)Krondor: The Assassins, 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler~~  
 #### !!!Feist: LEGENDS OF RIFTWAR (coincide with riftwar saga): ~~1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand~~  
-#### Feist: CONCAVE OF SHADOWS: 1)Talon of the Silver Hawk, 2)King of Foxes, 3)Exile's Return  
+#### Feist: CONCAVE OF SHADOWS: ~~1)Talon of the Silver Hawk~~, 2)King of Foxes, 3)Exile's Return  
 #### Feist: DARKWAR SAGA: 1)Flight of the Nighthawks(have), 2)Into a Dark Realm, 3)Wrath of a Mad God  
 #### Feist: DEMONWAR SAGA: 1)Rides a Dread Legion, 2)At the Gates of Darkness  
 #### Feist: CHAOSWAR SAGA: 1)A Kingdom Besieged, 2)A Crown Imperilled, 3)Magician's End  
@@ -1280,16 +1281,16 @@ The Warrior of Altaii
 
 #### Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
 
-#### Kerr, Katharine: ACT ONE: DEVERRY: 1)Daggerspell, 2)Darkspell, 3)The Bristling Wood, 4)The Dragon Revenant  
+#### Kerr, Katharine: ACT ONE: DEVERRY: ~~1)Daggerspell~~, 2)Darkspell, 3)The Bristling Wood, 4)The Dragon Revenant  
 #### Kerr: ACT TWO: THE WESTLANDS:  1)A Time of Exile, 2)A Time of Omens, 3)Days of Blood and Fire, 4)Days of Air and Darkness  
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
-#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile~~  UR; 11/22/63  
+#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile~~  UR; ~~11/22/63~~  
 #### !!!King, Stephen: BILL HODGES: ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
-#### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, ~~1) Odd Thomas, 2) Forever Odd, 3) Brother Odd~~, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
+#### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, ~~1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours~~, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
 #### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart  
 
 #### Kwan, Kevin  
@@ -1329,7 +1330,7 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
 
-#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels~~, 4) The Chaos Balance 
+#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance~~, 5) Arms-Commander   
 
 #### Nix, Garth: THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Case, 4) Clariel, 5) Goldenhand, 6) Terciel and Elinor  
 
@@ -1371,8 +1372,8 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Salvatore THE PATHS OF DARKNESS: ~~1)The Silent Blade, 2)The Spine of the World, 3)Sea of Swords~~  
 #### !!!Salvatore THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
 #### !!!Salvatore THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
-#### Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King, 3) The Ghost King~~  
-#### Salvatore: NEVERWINTER SAGA: 1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold (humbun ebooks)   
+#### !!!Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King, 3) The Ghost King~~  
+#### Salvatore: NEVERWINTER SAGA: ~~1) Gauntlgrym~~, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold (humbun ebooks)   
 #### Salvatore: THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
 #### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf (humbun ebooks)    
 #### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero (humbun ebooks)    
@@ -1456,7 +1457,7 @@ The End and Other Beginnings: Stories from the Future
 #### Zahn: COBRA:  1)Cobra, 2)Cobra Strike, 3)Cobra Bargain  
 #### Zahn: BLACKCOLLAR:  1)The Blackcollar, 2)The Backlash Mission, 3)The Judas Solution  
 #### Zahn: COBRA WAR:  1)Cobra Alliance, 2)Cobra Guardian, 3)Cobra Gamble  
-#### Zahn: THE SIBYL'S WAR:  1)Pawn, 2)Knight:AChronicle of the Sibyl's War, 3)Queen:AChronicle of the Sibyl's War  
+#### Zahn: THE SIBYL'S WAR:  ~~1)Pawn~~, 2)Knight:AChronicle of the Sibyl's War, 3)Queen:AChronicle of the Sibyl's War  
 #### Zahn: COBRA REBELLION:  1)Cobra Slave, 2)Cobra Outlaw, 3)Cobra Traitor  
 
 #### STARWARS  
