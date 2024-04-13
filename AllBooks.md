@@ -451,7 +451,6 @@
 - Knight, Phil: Shoe Dog  
 - Kohanek, Jeffrey: Fate of Wizardom  
 - Kolker, Claudia: The Immigrant Advantage  
-- Koontz, Dean: Strangers; Quicksilver; Mr. Murder  
 - Koppel, Ted: Lights Out   
 - Kowal, Mary: The Calculating Stars  
 - Krakauer, John: Into the Wild   
@@ -497,7 +496,7 @@
 - Lindbergh, Anne Morrow: Gift from the Sea  
 - Lipman, Joanne: That's What She Said  
 - Lippman, Laura: Tess Monaghan Series (15?) 1) Baltimore Blues  
-- Liu, Cixin: Remembrance of Earth's Past series 0) Ball Lightning, ~~1) The Three-Body Problem~~, 2) The Dark Forest, 3) Death's End, 4) Redemption of Time; To Hold up the Sky; Supernova ERA  
+- Liu, Cixin: Remembrance of Earth's Past series 0) Ball Lightning, ~~1) The Three-Body Problem, 2) The Dark Forest, 3) Death's End~~, 4) Redemption of Time (someone else wrote this); To Hold up the Sky; Supernova ERA  
 - Liu, Ken: Dandelion Dynasty: The Armies of Those I Love; Invisible Planets  
 - Liu, Simu: We were Dreamers  
 - Livingston, Jessica: Founders at Work
@@ -872,7 +871,7 @@
 - Varol, Ozan: Think Like a Rocket Scientist  
 - Viega, John: The Myths of Security  
 - Villoso, K.S.: CHRONICLES OF THE BITCH QUEEN: 1)The Wolf of Oren-Yaro  
-- Vinge, Vernor: A Fire Upon the Deep; A Deepness in the Sky  
+- Vinge, Vernor: A Fire Upon the Deep; ~~A Deepness in the Sky~~  
 - Virts, Terry: How to Astronaut  
 - Vo, Nghi: Siren Queen  
 - Volk, Steve: Fringe-ology  
@@ -1210,7 +1209,7 @@ RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various go
 
 #### !!!Card, Orson Scott: ENDER'S SAGA: ~~1) Ender's Game, 2) Speaker for the Dead, 3) Xenocide, 4) Children of the Mind, 4.5) A War of Gifts 5) Ender in Exile~~ 6) GOTO SHADOW SERIES
 #### Card: Mithermages: 1) The Lost Gate,  
-#### Card: ENDER's SHADOW SERIES: ~~1) Ender's Shadow, 2) Shadow of the Hegemon, 3) Shadow Puppets, 4) Shadow of the Giant~~, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow    
+#### Card: ENDER's SHADOW SERIES: ~~1) Ender's Shadow, 2) Shadow of the Hegemon, 3) Shadow Puppets, 4) Shadow of the Giant, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow~~      
 #### Card: THE FIRST FORMIC WAR SERIES: 1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens  
 #### Card: Duplex, Lost and Found  
 
@@ -1252,7 +1251,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### !!!Feist: SERPENT WAR SAGA: ~~1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King, 4)Shards of a Broken Crown~~    
 #### !!!Feist: RIFTWAR LEGACY: ~~1)Krondor: The Betrayal, 2)Krondor: The Assassins, 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler~~  
 #### !!!Feist: LEGENDS OF RIFTWAR (coincide with riftwar saga): ~~1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand~~  
-#### Feist: CONCAVE OF SHADOWS: ~~1)Talon of the Silver Hawk~~, 2)King of Foxes, 3)Exile's Return  
+#### Feist: CONCAVE OF SHADOWS: ~~1)Talon of the Silver Hawk, 2)King of Foxes~~, 3)Exile's Return  
 #### Feist: DARKWAR SAGA: 1)Flight of the Nighthawks(have), 2)Into a Dark Realm, 3)Wrath of a Mad God  
 #### Feist: DEMONWAR SAGA: 1)Rides a Dread Legion, 2)At the Gates of Darkness  
 #### Feist: CHAOSWAR SAGA: 1)A Kingdom Besieged, 2)A Crown Imperilled, 3)Magician's End  
@@ -1298,12 +1297,12 @@ The Warrior of Altaii
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
-#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile~~  UR; ~~11/22/63~~  
+#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile; Salem's Lot~~  UR; ~~11/22/63~~  
 #### !!!King, Stephen: BILL HODGES: ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
-#### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, ~~1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours~~, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd   
-#### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart  
+#### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, ~~1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse~~, 6) Deeply Odd, 7) Saint Odd   
+#### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart, Strangers, Quicksilver, Mr. Murder    
 
 #### Kwan, Kevin  
 !!!CRAZY RICH ASIANS: ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich People Problems~~   
@@ -1324,7 +1323,7 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### Martin, George RR: A SONG OF ICE AND FIRE: ~~1) Game of Thrones, 2) A Clash of Kings, 3) A Storm of Swords,~~ 4) A Feast for Crows, 5) A Dance with Dragons, 6) The Winds of Winter (forthcoming), 7) A Dream of Spring  
 
-#### Martine, Arkady: TEIXCALAAN SERIES: 1) A Memory Called Empire; 2) A Desolation Called Peace  
+#### Martine, Arkady: TEIXCALAAN SERIES: ~~1) A Memory Called Empire~~; 2) A Desolation Called Peace  
 
 #### Martinez, Gama Ray: DEFENDERS OF LORE SERIES: 1) God of Neverland, 2) Queens of Wonderland  
 
@@ -1337,12 +1336,12 @@ LEGENDS: Book 1, Book 2, Book 3
 #### McCaffrey: DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper, Dragonsblood (Lorana parts)  
 #### McCaffrey: DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
 !!!DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),(8)Nerilka's Story~~  
-#### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern~~, (13)The Dolphins of Pern, (16)The Skies of Pern  
+#### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern, (13)The Dolphins of Pern~~, (16)The Skies of Pern  
 #### McCaffrey: OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code  
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
 
-#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance~~, 5) Arms-Commander   
+#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance, 5) Arms-Commander~~, 6) Cyador's Heirs,     
 
 #### Nix, Garth: THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Case, 4) Clariel, 5) Goldenhand, 6) Terciel and Elinor  
 
