@@ -4,10 +4,11 @@
 - Achor, Shawn: The Happiness Advantage
 - Ackerman, Elliott: 2034 and 2054  
 - Ackerman, Jennifer: What an Owl knows  
-- Ackerman, Sara: The Codebreaker's Secret (another audible)  
+- Ackerman, Sara: The Codebreaker's Secret (another audible)
+- Ackroyd, Peter: Alfred Hitchcock  
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
 - Adams, Marilee: Change your Questions  
-- ~~Adams, Richard: Watership Down~~    
+- ~~Adams, Richard: Watership Down~~ Tales from Watership Down (book2)  
 - Alam, Rumaan: Leave the World Behind  
 - Alanson, Craig:  
 - Alderman, Naomi: The Power  
@@ -25,7 +26,8 @@
 - Andrews, Jesse: Me, Earl and the Dying Girl  
 - Angelou, Maya: I Know why the Caged Bird Sings  
 - AN INNOCENT ABROAD: Lonely Planet  
-- Aoki, Ryka: Light from Uncommon Stars  
+- Aoki, Ryka: Light from Uncommon Stars
+- Aoyama, Michiko: What you are look for is in the Library  
 - Archer, Ursula: FIVE   
 - Ariely, Dan: The Honest Truth about Dishonesty  
 - Asher, Neal: Dark Intelligence: Transformation  
@@ -99,7 +101,8 @@
 - Burnison, Gary: Lead
 - Burns, Lawrence: Autonomy  
 - Burt, Alexandra: Remember Mia  
-- Burvine, Lee: Kafir Project  
+- Burvine, Lee: Kafir Project
+- Bush, George: Out of Many, One  
 - Butler, Octavia: Anything, Kindred  
 - Bujold, Lois: Paladin of Souls  
 - Byers, Richard Lee: ebook Haunted Lands; Sembia  
@@ -126,8 +129,10 @@
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
-- Cho, Zen: Sorcerer to the Crown  
-- Chong, Jinwoo: Flux  
+- Cho, Zen: Sorcerer to the Crown
+- Choi, Roy: LA Son  
+- Chong, Jinwoo: Flux
+- Chung, Gina: Sea Change   
 - Cialdini, Robert: Influence The Psychology of Persuasion  
 - Cipri, Nino: Finna  
 - Cisneros, Sandra: The House on Mango Street  
@@ -145,8 +150,9 @@
 - Connolly, John: The Gate...  
 - Connolly, Rebecca: A Brilliant Night of Stars and Ice  
 - Collins, Eileen: Through the Glass Ceiling to the Stars  
-- Collins, Megan: The Family Plot  
-- Cooper, Anderson: Vanderbilt  
+- Collins, Megan: The Family Plot
+- Comey, James: A Higher Loyalty    
+- Cooper, Anderson: Vanderbilt   
 - Cordova, Zoraida: The Inheritance of Orquidea Divina  
 - Coremen, Thomas: Algorithms Unlocked  
 - Corey, James: The Expanse  
@@ -154,9 +160,11 @@
 - Cotton, Tom: Sacred Duty  
 - Couch, Dick: A Tactical Ethic  
 - Crichton, Michael: Sphere; Rising Sun; Andromeda Strain; The Great Train Robbery;   
-- Cristie, Agatha:  TOMMY & TUPPENCE: 2) Partners in Crime, 3) N or M?, 4) By the Pricking of My Thumbs, 5) Postern of Fate HERCULE POIROT: various  
+- Cristie, Agatha:  TOMMY & TUPPENCE: 2) Partners in Crime, 3) N or M?, 4) By the Pricking of My Thumbs, 5) Postern of Fate HERCULE POIROT: various
+- Critchley, Emily: One Puzzling Afternoon  
 - Cronin, Justin: The Passage  
-- Crouch, Blake: Recursion; Dark Matter; Upgrade   
+- Crouch, Blake: Recursion; Dark Matter; Upgrade
+- Crowell, Maddy: The Hacker   
 - Cunningham, Elain: ebook 1) Elfshadow    
 - Curtis, Houston: Billion Dollar Hollywood Heist  
 - Cushman, Marc: Star Trek
@@ -172,7 +180,7 @@
 - Demopoulos, Ted: Infosec Rock Star (kindle)  
 - Deutsch, David: The Beginning of Infinity
 - Diamond, Michael & Horowitz, Adam: Beastie Boys Books  
-- Dick, Phillip K.: Electric Dreams?  
+- Dick, Phillip K.: Electric Dreams    
 - Dickens, Charles: A Tale of Two Cities; Oliver Twist  
 - Dicks, Matthew: Storyworthy  
 - Dignan, Aaron: Gameframe  
@@ -194,7 +202,8 @@
 - Dreeke, Robin: It's Not all about "me"  
 - Drehle, David: The Book of Charlie  
 - Driver, Minnie: Managing Expectations  
-- Drucker, Peter: The Practice of Management  
+- Drucker, Peter: The Practice of Management
+- Duchovny, David: Miss Subway  
 - Duckworth, Angela: Grit
 - Dumas, Alexandre: Count of Monte Cristo  
 - Duncan, Dave: ebook 1) The Reluctant Swordsman  
@@ -299,7 +308,8 @@
 - Gordon, Andrew: The Rules of the Game  
 - Gorenberg, Gershom: War of Shadows  
 - Goulding, Matt: Roads & Kingdoms Presents: 1) Rice, Noodle, Fish; 2) Grape, Olive, Pig; 3) Pasta, Pane, Vino
-- Grabenstein, Chris: Home Sweet Motel (Book 1, Welcome to Wonderland)  
+- Grabenstein, Chris: Home Sweet Motel (Book 1, Welcome to Wonderland)
+- Graeber, David: Bullshit Jobs  
 - Graedon, Joe: Top Screwups Doctors Make and How to Avoid them  
 - Graff, Lisa: A Tangle of Knots  
 - Grafton, Sue:  
@@ -314,7 +324,7 @@
 - Green, Alexander: Beyond Wealth  
 - Green, John: The Anthropocene Reviewed; Turtles All the Way Down; Paper Towns  
 - Green, Simon: The Nightside  
-- Greenberg, Andy: Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hacker; Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency  
+- Greenberg, Andy: Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hacker; Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency; The Mirai Confessions  
 - Greene, Brian: Until the End of Time  
 - Greene, Robert: The Laws of Human Nature; 50th Law; 48 Laws of Power   
 - Greenspan, Alan: The man who knew: the Life & Times of Alan Greenspan  
@@ -392,7 +402,7 @@
 - Hunter, Dave: Along Interstate-75  
 - Hunter, Georgia: We were the Lucky Ones  
 - Huxley, Aldous: Brave New WOrld  
-- Iger, Robert: The RIde of a Lifetime  
+- Iger, Robert: The Ride of a Lifetime  
 - Imbler, Sabrina: How Far the Light Reaches: A Life in Ten Sea Creatures  
 - Irby, Samantha: Wow, No Thank You  
 - Isaacson, Walter: Einstein: His Life and Universe  
@@ -426,7 +436,8 @@
 - Kaufman, Arnie & Jay Kristoff: Illuminae  
 - Kaufman, Josh: The personal MBA  
 - Kawaguchi, Toshikazu: Before the Coffee Gets Cold; Before your memory fades   
-- Kawakami, Hiromi: Manazuru  
+- Kawakami, Hiromi: Manazuru
+- Kayyem, Juliette: The Devil Never Sleeps; Learning to live in an age of Disasters  
 - Kean, Sam: The Bastard Brigade  
 - Kearney, Paul: The Ten Thousand  
 - Kendi, Ibram: How to be an Antiracist  
@@ -475,7 +486,8 @@
 - Larson, Erik: The Devil in the White City; Dead Wake  
 - Laurain, Antoine: Vintage 1954
 - Lawhon, Ariel & McMorris & Meissner: When We Had Wings  
-- Lawrence, Mark: The Book of the Ancestor  
+- Lawrence, Mark: The Book of the Ancestor
+- Leahy, William: The Second Most Powerful Man in the World  
 - Le Couteur, Penny: Napoleon's Buttons  
 - Leckie, Ann: Ancillary Justice; Translation State  
 - Ledbetter, William: Level Five and Level Six  
@@ -529,7 +541,9 @@
 - Marchout, Jo: Decoding the Heavens 
 - Marcinko, Rich: Leadership secrets of the Rogue Warrior  
 - Marillier, Juliet: Heir to Seven Waters  
-- Marin, David: This is US  
+- Marin, David: This is US
+- Markoff, John: CyberPunk.  Outlaws and Hackers...
+- Markopolos, Harry: No One Would Listen.  
 - Marlantes, Karl: Matterhorn; What it is like to go to war
 - Marquet, L. David: Turn the Ship Around  
 - Marquez, Gabriel Garcia: One Hundred Years of Solitude; The Story of a Shipwrecked Sailor  
@@ -570,7 +584,8 @@
 - Merritt, Jerry: A Gift of Time  
 - Mersinger, Holly: The Curse of Jacob Tracy  
 - Meyer, Marissa: Renegades  
-- Meyer, Michael: In Manchuria  
+- Meyer, Michael: In Manchuria
+- Mezrich, Ben: Bitcoin Billionaires  
 - Mieville, China: The City & The City  
 - Mihalik, Jessie: Polaris Rising  
 - Miles, Kathryn: Trailed  
@@ -582,7 +597,8 @@
 - Miodownik, Mark: Stuff Matters (kindle)  
 - Mitchell, David: Cloud Atlas  
 - Mitchell, Maggie: Pretty is:  
-- Mnookin, Robert: Create Value in Deals and Disputes; Beyond WInning   
+- Mnookin, Robert: Create Value in Deals and Disputes; Beyond WInning
+- Modderkolk, Huib: Leave No Trace: How a Teenage Hacker...  
 - Moon, Elizabeth:  
 - Moorcock, Michael: A Nomad of the Time streams; Elric de Melnibone   
 - Moore, Demi: Inside Out  
@@ -617,9 +633,10 @@
 - Newman, TJ: Falling  
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
-- Nez, Chester: Code Talker  
+- Nez, Chester: Code Talker
 - Ng, Celeste: Our Missing Hearts  
-- Nguyen, Joseph: Don't Believe Everything you Think  
+- Nguyen, Joseph: Don't Believe Everything you Think
+- Nicholls, David: One Day  
 - Nicholson, Dean: Nala's World  
 - Nietfeld, Emi: Acceptance: A Memoir  
 - Niven, Larry: 3) Outies (kindle?)  
@@ -640,7 +657,8 @@
 - Onyebuchi, Tochi: Goliath; Riot Baby  
 - Owens, Delia: Where the Crawdads Sing
 - Pacat, CS: DARK RISE TRILOGY: 1) Dark Rise  
-- Pacitti, Tony: My Best Friend is a Wookiee  
+- Pacitti, Tony: My Best Friend is a Wookiee
+- Park, Patricia: Imposter Syndrome  
 - Pollan, Michael: The Omnivore's Dilemma  
 - Palmer, Ada: TERRA IGNOTA: 1) Too Like the Lightning; 2) Seven Surrenders  
 - Paolini, Christopher: To Sleep in a Sea of Stars  
@@ -742,7 +760,8 @@
 - Savage, Adam: Every Tool's a Hammer   
 - Scalzi, John: Kaiju preservation society; Lock In; Head On; The Dispatcher; Murder by Other Means; Travel by Bullet  
 - Scharre, Paul: Army of None  
-- Schiff, Stacy: The Revolutionary: Samuel Adams  
+- Schiff, Stacy: The Revolutionary: Samuel Adams
+- Schiffer, Zoe: Life of a White-Hat Hacker  
 - Schlender, Brent and Rick Tetzeli: Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader  
 - Schreier, Jason: Blood, Sweat, and Pixels  
 - Schroeder, Alice: The Snowball: Warren Buffett and the Business of Life  
@@ -877,7 +896,8 @@
 - Volk, Steve: Fringe-ology  
 - Voigt, Emily: The Dragon behind the Glass  
 - Vonnegut, Kurt: Slaughterhouse-5, Breakfast of Champions  
-- Vuong, Ocean: On Earth Were Briefly Gorgeous  
+- Vuong, Ocean: On Earth Were Briefly Gorgeous
+- Waddell, Kaveh: Inside a Hacking Competition to Take Down a Water....  
 - Wakin, Malham: War, Morality, and the Military Profession  
 - Walker, ?: Your Head is a Houseboat: A Chaotic Guide to Mental Clarity (Seattle Public Library ebook)  
 - Walker, Sam: The Captain Class  
@@ -906,7 +926,8 @@
 - White, Edward: The Twelve Lives of Alfred Hitchcock  
 - White, Richard: Who Killed Jane Stanford?  
 - Whiten, Hannah: For the Wolf  
-- Wickre, Karen: Take the Work out of Networking  
+- Wickre, Karen: Take the Work out of Networking
+- Wild, Franz: Inside the Global Hack-for-Hire Industry  
 - Wilde, Oscar: The Picture of Dorian Gray  
 - Williams, Tad: Memory, Sorrow, and Thorn  
 - Williams, Walter Jon: This is Not a Game  
