@@ -1,5 +1,5 @@
 #### BOOKS TO READ
-- Abdullah, Chelsea: The Stardust Thief 
+- Abdullah, Chelsea: SANDSEA TRILOGY: ~~1) The Stardust Thief~~, 2) The Ashfire King (2025)   
 - Acemoglu, Daron: Why Nations Fail  
 - Achor, Shawn: The Happiness Advantage
 - Ackerman, Elliott: 2034 and 2054  
@@ -252,7 +252,7 @@
 - Finney, Jack: Time and Again  
 - Fisher, Roger: Getting to Yes  
 - Fisher, Sharon Lynn: Echo 8  
-- Fletcher, C.A.: A Boy and his Dog at the End of the World  
+- !!!~~Fletcher, C.A.: A Boy and his Dog at the End of the World~~    
 - Fletcher, Jeff: Sho-Time: The Inside Story of Shohei Ohtani and the Greatest Baseball Season Ever Played  
 - Flynn, Gillian: Gone Girl   
 - Fofana, Sidik: Stories from the Tenants Downstairs  
@@ -981,7 +981,7 @@
 - Adams, Scott: How to Fail at Almost Everything and Still Win Big  
 - Ackerman, Sara: Red Sky over Hawaii  
 - Ahn, Flora: The Golden Orchard  
-- Alanson, Craig: Expeditionary Force Book 1 Columbus Day; Expeditionary Forces: Mavericks Book 1 Deathtrap (DONOTHAVE), Book 2 Freefall    
+- Alanson, Craig: EXPEDITIONARY FORCE 1) Columbus Day; Expeditionary Forces: Mavericks 1) Deathtrap (DONOTHAVE), 2) Freefall, 7) Renegades      
 - Albala, Ken: History of Bourbon  
 - Aldrete, Gregory: History's Great Military Blunders and the Lessons They Teach  
 - Anderson, Chris: TED Talks  
@@ -992,7 +992,8 @@
 - Asher, Neal: Dark Intelligence  
 - Atchison, Jarrod: The Art of Debate  
 - ~~Avery, Sean: !!!Ice Capades~~    
-- Ball, WW Rouse: A Short Account of the History of Math  
+- Ball, WW Rouse: A Short Account of the History of Math
+- Ballard, JG: The Complete Short Stories  
 - Bear, Greg: War Dogs  
 - Bennett, R. William: Jacob T. Marley (already listened?)  
 - Bernheimer, Jim: Origins of a D-List Supervillian  
@@ -1023,7 +1024,8 @@
 - Corson, Trevor: The Story of Sushi  
 - Cox, Greg: Captain to Captain  
 - Crouch, Blake: Pines  
-- Dalzelle, Joshua: Marine  
+- Dalzelle, Joshua: Marine
+- Day, Felicia: Third Eye  
 - Derby, Matthew: Phreaks  
 - Dickens, Charles: Oliver Twist  
 - Dinniman, Matt: Dungeon Crawler Carl  
@@ -1041,7 +1043,7 @@
 - Foster, Amy: The Rift Uprising  
 - Frank, Pat: Alas, Babylon  
 - Freeman, Sally Mott  
-- Gaiman, Neil: Trigger Warning; Neverwhere; the Sandman Act1&2&3     
+- Gaiman, Neil: Trigger Warning; Neverwhere; the Sandman Act1&2&3; American Gods Book 1     
 - Garcia, Hector: Ikigai  
 - Garcia, Kami: The X-Files Origins: Agent of Chaos  
 - Gibson, William: Alien III  
@@ -1071,7 +1073,8 @@
 - Kerr, Katherine: The Red Wyvern (book 1); Westlands 1) A Time of Exile (Dod Libraries); ~~Devery Books 1-4~~  
 - Khoury, Jessica: The Mystwick School of Musicraft  
 - Krappweis, Tommy: A Crazy Inheritance
-- Langford, Andrea: Trail of the Lost  
+- Langford, Andrea: Trail of the Lost
+- Laplante, Patrick: Clear Sky book 1  
 - Lecesne, James: The Absolute Brightness of Leonard Pelkey  
 - Ledbetter, William: Level Five; Killday book 1  
 - Lee, Tony: Dodge & Twist  
@@ -1119,14 +1122,16 @@
 - Rowling, JK: The Tales of Beedle the Bard  
 - Sainsbury, Ian: The World Walker  
 - Sakey, Marcus: Brilliance  
-- Salamo, Lin: Mark Twain's Helpful Hints for Good Living  
+- Salamo, Lin: Mark Twain's Helpful Hints for Good Living
+- Salvatore, RA: Stone of Tymora (3 books?)  
 - Scalzi, John: Dispatcher; The Collapsing Empire; The Kaiju Preservation Society (I think I bought this)
 - Schwab, VE: A Darker Shade of Magic  
 - Schulman, Daniel: Sons of Wichita  
 - ~~Sedaris, David: Holidays on Ice~~    
 - Sherry, Miranda: Black Dog Summer  
 - Shetterly, Margot Lee: Hidden Figures  
-- Seim, Carrie: The Flying Flamingo Sisters  
+- Seim, Carrie: The Flying Flamingo Sisters
+- Simmons, Dan: 1) Hyperion  
 - Sinek, Simon: Leader Eat Last; The Infinite Game  
 - Smith, Jan: Killer by Nature  
 - Snider, Brandon: Beezer  
@@ -1146,11 +1151,13 @@
 - Tolkien, JRR: The Fellowship of the Ring; The Two Towers; Return of the King  
 - Various: Menu Excerpts from Our Favorite Neward Restaurants  
 - Voth, Grant: Great Mythologies of the World  
-- Wade, Adam: You Ought to Know Adam Wade  
+- Wade, Adam: You Ought to Know Adam Wade
+- Ward, Dayton: Agents of Influence  
 - Weber, David: Oath of Swords book 1  
 - Weir, Andy: Project Hail Mary   
 - Wezowski, Kasia: Without saying a word  
-- Wheeler, Jeff: The Queen's Poisoner  
+- Wheeler, Jeff: The Queen's Poisoner
+- WILDCARD TRUST: Wild Cards. 1) Wild Cards 1; 7) Dead Man's Hand  
 - Williams, Florence: The 3-Day Effect  
 - Wright, Craig: The Hidden Habits of Genius  
 - Wyman, Patrick: The Verges  
@@ -1199,8 +1206,8 @@
 #### !!!Brooks, Terry: WORD AND VOID: ~~1)Running with the Demon (Feb22), 2)A Knight of the Word (Mar22), 3)Angel Fire East (Mar22)~~ First set of stories of the Shannara world.  I did not realize until I saw the MTV Shannara series that this world was originally earth before some sort of apocolypse.  John Ross and Nest Freemark are the protagonists battling various demons that look like humans.      
 #### !!!THE GENESIS OF SHANNARA: ~~1) Armageddon's Children; 2)The Elves of Cintra; 3)The Gypsy Morph~~    
 #### !!!LEGENDS OF SHANNARA: ~~1)Bearers of the Black Staff, 2)The Measure of the Magic~~  
-#### !!!ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara
-Indomitable, Dark Wraith of Shannara~~  
+#### !!!ORIGINAL: ~~1)The First King of Shannara, 2)The Sword of Shannara, 3)The Elfstones of Shannara, 4)The Wishsong of Shannara~~
+Indomitable, ~~Dark Wraith of Shannara~~   
 #### !!!THE HERITAGE OF SHANNARA: ~~1)The Scions of Shannara, 2)The Druid of Shannara, 3)The Elf Queen of Shannara, 4)The Talismans of Shannara (Feb20)~~  
 #### !!!THE VOYAGE OF THE JERLE SHANNARA:~~1)Iise Witch;2)Antrax;3)Morgawr~~  
 #### !!!THE HIGH DRUID OF SHANNARA:~~1)Jarka Ruus; 2)Tanequil; 3)Straken~~  
@@ -1212,6 +1219,7 @@ Indomitable, Dark Wraith of Shannara~~
 
 #### Brown, Pierce  
 RED RISING SAGA: ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various gold folks who isn't happy that he is where he is at.  Various folks discover he is a Red and at the end of the book he is taken by folks he shouldn't have trusted), 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer~~  
+SOA? 1) Sons of Ares, 2) Wrath, 3) Forbidden Song  
 
 #### Bryson, Bill: In a Sunburned Country,  
 
@@ -1246,7 +1254,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### DeMille, Nelson: Scott Brodie Series: 1) The Deserter, 2) Blood Lines  
 
-#### Donaldson, Stephen: THE CHRONICLES OF THOMAS COVENANT THE UNBELIEVER: ~~1) Lord Foul's Bane, 2) The Illearth War~~, 3) The Power that Preserves  
+#### Donaldson, Stephen: THE CHRONICLES OF THOMAS COVENANT THE UNBELIEVER: ~~1) Lord Foul's Bane, 2) The Illearth War, 3) The Power that Preserves~~    
 #### Donaldson: THE SECOND CHRONICLES OF THOMAS COVENANT: 1) The Wounded Land, 2) The One Tree, 3) White Gold Wielder  
 #### Donaldson: THE LAST CHRONICLES OF THOMAS COVENANT: 1) The Runes of the Earth, 2) Fatal Revenant, 3) Against all Things Ending, 4) The Last Dark  
 #### Donaldson: KING'S JUSTICE: The Augur's Gambit, The King's Justice   
@@ -1292,7 +1300,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Heinlein, Robert: Glory Road, The Moon is a Harsh Mistress; The SciFi Hall of Fame Vol.1 1929-1964; The SciFi Hall of Fame Vol.2-a   
 
-#### Herbert, Frank: DUNE: 1) The Butlerian Jihad; 2) The Machine Crusade; 3) The Battle of Corrin; 4) Sisterhood of Dune; 5) Mentats of Dune; 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen; 9) House Corrino; 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
+#### Herbert, Frank: DUNE: ~~1) The Butlerian Jihad; 2) The Machine Crusade;~~ 3) The Battle of Corrin; 4) Sisterhood of Dune; 5) Mentats of Dune; 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen; 9) House Corrino; 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
 
 #### Hickman, Tracy  
 !!!THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~  
@@ -1313,17 +1321,17 @@ The Warrior of Altaii
 
 #### Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
 
-#### Kerr, Katharine: ACT ONE: DEVERRY: ~~1)Daggerspell~~, 2)Darkspell, 3)The Bristling Wood, 4)The Dragon Revenant  
+#### Kerr, Katharine: ACT ONE: DEVERRY: ~~1)Daggerspell, 2)Darkspell~~, 3)The Bristling Wood, 4)The Dragon Revenant  
 #### Kerr: ACT TWO: THE WESTLANDS:  1)A Time of Exile, 2)A Time of Omens, 3)Days of Blood and Fire, 4)Days of Air and Darkness  
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
-#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile; Salem's Lot~~  UR; ~~11/22/63~~  
+#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile; Salem's Lot~~  UR; ~~11/22/63~~; The Dark Tower: The Wind through the Keyhole    
 #### !!!King, Stephen: BILL HODGES: ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
 #### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, ~~1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse~~, 6) Deeply Odd, 7) Saint Odd   
-#### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart, Strangers, Quicksilver, Mr. Murder    
+#### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart, Strangers, Quicksilver, Mr. Murder, The Bad Weather Friend      
 
 #### Kwan, Kevin  
 !!!CRAZY RICH ASIANS: ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich People Problems~~   
@@ -1362,7 +1370,7 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
 
-#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance, 5) Arms-Commander~~, 6) Cyador's Heirs,     
+#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance, 5) Arms-Commander, 6) Cyador's Heirs, 6.5) Heritage of Cyador~~, 7) The Mongrel Mage       
 
 #### Nix, Garth: THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Case, 4) Clariel, 5) Goldenhand, 6) Terciel and Elinor  
 
@@ -1391,7 +1399,7 @@ LEGENDS: Book 1, Book 2, Book 3
 #### !!!Roth, Veronica: DIVERGENT: ~~1) Divergent, 2) Insurgent, 3) Allegiant~~ Four: Divergent Story Collection  
 The End and Other Beginnings: Stories from the Future  
 
-#### Rothfuss, Patrick: KINGKILLER CHRONICLES: 0.5) The Lightning Tree, 1) The Name of the Wind, 2) The Wise Man's Fear, 2.5) The Slow Regard of Silent Things, 3) The Doors of Stone  
+#### Rothfuss, Patrick: KINGKILLER CHRONICLES: 0.5) The Lightning Tree, 1) The Name of the Wind (have hardcopy?), 2) The Wise Man's Fear, 2.5) The Slow Regard of Silent Things, 3) The Doors of Stone  
 
 #### Ruocchio, Christopher:SUN EATER: 1)Empire of Silence, 1.5)The Lesser Devil, 2)Howling Dark, 2.5)Parallel Worlds:The Heroes Within, 3)Demon in White, 4)Kingdoms of Death, 5)Ashes of Man  
 
@@ -1489,7 +1497,7 @@ The End and Other Beginnings: Stories from the Future
 #### Zahn: COBRA:  1)Cobra, 2)Cobra Strike, 3)Cobra Bargain  
 #### Zahn: BLACKCOLLAR:  1)The Blackcollar, 2)The Backlash Mission, 3)The Judas Solution  
 #### Zahn: COBRA WAR:  1)Cobra Alliance, 2)Cobra Guardian, 3)Cobra Gamble  
-#### Zahn: THE SIBYL'S WAR:  ~~1)Pawn~~, 2)Knight:AChronicle of the Sibyl's War, 3)Queen:AChronicle of the Sibyl's War  
+#### !!!Zahn: THE SIBYL'S WAR:  ~~1)Pawn, 2)Knight:AChronicle of the Sibyl's War, 3)Queen:AChronicle of the Sibyl's War~~  
 #### Zahn: COBRA REBELLION:  1)Cobra Slave, 2)Cobra Outlaw, 3)Cobra Traitor  
 
 #### STARWARS  
