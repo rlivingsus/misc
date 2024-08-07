@@ -129,7 +129,7 @@
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
-- Cho, Zen: Sorcerer to the Crown
+- ~~Cho, Zen: 1) Sorcerer to the Crown~~, 2)The True Queen  
 - Choi, Roy: LA Son  
 - Chong, Jinwoo: Flux
 - Chung, Gina: Sea Change   
@@ -155,7 +155,6 @@
 - Cooper, Anderson: Vanderbilt   
 - Cordova, Zoraida: The Inheritance of Orquidea Divina  
 - Coremen, Thomas: Algorithms Unlocked  
-- Corey, James: The Expanse  
 - Costello, Barry: Fortune favors Boldness  
 - Cotton, Tom: Sacred Duty  
 - Couch, Dick: A Tactical Ethic  
@@ -583,7 +582,7 @@
 - Meister, Ellen: Dorothy Parker Drank Here  
 - Merritt, Jerry: A Gift of Time  
 - Mersinger, Holly: The Curse of Jacob Tracy  
-- Meyer, Marissa: Renegades  
+- Meyer, Marissa: ~~Heartless~~, Renegades  
 - Meyer, Michael: In Manchuria
 - Mezrich, Ben: Bitcoin Billionaires  
 - Mieville, China: The City & The City  
@@ -1077,7 +1076,8 @@
 - Laplante, Patrick: Clear Sky book 1  
 - Lecesne, James: The Absolute Brightness of Leonard Pelkey  
 - Ledbetter, William: Level Five; Killday book 1  
-- Lee, Tony: Dodge & Twist  
+- Lee, Tony: Dodge & Twist
+- ~~Levenson, Steven: Dear Evan Hansen~~  
 - Levy, Steven: In the Plex; Hackers: Heroes of the Comp;uter Revolution  
 - Livingston, Michael: Black Crow, White Snow
 - Lourey, Jeff: The Taken Ones  
@@ -1247,7 +1247,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Clavell, James: THE ASIAN SAGA: 1) Shogun, 2) Taipan, 3)Gaijin, 4)King Rat, 5)Noble House, 6)Whirlwind  
 
-#### Corey, James: THE EXPANSE: 1) Leviathan Wakes, 2) Caliban's War, 3) Abaddon's Gate, 4) Cibola Burn, 5) Nemesis Games, 6) Babylon's Ashes, 7) Persepolis Rising  
+#### Corey, James: THE EXPANSE: ~~1) Leviathan Wakes~~, 2) Caliban's War, 3) Abaddon's Gate, 4) Cibola Burn, 5) Nemesis Games, 6) Babylon's Ashes, 7) Persepolis Rising  
 
 #### Cunningham, Elaine: FORGOTTEN REALMS SONGS & SWORDS: 1) Elfshadow (HAVE), 2) Elfsong (HAVE), 3) Silvershadows, 4) Thornhold, 5) The Dream Spheres, 6) Reclamation    
 #### Drake, David: LORD OF THE ISLES: 1) The Lord of the Isles (HAVE?), 2) Queen of Demons, 3) Servant of the Dragon, 4) Mistress of the Catacombs, 5) Goddess of the Ice Realm, 6) Master of the Cauldron, 7) Fortress of Glass, 8) Mirror of Worlds, 9) The Gods Return  
@@ -1280,7 +1280,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### !!!Feist: SERPENT WAR SAGA: ~~1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King, 4)Shards of a Broken Crown~~    
 #### !!!Feist: RIFTWAR LEGACY: ~~1)Krondor: The Betrayal, 2)Krondor: The Assassins, 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler~~  
 #### !!!Feist: LEGENDS OF RIFTWAR (coincide with riftwar saga): ~~1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand~~  
-#### Feist: CONCAVE OF SHADOWS: ~~1)Talon of the Silver Hawk, 2)King of Foxes~~, 3)Exile's Return  
+#### Feist: CONCAVE OF SHADOWS: ~~1)Talon of the Silver Hawk, 2)King of Foxes, 3)Exile's Return~~    
 #### Feist: DARKWAR SAGA: 1)Flight of the Nighthawks(have), 2)Into a Dark Realm, 3)Wrath of a Mad God  
 #### Feist: DEMONWAR SAGA: 1)Rides a Dread Legion, 2)At the Gates of Darkness  
 #### Feist: CHAOSWAR SAGA: 1)A Kingdom Besieged, 2)A Crown Imperilled, 3)Magician's End  
@@ -1300,7 +1300,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Heinlein, Robert: Glory Road, The Moon is a Harsh Mistress; The SciFi Hall of Fame Vol.1 1929-1964; The SciFi Hall of Fame Vol.2-a   
 
-#### Herbert, Frank: DUNE: ~~1) The Butlerian Jihad; 2) The Machine Crusade;~~ 3) The Battle of Corrin; 4) Sisterhood of Dune; 5) Mentats of Dune; 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen; 9) House Corrino; 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
+#### Herbert, Frank (& Brian Herbert): DUNE: ~~1) The Butlerian Jihad; 2) The Machine Crusade; 3) The Battle of Corrin; 4) Sisterhood of Dune;~~ 5) Mentats of Dune; 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen; 9) House Corrino; 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
 
 #### Hickman, Tracy  
 !!!THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~  
@@ -1321,12 +1321,12 @@ The Warrior of Altaii
 
 #### Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
 
-#### Kerr, Katharine: ACT ONE: DEVERRY: ~~1)Daggerspell, 2)Darkspell~~, 3)The Bristling Wood, 4)The Dragon Revenant  
+#### !!!Kerr, Katharine: ACT ONE: DEVERRY: ~~1)Daggerspell, 2)Darkspell, 3)The Bristling Wood, 4)The Dragon Revenant~~    
 #### Kerr: ACT TWO: THE WESTLANDS:  1)A Time of Exile, 2)A Time of Omens, 3)Days of Blood and Fire, 4)Days of Air and Darkness  
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
-#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile; Salem's Lot~~  UR; ~~11/22/63~~; The Dark Tower: The Wind through the Keyhole    
+#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile; Salem's Lot~~  UR; ~~11/22/63, The Dead Zone~~; The Dark Tower: The Wind through the Keyhole    
 #### !!!King, Stephen: BILL HODGES: ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
@@ -1385,7 +1385,7 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### !!!Prineas, Sarah: MAGIC THIEF SERIES: ~~1) The Magic Thief, 2) Lost, 3) Found, 3.5) A Proper Wizard, 4) Home~~    
 
-#### Redick, Robert VS: THE CHATHRAND VOYAGE SERIES: ~~1) The Red Wolf Conspiracy~~, 2) The Rats and the Ruling Sea, 3) The River of Shadows, 4) The Night of the Swarm  
+#### Redick, Robert VS: THE CHATHRAND VOYAGE SERIES: ~~1) The Red Wolf Conspiracy, 2) The Rats and the Ruling Sea~~, 3) The River of Shadows, 4) The Night of the Swarm  
 
 #### Reid, Thomas M.: FORGOTTEN REALMS EMPYREAN ODYSSEY: 1) The Gossamer Plain (HAVE), 2) The Fractured Sky (HAVE), 3) The Crystal Mountain  
 
@@ -1413,7 +1413,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Salvatore THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
 #### !!!Salvatore THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
 #### !!!Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King, 3) The Ghost King~~  
-#### Salvatore: NEVERWINTER SAGA: ~~1) Gauntlgrym~~, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold (humbun ebooks)   
+#### Salvatore: NEVERWINTER SAGA: ~~1) Gauntlgrym, 2) NeverWinter~~, 3) Charon's Claw, 4) The Last Threshold (humbun ebooks)   
 #### Salvatore: THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
 #### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf (humbun ebooks)    
 #### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero (humbun ebooks)    
