@@ -27,6 +27,7 @@
 - Star Wars Battlefront 2
 - Star Wars Jedi Fallen Order
 - Titanfall 2  
+
 #### Epic
 - Abzu
 - Among the Sleep
@@ -112,6 +113,7 @@
 - Warhammer 40,000 Gladius
 - World of Goo
 - World of Warships  
+
 #### GOG
 - Absolute Drift: Zen Edition
 - Alan Wake: American Nightmare
@@ -140,7 +142,7 @@
 - Hardwest II
 - Hitman: Absolution; Hitman: Blood Money; Hitman2: Silent Assassin; Hitman3: Contracts
 - Incredible Machine (multi)
-- Icewind Dale (EE version on Amazon games); Icewind Dale 2
+- Icewind Dale (EE version on Amazon games STEAM); Icewind Dale 2
 - ITORAH
 - Jagged Alliance: Deadly Games
 - Jotun
@@ -176,11 +178,12 @@
 - Ultima Worlds of Adventure 2: Martian Dreams; Ultima 4: Quest of the Avatar; Worlds of Ultima: Savage Empire
 - Unmechanical Extended
 - Warhammer: Chaosbane (2019); 40000 Mechanicus (2018), Mark of Chaos (2006), 40000 Space Marines (2011), (40000 Inquisition on Steam) , (40000 Gladius on Epic)
-- Wasteland 2
+- Wasteland 2 (play Steam)  
 - The Witcher
 - Wolfenstein New Order
 - Weird West
 - WORMS: 1) Worms, 6) Worms Crazy Golf, 4) Worms Forts, 6) Worms Revolution, 5) Worms Ultimate Mayhem, `.5) Worms United`, 7) Worms WMD, 3) Worms World Party, 2) Worms: Armageddon    
+
 #### Steam
 - 100 Christmas Cats
 - 100% Orange Juice
@@ -290,3 +293,136 @@
 - Healer's Quest
 - Hero Academy
 - Hero's Hour
+- Hidden Folks
+- Hitman: Codename 47  (most on GOG)
+- Horizon Zero Dawn Complete Edition
+- Hoser Hockey
+- House of the Dying Sun
+- Human Resource Machine
+- iBomber Defense
+- Icewind Dale: EE
+- Idle Fishing
+- IL-2 Sturmovik: 1946
+- Indiana Jones and the Fate of Atlantis; Indiana Jones and the Last Crusade
+- Infinitode 2
+- Inside
+- Into the Breach
+- Invisible, Inc
+- Islanders
+- Isle of Arrows
+- Jack Lumber
+- Journey
+- Just Cause; Just Cause 2
+- Kingdom Rush; Frontiers; Origins (playing); Vengeance; 5: Alliance
+- LA Noire
+- Lara Croft and the Guardian of Light (Tombraider on GOG)
+- The Last Campfire
+- The Last of Us Part I
+- Lead and Gold: Gangs of the Wild West
+- Learning Factory
+- The Legend of Korra
+- LEGO Harry Potter: Years 1-4
+- Limbo
+- Little Inferno
+- Looking for Aliens
+- Loom
+- Loop Hero
+- Lume
+- Lumines Remastered
+- Lumino City
+- Manhole
+- Mark of the Ninja
+- Mars Horizon
+- Max and the Magic Marker
+- Men of War
+- Middle-Earth: Shadow of Mordor; Shadow of War
+- Misadventures of PB Winterbottom
+- Monkey Island 2: Special Edition
+- Monster Hunter Rise
+- Monster Hunter World
+- Monument Valley & 2
+- Myst: Masterpiece Edition
+- Necrosmith 2
+- Need for Speed Heat; Hot Pursuit Remastered; Undercover
+- Never Alone
+- Neverwinter Nights: EE & 2 Platinum
+- Nidhogg
+- Nite Team 4
+- No Man's Sky
+- Oddworld: Abe's Oddysee; Exoddus
+- Ori and the Blind Forest
+- Orwell & Ignorance is Strength
+- Outer Wilds
+- Overlord & Raising Hell, II
+- Paper Planet
+- Phoenix Wright: Ace Attorney Trilogy
+- Planescape: Torment EE (on GOG)
+- Poly Bridge
+- Portal
+- Prince of Persia & The Forgotten Sands
+- Puzzle Agent 2
+- Puzzle Kingdoms
+- Raft (Playing)
+- Rain World
+- realMyst
+- Retro Machina
+- Rise of Nations: EE
+- Riven
+- RollerCoaster Tycoon 3: Platinum  (one on Epic)
+- Sacraboar
+- Samorost 2
+- SCP: Containment Breach Multiplayer
+- Secret of Monkey Island Special Edition (others elsewhere)
+- Shadowrun: Dragon Fall; HongKong; Returns (Director's Cut & EE for 1st two, all on Epic)
+- Shenzhen I/O
+- Sherlock Holmes: Nemesis; The Awakened; The Mystery of the Mun; The Myster of the Pers; The Secret of the Silver; vs. Jack the Ripper (on GOG and EPIC TOO)
+- The Signifier Director's Cut
+- Silent Hunter Woves of the Pacific; U-Boat; III
+- Slapshot: Rebound
+- Sniper Elite; Ghost Warrior 2 (on GOG)
+- Solar 2
+- Song of the Deep
+- Sonic & All-Stars Racing
+- Space Engineers
+- Space Chem
+- Speed Runners
+- Spelunky
+- Spelunx
+- Spiritfarer
+- Splitgate
+- Stanley Parable
+- STO (playing)
+- Star Wars games (various)
+- Stardew Valley
+- Subnautica & Below Zero
+- Tales of Monkey Island: Chapter 1-5 (various elsewhere)
+- Tangle Tower
+- Team Fortress Classic & 2
+- Terminator Resistance
+- Terraria
+- Tesla Effect
+- The Testament of Sherlock Holmes (see other Sherlock Holmes)
+- Theif: Deadly Shadows (Thief on Epic)
+- Time Gentlemen, Please!
+- The Tiny Bang Story
+- TIS-100
+- To the Moon (on GOG)
+- Tokyo 42
+- Tomb Raider & Anniversary & Legend & Underworld (see Lara Croft and GOG)
+- Torchlight & Torchlight2
+- Torment: Tides of Numenara (see Planescape Torment)
+- Totally Reliable Delivery Service
+- TowerFall Ascension
+- Toy Soldiers
+- Tribes of Midgard
+- Trine & 2
+- TRON 2.0
+- Unmechanical
+- Unpacking
+- Uru: Complete Chronicles
+- Warhammer 40000 Inquisitor - Martyr & Prophecy (see GOG)
+- Wasteland 2 Director's Cut
+- Westerado: Double Barreled
+- while True: learn()
+- Xenonauts
+- You Don't Know Jack (buncha games)  
