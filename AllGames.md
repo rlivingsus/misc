@@ -191,7 +191,7 @@
 - 7 Billion Humans
 - 80 Days
 - AaaaaaAaaaa xxx
-- Age of Empires II, Age of Empires III
+- ~~Age of Empires II~~, Age of Empires III
 - Age of Mythology
 - Age of Wonders III
 - Aliens vs. Predator Classic 2000
@@ -312,8 +312,8 @@
 - Isle of Arrows
 - Jack Lumber
 - Journey
-- Just Cause; Just Cause 2
-- Kingdom Rush; Frontiers; Origins (playing); Vengeance; 5: Alliance
+- ~~Just Cause~~; Just Cause 2
+- ~~Kingdom Rush; Frontiers~~; Origins (playing); Vengeance; 5: Alliance
 - LA Noire
 - Lara Croft and the Guardian of Light (Tombraider on GOG)
 - The Last Campfire
@@ -386,7 +386,7 @@
 - Space Engineers
 - Space Chem
 - Speed Runners
-- Spelunky
+- ~~Spelunky~~
 - Spelunx
 - Spiritfarer
 - Splitgate
@@ -409,13 +409,13 @@
 - To the Moon (on GOG)
 - Tokyo 42
 - Tomb Raider & Anniversary & Legend & Underworld (see Lara Croft and GOG)
-- Torchlight & Torchlight2
+- ~~Torchlight~~ & Torchlight2
 - Torment: Tides of Numenara (see Planescape Torment)
 - Totally Reliable Delivery Service
 - TowerFall Ascension
 - Toy Soldiers
 - Tribes of Midgard
-- Trine & 2
+- ~~Trine~~ & 2
 - TRON 2.0
 - Unmechanical
 - Unpacking
