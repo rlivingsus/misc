@@ -1,15 +1,292 @@
+#### Amazon Games
+- Alex Kidd
+- Forager
+- Samurai Bringer
+- Wall World  
+
 #### Blizzard
-- test
-- 
+- Diablo 2  
+- Diablo 3  
+- Hearthstone
+- Overwatch 2  
+- Starcraft
+- Starcraft 2
+- WoW
+    
 #### EA
-- test2
-- 
+- Battlefield 1
+- Bejeweled Twist
+- Burnout Paradise (PLAYING)
+- Dragon Age Origin
+- Mad Max
+- Mass Effect 3 (1,2,3 Legendary on Epic)  
+- Mass Effect Andromeda
+- PvZ Garden Warfare
+- PvZ Garden Warfare 2
+- Star Wars Battelfront 1
+- Star Wars Battlefront 2
+- Star Wars Jedi Fallen Order
+- Titanfall 2  
 #### Epic
-- test3
-- 
+- Abzu
+- Among the Sleep
+- Ark
+- Astro Duel 2
+- Atari Mania
+- Batman Arkham Asylum then Batman Arkham City then Batman Arkham Knight
+- Borderlands 2/3 and The PreSequel (1 on STEAM)
+- Breakout Recharged
+- Cave Story+
+- City of Brass
+- Call of the Sea
+- Death Coming
+- Dungeons 3
+- Deliver Us Mars
+- Disney Speedstorm
+- Doors Paradox
+- Dragon Age Inquisition
+- Elite Dangerous
+- Enter the Gungeon?
+- Everything
+- Earthlock
+- Epistory
+- Fez
+- Galactic Civilizations III
+- Genshin Impact
+- Gloomhaven
+- GNOG
+- Grand Theft Auto V
+- Halycyon 6
+- Hitman
+- Homeworld Remastered
+- Into the Breach
+- Industria
+- Infinifactory
+- Jurassic World Evolution
+- Kingdom Hearts 1.5+2.5
+- Kingdom New Lands
+- Lifeless Planet: Premier
+- Limbo
+- Loop Hero
+- Mass Effect 1,2,3 Legendary  
+- Marvel's Guardian of the Galaxy
+- Metro 2033
+- Melvor Idle
+- Marvel Midnight Suns
+- Night in the Woods
+- Oxenfree
+- Orcs Must Die! 3
+- Out of Line
+- Pikuniku
+- Pillars of Eternity
+- Palia
+- Pinball FX
+- RiME
+- Rising Storm 2: Vietnam
+- Rollercoaster Tycoon
+- Red Dead Redemption
+- RPG in a Box
+- Shadowrun Hong Kong, Shadowrun Returns, Shadowrun: Dragonfall
+- Sherlock Holmes Crimes and Punishment
+- Sid Meier Civilization VI
+- Stories Untold
+- Stranger Things 3
+- Surviving Mars
+- Surviving the Aftermath
+- Saints Row
+- Shapez
+- Super Meat Boy Forever
+- Tacoma
+- The Alto Collection
+- The Escapists2
+- The Fall
+- The Witness
+- Tyranny
+- The Bridge
+- The Elder Scrolls online
+- The Forest Quartet
+- The Outer Worlds: Spacer's Choice
+- Thief
+- Valorant
+- Wargame
+- Warhammer 40,000 Gladius
+- World of Goo
+- World of Warships  
 #### GOG
-- test4
-- 
+- Absolute Drift: Zen Edition
+- Alan Wake: American Nightmare
+- !!!~~Baldur's Gate II~~
+- Block'hood
+- Botanicula
+- Cats Hidden in Bali/Italy/Maple Hollow/Paris
+- Cat Quest II
+- Crysis, Crysis: Warhead, Crysis: Wars
+- Deux Ex: Mankind United
+- Desperados: Wanted Dead or Alive
+- Disco Elysium
+- Dungeon Keeper, Dungeon Keeper 2
+- Dragonshard
+- Delores: A Thimblewood Park adventure
+- The Elder Scrolls: Arena, Elder Scrolls II: Daggerfall, Elder Scroll: Morrowind
+- ~~Empire Earth 1~~, 2, 3
+- Eye of the Beholder 1, 2, & 3
+- Fantasy Wars
+- Firewatch
+- Forgotten Realms: Demon Stone
+- Freespace 2
+- Fallout 1/2 (steam has 3)
+- Far: Lone Sails  
+- Grim Fandango
+- Hardwest II
+- Hitman: Absolution; Hitman: Blood Money; Hitman2: Silent Assassin; Hitman3: Contracts
+- Incredible Machine (multi)
+- Icewind Dale (EE version on Amazon games); Icewind Dale 2
+- ITORAH
+- Jagged Alliance: Deadly Games
+- Jotun
+- Kings Bounty: Dark Side; King's Bounty II
+- King's Quest 1-8
+- Lands of Lore: Guardians of Destiny; Thrones of Chaos
+- Medal Of Honor Allied Assault Warchest
+- Might & Magic: Swords of Xeen; M&M1: Book1; M&M2-6
+- Oxenfree (Duplicate on Epic games)
+- Planescape: Torment (EE on Amazon Games)
+- Police Quest 1-4; Police Quest Swat 1-2
+- Prison Architect
+- Quest for Glory 1-5
+- Rebel Galaxy
+- Resonance
+- Road Warden
+- Somorost
+- Sherlock Holmes Secret of the Silver Earring (Crimes and Punishment on Epic)
+- Sniper: Ghost Warrior; Sniper Ghost Warrior 3 Gold; Sniper Ghost Warrior Contracts (Sniper Elite, Sniper Elite v2 remastered, Sniper Ghost Warrior 2 on STEAM)
+- Space Quest 1-6
+- Spycraft
+- Steamworld Heist
+- Stellaris: Leviathan Story Pack, Utopia, Synthetic Dawn Story Pack, Apocalypes (DON’T HAVE Distant Stars, MegaCorp, Ancient Relics, Federations, Nemesis, Overlord, First Contact, Galactic Paragons, Astral Planes, The Machine Age)
+- Swat3
+- Symphonia
+- Symphony
+- Temple of Elemental Evil
+- Tomb Raider: Angel of Darkness; The Last Revelation & Chronicles
+- To The Moon
+- Total Annihilation
+- Townscaper
+- Two Point Hospital
+- Ultima Worlds of Adventure 2: Martian Dreams; Ultima 4: Quest of the Avatar; Worlds of Ultima: Savage Empire
+- Unmechanical Extended
+- Warhammer: Chaosbane (2019); 40000 Mechanicus (2018), Mark of Chaos (2006), 40000 Space Marines (2011), (40000 Inquisition on Steam) , (40000 Gladius on Epic)
+- Wasteland 2
+- The Witcher
+- Wolfenstein New Order
+- Weird West
+- WORMS: 1) Worms, 6) Worms Crazy Golf, 4) Worms Forts, 6) Worms Revolution, 5) Worms Ultimate Mayhem, `.5) Worms United`, 7) Worms WMD, 3) Worms World Party, 2) Worms: Armageddon    
 #### Steam
-- test5
-- 
+- 100 Christmas Cats
+- 100% Orange Juice
+- 60 Seconds!; 60 Seconds! Reatomized
+- 7 Billion Humans
+- 80 Days
+- AaaaaaAaaaa xxx
+- Age of Empires II, Age of Empires III
+- Age of Mythology
+- Age of Wonders III
+- Aliens vs. Predator Classic 2000
+- Anomaly 2
+- Anomaly Warzone Earth
+- Apex Legends
+- An Arcade Full of Cats
+- Ashes of the Singularity: Escalation
+- Assassin's Creed II
+- Assetto Corsa
+- Baba is You
+- Bad Hotel
+- Bad Rats
+- Baldur's Gate: EE; BG2: EE
+- Bard's Tale; Bard's Tale Trilogy
+- Bastion
+- Batman: Arkham Asylum GOTY edition; Arkham City GOTY; Arkham Origins (FIRST TWO ON EPIC)
+- Behind the Frame: The Finest Scenery
+- Beholder
+- Ben There, Dan That!
+- Bioshock; Bioshock Remastered; Bioshock Infinite
+- Blazing Angels: Squadrons of WWII; Blazing Angels 2: Secret Missions of WWII
+- Bloons TD 6 (PLAYING NOW)
+- Borderlands GOTY & GOTY Enhanced
+- Braid
+- The Bridge
+- Broforce
+- Broken Sword 5: The Serpent's Curse
+- Brothers in Arms: Earned in Blood; Hell's Highway; Road to Hill 30
+- Building Full of Cats
+- Burnout Paradise Remastered (Playing)
+- Call of Duty 4: Modern Warfare (2007)
+- Call of Juarez: Bound in Blood; Gunslinger
+- Capsized
+- Castle Full of Cats
+- Cats Hidden in Paris
+- Child of Light
+- Children of Morta
+- Chrono Trigger
+- Commandos: Behind Enemy Lines; Beyond The Call of Duty; 2: Men of Courage; 3: Desination Berlin
+- Company of Heroes: 1; Legacy Edition; Opposing Fronts; Tales of Valor
+- Cosmic Osmo
+- Cozy Grove
+- Crazy Machines; 1.5 Inventors Training; 1.5 New from the Lab; 2
+- Creaks
+- Crime O'Clock
+- Cryostatis
+- Cube Hero Odyssey
+- The Curse of Monkey Island
+- The Cycle: Frontier
+- DARQ
+- Day of Defeat
+- Deponia
+- Desktop Dungeons
+- Desktop Dungeons: Rewind
+- Destiny 2
+- The Dig
+- Diplomancy is Not an Option
+- Distrust
+- Donut County
+- Dorfromantik
+- Drawful 2
+- Dreamfall Chapters
+- Dungeon of the ENDLESS
+- Dungeon Siege, 2, III
+- Dungeons of Dreadrock
+- Dungeons of Dredmor
+- dWARf
+- ELDEN RING
+- Elder Scrolls (Arena and Daggerfall on GOG); V: Skyrim
+- Element TD 2
+- Escape from Monkey Island
+- Everspace
+- Everything
+- Exapunks
+- Exodus Borealis
+- Fallout 3: GOTY (1-2 GOG); Fallout New Vegas
+- Fantasy Wars
+- Final Fantasy VII
+- Freedom Force; Freedom Force vs. the 3rd Reich
+- Frozen Synapse
+- FTL: Faster Than Light
+- Full Pipe
+- Gauntlet
+- GemCraft Chasing Shadows
+- Gemini Rue
+- Ghost Master
+- Ghostbusters: Sanctum of Slime; The Video Game
+- Gone Home
+- Gratuitous Space Battles
+- Gunpoint
+- Hacker Evolution; Untold; Duality
+- Hacknet
+- Half-Life 2 and DLCs
+- Halo: Spartan Assault; Spartan Strike; Master Chief Collection (Playing)
+- Halo Wars: Definitive Edition
+- Hard Reset
+- Heal
+- Healer's Quest
+- Hero Academy
+- Hero's Hour
