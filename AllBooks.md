@@ -992,7 +992,7 @@
 - Adams, Scott: How to Fail at Almost Everything and Still Win Big  
 - Ackerman, Sara: Red Sky over Hawaii  
 - Ahn, Flora: The Golden Orchard  
-- Alanson, Craig: EXPEDITIONARY FORCE 1) Columbus Day; Expeditionary Forces: Mavericks 1) Deathtrap (DONOTHAVE), 2) Freefall, 7) Renegades      
+- Alanson, Craig: EXPEDITIONARY FORCE 1) Columbus Day, 2) SpecOps, 3) Paradise (DNHAVE), 7) Renegades 
 - Albala, Ken: History of Bourbon  
 - Aldrete, Gregory: History's Great Military Blunders and the Lessons They Teach  
 - Anderson, Chris: TED Talks  
@@ -1020,7 +1020,7 @@
 - Camp, Jim: Start with No  
 - Campbell, Bruce: If Chins could Kill  
 - Carr, John: Best of Jerry Pournelle  
-- Chaney, JN: Sunkiller book 1  
+- Chaney, JN: SUNKILLER 1) Sunkiller; STAR SCRAPPER 1) Star Scrapper  
 - Chiang, Ted: Stories of Your Life and others  
 - Child, Lee: Persuader  
 - Christian, Brian: Algorithms to Live By  
@@ -1143,7 +1143,7 @@
 - Sherry, Miranda: Black Dog Summer  
 - Shetterly, Margot Lee: Hidden Figures  
 - Seim, Carrie: The Flying Flamingo Sisters
-- Simmons, Dan: 1) Hyperion  
+- Simmons, Dan: HYPERION: 1) Hyperion, 2) The Fall of Hyperion, 3) The Rise of Endymion, 4) Endymion  
 - Sinek, Simon: Leader Eat Last; The Infinite Game  
 - Smith, Jan: Killer by Nature  
 - Snider, Brandon: Beezer  
@@ -1354,6 +1354,8 @@ The Warrior of Altaii
 #### !!!Lackey, Mercedes OBSIDIAN MOUNTAIN SERIES ~~1) Outstretched Shadow, 2) To Light a Candle, 3) When Darkness Falls, Cant remember so stopped reading~~  
 #### Lackey: VALDEMAR SERIES IN ORDER: 1) The Black Gryphon, 2) The White Gryphon, 3) The Silver Gryphon, 4) Beyond, 5) Into the West, 6) Magic's Pawn, 7) Magic's Promise, 8) Magic's Price, 9) Foundation, 10) Intrigues, 11) Changes, 12) Redoubt, 13), Bastion, 14) Closer to Home, 15) Closer to the Heart, 16) Closer to the Chest, 17) The Hills have Spies, 18) Eye Spy, 19) Spy, Spy Again, 20) Brightly Burning, 21) The Oathbound, 22) Oathbreakers, 23) Oathblood, 24) Exile's Honor, 25) Exile's Valor, 26) Take a Thief, ~~27) Arrows of the Queen, 28) Arrow's Flight, 29) Arrow's Fall,~~ 30) By the Sword, 31) Winds of Fate, 32) Winds of Change, 33) Winds of Fury, 34) Storm Warning, 35) Storm Rising, 36) Storm Breaking, 37) Owlflight, 38) Owlsight, 39) Owlknight   
 
+#### Lawrence, Mark: THE LIBRARY TRILOGY.  1) The Book that Wouldn't Burn, 1.5) Overdue, 1.6) Returns, 2) The Book that Broke the World   
+
 #### Legends:Short Novels by the Masters of Modern Fantasy
 LEGENDS: Book 1, Book 2, Book 3  
 
@@ -1416,7 +1418,7 @@ The End and Other Beginnings: Stories from the Future
 
 #### Rothfuss, Patrick: KINGKILLER CHRONICLES: 0.5) The Lightning Tree, 1) The Name of the Wind (have hardcopy?), 2) The Wise Man's Fear, 2.5) The Slow Regard of Silent Things, 3) The Doors of Stone  
 
-#### Ruocchio, Christopher:SUN EATER: 1)Empire of Silence, 1.5)The Lesser Devil, 2)Howling Dark, 2.5)Parallel Worlds:The Heroes Within, 3)Demon in White, 4)Kingdoms of Death, 5)Ashes of Man  
+#### Ruocchio, Christopher:SUN EATER: 1)Empire of Silence, 1.5)The Lesser Devil, 2)Howling Dark, 2.5)Parallel Worlds:The Heroes Within, 2.6) Queen Amid Ashes, 2.7) Tales of the Sun Eater, 3)Demon in White, 3.5) Tales of the Sun Eater v2, 4)Kingdoms of Death, 5)Ashes of Man, 5.5) Tales of the Sun Eater v3, 5.6) The Dregs of Empire, 6) Disquiet Gods    
 
 #### Sage, Angie: SEPTIMUS HEAP SERIES: 1)Magyk, 2)Flyte, 3)Physik, 4)Queste, 5)Syren, 6)Darke, 7)Fyre  
 
@@ -1485,6 +1487,7 @@ The End and Other Beginnings: Stories from the Future
 #### Weis: DARDSWORD TRILOGY: 1) Forging the Darksword, 2) Doom of the Darksword, 3) Triumph of the Darksword  
 #### Weis: BRONZE CANTICLES: 1) Mystic Warrior, 2) Mystic Quest  
 #### Weis: ANNALS OF DRAKIS: 1) Song of the Dragon, 2) Citadels of the Lost, 3) Blood of the Emporer  
+#### Weis: DRAGONLANCE DESTINIES: 1) Dragons of Deceit, 2) Dragons of Fate, 3) Dragons of Eternity  
 
 #### Wells, Martha: MURDERBOT DIARIES: 1) All Systems Red, 2) Artificial Condition, 3) Rogue Protocol, 4) Exit Strategy, 5) Network Effect, 6) Fugitive Telemetry   
 
