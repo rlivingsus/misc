@@ -13,9 +13,10 @@
 - Alanson, Craig:  
 - Alderman, Naomi: The Power  
 - Alderson, Kaia: Sisters in Arms  
-- Alexander, Michelle: The New Jim Crow  
-- Allen, Nina: The Rift  
+- Alexander, Michelle: The New Jim Crow
+- Algeo, Matthew: When Harry met Pablo  
 - Al-Kadhi, Amrou: Life as a Unicorn  
+- Allen, Nina: The Rift  
 - Allred, Lance: Longshot
 - Alongi, CM: Citadel  
 - Alpert, Steve: Sharing a House with the Never-Ending Man:  
@@ -80,10 +81,12 @@
 - Bono: Surrender  
 - Booth, Kyle Murchison: The Bone Key  
 - Bourdain, Anthony: World Travel  
-- Bouton, Jim: Ball Four  
-- Bradbury, Ray:  Fahrenheit 451  
+- Bouton, Jim: Ball Four
+- Boyes, Alice: The Anxiety Toolkit  
+- Bradbury, Ray:  Fahrenheit 451, Frost and Fire    
 - Brahm, Ajahn: The Art of Disappearing
-- Brendborg, Nicklas: Jellyfish Age Backwards  
+- Brendborg, Nicklas: Jellyfish Age Backwards
+- Breuning, Loretta: Habits of a Happy Brain  
 - Brin, David: Sundiver, Startide Rising, Uplift War then Brightness Reed, Heaven Reach, Infinitys Shore  
 - Brooks, David: The Road to Character 
 - Brooks, Mel: All About Me!  
@@ -105,7 +108,8 @@
 - Bush, George: Out of Many, One  
 - Butler, Octavia: Anything, Kindred  
 - Bujold, Lois: Paladin of Souls  
-- Byers, Richard Lee: ebook Haunted Lands; Sembia  
+- Byers, Richard Lee: ebook Haunted Lands; Sembia
+- Cabrol, Nathalie: The Secret Life of the Universe  
 - Cain, Susan: Quiet: The Power of Introverts in a World That Can't Stop Talking  
 - Camp, Jim: Start with No  
 - Campbell, Bill: Trillion Dollar Coach  
@@ -158,7 +162,7 @@
 - Costello, Barry: Fortune favors Boldness  
 - Cotton, Tom: Sacred Duty  
 - Couch, Dick: A Tactical Ethic  
-- Crichton, Michael: Sphere; Rising Sun; Andromeda Strain; The Great Train Robbery;   
+- Crichton, Michael: Sphere; Rising Sun; Andromeda Strain; The Great Train Robbery; Eruption     
 - Cristie, Agatha:  TOMMY & TUPPENCE: 2) Partners in Crime, 3) N or M?, 4) By the Pricking of My Thumbs, 5) Postern of Fate HERCULE POIROT: various
 - Critchley, Emily: One Puzzling Afternoon  
 - Cronin, Justin: The Passage  
@@ -176,7 +180,8 @@
 - Dawkins, Richard: The Magic of Reality  
 - Del Monte, Louis A.: Genius Weapons  
 - Delaney, Rob: A Heart that Works  
-- Demopoulos, Ted: Infosec Rock Star (kindle)  
+- Demopoulos, Ted: Infosec Rock Star (kindle)
+- Dennis-Tiwary, Tracy: Future Tense  
 - Deutsch, David: The Beginning of Infinity
 - Diamond, Michael & Horowitz, Adam: Beastie Boys Books  
 - Dick, Phillip K.: Electric Dreams    
@@ -289,6 +294,7 @@
 - Gaynor, Hazel: Last Christmas in Paris: A Novel of World War I  
 - Gee, Emily: The Sentinel Mage  
 - Gentill, Sulari: The Woman in the Library
+- Gerrold, David: Crystallization  
 - Gessen, Masha: The man without a face: The unlikely rise of vladimir Putin   
 - Gibson, William: Neuromancer  
 - Giesbrecht, Jennifer: The Monster of Elendhaven  
@@ -391,7 +397,7 @@
 - Hood, Ann: Fly Girl  
 - Hornby, Nick: Dickens and Prince  
 - Hornfischer, James: Neptune's Inferno; The Fleet at Flood Tide; The Last Stand of the Tin Can Sailors  
-- Housel, Morgan: The Psychology of Money
+- Housel, Morgan: The Psychology of Money  
 - Howard, Catherine: The Trap  
 - Howard, Michael: The Salaryman  
 - Howarth, David: We Die Alone  
@@ -496,7 +502,8 @@
 - Lefevre, Edwin: Reminiscenses of a Stock Operator  
 - Lem, Stanislaw: Solaris  
 - Lembcke, Jerry: The Spitting Image; My, Memory, and the Legacy of Vietnam   
-- Lemelle, Salim: Refresh  
+- Lemelle, Salim: Refresh
+- Lencioni, Patrick: 5 Dysfunctions of a Team  
 - Levi, Primo: The Periodic Table  
 - Levin, Michael: Broken Windows, Broken Business: How the Smallest Remedies Reap Biggest Rewards (kindle)  
 - Levy, Lawrence: To Pixar and Beyond (kindle)  
@@ -572,7 +579,8 @@
 - McIntyre, Vonda: Dreamsnake  
 - McKinty, Adrian: The Island
 - McClellan, Brian: In the Shadow of Lightning  
-- McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam  
+- McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam
+- McMurtry, Larry: Lonesome Dove  
 - McNeill, Graham: Ultramarines Omnibus  
 - McQuiston, Casey: One Last Stop  
 - McRaven, William: Make Your Bed  
@@ -746,7 +754,8 @@
 - Russell, Bill: Second Wind: Memoirs of an Opinionated Man  
 - Russell, Mary Doria: The Sparrow  
 - Russell, Stuart: Human Compatible, Artificial Intelligence and the Problem of Control  
-- Sachs, Dana: The Life We Were Given  
+- Sachs, Dana: The Life We Were Given
+- Sagan, Carl: The Demon-haunted world (short story?)  
 - Sahn, Seung: Dropping Ashes on the Buddha  
 - Saint, Jennifer: Ariadne  
 - Saintcrow, Lilith: The Iron Wyrm Affair book 1  
@@ -775,7 +784,8 @@
 - Seigel, Rob: Memoirs of a Hack Mechanic  
 - Sen, Paul: Einsteins Fridge    
 - Seo, Bo: Good Arguments  
-- Shafak, Elif: 10 Minutes 38 Seconds in this Strange World  
+- Shafak, Elif: 10 Minutes 38 Seconds in this Strange World
+- Shaffer, Meg: The Wishing Game  
 - Shalleck, David: Mediterranean Summer  
 - Shapiro, Joseph: No Pity  
 - Shand, Mark: Travels on My Elephant  
@@ -811,7 +821,8 @@
 - Spakowski, Andrzej: Blood of Elves
 - Spalding, Katie: Edison's Ghosts  
 - Stackpole, Michael: A Secret Atlas  
-- Standage, Tom: A history of world in 6 glasses  
+- Standage, Tom: A history of world in 6 glasses
+- Stanton, Doug: In Harm's Way (audiobook only via audible, shortstory?)  
 - Star Trek: Department of Temporal Investigations  
 - Star Trek Gateways  
 - Star Wars OLD REPUBLIC:Fatal Alliance, DECEIVED, Revan, Annihilation;  
@@ -923,7 +934,8 @@
 - Whelan, Julia: Thank you for listening  
 - White, Alex: A Big Ship at the Edge of the Universe  
 - White, Edward: The Twelve Lives of Alfred Hitchcock  
-- White, Richard: Who Killed Jane Stanford?  
+- White, Richard: Who Killed Jane Stanford?
+- Whitehouse, Harvey: Inheritance  
 - Whiten, Hannah: For the Wolf  
 - Wickre, Karen: Take the Work out of Networking
 - Wild, Franz: Inside the Global Hack-for-Hire Industry  
@@ -1216,6 +1228,7 @@ Indomitable, ~~Dark Wraith of Shannara~~
 #### !!!Brooks DEFENDERS OF SHANNARA ~~1) The High Druid's Blade, 2) The Darkling Child; 3)The Sorcerer's DaughterSTOPPED SERIES KINDA REPEATS~~  
 #### Brooks: THE FALL OF SHANNARA: 1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stiehl Assassin; 4) The Last Druid  
 #### Brooks: MAGIC KINGDOM OF LANDOVER: 1) Magic Kingdom for Sale/Sold, 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
+#### Brooks: Misc: Indomitable, Legends of Shannara, The World of Shannara  
 
 #### Brown, Pierce  
 !!!RED RISING SAGA ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various gold folks who isn't happy that he is where he is at.  Various folks discover he is a Red and at the end of the book he is taken by folks he shouldn't have trusted), 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer~~  
@@ -1251,6 +1264,8 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Cunningham, Elaine: FORGOTTEN REALMS SONGS & SWORDS: 1) Elfshadow (HAVE), 2) Elfsong (HAVE), 3) Silvershadows, 4) Thornhold, 5) The Dream Spheres, 6) Reclamation    
 #### Drake, David: LORD OF THE ISLES: 1) The Lord of the Isles (HAVE?), 2) Queen of Demons, 3) Servant of the Dragon, 4) Mistress of the Catacombs, 5) Goddess of the Ice Realm, 6) Master of the Cauldron, 7) Fortress of Glass, 8) Mirror of Worlds, 9) The Gods Return  
+
+#### Dashner, James: MAZE RUNNER: ~~1) Maze Runner, 2) The Scorch Trials,~~ 3) The Death Cure   
 
 #### DeMille, Nelson: Scott Brodie Series: 1) The Deserter, 2) Blood Lines  
 
@@ -1366,11 +1381,11 @@ LEGENDS: Book 1, Book 2, Book 3
 #### McCaffrey: DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
 !!!DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),(8)Nerilka's Story~~  
 #### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern, (13)The Dolphins of Pern~~, (16)The Skies of Pern  
-#### McCaffrey: OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code  
+#### McCaffrey: OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code, The Ship Who Sang    
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
 
-#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance, 5) Arms-Commander, 6) Cyador's Heirs, 6.5) Heritage of Cyador~~, 7) The Mongrel Mage       
+#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance, 5) Arms-Commander, 6) Cyador's Heirs, 6.5) Heritage of Cyador, 7) The Mongrel Mage.~~ 8) Outcasts of Order         
 
 #### Nix, Garth: THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Case, 4) Clariel, 5) Goldenhand, 6) Terciel and Elinor  
 
@@ -1413,7 +1428,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Salvatore THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
 #### !!!Salvatore THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
 #### !!!Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King, 3) The Ghost King~~  
-#### Salvatore: NEVERWINTER SAGA: ~~1) Gauntlgrym, 2) NeverWinter~~, 3) Charon's Claw, 4) The Last Threshold (humbun ebooks)   
+#### Salvatore: NEVERWINTER SAGA: ~~1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw~~, 4) The Last Threshold (humbun ebooks)   
 #### Salvatore: THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
 #### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf (humbun ebooks)    
 #### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero (humbun ebooks)    
@@ -1431,7 +1446,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Sanderson RECKONERS ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
 #### !!!Sanderson ELANTRIS ~~1)Elantris, 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)~~    
 #### Sanderson: RITHMATIST: 1) The Rithmatist  
-#### !!!SKYWARD: ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant (AUDIBLE)  
+#### !!!SKYWARD ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant (AUDIBLE)  
 #### !!!INFINITY BLADE Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 #### Sanderson: WARBREAKER: 1) Warbreaker (audible?), 2) Nightblood  
 #### Sanderson: SOLO: 1) Perfect State, ~~2) Shadow for Silence in the Forests of Hell (Audible), 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.~~    
