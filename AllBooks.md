@@ -1135,7 +1135,7 @@
 - Sainsbury, Ian: The World Walker  
 - Sakey, Marcus: Brilliance  
 - Salamo, Lin: Mark Twain's Helpful Hints for Good Living
-- Salvatore, RA: Stone of Tymora (3 books?)  
+- Salvatore, RA: Stone of Tymora (3 books? see below)  
 - Scalzi, John: Dispatcher; The Collapsing Empire; The Kaiju Preservation Society (I think I bought this)
 - Schwab, VE: A Darker Shade of Magic  
 - Schulman, Daniel: Sons of Wichita  
@@ -1435,13 +1435,14 @@ The End and Other Beginnings: Stories from the Future
 #### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf (humbun ebooks)    
 #### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero (humbun ebooks)    
 #### Salvatore: GENERATIONS: 1) Timeless(audible), 2) Boundless(audible), 3) Relentless(LIBBY)  
-#### Salvatore: THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels  
+#### Salvatore: THE STONES OF TYMORA: 1) The Stowaway, 2) The Shadowmask, 3) The Sentinels (AUDIBLE)  
 #### Salvatore: CLERIC QUINTET: 1) Canticle, 2) In Sylvan Shadows, 3) Night Masks, 4) The Fallen Fortress, 5) The Chaos Curse (humbun ebooks)   
 #### Salvatore: Spearwielders 1)The Woods out Back  
 #### Salvatore: THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge (soon?2022)  
 #### Salvatore: SOLO?: The Color of Dragons, The Legend of Drizzt: The Collected Stories (AUDIBLE)   
-#### Salvatore: SAGA OF THE FIRST KING: 1) The Highwayman (AUDIBLE), 2) The Ancient   
-#### ~~Salvatore, RA: !!!Night of the Hunter; Rise of the King; The Highwayman; The Legend of Drizzt: The Collected Stories~~   
+#### Salvatore: SAGA OF THE FIRST KING: 1) The Highwayman (AUDIBLE), 2) The Ancient  
+#### Salvatore: Guenhwyvar: A Tale from Drizzt (AUDIBLE)  
+#### ~~Salvatore, RA !!!Night of the Hunter; Rise of the King; The Highwayman;~~ The Legend of Drizzt The Collected Stories     
 
 #### !!!Sanderson, Brandon MISTBORN ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages, 3.5) Secret History (on Arcanum Unbounded), 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,~~  
 #### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings (audible) & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella (audible?), 4)Rhythm of War, 5)Highprince of War  
