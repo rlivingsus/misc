@@ -1,7 +1,9 @@
 #### Amazon Games
 - Alex Kidd:
 - Forager:
+- Ghostbusters Spirits Unleashed (See Steam too)  
 - Samurai Bringer:
+- Spirit of the North:  
 - Wall World:  
 
 #### Blizzard
