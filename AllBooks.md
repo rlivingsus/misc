@@ -342,7 +342,7 @@
 - Gyasi, Yaa: Homegoing  
 - Haberman, Maggie: Confidence Man  
 - Haidt, Johnathan: The Happiness Hypothesis  
-- Haig, Matt: The Midnight Library; Notes on a Nervous Planet; The Humans; How to Stop Time;
+- Haig, Matt: The Midnight Library; Notes on a Nervous Planet; The Humans; How to Stop Time; The Life Impossible  
 - Hakes, Jasmin Iolani: Hula  
 - Hall, Edward: The Hidden Dimension  
 - Hall, Kerstin: Star Eater  
@@ -384,7 +384,7 @@
 - Hibbing, John: Predisposed  
 - Hill, Napoleon: Outwitting the Devil: The Secret to Freedom and Success; The Law of Success in Sixteen Lessons  
 - Hirano, Keiichiro: A Man (kindle)  
-- Hoffman, Carl: The Lunatic Express  
+- Hoffman, Carl: The Lunatic Express (only ebook?)  
 - Hogarth, M.C.A: HER INSTRUMENTS: 1)Earthrise  
 - Holes, Paul: Unmasked: My Life Solving America's Cold Cases  
 - Holiday, Ryan: Ego is the Enemy; Conspiracy; Stillness is the Key; Obstacle is the way; Discipline is Destiny  
@@ -559,12 +559,13 @@
 - Martel, Jay: The Present  
 - !!! ~~Martel, Yann The High Mountains of Portugal~~    
 - Martin, George RR: Wildcards Novels  
-- Martinet, Jeanne: The Art of Mingling  
+- Martinet, Jeanne: The Art of Mingling
+- Massie, Robert: Peter the Great his life and world  
 - Mattis, Jim: Call Sign Chaos  
 - Maugham, W. Somerset: ebook The Razor's Edge  
 - Maxwell, Everina: Winter's Orbit  
 - Maxwell, John: How successful people think  
-- McAllister, Gillian: Wrong Place Wrong Time  
+- !!! ~~McAllister, Gillian: Wrong Place Wrong Time~~    
 - McCandless, David: Beautiful News  
 - McCarthy, Andrew: Journeys Home  
 - McChrystal, Stanley: Team of Teams; Leaders
@@ -622,7 +623,8 @@
 - Murakami, Ryu: Popular Hits of the Showa Era  
 - Murata, Sayaka: Convenience Store Woman  
 - Muratyan, Vahram: Paris versus New York  
-- Murphy, Joseph: the Power of your subconcious mind  
+- Murphy, Joseph: the Power of your subconcious mind
+- Murray, Andrew Hunter: The Sanctuary  
 - Murray, Williamson: Military Innovation in the Interwar Period  
 - Musgrave, David: Lambda  
 - Murtagh, Niall: The Blue-Eyed Salaryman  
@@ -732,7 +734,8 @@
 - Roanhorse, Rebecca: Trail of Lightning, Fevered Star  
 - Robb, John: Brave New War, The Next Stage of Terrorism and the End of Globalization  
 - Roberto, Adam: The Thing Itself  
-- Roberts, Adam: Jack Glass  
+- Roberts, Adam: Jack Glass
+- Roberts, Gregory David: Shantaram  
 - Robertson, Donald: How to Think Like a Roman Emporer  
 - Robinson, Frank M: The Dark Beyond the Stars  
 - Robinson, Kim Stanley: Aurora  
@@ -971,7 +974,8 @@
 - Yager, Jan: How to Finish everything you start  
 - Yang, Jeff: Rise  
 - Yates, Brook: Cannonball  
-- Yeager, Corey: How Am I Doing?  
+- Yeager, Corey: How Am I Doing?
+- Yeebo, Yepoka: Anansi's Gold  
 - Yi-Sheng, Ng: Lion City  
 - Yoshihara, Toshi & James R. Holmes: Red Star over the Pacific  
 - Young, Adrienne: Spells for Forgetting  
@@ -992,7 +996,7 @@
 - Adams, Scott: How to Fail at Almost Everything and Still Win Big  
 - Ackerman, Sara: Red Sky over Hawaii  
 - Ahn, Flora: The Golden Orchard  
-- Alanson, Craig: EXPEDITIONARY FORCE 1) Columbus Day, 2) SpecOps, 3) Paradise (DNHAVE), 7) Renegades 
+- Alanson, Craig: EXPEDITIONARY FORCE 1) Columbus Day, 2) SpecOps, 3) Paradise, 7) Renegades 
 - Albala, Ken: History of Bourbon  
 - Aldrete, Gregory: History's Great Military Blunders and the Lessons They Teach  
 - Anderson, Chris: TED Talks  
@@ -1044,7 +1048,7 @@
 - Donahue, Greg: The Minuteman  
 - Doucette, Gene: Immortal; The Spaceship Next Door  
 - Dues, Michael: The Art of Conflict Management  
-- Eddings, David & Leigh Eddings: The Redemption of Althalus  
+- Eddings, David & Leigh Eddings: The Redemption of Althalus; 1) Belgarath the Sorceror, 2) Polgara the Sorceress    
 - Elwes, Cary: As you Wish  
 - Emmich, Val: Dear Evan Hansen  
 - Estrella, LG: Cosmic Delivery Boy Book 1  
@@ -1096,7 +1100,7 @@
 - Ma, YoYo: Beginner's Mind  
 - Maberry, Jonathan: Trust No One  
 - Macdonald, Erin: The Science of Sci-fi  
-- Martin, George RR, et al.: Wild Cards I  
+- Martin, George RR, et al.: Wild Cards I, Wild Cards III: Jokers Wild    
 - Mather, Matthew: CyberSpace  
 - Maxwell, John: Good Leaders Ask Great Questions  
 - McCormack, Una: Autobiography of Kathryn Janeway  
@@ -1116,7 +1120,7 @@
 - Morin, JS: Eve 14 
 - Moss, Stephen: Fear the Sky  
 - Nichols, Michael: The Lost Art of Listening  
-- Nye, Bill: Everything All at once; Unstoppable  
+- Nye, Bill: ~~Everything All at once~~; Unstoppable  
 - Patterson, James: Private  
 - Perenyi, Ken: Caveat Emptor: The Secret Life of an American Art Forger  
 - Peterson, David: Beyond Strange Lands  
@@ -1154,7 +1158,8 @@
 - Stevenson, Robert Louis: Treasure Island (Read?)  
 - !!!~~Stone, Brad The Everything Store~~    
 - Sturgeon, Theodore: SCIFI Hall of Fame, Vol.2-A  
-- Sullivan, Michael: The Jester (A Riyria Chronicles); Age of Myth  
+- Sullivan, Michael: The Jester (A Riyria Chronicles); Age of Myth
+- Taylor, Dennis: The Singularity Trap  
 - Taylor, James: Break Shot: My First 21 Years  
 - Tchaikovsky, Adrian: Children of Time  
 - Terrill, Cristin: All Our Yesterdays  
@@ -1226,13 +1231,13 @@ Indomitable, ~~Dark Wraith of Shannara~~
 #### !!!~~Brooks PALADINS OF SHANNARA (did not find in Libby, Short Stories in ebook format and did not read): 1)Allanon's Quest; 2)The Weapon Master's Choice; 3)The Black Irix~~    
 #### !!!Brooks DARK LEGACY OF SHANNARA SERIES ~~1) Wards of Faerie, 2) Blood Fire Quest, 3) Witch Wraith~~
 #### !!!Brooks DEFENDERS OF SHANNARA ~~1) The High Druid's Blade, 2) The Darkling Child; 3)The Sorcerer's DaughterSTOPPED SERIES KINDA REPEATS~~  
-#### Brooks: THE FALL OF SHANNARA: 1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stiehl Assassin; 4) The Last Druid  
+#### Brooks: THE FALL OF SHANNARA: ~~1) The Black Elfstone; 2) The Skaar Invasion~~; 3) The Stiehl Assassin; 4) The Last Druid  
 #### Brooks: MAGIC KINGDOM OF LANDOVER: 1) Magic Kingdom for Sale/Sold, 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
 #### Brooks: Misc: Indomitable, Legends of Shannara, The World of Shannara  
 
 #### Brown, Pierce  
 !!!RED RISING SAGA ~~1) Red Rising, 2) Golden Son (5.22, Darrow battles various gold folks who isn't happy that he is where he is at.  Various folks discover he is a Red and at the end of the book he is taken by folks he shouldn't have trusted), 3) Morning Star, 4) Iron Gold, 5) Dark Age, 6) Lightbringer~~  
-SOA? 1) Sons of Ares, 2) Wrath, 3) Forbidden Song  
+### SOA Graphic Novels 1) Sons of Ares, 2) Wrath, 3) Forbidden Song  
 
 #### Bryson, Bill: In a Sunburned Country,  
 
@@ -1252,7 +1257,7 @@ SOA? 1) Sons of Ares, 2) Wrath, 3) Forbidden Song
 #### !!!Card, Orson Scott ENDER'S SAGA ~~1) Ender's Game, 2) Speaker for the Dead, 3) Xenocide, 4) Children of the Mind, 4.5) A War of Gifts 5) Ender in Exile~~ 6) GOTO SHADOW SERIES
 #### Card: Mithermages: 1) The Lost Gate,  
 #### !!!Card ENDER's SHADOW SERIES ~~1) Ender's Shadow, 2) Shadow of the Hegemon, 3) Shadow Puppets, 4) Shadow of the Giant, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow~~      
-#### Card: THE FIRST FORMIC WAR SERIES: 1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens  
+#### Card: THE FIRST FORMIC WAR SERIES: ~~1) Earth Unaware~~, 2) Earth Afire, 3) Earth Awakens  
 #### Card: Duplex, Lost and Found  
 
 #### Clarke, Arthur C.: RAMA: 1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
@@ -1260,12 +1265,12 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Clavell, James: THE ASIAN SAGA: 1) Shogun, 2) Taipan, 3)Gaijin, 4)King Rat, 5)Noble House, 6)Whirlwind  
 
-#### Corey, James: THE EXPANSE: ~~1) Leviathan Wakes, 2) Caliban's War, 3) Abaddon's Gate~~, 4) Cibola Burn, 5) Nemesis Games, 6) Babylon's Ashes, 7) Persepolis Rising  
+#### Corey, James: THE EXPANSE: ~~1) Leviathan Wakes, 2) Caliban's War, 3) Abaddon's Gate, 4) Cibola Burn~~, 5) Nemesis Games, 6) Babylon's Ashes, 7) Persepolis Rising  
 
 #### Cunningham, Elaine: FORGOTTEN REALMS SONGS & SWORDS: 1) Elfshadow (HAVE), 2) Elfsong (HAVE), 3) Silvershadows, 4) Thornhold, 5) The Dream Spheres, 6) Reclamation    
 #### Drake, David: LORD OF THE ISLES: 1) The Lord of the Isles (HAVE?), 2) Queen of Demons, 3) Servant of the Dragon, 4) Mistress of the Catacombs, 5) Goddess of the Ice Realm, 6) Master of the Cauldron, 7) Fortress of Glass, 8) Mirror of Worlds, 9) The Gods Return  
 
-#### Dashner, James: MAZE RUNNER: ~~1) Maze Runner, 2) The Scorch Trials,~~ 3) The Death Cure   
+#### Dashner, James: MAZE RUNNER: ~~1) Maze Runner, 2) The Scorch Trials, 3) The Death Cure~~, 3.5) Crank Palace Novella       
 
 #### DeMille, Nelson: Scott Brodie Series: 1) The Deserter, 2) Blood Lines  
 
@@ -1295,8 +1300,8 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### !!!Feist SERPENT WAR SAGA ~~1)Shadow of a Dark Queen, 2)Rise of a Merchant Prince, 3)Rage of a Demon King, 4)Shards of a Broken Crown~~    
 #### !!!Feist RIFTWAR LEGACY ~~1)Krondor: The Betrayal, 2)Krondor: The Assassins, 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler~~  
 #### !!!Feist LEGENDS OF RIFTWAR (coincide with riftwar saga) ~~1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand~~  
-#### Feist CONCAVE OF SHADOWS ~~1)Talon of the Silver Hawk, 2)King of Foxes, 3)Exile's Return~~    
-#### Feist: DARKWAR SAGA: 1)Flight of the Nighthawks, 2)Into a Dark Realm, 3)Wrath of a Mad God  
+#### !!!Feist CONCAVE OF SHADOWS ~~1)Talon of the Silver Hawk, 2)King of Foxes, 3)Exile's Return~~    
+#### Feist: DARKWAR SAGA: ~~1)Flight of the Nighthawks~~, 2)Into a Dark Realm, 3)Wrath of a Mad God  
 #### Feist: DEMONWAR SAGA: 1)Rides a Dread Legion, 2)At the Gates of Darkness  
 #### Feist: CHAOSWAR SAGA: 1)A Kingdom Besieged, 2)A Crown Imperilled, 3)Magician's End  
 #### Feist: SOLO: King of Ashes (on Audible?)  
@@ -1367,6 +1372,8 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### Maas, Sarah: A COURT OF THORN AND ROSES: 1)A Court of Thorns and Roses, 2)A Court of Mist and Fury, 3)A Court of Wings and Ruin, 3.1)A Court of Frost and Starlight, 4)A Court of Silver Flames  
 
+#### Marillier, Juliet: SEVENWATERS SERIES: 1) Daughters of the Forest (ebook only?)  
+
 #### Martin, George RR: A SONG OF ICE AND FIRE: ~~1) Game of Thrones, 2) A Clash of Kings, 3) A Storm of Swords,~~ 4) A Feast for Crows, 5) A Dance with Dragons, 6) The Winds of Winter (forthcoming), 7) A Dream of Spring  
 
 #### Martine, Arkady: TEIXCALAAN SERIES: ~~1) A Memory Called Empire~~; 2) A Desolation Called Peace  
@@ -1402,7 +1409,7 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### !!!Prineas, Sarah MAGIC THIEF SERIES ~~1) The Magic Thief, 2) Lost, 3) Found, 3.5) A Proper Wizard, 4) Home~~    
 
-#### Redick, Robert VS: THE CHATHRAND VOYAGE SERIES: ~~1) The Red Wolf Conspiracy, 2) The Rats and the Ruling Sea~~, 3) The River of Shadows, 4) The Night of the Swarm  
+#### Redick, Robert VS: THE CHATHRAND VOYAGE SERIES: ~~1) The Red Wolf Conspiracy, 2) The Rats and the Ruling Sea, 3) The River of Shadows~~, 4) The Night of the Swarm  
 
 #### Reid, Thomas M.: FORGOTTEN REALMS EMPYREAN ODYSSEY: 1) The Gossamer Plain (HAVE), 2) The Fractured Sky (HAVE), 3) The Crystal Mountain  
 
@@ -1430,7 +1437,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Salvatore THE SELLSWORDS: ~~1)Servant of the Shard, 2)The Promise of the Witch King, 3)Road of the Patriach~~  
 #### !!!Salvatore THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
 #### !!!Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King, 3) The Ghost King~~  
-#### Salvatore: NEVERWINTER SAGA: ~~1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw~~, 4) The Last Threshold (humbun ebooks)   
+#### !!!Salvatore: NEVERWINTER SAGA: ~~1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold (humbun ebooks)~~     
 #### Salvatore: THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
 #### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf (humbun ebooks)    
 #### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero (humbun ebooks)    
