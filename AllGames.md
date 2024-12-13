@@ -60,7 +60,7 @@
 - GNOG:
 - Grand Theft Auto V:
 - Halycyon 6:
-- Hitman:
+- Hitman 1: (PLAY FIRST)
 - Homeworld Remastered:
 - Into the Breach:
 - Industria:
@@ -71,6 +71,7 @@
 - Lifeless Planet: Premier:
 - Limbo:
 - Loop Hero:
+- Lord of the Rings: Return to Moria  
 - Mass Effect 1,2,3 Legendary:  
 - Marvel's Guardian of the Galaxy:
 - Metro 2033:
