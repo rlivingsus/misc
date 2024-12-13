@@ -143,7 +143,7 @@
 - Far: Lone Sails:   
 - Grim Fandango:
 - Hardwest II:
-- Hitman: Absolution; Hitman: Blood Money; Hitman2: Silent Assassin; Hitman3: Contracts:
+- Hitman: Absolution 5?; Hitman: Blood Money 4?; Hitman2: Silent Assassin; Hitman3: Contracts:
 - Incredible Machine (multi):
 - Icewind Dale (EE version on Amazon games STEAM); Icewind Dale 2:
 - ITORAH:
@@ -395,7 +395,7 @@
 - Splitgate:
 - Stanley Parable:
 - STO (playing):
-- Star Wars games (various):
+- Star Wars games: Battlefront, Battlefront2, Empire at War: Gold, Galactic Battlegrounds Saga (playing now), Jedi Knight: Jedi Academy, KOTOR, KOTOR2, Republic Commando, Squadrons, Starfighter, The Clone Wars-Republic Heroes, The Force Unleashed-Ultimate Sith, The Force Unleashed 2  
 - Stardew Valley:
 - Subnautica & Below Zero:
 - Tales of Monkey Island: Chapter 1-5 (various elsewhere):
