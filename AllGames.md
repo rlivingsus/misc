@@ -243,9 +243,11 @@
 - Crime O'Clock:
 - Cryostatis:
 - Cube Hero Odyssey:
+- Cult of the Lamb:  
 - The Curse of Monkey Island:
 - The Cycle: Frontier:
 - DARQ:
+- Dave the Diver:  
 - Day of Defeat:
 - Deponia:
 - Desktop Dungeons:
