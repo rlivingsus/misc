@@ -39,6 +39,7 @@
 - Batman Arkham Asylum then Batman Arkham City then Batman Arkham Knight:
 - Borderlands 2/3 and The PreSequel (1 on STEAM):
 - Breakout Recharged:
+- Brotato  
 - Cave Story+:
 - City of Brass:
 - Call of the Sea:
@@ -173,6 +174,7 @@
 - Symphonia:
 - Symphony:
 - Temple of Elemental Evil:
+- The Whispered World: Special Edition  
 - Tomb Raider: Angel of Darkness; The Last Revelation & Chronicles:
 - To The Moon:
 - Total Annihilation:
@@ -234,6 +236,7 @@
 - Child of Light:
 - Children of Morta:
 - Chrono Trigger:
+- Command and Conquer: 4) Generals Zero Hour; 2) Renegade; 1b) Tiberian Sun & Firestorm; 3) Generals; 5) Red Alert 2 & Yuri's Revenge; 6)Red Alert3, 3Uprising, 3Tiberium Wars; Kane's Wrath; 7)4Tiberian Twilight; Covert Operations; 1)Red Alert Counterstrike & Aftermath;  
 - Commandos: Behind Enemy Lines; Beyond The Call of Duty; 2: Men of Courage; 3: Desination Berlin:
 - Company of Heroes: 1; Legacy Edition; Opposing Fronts; Tales of Valor:
 - Cosmic Osmo:
@@ -287,6 +290,7 @@
 - Ghostbusters: Sanctum of Slime; The Video Game:
 - Gone Home:
 - Gratuitous Space Battles:
+- Grim Dawn & Crucible Mode DLC, Ashes of Malmouth Expansion, Forgotten Gods Expansion  
 - Gunpoint:
 - Hacker Evolution; Untold; Duality:
 - Hacknet:
