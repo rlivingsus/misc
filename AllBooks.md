@@ -1,5 +1,6 @@
 #### BOOKS TO READ
-- Abdullah, Chelsea: SANDSEA TRILOGY: ~~1) The Stardust Thief~~, 2) The Ashfire King (2025)   
+- Abdullah, Chelsea: SANDSEA TRILOGY: ~~1) The Stardust Thief~~, 2) The Ashfire King (2025)
+- Abraham, Daniel: Long Price Quartet    
 - Acemoglu, Daron: Why Nations Fail  
 - Achor, Shawn: The Happiness Advantage
 - Ackerman, Elliott: 2034 and 2054  
@@ -161,7 +162,8 @@
 - Coremen, Thomas: Algorithms Unlocked  
 - Costello, Barry: Fortune favors Boldness  
 - Cotton, Tom: Sacred Duty  
-- Couch, Dick: A Tactical Ethic  
+- Couch, Dick: A Tactical Ethic
+- Courogen, Carrie: Miss May does not exist  
 - Crichton, Michael: Sphere; Rising Sun; Andromeda Strain; The Great Train Robbery; Eruption     
 - Cristie, Agatha:  TOMMY & TUPPENCE: 2) Partners in Crime, 3) N or M?, 4) By the Pricking of My Thumbs, 5) Postern of Fate HERCULE POIROT: various
 - Critchley, Emily: One Puzzling Afternoon  
@@ -278,7 +280,8 @@
 - Freeman, Brian (thrillers): Frost Easton: 1) The Night Bird  
 - Frey, Dan: The Future is Yours  
 - Friedman, C.S.: Feasts of Souls  
-- Friedman, George: The Next 100 Years  
+- Friedman, George: The Next 100 Years
+- Fukuyama, Francis: The Origins of Political Order + Political Order and Decay  
 - Gagnon, Michelle: Killing Me  
 - Gaiman, Neil: American Gods  
 - Gaines, Chip: No Pain, No Gaines  
@@ -358,7 +361,8 @@
 - Hart, Basil: Sherman: Soldier, Realist, American; Scipio Africanus: Greater than Napoleon  
 - Hart, Rob: The Paradox Hotel  
 - Hartley, Gemma: Fed Up  
-- Harwood, JJA: The Shadow in the Glass  
+- Harwood, JJA: The Shadow in the Glass
+- Hauck, Rachel: Meet me at the Starlight  
 - Hawke, Mykel: Hawke's Special Forces Survival Handbook  
 - Hawker, Natasha: From Hire to FIre & Everything in Between  
 - Hawking, Stephen: A Brief History of Time; The Origin of Almost Everything  
@@ -420,13 +424,15 @@
 - Jaku, Eddie: The Happiest Man on Earth  
 - Jay, Joshua: How Magicians Think  
 - Jean, Emiko: Mika in Real Life; Tokyo Ever After  
-- Jemisin, NK: The World we Make; The City we became; Emergency Skin; The Stone Sky  
+- Jemisin, NK: The World we Make; The City we became; Emergency Skin; The Stone Sky
+- Jensen, Van: Godfall (ebook only?)  
 - Jiang, Jia: Rejection Proof  
 - Johnson, Micaiah: The Space between Worlds  
 - Jonasson, Jonas: The 100-Year-Old Man who Climbed out the Window and Disappeared  
 - Jones, Dhani: The Sportsman  
 - Jones, Dylan: David Bowie  
 - Jones, Gwyneth: Proof of Concept
+- Jones, JV: Sword of Shadows  
 - Jones, Phil: Exactly what to say  
 - Kahn, David: The Codebreakers  
 - Kahneman, Daniel: Thinking, Fast, and SLow  
@@ -691,6 +697,7 @@
 - Pierceson, Jason: Sexual Minorities and Politics  
 - Pillsbury, Michael: The Hundred-Year Marathon  
 - Pink, Daniel: The Power of Regret, When, To Sell is Human, Drive, A Whole New Mind, The Adventures of Johnny Bunko, Free Agent Nation
+- Pinker, Steven: The Better Angels of our Nature  
 - Plummer, David: Secrets of the Autistic Millionaire (Audible maybe?)  
 - Popkin, Jim: Code Name Blue Wren  
 - Porter, Lindsay: Assassination  
@@ -791,7 +798,8 @@
 - Shaffer, Meg: The Wishing Game  
 - Shalleck, David: Mediterranean Summer  
 - Shapiro, Joseph: No Pity  
-- Shand, Mark: Travels on My Elephant  
+- Shand, Mark: Travels on My Elephant
+- Shatner, William: Boldly Go   
 - Shaw, Julia: The Memory Illusion  
 - Shea, Kieran: Off Rock  
 - Sheff, David: The Buddhist on Death Row  
@@ -879,7 +887,7 @@
 - Tintera, Amy: Reboot  
 - Tokunaga, Wendy: Marriage in Translation  
 - Toll, Ian: Six Frigates  
-- Tolstoy, Leo: The Death of Ivan Ilyich  
+- Tolstoy, Leo: The Death of Ivan Ilyich, War and Peace   
 - Toon, Paige: Only Love Can Hurt Like This //love story with a twist  
 - Torseter, Oyvind: The Hole  
 - Townsend, Anthony: Ghost Road: Beyond the Driverless Car  
@@ -892,7 +900,8 @@
 - Turnbull, Cadwell: The Lesson  
 - Tyson, Neil deGrasse: Astrophysics for Peole in a Hurry  
 - Tzu, Sun: The Art of War  
-- Union, Gabrielle: Were going to Need More Wine  
+- Union, Gabrielle: Were going to Need More Wine
+- Upholt, Boyce: The Great River  
 - Urrea, Luis Alberto: The House of Broken Angels  
 - Urschel, John: Mind & Matter  
 - Valentine, Carla: The Science of Murder  
@@ -1016,7 +1025,8 @@
 - Bock, Laszlo: Work Rules!  
 - Bohem, Less: Junk  
 - Bova, Ben: The SCI FI HOF Vol.2-B  
-- Braddon, Mary: The Christmas Hirelings  
+- Braddon, Mary: The Christmas Hirelings
+- Brown, Pierce: Sons of Ares v1-3 bundle  
 - Brierley, Saroo: Lion  
 - Burns, Steve: Foreverwhere  
 - Byrd, Max: Pont Neuf  
@@ -1100,7 +1110,7 @@
 - Ma, YoYo: Beginner's Mind  
 - Maberry, Jonathan: Trust No One  
 - Macdonald, Erin: The Science of Sci-fi  
-- Martin, George RR, et al.: Wild Cards I, Wild Cards III: Jokers Wild    
+- Martin, George RR, et al.: Wild Cards I, Wild Cards III: Jokers Wild, Wild Cards V: Down and Dirty, Wild Cards VI      
 - Mather, Matthew: CyberSpace  
 - Maxwell, John: Good Leaders Ask Great Questions  
 - McCormack, Una: Autobiography of Kathryn Janeway  
@@ -1169,7 +1179,7 @@
 - Various: Menu Excerpts from Our Favorite Neward Restaurants  
 - Voth, Grant: Great Mythologies of the World  
 - Wade, Adam: You Ought to Know Adam Wade
-- Ward, Dayton: Agents of Influence  
+- Ward, Dayton: Agents of Influence; CODA: 1) Star Trek Coda: Moments Asunder   
 - Weber, David: Oath of Swords book 1  
 - Weir, Andy: Project Hail Mary   
 - Wezowski, Kasia: Without saying a word  
@@ -1278,6 +1288,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### Donaldson: THE SECOND CHRONICLES OF THOMAS COVENANT: 1) The Wounded Land, 2) The One Tree, 3) White Gold Wielder  
 #### Donaldson: THE LAST CHRONICLES OF THOMAS COVENANT: 1) The Runes of the Earth, 2) Fatal Revenant, 3) Against all Things Ending, 4) The Last Dark  
 #### Donaldson: KING'S JUSTICE: The Augur's Gambit, The King's Justice   
+#### Donaldson: Into the Gap  
 
 #### Douglass, Sara: WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
@@ -1318,7 +1329,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### Haldeman, Joe  
 !!!FOREVER WAR ~~1) The Forever War, 2) Forever Peace, 3) Forever Free~~  
 
-#### Heinlein, Robert: Glory Road, The Moon is a Harsh Mistress; The SciFi Hall of Fame Vol.1 1929-1964; The SciFi Hall of Fame Vol.2-a   
+#### Heinlein, Robert: Glory Road, The Moon is a Harsh Mistress; The SciFi Hall of Fame Vol.1 1929-1964; The SciFi Hall of Fame Vol.2-a, All you Zombies    
 
 #### Herbert, Frank (& Brian Herbert): DUNE: ~~1) The Butlerian Jihad; 2) The Machine Crusade; 3) The Battle of Corrin; 4) Sisterhood of Dune; 5) Mentats of Dune;~~ 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen; 9) House Corrino; 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
 
