@@ -120,74 +120,84 @@
 
 #### GOG
 - Absolute Drift: Zen Edition:
-- Alan Wake: American Nightmare:
+- Alan Wake: American Nightmare:  
 - !!!~~Baldur's Gate II~~
 - Block'hood:
 - Botanicula:
 - Cats Hidden in Bali/Italy/Maple Hollow/Paris:
 - Cat Quest II:
-- Crysis, Crysis: Warhead, Crysis: Wars:
-- Deux Ex: Mankind United:
-- Desperados: Wanted Dead or Alive:
-- Disco Elysium:
-- Dungeon Keeper, Dungeon Keeper 2:
-- Dragonshard:
+- Crysis; Crysis: Warhead; Crysis: Wars:
 - Delores: A Thimblewood Park adventure:
-- The Elder Scrolls: Arena, Elder Scrolls II: Daggerfall, Elder Scroll: Morrowind:
+- Desperados: Wanted Dead or Alive:
+- Deux Ex: Mankind United:  
+- Disco Elysium:
+- Dragonshard:
+- Dungeons 2; A Chance of Dragons; A Song of Sand and Time; A Game of Winter:  
+- Dungeon Keeper, Dungeon Keeper 2:
+- Dungeon & Dragons: Dragonshard:  
+- The Elder Scrolls: Arena, Elder Scrolls II: Daggerfall, Elder Scrolls III: Morrowind GOTY:  
 - ~~Empire Earth 1~~, 2, 3:
 - Eye of the Beholder 1, 2, & 3:
+- Fallout:London; Fallout Tactics; Fallout 1/2 (steam has 3):
 - Fantasy Wars:
+- Far: Lone Sails:
 - Firewatch:
+- Flashout3d: Enhanced Edition  
 - Forgotten Realms: Demon Stone
 - Freespace 2:
-- Fallout 1/2 (steam has 3):
-- Far: Lone Sails:   
-- Grim Fandango:
+- Grim Fandango:Remastered:  
 - Hardwest II:
 - Hitman: Absolution 5?; Hitman: Blood Money 4?; Hitman2: Silent Assassin; Hitman3: Contracts:
 - Incredible Machine (multi):
 - Icewind Dale (EE version on Amazon games STEAM); Icewind Dale 2:
 - ITORAH:
 - Jagged Alliance: Deadly Games:
-- Jotun:
+- Jotun:Valhalla Edition:  
 - Kings Bounty: Dark Side; King's Bounty II:
 - King's Quest 1-8:
 - Lands of Lore: Guardians of Destiny; Thrones of Chaos:
+- Lost Ruins:  
+- The Lullaby of Life:  
 - Medal Of Honor Allied Assault Warchest:
 - Might & Magic: Swords of Xeen; M&M1: Book1; M&M2-6:
-- Oxenfree (Duplicate on Epic games):
+- Neverwinter Nights:Enhanced Edition & Diamond:  
+- Oxenfree (Duplicate on Epic games):  
 - Planescape: Torment (EE on Amazon Games):
 - Police Quest 1-4; Police Quest Swat 1-2:
+- Powers in the Basement:
+- Prey:  
 - Prison Architect:
 - Quest for Glory 1-5:
 - Rebel Galaxy:
 - Resonance:
 - Road Warden:
-- Somorost:
+- Samorost:  
 - Sherlock Holmes Secret of the Silver Earring (Crimes and Punishment on Epic):
 - Sniper: Ghost Warrior; Sniper Ghost Warrior 3 Gold; Sniper Ghost Warrior Contracts (Sniper Elite, Sniper Elite v2 remastered, Sniper Ghost Warrior 2 on STEAM):
 - Space Quest 1-6:
-- Spycraft:
+- Spycraft:The Great Game:  
 - Steamworld Heist:
 - Stellaris: Leviathan Story Pack, Utopia, Synthetic Dawn Story Pack, Apocalypes (DON’T HAVE Distant Stars, MegaCorp, Ancient Relics, Federations, Nemesis, Overlord, First Contact, Galactic Paragons, Astral Planes, The Machine Age):
 - Swat3:
-- Symphonia:
+- Symmetry:  
+- Symphonia:  
 - Symphony:
 - Temple of Elemental Evil:
 - The Whispered World: Special Edition  
 - Tomb Raider: Angel of Darkness; The Last Revelation & Chronicles:
 - To The Moon:
-- Total Annihilation:
+- Total Annihilation:Commander Pack:  
 - Townscaper:
+- Tropico4:  
 - Two Point Hospital:
 - Ultima Worlds of Adventure 2: Martian Dreams; Ultima 4: Quest of the Avatar; Worlds of Ultima: Savage Empire:
 - Unmechanical Extended:
 - Warhammer: Chaosbane (2019); 40000 Mechanicus (2018), Mark of Chaos (2006), 40000 Space Marines (2011), (40000 Inquisition on Steam) , (40000 Gladius on Epic):
-- Wasteland 2 (play Steam):  
-- The Witcher:
+- Wasteland 2 director's cut(play Steam):  
+- The Witcher:enhanced edition:  
 - Wolfenstein New Order:
-- Weird West:
-- WORMS: 1) Worms, 6) Worms Crazy Golf, 4) Worms Forts, 6) Worms Revolution, 5) Worms Ultimate Mayhem, `.5) Worms United`, 7) Worms WMD, 3) Worms World Party, 2) Worms: Armageddon:      
+- Weird West:Definitive Edition:  
+- WORMS: 1) Worms, 6) Worms Crazy Golf, 4) Worms Forts, 6) Worms Revolution, 5) Worms Ultimate Mayhem, `.5) Worms United`, 7) Worms WMD, 3) Worms World Party, 2) Worms: Armageddon, Worms 2:        
 
 #### Steam
 - 100 Christmas Cats:
