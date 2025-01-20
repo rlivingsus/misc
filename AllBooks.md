@@ -43,7 +43,7 @@
 - Azuma-Nelson, Caleb: Open Water  
 - Bach, Richard: Jonathan Livingston Seagull  
 - Bacigalupi, Paolo: The Windup Girl  
-- Backman, Fredrik: Bear Town; Anxious People
+- Backman, Fredrik: Bear Town; Anxious People; A Man called Ove  
 - Bacon, John: Let Them Lead  
 - Baggett, Jennifer: The Lost Girls  
 - !!! ~~Bailey, Chris HyperFocus~~  
@@ -134,7 +134,7 @@
 - Chen, Yu: The Way Spring Arrives and Other Stories  
 - Chernow, Ron: Alexander Hamilton  
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
-- ~~Cho, Zen: 1) Sorcerer to the Crown~~, 2)The True Queen  
+- ~~Cho, Zen: 1) Sorcerer to the Crown, 2)The True Queen~~    
 - Choi, Roy: LA Son  
 - Chong, Jinwoo: Flux
 - Chung, Gina: Sea Change   
@@ -277,7 +277,8 @@
 - Foxx, Jamie: Act Like You Got Some Sense  
 - Frankl, Viktor: Man's Search for Meaning  
 - Freedman, Lawrence: The Future of War  
-- Freeman, Brian (thrillers): Frost Easton: 1) The Night Bird  
+- Freeman, Brian (thrillers): Frost Easton: 1) The Night Bird
+- Freud, Sigmund: Civilian and its Discontents  
 - Frey, Dan: The Future is Yours  
 - Friedman, C.S.: Feasts of Souls  
 - Friedman, George: The Next 100 Years
@@ -377,7 +378,8 @@
 - Hedfield, Chris: The Apollo Murders  
 - Heinlein, Robert: The Moon is a Harsh Mistress; ~~Stranger in a Strange Land~~;  The Rolling Stones; Red Planet    
 - Heisey, Monica: really good, actually  
-- Helgerson, John: Getting to Know the President  
+- Helgerson, John: Getting to Know the President
+- Heller, Joseph: Catch-22  
 - Heller, Michael: Mine!  
 - Helm, Leslie: Yokohama Yankee
 - Henderson, Andrew: Nomad Capitalist  
@@ -387,7 +389,8 @@
 - Hesse, Herman: Siddhartha  
 - Hibbing, John: Predisposed  
 - Hill, Napoleon: Outwitting the Devil: The Secret to Freedom and Success; The Law of Success in Sixteen Lessons  
-- Hirano, Keiichiro: A Man (kindle)  
+- Hirano, Keiichiro: A Man (kindle)
+- Hoffer, Eric: The True Believer  
 - Hoffman, Carl: The Lunatic Express (only ebook?)  
 - Hogarth, M.C.A: HER INSTRUMENTS: 1)Earthrise  
 - Holes, Paul: Unmasked: My Life Solving America's Cold Cases  
@@ -427,11 +430,13 @@
 - Jemisin, NK: The World we Make; The City we became; Emergency Skin; The Stone Sky
 - Jensen, Van: Godfall (ebook only?)  
 - Jiang, Jia: Rejection Proof  
-- Johnson, Micaiah: The Space between Worlds  
+- Johnson, Micaiah: The Space between Worlds
+- Johnston, Anna: The Borrowed Life of Frederick Fife  
 - Jonasson, Jonas: The 100-Year-Old Man who Climbed out the Window and Disappeared  
 - Jones, Dhani: The Sportsman  
 - Jones, Dylan: David Bowie  
 - Jones, Gwyneth: Proof of Concept
+- Jones, James: From Here to Eternity  
 - Jones, JV: Sword of Shadows  
 - Jones, Phil: Exactly what to say  
 - Kahn, David: The Codebreakers  
@@ -522,7 +527,8 @@
 - Lippman, Laura: Tess Monaghan Series (15?) 1) Baltimore Blues  
 - Liu, Cixin: Remembrance of Earth's Past series 0) Ball Lightning, ~~1) The Three-Body Problem, 2) The Dark Forest, 3) Death's End~~, 4) Redemption of Time (someone else wrote this); To Hold up the Sky; Supernova ERA  
 - Liu, Ken: Dandelion Dynasty: The Armies of Those I Love; Invisible Planets  
-- Liu, Simu: We were Dreamers  
+- Liu, Simu: We were Dreamers
+- Livio, Mario: Is Earth Exceptional?  
 - Livingston, Jessica: Founders at Work
 - Livingston, Michael: Origins of the Wheel of Time  
 - Lloyd-Jones, Emily: Illusive  
@@ -544,7 +550,8 @@
 - MacDonald, Eileen: Shoot the women first  
 - Mackintosh, Clare: The Last Party  
 - Mack, Katie: The End of Everything  
-- Magary, Drew: The Hike (ebook only?)  
+- Magary, Drew: The Hike (ebook only?)
+- Mailer, Norman: The Naked and the Dead  
 - Majumdar, Simon: Fed, White and Blue
 - !!! ~~Malerman, Josh Bird Box~~    
 - Manansala, Mia: Tita Rosie's Kitchen Mystery Series (3) 1) Arsenic and Adobo  
@@ -575,6 +582,7 @@
 - McCandless, David: Beautiful News  
 - McCarthy, Andrew: Journeys Home  
 - McChrystal, Stanley: Team of Teams; Leaders
+- McClellan, Brian: In the Shadow of Lightning
 - McConaughhey, Matthew: Greenlights  
 - McDonald, Brian: Invisible Ink, The Golden Theme (kindle)    
 - McDonald, Ed: Blackwing  
@@ -585,7 +593,6 @@
 - McGuire, Seanan: Where the Drowned Girls Go; OCTOBER DAYE: .5)Rat-Catcher, 1)Rosemary and Rue,  
 - McIntyre, Vonda: Dreamsnake  
 - McKinty, Adrian: The Island
-- McClellan, Brian: In the Shadow of Lightning  
 - McMaster, HR: Dereliction of Duty: Lyndon Johnson, Robert McNamara, The Joint Chiefs of Staff, and the Lies that Led to Vietnam
 - McMurtry, Larry: Lonesome Dove  
 - McNeill, Graham: Ultramarines Omnibus  
@@ -648,12 +655,13 @@
 - Newman, TJ: Falling  
 - Newport, Cal: Deep Work  
 - Newsham, Brad: Take Me with You  
-- Nez, Chester: Code Talker
+- Nez, Chester: Code Talker  
 - Ng, Celeste: Our Missing Hearts  
 - Nguyen, Joseph: Don't Believe Everything you Think
 - Nicholls, David: One Day  
 - Nicholson, Dean: Nala's World  
-- Nietfeld, Emi: Acceptance: A Memoir  
+- Nietfeld, Emi: Acceptance: A Memoir
+- Nietzsche, Friedrich: On the Genealogy of Morals  
 - Niven, Larry: 3) Outies (kindle?)  
 - Nix, Garth: 1)Sabriel, 2)Lirael, 3)Abhorsen, 4)Clariel, 5)Goldenhand, 6)Terciel & Eleanor  
 - Nobu: A memoir  
@@ -978,7 +986,8 @@
 - Willink, Jocko & Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win  
 - Willis, Connie: Doomsday Book  
 - Wolfe, Gene: The Claw of the Conciliator
-- Wong, Ali: Dear Girls  
+- Wong, Ali: Dear Girls
+- Wouk, Herman: The Caine Mutiny  
 - Wu, Constance: Making a Scene  
 - Yager, Jan: How to Finish everything you start  
 - Yang, Jeff: Rise  
@@ -992,7 +1001,7 @@
 - Zaleski, Laurie: Funny Farm  
 - Zamora, Javier: Solito  
 - Zauner, Michelle: Crying in H Mart  
-- Zelazny, Roger: Damnation Alley  
+- !!! ~~Zelazny, Roger: Damnation Alley~~    
 - Zetter, Kim: Countdown to Zero Day  
 - Zevin, Gabrielle: The Storied life of AJ Fikry; Tomorrow and Tomorrow and Tomorrow    
 - Zinni, Tony: Before the First Shot is Fired: How America can win lose off the Battlefield  
@@ -1173,7 +1182,7 @@
 - Taylor, James: Break Shot: My First 21 Years  
 - Tchaikovsky, Adrian: Children of Time  
 - Terrill, Cristin: All Our Yesterdays  
-- Therien, Chris: Road to Redemption  
+- !!! ~~Therien, Chris: Road to Redemption~~    
 - Thorensen, Olan: Harbinger Janus book 1  
 - Tolkien, JRR: The Fellowship of the Ring; The Two Towers; Return of the King  
 - Various: Menu Excerpts from Our Favorite Neward Restaurants  
@@ -1353,7 +1362,7 @@ The Warrior of Altaii
 #### Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
 
 #### !!!Kerr, Katharine ACT ONE: DEVERRY ~~1)Daggerspell, 2)Darkspell, 3)The Bristling Wood, 4)The Dragon Revenant~~    
-#### Kerr: ACT TWO: THE WESTLANDS:  ~~1)A Time of Exile~~, 2)A Time of Omens, 3)Days of Blood and Fire, 4)Days of Air and Darkness  
+#### Kerr: ACT TWO: THE WESTLANDS:  ~~1)A Time of Exile, 2)A Time of Omens, 3)Days of Blood and Fire~~, 4)Days of Air and Darkness  
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
@@ -1405,7 +1414,7 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
 
-#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance, 5) Arms-Commander, 6) Cyador's Heirs, 6.5) Heritage of Cyador, 7) The Mongrel Mage.~~ 8) Outcasts of Order         
+#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance, 5) Arms-Commander, 6) Cyador's Heirs, 6.5) Heritage of Cyador, 7) The Mongrel Mage, 8) Outcasts of Order~~, 9) Mage-Fire War           
 
 #### Nix, Garth: THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Case, 4) Clariel, 5) Goldenhand, 6) Terciel and Elinor  
 
@@ -1463,11 +1472,11 @@ The End and Other Beginnings: Stories from the Future
 #### ~~Salvatore, RA !!!Night of the Hunter; Rise of the King; The Highwayman;~~ The Legend of Drizzt The Collected Stories     
 
 #### !!!Sanderson, Brandon MISTBORN ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages, 3.5) Secret History (on Arcanum Unbounded), 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,~~  
-#### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings (audible) & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella,~~ 3)Oathbringer, 3.5) Dawnshard novella (audible?), 4)Rhythm of War, 5)Highprince of War  
+#### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings (audible) & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella, 3)Oathbringer,~~ 3.5) Dawnshard novella (audible?), 4)Rhythm of War, 5)Highprince of War  
 #### !!!Sanderson RECKONERS ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
 #### !!!Sanderson ELANTRIS ~~1)Elantris, 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)~~    
 #### Sanderson: RITHMATIST: 1) The Rithmatist  
-#### !!!SKYWARD ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic),~~ 4) Defiant (AUDIBLE)  
+#### !!!SKYWARD ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic), 4) Defiant (AUDIBLE)~~    
 #### !!!INFINITY BLADE Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 #### Sanderson: WARBREAKER: 1) Warbreaker (audible?), 2) Nightblood  
 #### Sanderson: SOLO: 1) Perfect State, ~~2) Shadow for Silence in the Forests of Hell (Audible), 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.~~    
