@@ -1535,8 +1535,9 @@ The End and Other Beginnings: Stories from the Future
 #### Yancey, Richard: THE 5TH WAVE: ~~1) The 5th wave~~, 2) The Infinite Sea, 3) The Last Star   
 
 #### Zahn, Timothy: THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
-#### !!!Zahn THRAWN  ~~1)Thrawn,(Feb2022) 2)Thrawn:Alliances, 3)Thrawn:Treason~~  
 #### Zahn: THE HAND OF THRAWN DUOLOGY:  1)Specter of the Past, 2)Vision of the Future  
+#### Zahn: (Independent Thrawn in order): Survivor's Quest, Outbound Flight, Allegience, Choices of One, Scoundrels  
+#### !!!Zahn THRAWN  ~~1)Thrawn,(Feb2022) 2)Thrawn:Alliances, 3)Thrawn:Treason~~  
 #### Zahn: ~~THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good,~~ 3)Lesser Evil  
 #### Zahn: DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
 #### Zahn: QUADRAIL:  1)Night Train to Rigel, 2)The Third Lynx, 3)Odd Girl Out, 4)The Domino Pattern, 5)Judgment at Proteus  
