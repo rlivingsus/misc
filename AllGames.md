@@ -3,7 +3,9 @@
 - Forager:
 - Ghostbusters Spirits Unleashed (See Steam too)  
 - Samurai Bringer:
-- Spirit of the North:  
+- Spirit of the North:
+- Stunt Kite Party:
+- Surf World Series:  
 - Wall World:  
 
 #### Blizzard
@@ -39,7 +41,8 @@
 - Batman Arkham Asylum then Batman Arkham City then Batman Arkham Knight:
 - Borderlands 2/3 and The PreSequel (1 on STEAM):
 - Breakout Recharged:
-- Brotato  
+- Brotato
+- Beyond Blue   
 - Cave Story+:
 - City of Brass:
 - Call of the Sea:
@@ -63,6 +66,7 @@
 - Halycyon 6:
 - Hitman 1: (PLAY FIRST)
 - Homeworld Remastered:
+- Humankind std:  
 - Into the Breach:
 - Industria:
 - Infinifactory:
@@ -72,7 +76,8 @@
 - Lifeless Planet: Premier:
 - Limbo:
 - Loop Hero:
-- Lord of the Rings: Return to Moria  
+- Lord of the Rings: Return to Moria
+- Lysfanga:  
 - Mass Effect 1,2,3 Legendary:  
 - Marvel's Guardian of the Galaxy:
 - Metro 2033:
@@ -91,6 +96,9 @@
 - Rollercoaster Tycoon:
 - Red Dead Redemption:
 - RPG in a Box:
+- Saints Row:
+- Sands of Aura:
+- Shapez:  
 - Shadowrun Hong Kong, Shadowrun Returns, Shadowrun: Dragonfall:
 - Sherlock Holmes Crimes and Punishment:
 - Sid Meier Civilization VI:
@@ -98,8 +106,6 @@
 - Stranger Things 3:
 - Surviving Mars:
 - Surviving the Aftermath:
-- Saints Row:
-- Shapez:
 - Super Meat Boy Forever:
 - Tacoma:
 - The Alto Collection:
@@ -123,11 +129,13 @@
 - Alan Wake: American Nightmare:  
 - !!!~~Baldur's Gate II~~
 - Block'hood:
+- BloodWest:  
 - Botanicula:
 - Cats Hidden in Bali/Italy/Maple Hollow/Paris:
 - Cat Quest II:
 - Citizen Sleeper:  
 - Crysis; Crysis: Warhead; Crysis: Wars:
+- Dark Sky:  
 - Delores: A Thimblewood Park adventure:
 - Desperados: Wanted Dead or Alive:
 - Deux Ex: Mankind United:  
@@ -183,6 +191,7 @@
 - Symmetry:  
 - Symphonia:  
 - Symphony:
+- Talos Principle: Gold Edition:  
 - Temple of Elemental Evil:
 - The Whispered World: Special Edition  
 - Tomb Raider: Angel of Darkness; The Last Revelation & Chronicles:
@@ -305,6 +314,7 @@
 - Gunpoint:
 - Hacker Evolution; Untold; Duality:
 - Hacknet:
+- Hades:  
 - Half-Life 2 and DLCs:
 - Halo: Spartan Assault; Spartan Strike; Master Chief Collection (Playing):
 - Halo Wars: Definitive Edition:
