@@ -267,7 +267,7 @@
 - Cryostatis:
 - Cube Hero Odyssey:
 - Cult of the Lamb:  
-- The Curse of Monkey Island:
+- 3) The Curse of Monkey Island:
 - The Cycle: Frontier:
 - DARQ:
 - Dave the Diver:  
@@ -291,7 +291,7 @@
 - ELDEN RING:
 - Elder Scrolls (Arena and Daggerfall on GOG); V: Skyrim:
 - Element TD 2:
-- Escape from Monkey Island:
+- 4) Escape from Monkey Island:
 - Everspace:
 - Everything:
 - Exapunks:
@@ -367,7 +367,7 @@
 - Men of War:
 - Middle-Earth: Shadow of Mordor; Shadow of War:
 - Misadventures of PB Winterbottom:
-- Monkey Island 2: Special Edition:
+- 2) Monkey Island 2: Special Edition:
 - Monster Hunter Rise:
 - Monster Hunter World:
 - Monument Valley & 2:
@@ -402,7 +402,7 @@
 - Sacraboar:
 - Samorost 2:
 - SCP: Containment Breach Multiplayer:
-- Secret of Monkey Island Special Edition (others elsewhere):
+- 1) Secret of Monkey Island Special Edition (others elsewhere):
 - Shadowrun: Dragon Fall; HongKong; Returns (Director's Cut & EE for 1st two, all on Epic):
 - Shenzhen I/O:
 - Sherlock Holmes: Nemesis; The Awakened; The Mystery of the Mun; The Myster of the Pers; The Secret of the Silver; vs. Jack the Ripper (on GOG and EPIC TOO):
@@ -425,7 +425,7 @@
 - Star Wars games: Battlefront, Battlefront2, Empire at War: Gold, Galactic Battlegrounds Saga (playing now), Jedi Knight: Jedi Academy, KOTOR, KOTOR2, Republic Commando, Squadrons, Starfighter, The Clone Wars-Republic Heroes, The Force Unleashed-Ultimate Sith, The Force Unleashed 2  
 - Stardew Valley:
 - Subnautica & Below Zero:
-- Tales of Monkey Island: Chapter 1-5 (various elsewhere):
+- 5) Tales of Monkey Island: Chapter 1-5 (various elsewhere):
 - Tangle Tower:
 - Team Fortress Classic & 2:
 - Terminator Resistance:
