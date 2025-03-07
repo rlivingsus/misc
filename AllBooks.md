@@ -11,7 +11,6 @@
 - Adams, Marilee: Change your Questions  
 - ~~Adams, Richard: Watership Down~~ Tales from Watership Down (book2)  
 - Alam, Rumaan: Leave the World Behind  
-- Alanson, Craig:  
 - Alderman, Naomi: The Power  
 - Alderson, Kaia: Sisters in Arms  
 - Alexander, Michelle: The New Jim Crow
@@ -1014,7 +1013,7 @@
 - Adams, Scott: How to Fail at Almost Everything and Still Win Big  
 - Ackerman, Sara: Red Sky over Hawaii  
 - Ahn, Flora: The Golden Orchard  
-- Alanson, Craig: EXPEDITIONARY FORCE 1) Columbus Day, 2) SpecOps, 3) Paradise, 7) Renegades 
+- Alanson, Craig: EXPEDITIONARY FORCE 1) Columbus Day, 2) SpecOps, 3) Paradise, 4) Black Ops, 5) Zero Hour, 6) Mavericks, 7) Renegades  
 - Albala, Ken: History of Bourbon  
 - Aldrete, Gregory: History's Great Military Blunders and the Lessons They Teach  
 - Anderson, Chris: TED Talks  
@@ -1194,6 +1193,7 @@
 - Wezowski, Kasia: Without saying a word  
 - Wheeler, Jeff: The Queen's Poisoner
 - WILDCARD TRUST: Wild Cards. 1) Wild Cards 1; 7) Dead Man's Hand  
+- Wight, Will: CRADLE SERIES: 1) Unsouled, 2) Soulsmith, 3) Blackflame, 4) Skysworn  
 - Williams, Florence: The 3-Day Effect  
 - Wright, Craig: The Hidden Habits of Genius  
 - Wyman, Patrick: The Verges  
