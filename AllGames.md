@@ -6,7 +6,8 @@
 - Spirit of the North:
 - Stunt Kite Party:
 - Surf World Series:  
-- Wall World:  
+- Wall World:
+- Beholder 3:  
 
 #### Blizzard
 - Diablo 2:  
@@ -188,6 +189,7 @@
 - Steamworld Heist:
 - Stellaris: Leviathan Story Pack, Utopia, Synthetic Dawn Story Pack, Apocalypes (DON’T HAVE Distant Stars, MegaCorp, Ancient Relics, Federations, Nemesis, Overlord, First Contact, Galactic Paragons, Astral Planes, The Machine Age):
 - Swat3:
+- Syberia the world before:  
 - Symmetry:  
 - Symphonia:  
 - Symphony:
