@@ -1378,6 +1378,7 @@ The Warrior of Altaii
 
 #### !!!Lackey, Mercedes OBSIDIAN MOUNTAIN SERIES ~~1) Outstretched Shadow, 2) To Light a Candle, 3) When Darkness Falls, Cant remember so stopped reading~~  
 #### Lackey: VALDEMAR SERIES IN ORDER: 1) The Black Gryphon, 2) The White Gryphon, 3) The Silver Gryphon, 4) Beyond, 5) Into the West, 6) Magic's Pawn, 7) Magic's Promise, 8) Magic's Price, 9) Foundation, 10) Intrigues, 11) Changes, 12) Redoubt, 13), Bastion, 14) Closer to Home, 15) Closer to the Heart, 16) Closer to the Chest, 17) The Hills have Spies, 18) Eye Spy, 19) Spy, Spy Again, 20) Brightly Burning, 21) The Oathbound, 22) Oathbreakers, 23) Oathblood, 24) Exile's Honor, 25) Exile's Valor, 26) Take a Thief, ~~27) Arrows of the Queen, 28) Arrow's Flight, 29) Arrow's Fall,~~ 30) By the Sword, 31) Winds of Fate, 32) Winds of Change, 33) Winds of Fury, 34) Storm Warning, 35) Storm Rising, 36) Storm Breaking, 37) Owlflight, 38) Owlsight, 39) Owlknight   
+#### Lackey: THE FOUNDING OF VALDEMAR: 1) Beyond, 2) Into the West, 3) Valdemar  
 
 #### Lawrence, Mark: THE LIBRARY TRILOGY.  1) The Book that Wouldn't Burn, 1.5) Overdue, 1.6) Returns, 2) The Book that Broke the World   
 
@@ -1419,7 +1420,7 @@ LEGENDS: Book 1, Book 2, Book 3
 #### Nix, Garth: THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Case, 4) Clariel, 5) Goldenhand, 6) Terciel and Elinor  
 
 #### Niven, Larry: MOTIES: 0.5) Future History, ~~1) The Mote in God's Eye, 2) The Gripping Hand,~~ 3) Outies  
-#### Niven: RINGWORLD: ~~1) Ringworld,~~ 2) The Ringworld Engineers, 3) The Ringworld Throne, 4) Ringworld's Children, 5) Fate of Worlds  
+#### Niven: KNOWN SPACE: 1) The Long Arm of Gil Hamilton, 2) Flatlander, 3) The Patchwork Girl, 4) World of Ptavvs, 5) Protector, 6) A Gift from Earth, 7) Crashlander, 8) Fleet of Worlds, 9) Juggler of Worlds, 10) Destroyer of Worlds, 11) Betrayer of Worlds, ~~12) Ringworld,~~ 13) The Ringworld Engineers, 14) The Ringworld Throne, 15) Ringworld's Children, 16) Fate of Worlds  
 
 #### Norton, Mary: THE BORROWERS: 1)The Borrowers, 2)The Borrowers Afield, 3)The Borrowers Afloat, 4)The Borrowers Aloft, 5)The Borrowers Avenged   
 
