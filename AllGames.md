@@ -236,6 +236,7 @@
 - Bard's Tale; Bard's Tale Trilogy:
 - Bastion:
 - Batman: Arkham Asylum GOTY edition; Arkham City GOTY; Arkham Origins (FIRST TWO ON EPIC):
+- Battle of Polytopia:   
 - Behind the Frame: The Finest Scenery:
 - Beholder:
 - Ben There, Dan That!:
