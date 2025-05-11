@@ -275,6 +275,7 @@
 - DARQ:
 - Dave the Diver:  
 - Day of Defeat:
+- Deep Rock Galactic:  
 - Deponia:
 - Desktop Dungeons:
 - Desktop Dungeons: Rewind:
