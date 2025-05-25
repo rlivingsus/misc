@@ -386,6 +386,7 @@
 - Nite Team 4:
 - No Man's Sky:
 - Oddworld: Abe's Oddysee; Exoddus:
+- Orcs Must Die 1/2:  
 - Ori and the Blind Forest:
 - Orwell & Ignorance is Strength:
 - Outer Wilds:
