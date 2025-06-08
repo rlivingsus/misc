@@ -134,7 +134,8 @@
 - Botanicula:
 - Cats Hidden in Bali/Italy/Maple Hollow/Paris:
 - Cat Quest II:
-- Citizen Sleeper:  
+- Citizen Sleeper:
+- City of Beats:  
 - Crysis; Crysis: Warhead; Crysis: Wars:
 - Dark Sky:  
 - Delores: A Thimblewood Park adventure:
