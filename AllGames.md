@@ -463,5 +463,6 @@
 - Wasteland 2 Director's Cut:
 - Westerado: Double Barreled:
 - while True: learn():
+- Wobbly Life:  
 - Xenonauts:
 - You Don't Know Jack (buncha games): 
