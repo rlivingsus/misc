@@ -416,7 +416,7 @@
 - Iger, Robert: The Ride of a Lifetime  
 - Imbler, Sabrina: How Far the Light Reaches: A Life in Ten Sea Creatures  
 - Irby, Samantha: Wow, No Thank You  
-- Isaacson, Walter: Einstein: His Life and Universe  
+- Isaacson, Walter: Einstein: His Life and Universe, ~~Elon Musk~~      
 - Ishiguro, Kazuo: Klara and the Sun, The Buried Giant, The Remains of the Day, Never Let me go  
 - Jackall, Robert: Moral Mazes  
 - Jackson, John: One Nation under Drones  
@@ -1276,7 +1276,7 @@ Indomitable, ~~Dark Wraith of Shannara~~
 #### !!!Card, Orson Scott ENDER'S SAGA ~~1) Ender's Game, 2) Speaker for the Dead, 3) Xenocide, 4) Children of the Mind, 4.5) A War of Gifts 5) Ender in Exile~~ 6) GOTO SHADOW SERIES
 #### Card: Mithermages: 1) The Lost Gate,  
 #### !!!Card ENDER's SHADOW SERIES ~~1) Ender's Shadow, 2) Shadow of the Hegemon, 3) Shadow Puppets, 4) Shadow of the Giant, 5) Shadows in Flight, Shadows Alive, 6) The Last Shadow~~      
-#### Card: THE FIRST FORMIC WAR SERIES: ~~1) Earth Unaware~~, 2) Earth Afire, 3) Earth Awakens  
+#### Card: THE FIRST FORMIC WAR SERIES: ~~1) Earth Unaware, 2) Earth Afire, 3) Earth Awakens~~, 4) The Swarm    
 #### Card: Duplex, Lost and Found  
 
 #### Clarke, Arthur C.: RAMA: 1) Rendezvous with Rama, 2) Rama II, 3) The Garden of Rama, 4) Rama Revealed   
@@ -1284,7 +1284,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Clavell, James: THE ASIAN SAGA: 1) Shogun, 2) Taipan, 3)Gaijin, 4)King Rat, 5)Noble House, 6)Whirlwind  
 
-#### Corey, James: THE EXPANSE: ~~1) Leviathan Wakes, 2) Caliban's War, 3) Abaddon's Gate, 4) Cibola Burn~~, 5) Nemesis Games, 6) Babylon's Ashes, 7) Persepolis Rising  
+#### Corey, James: THE EXPANSE: ~~1) Leviathan Wakes, 2) Caliban's War, 3) Abaddon's Gate, 4) Cibola Burn, 5) Nemesis Games, 6) Babylon's Ashes, 7) Persepolis Rising~~, 8) Tiamat's Wrath,    
 
 #### Cunningham, Elaine: FORGOTTEN REALMS SONGS & SWORDS: 1) Elfshadow (HAVE), 2) Elfsong (HAVE), 3) Silvershadows, 4) Thornhold, 5) The Dream Spheres, 6) Reclamation    
 #### Drake, David: LORD OF THE ISLES: 1) The Lord of the Isles (HAVE?), 2) Queen of Demons, 3) Servant of the Dragon, 4) Mistress of the Catacombs, 5) Goddess of the Ice Realm, 6) Master of the Cauldron, 7) Fortress of Glass, 8) Mirror of Worlds, 9) The Gods Return  
@@ -1340,7 +1340,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Heinlein, Robert: Glory Road, The Moon is a Harsh Mistress; The SciFi Hall of Fame Vol.1 1929-1964; The SciFi Hall of Fame Vol.2-a, All you Zombies    
 
-#### Herbert, Frank (& Brian Herbert): DUNE: ~~1) The Butlerian Jihad; 2) The Machine Crusade; 3) The Battle of Corrin; 4) Sisterhood of Dune; 5) Mentats of Dune;~~ 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen; 9) House Corrino; 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
+#### Herbert, Frank (& Brian Herbert): DUNE: ~~1) The Butlerian Jihad; 2) The Machine Crusade; 3) The Battle of Corrin; 4) Sisterhood of Dune; 5) Mentats of Dune; 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen;~~ 9) House Corrino; 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
 
 #### Hickman, Tracy  
 !!!THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~  
@@ -1348,6 +1348,7 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### !!!Hobb, Robin THE FARSEER TRILOGY ~~1) Assassin's Apprentice, 2) Royal Assassin, 3) Assassin's Quest~~  
 #### !!!Hobb, Robin LIVESHIP TRILOGY ~~1) The Ship of Magic, 2) The Mad Ship, 3) Ship of Destiny~~  
 #### !!!Hobb THE RAINWILD CHRONICLES 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven, 3) City of Dragons, 4) Blood of Dragons~~  
+#### !!!Hobb TAWNY MAN TRILOGY ~~1) Fool's Errand, 2) The Golden Fool, 3) Fool's Fate~~  
 
 #### Hogan, James: GIANT SERIES: 1) Inherit the Stars  
 
@@ -1370,7 +1371,7 @@ The Warrior of Altaii
 #### !!!King, Stephen BILL HODGES ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
-#### Koontz: ODD THOMAS: 0.5) Odd Thomas: You are Destined to be Together Forever, ~~1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse~~, 6) Deeply Odd, 7) Saint Odd   
+#### !!!Koontz: ODD THOMAS: ~~0.5) Odd Thomas: You are Destined to be Together Forever, 1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd~~     
 #### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart, Strangers, Quicksilver, Mr. Murder, The Bad Weather Friend      
 
 #### Kwan, Kevin  
