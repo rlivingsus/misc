@@ -1,9 +1,11 @@
 #### Amazon Games
 - Alex Kidd:
+- Dungeon of the Endless:  
 - Forager:
 - Ghostbusters Spirits Unleashed (See Steam too)  
 - Samurai Bringer:
 - Spirit of the North:
+- Star Wars: Rebellion:  
 - Stunt Kite Party:
 - Surf World Series:  
 - Wall World:
