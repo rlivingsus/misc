@@ -199,7 +199,8 @@
 - Symphony:
 - Talos Principle: Gold Edition:  
 - Temple of Elemental Evil:
-- The Whispered World: Special Edition  
+- The Whispered World: Special Edition
+- TOEM    
 - Tomb Raider: Angel of Darkness; The Last Revelation & Chronicles:
 - To The Moon:
 - Total Annihilation:Commander Pack:  
@@ -394,6 +395,7 @@
 - Orwell & Ignorance is Strength:
 - Outer Wilds:
 - Overlord & Raising Hell, II:
+- Oxygen Not Included:  
 - Paper Planet:
 - Phoenix Wright: Ace Attorney Trilogy:
 - Planescape: Torment EE (on GOG):
