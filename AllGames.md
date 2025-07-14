@@ -288,6 +288,7 @@
 - The Dig:
 - Diplomancy is Not an Option:
 - Distrust:
+- DJ Max Respect V:  
 - Donut County:
 - Dorfromantik:
 - Drawful 2:
@@ -301,6 +302,7 @@
 - Elder Scrolls (Arena and Daggerfall on GOG); V: Skyrim:
 - Element TD 2:
 - 4) Escape from Monkey Island:
+- Everhood:  
 - Everspace:
 - Everything:
 - Exapunks:
@@ -390,7 +392,10 @@
 - Nidhogg:
 - Nite Team 4:
 - No Man's Sky:
+- Oddada:  
 - Oddworld: Abe's Oddysee; Exoddus:
+- Onde:
+- One Btn Bosses:  
 - Orcs Must Die 1/2:  
 - Ori and the Blind Forest:
 - Orwell & Ignorance is Strength:
@@ -406,6 +411,7 @@
 - Puzzle Agent 2:
 - Puzzle Kingdoms:
 - Raft (Playing):
+- Ragnarock:  
 - Rain World:
 - realMyst:
 - Retro Machina:
@@ -413,6 +419,7 @@
 - Rise of Nations: EE:
 - Riven:
 - RollerCoaster Tycoon 3: Platinum  (one on Epic):
+- Rhythm Fighter:  
 - Sacraboar:
 - Samorost 2:
 - SCP: Containment Breach Multiplayer:
@@ -460,10 +467,12 @@
 - Toy Soldiers:
 - Tribes of Midgard:
 - ~~Trine~~ & 2:
+- Trombone Champ:  
 - TRON 2.0:
 - Unmechanical:
 - Unpacking:
 - Uru: Complete Chronicles:
+- Wandersong:  
 - Warhammer 40000 Inquisitor - Martyr & Prophecy (see GOG):
 - Wasteland 2 Director's Cut:
 - Westerado: Double Barreled:
