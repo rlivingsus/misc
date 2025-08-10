@@ -214,7 +214,26 @@
 - The Witcher:enhanced edition:  
 - Wolfenstein New Order:
 - Weird West:Definitive Edition:  
-- WORMS: 1) Worms, 6) Worms Crazy Golf, 4) Worms Forts, 6) Worms Revolution, 5) Worms Ultimate Mayhem, `.5) Worms United`, 7) Worms WMD, 3) Worms World Party, 2) Worms: Armageddon, Worms 2:        
+- WORMS: 1) Worms, 6) Worms Crazy Golf, 4) Worms Forts, 6) Worms Revolution, 5) Worms Ultimate Mayhem, `.5) Worms United`, 7) Worms WMD, 3) Worms World Party, 2) Worms: Armageddon, Worms 2:
+
+#### Nintendo
+- Araknoid:  
+- Casual Sport Series: Hockey:  
+- Disney Speedstorm:
+- Fallguys:      
+- Islanders:    
+- Just Dance 2005:    
+- Mario + Rabbids (and DK version):  
+- Mario Cart 8 Deluxe:    
+- Monomals:  
+- Namco Musuem:  
+- Overcooked all you can eat:
+- Pacman99:    
+- Scribblenauts:  
+- Star Wars: Hunters:  
+- Teenage Mutant Ninja Turtles: Shredder's Revenge:
+- Tetris99:   
+- Tiny Lands:  
 
 #### Steam
 - 100 Christmas Cats:
