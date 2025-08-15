@@ -1440,7 +1440,7 @@ LEGENDS: Book 1, Book 2, Book 3
 
 #### Riddle, AG ORIGIN MYSTERY ~~1) Atlantis Gene, 2) Atlantis Plague (audible), 3) Atlantis World~~  
 #### Riddle: THE LONG WINTER: 1) Winter World, 2) The Solar War, 3) The Lost Colony  
-#### Riddle: Quantum Radio, Lost in Time, Departure (audible)  
+#### Riddle: Quantum Radio, Lost in Time, Extinction Trials (kindle), Departure (audible)  
 
 #### !!!Roth, Veronica DIVERGENT ~~1) Divergent, 2) Insurgent, 3) Allegiant~~ Four: Divergent Story Collection  
 The End and Other Beginnings: Stories from the Future  
