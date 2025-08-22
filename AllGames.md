@@ -56,6 +56,7 @@
 - Doors Paradox:
 - Dragon Age Inquisition:
 - Elite Dangerous:
+- Endless Dungeon:  
 - Enter the Gungeon?:
 - Everything:
 - Earthlock:
@@ -74,6 +75,7 @@
 - Industria:
 - Infinifactory:
 - Jurassic World Evolution:
+- Kamaeru:  
 - Kingdom Hearts 1.5+2.5:
 - Kingdom New Lands:
 - Lifeless Planet: Premier:
@@ -106,6 +108,7 @@
 - Sherlock Holmes Crimes and Punishment:
 - Sid Meier Civilization VI:
 - Stories Untold:
+- Strange Horticulture:  
 - Stranger Things 3:
 - Surviving Mars:
 - Surviving the Aftermath:
