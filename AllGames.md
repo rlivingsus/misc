@@ -163,6 +163,7 @@
 - Forgotten Realms: Demon Stone
 - Freespace 2:
 - Grim Fandango:Remastered:
+- Hacknet Complete:  
 - Hardwest:   
 - Hardwest II:
 - Hitman: Absolution 5?; Hitman: Blood Money 4?; Hitman2: Silent Assassin; Hitman3: Contracts:
