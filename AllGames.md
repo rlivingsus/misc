@@ -158,17 +158,20 @@
 - Fantasy Wars:
 - Far: Lone Sails:
 - Firewatch:
-- Flashout3d: Enhanced Edition  
+- Flashout3d: Enhanced Edition
+- Floodland  
 - Forgotten Realms: Demon Stone
 - Freespace 2:
-- Grim Fandango:Remastered:  
+- Grim Fandango:Remastered:
+- Hardwest:   
 - Hardwest II:
 - Hitman: Absolution 5?; Hitman: Blood Money 4?; Hitman2: Silent Assassin; Hitman3: Contracts:
 - Incredible Machine (multi):
 - Icewind Dale (EE version on Amazon games STEAM); Icewind Dale 2:
 - ITORAH:
 - Jagged Alliance: Deadly Games:
-- Jotun:Valhalla Edition:  
+- Jotun:Valhalla Edition:
+- KeeperFX:  
 - Kings Bounty: Dark Side; King's Bounty II:
 - King's Quest 1-8:
 - Lands of Lore: Guardians of Destiny; Thrones of Chaos:
@@ -195,6 +198,8 @@
 - Spycraft:The Great Game:  
 - Steamworld Heist:
 - Stellaris: Leviathan Story Pack, Utopia, Synthetic Dawn Story Pack, Apocalypes (DON’T HAVE Distant Stars, MegaCorp, Ancient Relics, Federations, Nemesis, Overlord, First Contact, Galactic Paragons, Astral Planes, The Machine Age):
+- Sudden Strike 2:
+- Sudden Strike 4:  
 - Swat3:
 - Syberia the world before:  
 - Symmetry:  
