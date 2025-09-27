@@ -210,7 +210,7 @@
 - Temple of Elemental Evil:
 - The Whispered World: Special Edition
 - TOEM    
-- Tomb Raider: Angel of Darkness; The Last Revelation & Chronicles:
+- Tomb Raider: Angel of Darkness; The Last Revelation & Chronicles; Rise of the Tomb Raider 20 yr collect; Shadow of the Tomb Raider: Definitive Edition; Tomb Raider GOTY:  
 - To The Moon:
 - Total Annihilation:Commander Pack:  
 - Townscaper:
@@ -252,7 +252,7 @@
 - 80 Days:
 - AaaaaaAaaaa xxx:
 - ~~Age of Empires II~~, Age of Empires III:
-- Age of Mythology:
+- Age of Mythology (Retold Premium Edition):  
 - Age of Wonders III:
 - Aliens vs. Predator Classic 2000:
 - Anomaly 2:
@@ -277,6 +277,7 @@
 - Blazing Angels: Squadrons of WWII; Blazing Angels 2: Secret Missions of WWII:
 - Bloons TD 6 (PLAYING NOW):
 - Borderlands GOTY & GOTY Enhanced:
+- Border Pioneer:  
 - Braid:
 - The Bridge:
 - Broforce:
