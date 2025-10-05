@@ -63,7 +63,8 @@
 - Bazterrica, Agustina: Tender is the Flesh  
 - Beach, Edward: Run Silent, Run Deep  
 - Beacham, Travis: Impact Winter; Carnival Row; Pacific Rim  
-- Bear, Elizabeth: Karen Memory  
+- Bear, Elizabeth: Karen Memory
+- ~~Beck, Martha: Beyond Anxiety.~~  
 - Beers and Anderle?: THE WAR MACHINE  
 - Benedict, Marie: The only woman in the room
 - !!! ~~Benjamin, Ali The thing about Jellyfish~~  
@@ -91,7 +92,7 @@
 - Brooks, David: The Road to Character 
 - Brooks, Mel: All About Me!  
 - Brose, Christian: The Kill Chain: Defending America in the Future of High-Tech Warfare  
-- Brown, Brene: Dare to Lead: Brave Work. Tough Conversations. Whole Hearts  
+- Brown, Brene: ~~Dare to Lead: Brave Work.~~ Tough Conversations. Whole Hearts  
 - Brown, Peter: The WIld Robot Escapes  
 - Brown, Rachel, Manija: Stranger  
 - Brown, Ryk: The Frontiers Saga (kindle) 
@@ -458,7 +459,6 @@
 - Kendi, Ibram: How to be an Antiracist  
 - Kennedy, Paul: Rise and Fall of the Great Powers  
 - Kent, Jasper: Twelve  
-- Kerr, Katherine: ebook 1) Daggerspell  
 - Kershaw, Alex: Against all Odds, The First Wave   
 - Keyes, Daniel: Flowers for Algernon  
 - Khoury, Jessica: THE FORBIDDEN WISH  
@@ -1067,7 +1067,7 @@
 - Doucette, Gene: Immortal; The Spaceship Next Door  
 - Dues, Michael: The Art of Conflict Management  
 - Eddings, David & Leigh Eddings: The Redemption of Althalus; 1) Belgarath the Sorceror, 2) Polgara the Sorceress    
-- Elwes, Cary: As you Wish  
+- ~~Elwes, Cary: As you Wish~~    
 - Emmich, Val: Dear Evan Hansen  
 - Estrella, LG: Cosmic Delivery Boy Book 1  
 - Ewalt, David: Of Dice and Men  
@@ -1310,7 +1310,9 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 
 #### Elrod, P.N.: VAMPIRE FILES: ~~1) Bloodlist, 2) Lifeblood,~~ 2.5) Chicks Kick Butt by Rachel Caine, 3)Bloodcircle, 4) Art in the Blood, 5) Fire in the Blood, 6) Blood in the Water, 7) A Chill in the Blood, 8) The Dark Sleep, 9) Lady Crymsyn, 10) Cold Streets, 11), Song in the Dark, 11.4) Many Bloody Returns by Charlaine Harris, 11.5) My Big Fat Supernatural Honeymoon, 11.6) Strange Brew, 12) Dark Road Rising, 12.5) The Devil You Know, 12.6) Dark and Stormy Knights  
 
-#### Erikson, Steven: MALAZAN BOOK OF THE FALLEN: 1) Gardens of the Moon, 2) Deadhouse Gates, 3) Memories of Ice, 4) House of Chains, 5) Midnight Tides, 6) The Bonehunters, 7) Reaper's Gale, 8) Toll the Hounds, 9) Dust of Dreams, 10) The Crippled God   
+#### Erikson, Steven: MALAZAN BOOK OF THE FALLEN: 1) Gardens of the Moon, 2) Deadhouse Gates, 3) Memories of Ice, 4) House of Chains, 5) Midnight Tides, 6) The Bonehunters, 7) Reaper's Gale, 8) Toll the Hounds, 9) Dust of Dreams, 10) The Crippled God 
+
+#### Evans, Erin: BRIMSTONE ANGELS: ~~) Brimstone Angels, 2) Lesser Evils~~, 3) Adversary (also book 3 Sundering)  
 
 #### Evans, Richard: THE THIRD REICH TRILOGY:  
 
@@ -1363,7 +1365,7 @@ The Warrior of Altaii
 #### Kaufman, Amie and Kristoff, Jay: 1)Aurora Rising, 2), 3) and 1) Illuminae, 2) Gemina, 3) Obsidio  
 
 #### !!!Kerr, Katharine ACT ONE: DEVERRY ~~1)Daggerspell, 2)Darkspell, 3)The Bristling Wood, 4)The Dragon Revenant~~    
-#### Kerr: ACT TWO: THE WESTLANDS:  ~~1)A Time of Exile, 2)A Time of Omens, 3)Days of Blood and Fire~~, 4)Days of Air and Darkness  
+#### Kerr: ACT TWO: THE WESTLANDS:  ~~1)A Time of Exile, 2)A Time of Omens, 3)Days of Blood and Fire, 4)Days of Air and Darkness~~    
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
@@ -1372,7 +1374,7 @@ The Warrior of Altaii
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
 #### !!!Koontz: ODD THOMAS: ~~0.5) Odd Thomas: You are Destined to be Together Forever, 1) Odd Thomas, 2) Forever Odd, 3) Brother Odd, 4) Odd Hours, 4.1) Odd Interlude 1,2,3, 5) Odd Apocalypse, 6) Deeply Odd, 7) Saint Odd~~     
-#### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart, Strangers, Quicksilver, Mr. Murder, The Bad Weather Friend      
+#### Koontz: Innocence, The Big Dark Sky, Dark Rivers of the Heart, Strangers, Quicksilver, Mr. Murder, The Bad Weather Friend, ~~By the Light of the Moon~~        
 
 #### Kwan, Kevin  
 !!!CRAZY RICH ASIANS ~~1) Crazy Rich Asians, 2) China Rich Girlfriend, 3) Rich People Problems~~   
@@ -1407,7 +1409,7 @@ LEGENDS: Book 1, Book 2, Book 3
 !!!DRAGONRIDERS OF PERN Original Trilogy: ~~(1)Dragonflight, (2)Dragonquest, (3)The White Dragon~~   
 !!!DRAGONRIDERS OF PERN ~~(9)First Pass aka Dragonriders' Dawn: Dragonsdawn:Arrival from Earth and populating Pern, (12)The Chronicles of Pern: First Fall (The P.E.R.N. Survey, The Dolphin's Bell, The Ford of Red Hanrahan, The Second Weyr, Rescue Run)~~      
 #### McCaffrey: DRAGONRIDERS OF PERN First Interval: (18)Dragonsblood (windblossom parts)   
-#### McCaffrey: DRAGONRIDERS OF PERN Second Pass: Red Star Rising aka (14)Dragonseye, Ever the Twain in A Gift of Dragons  
+#### McCaffrey: DRAGONRIDERS OF PERN Second Pass: ~~Red Star Rising aka (14)Dragonseye, Ever the Twain in A Gift of Dragons~~    
 #### McCaffrey: DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper, Dragonsblood (Lorana parts)  
 #### McCaffrey: DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
 !!!DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),(8)Nerilka's Story~~  
@@ -1460,7 +1462,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Salvatore THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
 #### !!!Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King, 3) The Ghost King~~  
 #### !!!Salvatore: NEVERWINTER SAGA: ~~1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold (humbun ebooks)~~     
-#### Salvatore: THE SUNDERING: 1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
+#### Salvatore: THE SUNDERING: ~~1) The Companions, 2) The Godborn(donothave)~~, 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
 #### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf (humbun ebooks)    
 #### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero (humbun ebooks)    
 #### Salvatore: GENERATIONS: 1) Timeless(audible), 2) Boundless(audible), 3) Relentless(LIBBY)  
