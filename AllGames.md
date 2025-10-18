@@ -132,7 +132,15 @@
 
 #### GOG
 - Absolute Drift: Zen Edition:
-- Alan Wake: American Nightmare:  
+- Alan Wake: American Nightmare:
+- Atari 50th Anniversary:
+- Atari Asteroids Recharged:
+- Atari Black Widow Recharged:
+- Atari Breakout Recharged:
+- Atari Centipede Recharged:
+- Atari Gravitar Recharged:
+- Atari Missile Command Recharged:
+- Atari Yars Recharged:  
 - !!!~~Baldur's Gate II~~
 - Block'hood:
 - BloodWest:  
