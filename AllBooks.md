@@ -23,7 +23,8 @@
 - Alterman, Lix: The Perfect Neighborhood
 - Amelinckx, Andrew: Satellite Boy  
 - Amish, Ram: Scion of Ikshvaku  
-- Anderson, Kevin: Enemies and Allies  
+- Anderson, Kevin: Enemies and Allies
+- Anderson, Kurt: Evil Geniuses, the unmaking of America  
 - Andrews, Jesse: Me, Earl and the Dying Girl  
 - Angelou, Maya: I Know why the Caged Bird Sings  
 - AN INNOCENT ABROAD: Lonely Planet  
@@ -46,7 +47,8 @@
 - Bacon, John: Let Them Lead  
 - Baggett, Jennifer: The Lost Girls  
 - !!! ~~Bailey, Chris HyperFocus~~  
-- Bailey, Joseph: Memoirs of a Muppets Writer    
+- Bailey, Joseph: Memoirs of a Muppets Writer
+- Baldacci, David: Strangers in Time   
 - Baldree, Travis: Legends & Lattes  
 - Ballantyne, Lisa: Everything She Forgot  
 - Ballard, JG: Empire of the Sun  
@@ -106,7 +108,8 @@
 - Burns, Lawrence: Autonomy  
 - Burt, Alexandra: Remember Mia  
 - Burvine, Lee: Kafir Project
-- Bush, George: Out of Many, One  
+- Bush, George: Out of Many, One
+- Butcher, Jim: Dresden Files  
 - Butler, Octavia: Anything, Kindred  
 - Bujold, Lois: Paladin of Souls  
 - Byers, Richard Lee: ebook Haunted Lands; Sembia
@@ -132,7 +135,8 @@
 - Chen, Andrew: The Cold Start Problem  
 - Chen, Mike: Here and Now and Then; Brotherhood; We Could be Heroes;   
 - Chen, Yu: The Way Spring Arrives and Other Stories  
-- Chernow, Ron: Alexander Hamilton  
+- Chernow, Ron: Alexander Hamilton
+- Chevalier, Tracy: The Glassmaker   
 - Chiang, Ted: Arrival Stories of your Life and Others (kindle), Exhalation (kindle), The Lifecycle of Software Objects  
 - ~~Cho, Zen: 1) Sorcerer to the Crown, 2)The True Queen~~    
 - Choi, Roy: LA Son  
@@ -152,7 +156,7 @@
 - Cogman, Genevieve: The Untold Story  
 - Cohen, Steve: Win the Crowd  
 - Connelly, Matthew: The Declassification Engine  
-- Connolly, John: The Gate...  
+- Connolly, John: CHARLIE PARKER SERIES: 1)Every Dead Thing, 2)Dark Hollow; The Gate...  
 - Connolly, Rebecca: A Brilliant Night of Stars and Ice  
 - Collins, Eileen: Through the Glass Ceiling to the Stars  
 - Collins, Megan: The Family Plot
@@ -241,7 +245,7 @@
 - Evans, William & Omar Holmon: Black Nerd Problems  
 - Everett, Percival: Dr. No  
 - Ewing, Amy: 1) The Cerulean, 2)  
-- Fader, Mirin: Giannis  
+- Fader, Mirin: Giannis, The Life and Legacy of Hakeen Olajuwon    
 - Falaye, Deborah: Blood Scion  
 - Falcone, Paul: 101 Tough Conversations to Have with Employees  
 - Fallon, Jennifer: Tide Lords series  
@@ -250,7 +254,7 @@
 - Fenning, Chris: The First Minute  
 - Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
 - Fexeus, Henrik: The Art of Reading Minds  
-- Feynman, Richard: The Pleasure of Finding things out; Surely You're Joking Mr. Feynman  
+- Feynman, Richard: The Pleasure of Finding things out; Surely You're Joking Mr. Feynman; What do you care what other people think    
 - Fick, Nathaniel: One Bullet Away: The Making of a Marine Officer  
 - Fielding, Helen: Bridget Jone's Diary  
 - Fils-Aime, Reggie: Disrupting the Game: From the Bronx to the Top of Nintendo  
@@ -271,10 +275,11 @@
 - Forlee, Sherwood: Walls Notebook  
 - Forleo, Marie: Everything is Figureoutable  
 - Forsthoefel, Andrew: Walking to Listen  
-- Foroux, Darius?: Win your inner battles; Do it Today  
+- Foroux, Darius: Win your inner battles; Do it Today, What it takes to be free  
 - Forward, Susan: Emotional Blackmail  
 - Foster, Jack: How to Get Ideas  
-- Foxx, Jamie: Act Like You Got Some Sense  
+- Foxx, Jamie: Act Like You Got Some Sense
+- Fracassi, Philip: The Third Rule of Time Travel  
 - Frankl, Viktor: Man's Search for Meaning  
 - Freedman, Lawrence: The Future of War  
 - Freeman, Brian (thrillers): Frost Easton: 1) The Night Bird
@@ -282,7 +287,10 @@
 - Frey, Dan: The Future is Yours  
 - Friedman, C.S.: Feasts of Souls  
 - Friedman, George: The Next 100 Years
-- Fukuyama, Francis: The Origins of Political Order + Political Order and Decay  
+- Fry, Stephen: MYTHOS. 1) Mythos, 2) Heroes  
+- Fukuyama, Francis: The Origins of Political Order + Political Order and Decay
+- Gabaldon, Diana: Outlander  
+- Gabriele, Matthew: Oathbreakers  
 - Gagnon, Michelle: Killing Me  
 - Gaiman, Neil: American Gods  
 - Gaines, Chip: No Pain, No Gaines  
@@ -335,8 +343,9 @@
 - Green, Simon: The Nightside  
 - Greenberg, Andy: Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hacker; Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency; The Mirai Confessions  
 - Greene, Brian: Until the End of Time  
-- Greene, Robert: The Laws of Human Nature; 50th Law; 48 Laws of Power   
-- Greenspan, Alan: The man who knew: the Life & Times of Alan Greenspan  
+- Greene, Robert: The Laws of Human Nature; 50th Law; 48 Laws of Power, The 33 Strategies of War     
+- Greenspan, Alan: The man who knew: the Life & Times of Alan Greenspan
+- Greenwell, Megan: Bad Company
 - Gregory, Jill: The Book of Names (physical)  
 - Griffith, Joseph: Dark Psychology  
 - Griffith, Nicola: Spear  
@@ -390,6 +399,7 @@
 - Hibbing, John: Predisposed  
 - Hill, Napoleon: Outwitting the Devil: The Secret to Freedom and Success; The Law of Success in Sixteen Lessons  
 - Hirano, Keiichiro: A Man (kindle)
+- Hoeppner, Michael Chad: Don't Say Um  
 - Hoffer, Eric: The True Believer  
 - Hoffman, Carl: The Lunatic Express (only ebook?)  
 - Hogarth, M.C.A: HER INSTRUMENTS: 1)Earthrise  
@@ -401,18 +411,21 @@
 - Holmes, James: A Brief guide to Maritime Strategy  
 - Holmes, Jamie: 12 Seconds of Silence  
 - Hoff, Benjamin: The Tao of Pooh  
-- Hood, Ann: Fly Girl  
+- Hood, Ann: Fly Girl
+- Horn, Stacy: The Killing Fields of East New York  
 - Hornby, Nick: Dickens and Prince  
 - Hornfischer, James: Neptune's Inferno; The Fleet at Flood Tide; The Last Stand of the Tin Can Sailors  
 - Housel, Morgan: The Psychology of Money  
 - Howard, Catherine: The Trap  
 - Howard, Michael: The Salaryman  
 - Howarth, David: We Die Alone  
-- Huang, S.L.: Zero Sum Game  
+- Huang, S.L.: Zero Sum Game
+- Hubbard, L Ron: MISSION EARTH. 1)The Invaders Plan, 2)Black Genesis  
 - Huff, Tanya: Blood Prince  
 - Hughes, Wayne: Fleet Tactics and Coastal Combat  
 - Hunter, Dave: Along Interstate-75  
-- Hunter, Georgia: We were the Lucky Ones  
+- Hunter, Georgia: We were the Lucky Ones
+- Huston, Charlie: Caught Stealing book 1  
 - Huxley, Aldous: Brave New WOrld  
 - Iger, Robert: The Ride of a Lifetime  
 - Imbler, Sabrina: How Far the Light Reaches: A Life in Ten Sea Creatures  
@@ -488,7 +501,8 @@
 - Kurson, Robert: Shadow Divers  
 - Kurzweil, Ray: The Singularity is Near: When Humans Transcend Biology  
 - Laberge, Stephen: Exploring the World of Lucid Dreaming  
-- Lallo, Joseph: The Book of Deacon (kindle)  
+- Lallo, Joseph: The Book of Deacon (kindle)
+- L'amour, Louis: various  
 - Lanagan, Margo: Tender Morsels  
 - Landweber, Michael: The Damage Done  
 - Landy, Derek: Skulduggery Pleasant 1  
@@ -524,7 +538,7 @@
 - Lindbergh, Anne Morrow: Gift from the Sea  
 - Lipman, Joanne: That's What She Said  
 - Lippman, Laura: Tess Monaghan Series (15?) 1) Baltimore Blues  
-- Liu, Cixin: Remembrance of Earth's Past series 0) Ball Lightning, ~~1) The Three-Body Problem, 2) The Dark Forest, 3) Death's End~~, 4) Redemption of Time (someone else wrote this); To Hold up the Sky; Supernova ERA  
+- Liu, Cixin: Remembrance of Earth's Past series 0) Ball Lightning, ~~1) The Three-Body Problem, 2) The Dark Forest, 3) Death's End~~, 4) Redemption of Time (someone else wrote this); To Hold up the Sky; Supernova ERA; A View from the Stars    
 - Liu, Ken: Dandelion Dynasty: The Armies of Those I Love; Invisible Planets  
 - Liu, Simu: We were Dreamers
 - Livio, Mario: Is Earth Exceptional?  
@@ -545,7 +559,7 @@
 - Luttgens, Jason: Incident Response & Computer Forensics (kindle)  
 - Lu, Marie: Legend; Prodigy    
 - Lynch, Scott: The Lies of Locke Lamora: Gentleman Bastards  
-- Maberry, Jonathan: Joe Ledger  
+- Maberry, Jonathan: Joe Ledger series  
 - MacDonald, Eileen: Shoot the women first  
 - Mackintosh, Clare: The Last Party  
 - Mack, Katie: The End of Everything  
@@ -576,7 +590,8 @@
 - Mattis, Jim: Call Sign Chaos  
 - Maugham, W. Somerset: ebook The Razor's Edge  
 - Maxwell, Everina: Winter's Orbit  
-- Maxwell, John: How successful people think  
+- Maxwell, John: How successful people think
+- Mayer, Jane: Dark Money  
 - !!! ~~McAllister, Gillian: Wrong Place Wrong Time~~    
 - McCandless, David: Beautiful News  
 - McCarthy, Andrew: Journeys Home  
@@ -652,7 +667,7 @@
 - Neuvel, Sylvain: The Test; TAKE THEM TO THE STARS: 1)A History of What Comes Next  
 - Newitz, Annalee: The Future of Another Timeline 
 - Newman, TJ: Falling  
-- Newport, Cal: Deep Work  
+- Newport, Cal: Deep Work, A World without email    
 - Newsham, Brad: Take Me with You  
 - Nez, Chester: Code Talker  
 - Ng, Celeste: Our Missing Hearts  
@@ -685,7 +700,8 @@
 - Palmer, Ada: TERRA IGNOTA: 1) Too Like the Lightning; 2) Seven Surrenders  
 - Paolini, Christopher: To Sleep in a Sea of Stars  
 - Parazynski, Scott: The Sky Below (kindle)  
-- Parker, KJ: Pulling the Wings Off Angels  
+- Parker, KJ: Pulling the Wings Off Angels
+- Parrish, Shane: The Great Mental Models: General Thinking Concepts   
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
 - Paul, Annie Murphy: The Extended Mind  
 - Peale, Norman: The Power of Positive Thinking   
@@ -707,7 +723,8 @@
 - Pinker, Steven: The Better Angels of our Nature  
 - Plummer, David: Secrets of the Autistic Millionaire (Audible maybe?)  
 - Popkin, Jim: Code Name Blue Wren  
-- Porter, Lindsay: Assassination  
+- Porter, Lindsay: Assassination
+- Porter, Regina: The Rich People have gone away  
 - Potts, Rolf: Marco Polo Didn't Go There  
 - Pohl, Frederik: Gateway
 - Pompliano, Polina: Hidden Genius  
@@ -735,7 +752,8 @@
 - Rendon, Marcie: Cash Blackbear series (3) 1) Murder on the Red River  
 - Repino, Robert: The War with No Name: 1) Mort(e)  
 - Reynolds, Jason: Long Way Down  
-- Rhodes, Richard: Dark Sun  
+- Rhodes, Richard: Dark Sun
+- Rice, Anne: VAMPIRE CHRONICLES  
 - Richards, Carl: The One-Page Financial Plan  
 - Richards, Douglas: ALIEN ARTIFACT: 1) The Enigma Cube, 2) A Pivot in Time  
 - Ridley, Matt: The Rational Optimist  
@@ -767,7 +785,8 @@
 - Rueckert, Veronica: Outspoken  
 - Rumiz, Paolo: The Fault Line  
 - Ruskovich, Emily: Idaho  
-- Russ, Joanna: The Female Man  
+- Russ, Joanna: The Female Man
+- Russell, Craig: The Dial Aspect  
 - Russell, Bill: Second Wind: Memoirs of an Opinionated Man  
 - Russell, Mary Doria: The Sparrow  
 - Russell, Stuart: Human Compatible, Artificial Intelligence and the Problem of Control  
@@ -813,6 +832,7 @@
 - Shepherd, Peng: The Cartographers; The Book of M  
 - Sheridan, Sam: The Disaster Diaries  
 - Sherry, Miranda: Black Dog Summer
+- Shigeoka, Scott: Seek, How curiosity can transform your life and change the world 2023  
 - Shipman, Viola: A Wish for Winter  
 - Shisler, Gail: For Country and Corps: The life of General Oliver P. Smith  
 - Shoemaker, Martin: The Last Dance (kindle)  
@@ -825,6 +845,7 @@
 - Singh, Simon: Fermats Enigma
 - Skomal, Greg: Chasing Shadows, My Life Tracking the Great White Shark  
 - Slater, Tracy: The Good Shufu
+- Sledge, EB: With the Old Breed  
 - Slim, Viscount: Defeat into Victory  
 - Slineni, Haemin?: The things you can see only when you slow down  
 - Smedman, Lisa: ebook House of Serpents 1) Venom's Taste  
@@ -966,7 +987,8 @@
 - Wilson, Kevin: Nothing to See Here  
 - Wilson-Howarth, Jane: How to Shit Around the World  
 - Winters, Mary-Frances: We cant talk about that at work!  
-- Wise, David: Spy  
+- Wise, David: Spy
+- Wise, Tim: White Like Me; Colorblind; Dear White America    
 - Wittes, Benjamin & Gabriella Blum: The Future of Violence  
 - Wohlleben, Peter: The Hidden Life of Trees  
 - Wolfe, Gene: Shadow & Claw  
@@ -1544,6 +1566,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Zahn THRAWN  ~~1)Thrawn,(Feb2022) 2)Thrawn:Alliances, 3)Thrawn:Treason~~  
 #### Zahn: ~~THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good,~~ 3)Lesser Evil  
 #### Zahn: DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
+#### Zahn: ICARUS SAGA: 0)The Icarus Hunt, 1)The Icarus Plot, 2), 3), 4), 5), 6)  
 #### Zahn: QUADRAIL:  1)Night Train to Rigel, 2)The Third Lynx, 3)Odd Girl Out, 4)The Domino Pattern, 5)Judgment at Proteus  
 #### Zahn: THE CONQUERORS SAGA:  1)Conquerors' Pride, 2)Conquerors' Heritage, 3)Conquerors' Legacy  
 #### Zahn: COBRA:  1)Cobra, 2)Cobra Strike, 3)Cobra Bargain  
