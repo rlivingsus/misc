@@ -281,6 +281,7 @@
 - Behind the Frame: The Finest Scenery:
 - Beholder:
 - Ben There, Dan That!:
+- Bilkins' Folly:  
 - Bioshock; Bioshock Remastered; Bioshock Infinite:
 - Blazing Angels: Squadrons of WWII; Blazing Angels 2: Secret Missions of WWII:
 - Bloons TD 6 (PLAYING NOW):
@@ -309,6 +310,7 @@
 - Crazy Machines; 1.5 Inventors Training; 1.5 New from the Lab; 2:
 - Creaks:
 - Crime O'Clock:
+- Crush the Castle Legacy Collection:  
 - Cryostatis:
 - Cube Hero Odyssey:
 - Cult of the Lamb:  
@@ -317,7 +319,10 @@
 - DARQ:
 - Dave the Diver:  
 - Day of Defeat:
-- Deep Rock Galactic:  
+- Decision Legacy Collection:  
+- Deep Rock Galactic:
+- Deep Sleep Trilogy:
+- Defender's Quest 2: Mists of Ruin:  
 - Deponia:
 - Desktop Dungeons:
 - Desktop Dungeons: Rewind:
@@ -325,7 +330,8 @@
 - The Dig:
 - Diplomancy is Not an Option:
 - Distrust:
-- DJ Max Respect V:  
+- DJ Max Respect V:
+- Dont Escape Trilogy:   
 - Donut County:
 - Dorfromantik:
 - Drawful 2:
@@ -382,6 +388,7 @@
 - Idle Fishing:
 - IL-2 Sturmovik: 1946:
 - Indiana Jones and the Fate of Atlantis; Indiana Jones and the Last Crusade:
+- Infectonator 3: Apocalypse:  
 - Infinitode 2:
 - Inside:
 - Into the Breach:
@@ -389,6 +396,7 @@
 - Iron Marines & Iron Marines Invasion  
 - Islanders:
 - Isle of Arrows:
+- Itta:  
 - It takes two:  
 - Jack Lumber:
 - Journey:
@@ -398,6 +406,7 @@
 - Lara Croft and the Guardian of Light (Tombraider on GOG):
 - The Last Campfire:
 - The Last of Us Part I:
+- Last Stand Aftermath:  
 - Lead and Gold: Gangs of the Wild West:
 - Learning Factory:
 - The Legend of Korra:
@@ -422,6 +431,7 @@
 - Monster Hunter World:
 - Monument Valley & 2:
 - Myst: Masterpiece Edition:
+- Nauticrawl:  
 - Necrosmith 2:
 - Need for Speed Heat; Hot Pursuit Remastered; Undercover:
 - Never Alone:
@@ -483,12 +493,15 @@
 - Star Wars games: Battlefront, Battlefront2, Empire at War: Gold, Galactic Battlegrounds Saga (playing now), Jedi Knight: Jedi Academy, KOTOR, KOTOR2, Republic Commando, Squadrons, Starfighter, The Clone Wars-Republic Heroes, The Force Unleashed-Ultimate Sith, The Force Unleashed 2  
 - Stardew Valley:
 - Subnautica & Below Zero:
+- Sword and Souls Legacy Collection:  
 - 5) Tales of Monkey Island: Chapter 1-5 (various elsewhere):
 - Tangle Tower:
 - Team Fortress Classic & 2:
 - Terminator Resistance:
 - Terraria:
 - Tesla Effect:
+- The Elephant Collection:  
+- The Spirit and the Mouse:  
 - The Testament of Sherlock Holmes (see other Sherlock Holmes):
 - Theif: Deadly Shadows (Thief on Epic):
 - Time Gentlemen, Please!:
