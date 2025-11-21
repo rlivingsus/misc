@@ -375,6 +375,7 @@
 - Hard Reset:
 - Heal:
 - Healer's Quest:
+- Helldivers:  
 - Hero Academy:
 - Hero's Hour:
 - Hidden Folks:
@@ -401,7 +402,7 @@
 - Jack Lumber:
 - Journey:
 - ~~Just Cause~~; Just Cause 2:
-- ~~Kingdom Rush; Frontiers~~; Origins (playing); Vengeance; 5: Alliance:
+- ~~Kingdom Rush; Frontiers~~; Origins (playing); Vengeance; 5: Alliance & Dwarf then Wukong Campaign:  
 - LA Noire:
 - Lara Croft and the Guardian of Light (Tombraider on GOG):
 - The Last Campfire:
@@ -490,7 +491,7 @@
 - Splitgate:
 - Stanley Parable:
 - STO (playing):
-- Star Wars games: Battlefront, Battlefront2, Empire at War: Gold, Galactic Battlegrounds Saga (playing now), Jedi Knight: Jedi Academy, KOTOR, KOTOR2, Republic Commando, Squadrons, Starfighter, The Clone Wars-Republic Heroes, The Force Unleashed-Ultimate Sith, The Force Unleashed 2  
+- Star Wars games: Battlefront, Battlefront2, Empire at War: Gold, Galactic Battlegrounds Saga (playing now), Jedi Knight: Jedi Academy, KOTOR, KOTOR2, Republic Commando, Squadrons, Survivor (after Fallen Order see above), Starfighter, The Clone Wars-Republic Heroes, The Force Unleashed-Ultimate Sith, The Force Unleashed 2  
 - Stardew Valley:
 - Subnautica & Below Zero:
 - Sword and Souls Legacy Collection:  
