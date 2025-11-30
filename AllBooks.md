@@ -1502,7 +1502,7 @@ The End and Other Beginnings: Stories from the Future
 #### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings (audible) & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella, 3)Oathbringer,~~ 3.5) Dawnshard novella (audible), ~~4)Rhythm of War, 5)Wind and Truth~~    
 #### !!!Sanderson RECKONERS ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
 #### !!!Sanderson ELANTRIS ~~1)Elantris, 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)~~    
-#### Sanderson: RITHMATIST: 1) The Rithmatist  
+#### Sanderson: RITHMATIST: ~~1) The Rithmatist~~    
 #### !!!SKYWARD ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic), 4) Defiant (AUDIBLE)~~    
 #### !!!INFINITY BLADE Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 #### Sanderson: WARBREAKER: 1) Warbreaker (audible), 2) Nightblood  
