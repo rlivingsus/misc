@@ -1219,7 +1219,8 @@
 - Williams, Florence: The 3-Day Effect  
 - Wright, Craig: The Hidden Habits of Genius  
 - Wyman, Patrick: The Verges  
-- Zwillich, Todd: The Man who knew the Way to the Moon  
+- Zwillich, Todd: The Man who knew the Way to the Moon
+- STAR TREK: Strange New Worlds. 1) The High Country, 2) Asylum, 3) Toward the Night  
 
 #### BOOK SERIES
 
@@ -1272,7 +1273,7 @@ Indomitable, ~~Dark Wraith of Shannara~~
 #### !!!~~Brooks PALADINS OF SHANNARA (did not find in Libby, Short Stories in ebook format and did not read): 1)Allanon's Quest; 2)The Weapon Master's Choice; 3)The Black Irix~~    
 #### !!!Brooks DARK LEGACY OF SHANNARA SERIES ~~1) Wards of Faerie, 2) Blood Fire Quest, 3) Witch Wraith~~
 #### !!!Brooks DEFENDERS OF SHANNARA ~~1) The High Druid's Blade, 2) The Darkling Child; 3)The Sorcerer's DaughterSTOPPED SERIES KINDA REPEATS~~  
-#### Brooks: THE FALL OF SHANNARA: ~~1) The Black Elfstone; 2) The Skaar Invasion~~; 3) The Stiehl Assassin; 4) The Last Druid  
+#### Brooks: THE FALL OF SHANNARA: ~~1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stiehl Assassin;~~ 4) The Last Druid  
 #### Brooks: MAGIC KINGDOM OF LANDOVER: 1) Magic Kingdom for Sale/Sold, 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
 #### Brooks: Misc: Indomitable, Legends of Shannara, The World of Shannara  
 
@@ -1498,7 +1499,7 @@ The End and Other Beginnings: Stories from the Future
 #### ~~Salvatore, RA !!!Night of the Hunter; Rise of the King; The Highwayman;~~ The Legend of Drizzt The Collected Stories     
 
 #### !!!Sanderson, Brandon MISTBORN ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages, 3.5) Secret History (on Arcanum Unbounded), 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,~~  
-#### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings (audible) & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella, 3)Oathbringer,~~ 3.5) Dawnshard novella (audible?), 4)Rhythm of War, 5)Highprince of War  
+#### Sanderson: STORMLIGHT ARCHIVE: ~~1)The Way of Kings (audible) & The Way of Kings Prime on Youtube, 2)Words of Radiance, 2.5) Edgedancer novella, 3)Oathbringer,~~ 3.5) Dawnshard novella (audible), ~~4)Rhythm of War, 5)Wind and Truth~~    
 #### !!!Sanderson RECKONERS ~~1) Steelheart, 2) Firefight, 3) Calamity, 4) Lux~~  
 #### !!!Sanderson ELANTRIS ~~1)Elantris, 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)~~    
 #### Sanderson: RITHMATIST: 1) The Rithmatist  
@@ -1507,7 +1508,7 @@ The End and Other Beginnings: Stories from the Future
 #### Sanderson: WARBREAKER: 1) Warbreaker (audible), 2) Nightblood  
 #### Sanderson: SOLO: 1) Perfect State, ~~2) Shadow for Silence in the Forests of Hell (Audible), 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.~~    
 #### Sanderson:  1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; (ALL AUDIBLE)
-#### Sanderson: 1) The Dark One (comic?), 2) Forgotten  
+#### Sanderson: 1) The Dark One (comic?), 2) Forgotten, Tailored Realities (new on Audible)    
 #### Sanderson: SECRET PROJECTS: 1) Tress of the Emerald Sea, 2) The Frugal Wizard Handbook, 3) Yumi & the Nightmare Painter (on Audible), 4) The Sunlit Man (all on Spotify ipod)  
 
 #### Scalzi, John: OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades, The Sagan Diary, The Last Colony, Zoe's Tale, After the Coup, The Human Division, The B-Team, Walk the Plank, We only need the Heads, A Voice in the Wilderness, Tales from the Clarke, The Back Channel, The Dog King, The Sound of Rebellion, The Observers, This must be the Place, A Problem of Proportion, The Gentle Art of Cracking Heads, Earth Below Sky Above, The Human Division Extras, The End of All Things, The Life of the Mind, This Hollow Union, Can Long Endure, To Stand or Fall  
