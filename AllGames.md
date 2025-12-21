@@ -323,6 +323,7 @@
 - Decision Legacy Collection:  
 - Deep Rock Galactic:
 - Deep Sleep Trilogy:
+- Defense Grid 1/2:  
 - Defender's Quest 2: Mists of Ruin:  
 - Deponia:
 - Desktop Dungeons:
@@ -337,13 +338,14 @@
 - Dorfromantik:
 - Drawful 2:
 - Dreamfall Chapters:
+- Dungeon Defenders 1/2:  
 - Dungeon of the ENDLESS:
 - Dungeon Siege, 2, III:
 - Dungeons of Dreadrock:
 - Dungeons of Dredmor:
 - dWARf:
 - ELDEN RING:
-- Elder Scrolls (Arena and Daggerfall on GOG); V: Skyrim:
+- Elder Scrolls (Arena and Daggerfall on GOG); IV Oblivion;  V: Skyrim:
 - Element TD 2:
 - 4) Escape from Monkey Island:
 - Everhood:  
@@ -358,7 +360,7 @@
 - Frozen Synapse:
 - FTL: Faster Than Light:
 - Full Pipe:
-- Gauntlet:
+- ~~Gauntlet:~~
 - GemCraft Chasing Shadows:
 - Gemini Rue:
 - Ghost Master:
@@ -403,7 +405,8 @@
 - Jack Lumber:
 - Journey:
 - ~~Just Cause~~; Just Cause 2:
-- ~~Kingdom Rush; Frontiers~~; Origins (playing); Vengeance; 5: Alliance & Dwarf then Wukong Campaign:  
+- ~~Kingdom Rush; Frontiers~~; Origins (playing); Vengeance; 5: Alliance & Dwarf then Wukong Campaign:
+- Kingdom Two Crowns:  
 - LA Noire:
 - Lara Croft and the Guardian of Light (Tombraider on GOG):
 - The Last Campfire:
@@ -425,8 +428,10 @@
 - Mark of the Ninja:
 - Mars Horizon:
 - Max and the Magic Marker:
+- Mech Havoc:  
 - Men of War:
 - Middle-Earth: Shadow of Mordor; Shadow of War:
+- Mindustry:  
 - Misadventures of PB Winterbottom:
 - 2) Monkey Island 2: Special Edition:
 - Monster Hunter Rise:
@@ -471,6 +476,7 @@
 - Rhythm Fighter:  
 - Sacraboar:
 - Samorost 2:
+- Sanctum 1:  
 - SCP: Containment Breach Multiplayer:
 - 1) Secret of Monkey Island Special Edition (others elsewhere):
 - Shadowrun: Dragon Fall; HongKong; Returns (Director's Cut & EE for 1st two, all on Epic):
