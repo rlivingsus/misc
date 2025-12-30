@@ -200,7 +200,7 @@
 - Rebel Galaxy:
 - Resonance:
 - Road Warden:
-- Samorost:  
+- Samorost:
 - Sherlock Holmes Secret of the Silver Earring (Crimes and Punishment on Epic):
 - Sniper: Ghost Warrior; Sniper Ghost Warrior 3 Gold; Sniper Ghost Warrior Contracts (Sniper Elite, Sniper Elite v2 remastered, Sniper Ghost Warrior 2 on STEAM):
 - Space Quest 1-6:
@@ -273,6 +273,7 @@
 - Assetto Corsa:
 - Baba is You:
 - Bad Hotel:
+- Bad North:  
 - Bad Rats:
 - Baldur's Gate: EE; BG2: EE:
 - Bard's Tale; Bard's Tale Trilogy:
@@ -316,6 +317,7 @@
 - Cube Hero Odyssey:
 - Cult of the Lamb:  
 - 3) The Curse of Monkey Island:
+- Cursed Treasure 2:  
 - The Cycle: Frontier:
 - DARQ:
 - Dave the Diver:  
@@ -439,7 +441,7 @@
 - Monument Valley & 2:
 - Myst: Masterpiece Edition:
 - Nauticrawl:  
-- Necrosmith 2:
+- Necrosmith 1 & 2:  
 - Need for Speed Heat; Hot Pursuit Remastered; Undercover:
 - Never Alone:
 - Neverwinter Nights: EE & 2 Platinum:
@@ -476,7 +478,7 @@
 - Rhythm Fighter:  
 - Sacraboar:
 - Samorost 2:
-- Sanctum 1:  
+- Sanctum 1 & 2:  
 - SCP: Containment Breach Multiplayer:
 - 1) Secret of Monkey Island Special Edition (others elsewhere):
 - Shadowrun: Dragon Fall; HongKong; Returns (Director's Cut & EE for 1st two, all on Epic):
@@ -537,4 +539,5 @@
 - while True: learn():
 - Wobbly Life:  
 - Xenonauts:
+- X-Morph: Defense  
 - You Don't Know Jack (buncha games): 
