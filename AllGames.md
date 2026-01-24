@@ -174,6 +174,7 @@
 - Hacknet Complete:  
 - Hardwest:   
 - Hardwest II:
+- Havendock & Wizard Island DLC:  
 - Hitman: Absolution 5?; Hitman: Blood Money 4?; Hitman2: Silent Assassin; Hitman3: Contracts:
 - Incredible Machine (multi):
 - Icewind Dale (EE version on Amazon games STEAM); Icewind Dale 2:
