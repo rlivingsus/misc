@@ -324,7 +324,7 @@
 - Dave the Diver:  
 - Day of Defeat:
 - Decision Legacy Collection:  
-- Deep Rock Galactic:
+- Deep Rock Galactic & Survivor:
 - Deep Sleep Trilogy:
 - Defense Grid 1/2:  
 - Defender's Quest 2: Mists of Ruin:  
@@ -490,6 +490,7 @@
 - Slapshot: Rebound:
 - Sniper Elite; Ghost Warrior 2 (on GOG):
 - Solar 2:
+- Solasta: Crown of the Magister:  
 - Song of the Deep:
 - Sonic & All-Stars Racing:
 - Space Engineers:
