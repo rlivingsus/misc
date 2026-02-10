@@ -1436,7 +1436,7 @@ LEGENDS: Book 1, Book 2, Book 3
 #### McCaffrey: DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper, Dragonsblood (Lorana parts)  
 #### McCaffrey: DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
 !!!DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),(8)Nerilka's Story~~  
-#### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern, (13)The Dolphins of Pern~~, (16)The Skies of Pern  
+#### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern, (13)The Dolphins of Pern~~, (16)The Skies of Pern, 16a) A Gift of Dragons    
 #### McCaffrey: OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code, The Ship Who Sang    
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
