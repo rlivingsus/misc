@@ -111,7 +111,8 @@
 - Bush, George: Out of Many, One
 - Butcher, Jim: Dresden Files  
 - Butler, Octavia: Anything, Kindred  
-- Bujold, Lois: Paladin of Souls  
+- Bujold, Lois: Paladin of Souls
+- ~~Buxton, Kira Jane: The Hollow Kingdom~~  
 - Byers, Richard Lee: ebook Haunted Lands; Sembia
 - Cabrol, Nathalie: The Secret Life of the Universe  
 - Cain, Susan: Quiet: The Power of Introverts in a World That Can't Stop Talking  
@@ -217,7 +218,8 @@
 - Duckworth, Angela: Grit
 - Dumas, Alexandre: Count of Monte Cristo  
 - Duncan, Dave: ebook 1) The Reluctant Swordsman  
-- Dunham, Lena: Not that Kind of Girl  
+- Dunham, Lena: Not that Kind of Girl
+- Dunkle, Clare: The Hollow Kingdon  
 - Durant, Will/Ariel: The Lessons of History; The Story of Civilization  
 - Dweck, Carol: Mindset  
 - Dyachenko, Marina: Vita Nostra  
@@ -1273,7 +1275,7 @@ Indomitable, ~~Dark Wraith of Shannara~~
 #### !!!~~Brooks PALADINS OF SHANNARA (did not find in Libby, Short Stories in ebook format and did not read): 1)Allanon's Quest; 2)The Weapon Master's Choice; 3)The Black Irix~~    
 #### !!!Brooks DARK LEGACY OF SHANNARA SERIES ~~1) Wards of Faerie, 2) Blood Fire Quest, 3) Witch Wraith~~
 #### !!!Brooks DEFENDERS OF SHANNARA ~~1) The High Druid's Blade, 2) The Darkling Child; 3)The Sorcerer's DaughterSTOPPED SERIES KINDA REPEATS~~  
-#### Brooks: THE FALL OF SHANNARA: ~~1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stiehl Assassin;~~ 4) The Last Druid  
+#### Brooks: THE FALL OF SHANNARA: ~~1) The Black Elfstone; 2) The Skaar Invasion; 3) The Stiehl Assassin; 4) The Last Druid~~  
 #### Brooks: MAGIC KINGDOM OF LANDOVER: 1) Magic Kingdom for Sale/Sold, 2) The Black Unicorn, 3) Wizard at Large, 4) The Tangle Box, 5) Witches Brew, 6) A Princess of Landover (HAVE)  
 #### Brooks: Misc: Indomitable, Legends of Shannara, The World of Shannara  
 
@@ -1286,8 +1288,6 @@ Indomitable, ~~Dark Wraith of Shannara~~
 #### Burg, Bob: GO-GIVER SERIES: 1) The Go-Giver  
 
 #### Burke, Sue: SEMIOSIS DUOLOGY: 1) Semiosis, 2) Interference    
-
-#### Buxton, Kira J.: HOLLOW KINGDOM: 1)Hollow Kingdom, 2)  
 
 #### Byers, Richard Lee: FORGOTTEN REALMS HAUNTED LANDS: 1) Unclean (HAVE), 2) Undead (HAVE), 3) Unholy, 4) Realms of the Dead by Susan J Morris  
 
@@ -1312,19 +1312,20 @@ SPACEODYSSEY: 1) The Sentinel; 2) A Space Odyssey; 3) Odyssey2; 4) Odyssey3; 5) 
 #### Cunningham, Elaine: FORGOTTEN REALMS SONGS & SWORDS: 1) Elfshadow (HAVE), 2) Elfsong (HAVE), 3) Silvershadows, 4) Thornhold, 5) The Dream Spheres, 6) Reclamation    
 #### Drake, David: LORD OF THE ISLES: 1) The Lord of the Isles (HAVE?), 2) Queen of Demons, 3) Servant of the Dragon, 4) Mistress of the Catacombs, 5) Goddess of the Ice Realm, 6) Master of the Cauldron, 7) Fortress of Glass, 8) Mirror of Worlds, 9) The Gods Return  
 
-#### Dashner, James: MAZE RUNNER: ~~1) Maze Runner, 2) The Scorch Trials, 3) The Death Cure~~, 3.5) Crank Palace Novella       
-
+#### Dashner, James: MAZE RUNNER: ~~1) Maze Runner, 2) The Scorch Trials, 3) The Death Cure, 3.5) Crank Palace Novella, 4) The Kill Order, 5) The Fever Code~~ 
+SEQUEL: 1) The Maze Cutter
+   
 #### DeMille, Nelson: Scott Brodie Series: 1) The Deserter, 2) Blood Lines  
 
 #### !!!Donaldson, Stephen THE CHRONICLES OF THOMAS COVENANT THE UNBELIEVER ~~1) Lord Foul's Bane, 2) The Illearth War, 3) The Power that Preserves~~    
-#### Donaldson: THE SECOND CHRONICLES OF THOMAS COVENANT: 1) The Wounded Land, 2) The One Tree, 3) White Gold Wielder  
+#### Donaldson: THE SECOND CHRONICLES OF THOMAS COVENANT: ~~1) The Wounded Land, 2) The One Tree,~~ 3) White Gold Wielder  
 #### Donaldson: THE LAST CHRONICLES OF THOMAS COVENANT: 1) The Runes of the Earth, 2) Fatal Revenant, 3) Against all Things Ending, 4) The Last Dark  
 #### Donaldson: KING'S JUSTICE: The Augur's Gambit, The King's Justice   
 #### Donaldson: Into the Gap  
 
 #### Douglass, Sara: WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
-#### Eddings, David: THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: Belgarath the Sorcerer, Polgara the Sorceress    
+#### Eddings, David: THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: ~~Belgarath the Sorcerer~~, Polgara the Sorceress    
 #### !!!Eddings THE MALLOREON ~~1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell~~    
 #### Eddings: SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose,  (First 3 audible) 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City   
 #### Eddings: DREAMERS: 1) The Elder Gods, 2) The Treasured One, 3) Crystal Gorge, 4) The Younger Gods  
@@ -1436,7 +1437,7 @@ LEGENDS: Book 1, Book 2, Book 3
 #### McCaffrey: DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper, Dragonsblood (Lorana parts)  
 #### McCaffrey: DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
 !!!DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),(8)Nerilka's Story~~  
-#### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern, (13)The Dolphins of Pern~~, (16)The Skies of Pern, 16a) A Gift of Dragons    
+#### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern, (13)The Dolphins of Pern, (16)The Skies of Pern~~, 16a) A Gift of Dragons    
 #### McCaffrey: OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code, The Ship Who Sang    
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
@@ -1495,7 +1496,7 @@ The End and Other Beginnings: Stories from the Future
 #### Salvatore: THE WAY OF THE DROW: 1) Starlight Enclave (newer last book?), 2) Glacier's Edge (soon?2022)  
 #### Salvatore: SOLO?: The Color of Dragons, The Legend of Drizzt: The Collected Stories (AUDIBLE)   
 #### Salvatore: SAGA OF THE FIRST KING: 1) The Highwayman (AUDIBLE), 2) The Ancient  
-#### Salvatore: Guenhwyvar: A Tale from Drizzt (AUDIBLE)  
+#### ~~Salvatore: Guenhwyvar: A Tale from Drizzt (AUDIBLE)~~  
 #### ~~Salvatore, RA !!!Night of the Hunter; Rise of the King; The Highwayman;~~ The Legend of Drizzt The Collected Stories     
 
 #### !!!Sanderson, Brandon MISTBORN ~~1)The Final Empire, 2) The Well of Ascension, 3) The Hero of Ages, 3.5) Secret History (on Arcanum Unbounded), 4) The Alloy of Law, 5) Shadows of Self, 6) The Bands of Mourning, 7) The Lost Metal,~~  
@@ -1509,7 +1510,7 @@ The End and Other Beginnings: Stories from the Future
 #### Sanderson: SOLO: 1) Perfect State, ~~2) Shadow for Silence in the Forests of Hell (Audible), 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.~~    
 #### Sanderson:  1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; (ALL AUDIBLE)
 #### Sanderson: 1) The Dark One (comic?), 2) Forgotten, Tailored Realities (new on Audible)    
-#### Sanderson: SECRET PROJECTS: 1) Tress of the Emerald Sea, 2) The Frugal Wizard Handbook, 3) Yumi & the Nightmare Painter (on Audible), 4) The Sunlit Man (all on Spotify ipod)  
+#### Sanderson: SECRET PROJECTS: 1) Tress of the Emerald Sea, 2) The Frugal Wizard Handbook, 3) Yumi & the Nightmare Painter (on Audible), ~~4) The Sunlit Man~~ (all on Spotify ipod)  
 
 #### Scalzi, John: OLD MAN'S WAR SERIES: Old Man's War, Questions for a Soldier, The Ghost Brigades, The Sagan Diary, The Last Colony, Zoe's Tale, After the Coup, The Human Division, The B-Team, Walk the Plank, We only need the Heads, A Voice in the Wilderness, Tales from the Clarke, The Back Channel, The Dog King, The Sound of Rebellion, The Observers, This must be the Place, A Problem of Proportion, The Gentle Art of Cracking Heads, Earth Below Sky Above, The Human Division Extras, The End of All Things, The Life of the Mind, This Hollow Union, Can Long Endure, To Stand or Fall  
 
