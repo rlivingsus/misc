@@ -328,9 +328,10 @@
 - Deep Sleep Trilogy:
 - Defense Grid 1/2:  
 - Defender's Quest 2: Mists of Ruin:  
-- Deponia:
+- Deponia:  
 - Desktop Dungeons:
 - Desktop Dungeons: Rewind:
+- Desperados: Waned Dead or Alive; Desperados 2: Cooper's Revenge; Desperados III & III Season Pass:  
 - Destiny 2:
 - The Dig:
 - Diplomancy is Not an Option:
@@ -381,7 +382,8 @@
 - Hard Reset:
 - Heal:
 - Healer's Quest:
-- Helldivers:  
+- Helldivers:
+- Helldorado:  
 - Hero Academy:
 - Hero's Hour:
 - Hidden Folks:
