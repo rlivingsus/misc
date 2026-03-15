@@ -305,6 +305,7 @@
 - Child of Light:
 - Children of Morta:
 - Chrono Trigger:
+- Chuckmech Oasis TD & Animal Pals:  
 - Command and Conquer: 4) Generals Zero Hour; 2) Renegade; 1b) Tiberian Sun & Firestorm; 3) Generals; 5) Red Alert 2 & Yuri's Revenge; 6)Red Alert3, 3Uprising, 3Tiberium Wars; Kane's Wrath; 7)4Tiberian Twilight; Covert Operations; 1)Red Alert Counterstrike & Aftermath;  
 - Commandos: Behind Enemy Lines; Beyond The Call of Duty; 2: Men of Courage; 3: Desination Berlin:
 - Company of Heroes: 1; Legacy Edition; Opposing Fronts; Tales of Valor:
@@ -328,7 +329,8 @@
 - Deep Sleep Trilogy:
 - Defense Grid 1/2:  
 - Defender's Quest 2: Mists of Ruin:  
-- Deponia:  
+- Deponia:
+- Desktop Defender TD:  
 - Desktop Dungeons:
 - Desktop Dungeons: Rewind:
 - Desperados: Waned Dead or Alive; Desperados 2: Cooper's Revenge; Desperados III & III Season Pass:  
@@ -459,6 +461,7 @@
 - Ori and the Blind Forest:
 - Orwell & Ignorance is Strength:
 - Outer Wilds:
+- Outhold:  
 - Overlord & Raising Hell, II:
 - Oxygen Not Included:  
 - Paper Planet:
