@@ -255,7 +255,7 @@
 - Tiny Lands:  
 
 #### Steam
-- 100 Christmas Cats:
+- ~~100 Christmas Cats:~~
 - 100% Orange Juice:
 - 60 Seconds!; 60 Seconds! Reatomized:
 - 7 Billion Humans:
@@ -371,7 +371,9 @@
 - Gemini Rue:
 - Ghost Master:
 - Ghostbusters: Sanctum of Slime; The Video Game:
+- Gnomes:  
 - Gone Home:
+- Good Pizza:  
 - Gratuitous Space Battles:
 - Grim Dawn & Crucible Mode DLC, Ashes of Malmouth Expansion, Forgotten Gods Expansion  
 - Gunpoint:
@@ -417,6 +419,7 @@
 - LA Noire:
 - Lara Croft and the Guardian of Light (Tombraider on GOG):
 - The Last Campfire:
+- The Last Spell:  
 - The Last of Us Part I:
 - Last Stand Aftermath:  
 - Lead and Gold: Gangs of the Wild West:
@@ -425,6 +428,7 @@
 - LEGO Harry Potter: Years 1-4:
 - Limbo:
 - Little Inferno:
+- The Long Dark:  
 - Looking for Aliens:
 - Loom:
 - Loop Hero:
