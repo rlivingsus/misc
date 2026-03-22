@@ -970,7 +970,6 @@
 - Weeks, Brent: The Way of Shadows; The Black Prism  
 - Weinberg, Robert: Blood War  
 - Weiner, Eric: The Geography of Bliss  
-- Weir, Andy: Project Hail Mary  
 - Westerfeld, Scott: Leviathan  
 - Westover, Tara: Educated a memoir  
 - Whelan, Julia: Thank you for listening  
