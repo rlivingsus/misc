@@ -257,6 +257,7 @@
 #### Steam
 - ~~100 Christmas Cats:~~
 - 100% Orange Juice:
+- 5D Chess w/Multiverse Time Travel:  
 - 60 Seconds!; 60 Seconds! Reatomized:
 - 7 Billion Humans:
 - 80 Days:
@@ -283,6 +284,7 @@
 - Battle of Polytopia:   
 - Behind the Frame: The Finest Scenery:
 - Beholder:
+- Below the Crown:  
 - Ben There, Dan That!:
 - Bilkins' Folly:  
 - Bioshock; Bioshock Remastered; Bioshock Infinite:
@@ -302,6 +304,8 @@
 - Capsized:
 - Castle Full of Cats:
 - Cats Hidden in Paris:
+- Chessarama:
+- Chess Ultra:  
 - Child of Light:
 - Children of Morta:
 - Chrono Trigger:
@@ -321,6 +325,7 @@
 - 3) The Curse of Monkey Island:
 - Cursed Treasure 2:  
 - The Cycle: Frontier:
+- Dark Chess:  
 - DARQ:
 - Dave the Diver:  
 - Day of Defeat:
@@ -367,6 +372,7 @@
 - FTL: Faster Than Light:
 - Full Pipe:
 - ~~Gauntlet:~~
+- Gambit Shifter:  
 - GemCraft Chasing Shadows:
 - Gemini Rue:
 - Ghost Master:
@@ -464,11 +470,13 @@
 - Orcs Must Die 1/2:  
 - Ori and the Blind Forest:
 - Orwell & Ignorance is Strength:
+- The Ourosboros King:  
 - Outer Wilds:
 - Outhold:  
 - Overlord & Raising Hell, II:
 - Oxygen Not Included:  
 - Paper Planet:
+- Pawnbarian:  
 - Phoenix Wright: Ace Attorney Trilogy:
 - Planescape: Torment EE (on GOG):
 - Poly Bridge:
@@ -481,11 +489,12 @@
 - Rain World:
 - realMyst:
 - Retro Machina:
-- Return to Monkey Island:  
+- Return to Monkey Island:
+- Rhythm Fighter:  
 - Rise of Nations: EE:
 - Riven:
 - RollerCoaster Tycoon 3: Platinum  (one on Epic):
-- Rhythm Fighter:  
+- The Rookery:  
 - Sacraboar:
 - Samorost 2:
 - Sanctum 1 & 2:  
@@ -543,11 +552,13 @@
 - Unmechanical:
 - Unpacking:
 - Uru: Complete Chronicles:
+- Usurper:  
 - Wandersong:  
 - Warhammer 40000 Inquisitor - Martyr & Prophecy (see GOG):
 - Wasteland 2 Director's Cut:
 - Westerado: Double Barreled:
 - while True: learn():
+- WizardChess:  
 - Wobbly Life:  
 - Xenonauts:
 - X-Morph: Defense  
