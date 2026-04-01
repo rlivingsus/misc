@@ -131,6 +131,7 @@
 - World of Warships:   
 
 #### GOG
+- 9Kings:  
 - Absolute Drift: Zen Edition:
 - Alan Wake: American Nightmare:
 - Atari 50th Anniversary:
@@ -169,6 +170,7 @@
 - Flashout3d: Enhanced Edition
 - Floodland  
 - Forgotten Realms: Demon Stone
+- Framed Collection:  
 - Freespace 2:
 - Grim Fandango:Remastered:
 - Hacknet Complete:  
