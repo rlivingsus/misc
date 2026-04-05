@@ -10,7 +10,8 @@
 - Adams, Douglas: The Hitchhiker's Guide to the Galaxy  
 - Adams, Marilee: Change your Questions  
 - ~~Adams, Richard: Watership Down~~ Tales from Watership Down (book2)  
-- Alam, Rumaan: Leave the World Behind  
+- Alam, Rumaan: Leave the World Behind
+- Albom, Mitch: Twice   
 - Alderman, Naomi: The Power  
 - Alderson, Kaia: Sisters in Arms  
 - Alexander, Michelle: The New Jim Crow
@@ -94,7 +95,7 @@
 - Brooks, David: The Road to Character 
 - Brooks, Mel: All About Me!  
 - Brose, Christian: The Kill Chain: Defending America in the Future of High-Tech Warfare  
-- Brown, Brene: ~~Dare to Lead: Brave Work.~~ Tough Conversations. Whole Hearts  
+- Brown, Brene: ~~Dare to Lead: Brave Work.~~ Tough Conversations. Whole Hearts, Daring Greatly    
 - Brown, Peter: The WIld Robot Escapes  
 - Brown, Rachel, Manija: Stranger  
 - Brown, Ryk: The Frontiers Saga (kindle) 
@@ -110,7 +111,8 @@
 - Burvine, Lee: Kafir Project
 - Bush, George: Out of Many, One
 - Butcher, Jim: Dresden Files  
-- Butler, Octavia: Anything, Kindred  
+- Butler, Octavia: Anything, Kindred
+- Butler, Smedley: War is a Rackey  
 - Bujold, Lois: Paladin of Souls
 - ~~Buxton, Kira Jane: The Hollow Kingdom~~  
 - Byers, Richard Lee: ebook Haunted Lands; Sembia
@@ -121,7 +123,8 @@
 - Campbell, Jack: audiobook 1) The Lost Fleet Dauntless  
 - Campbell, John: Who Goes There?:  
 - Campbell, Tom: The Old Man's Trail  
-- Canavan, Trudy: ebook 1) The Magician's Guild  
+- Canavan, Trudy: ebook 1) The Magician's Guild
+- Cardone, Grant: The 10x Rule  
 - Carpenter, Thomas K.: Saturn's Monsters  
 - Carreyrou, John: Bad Blood  
 - Carroll, Raymonde: Cultural Misunderstandings  
@@ -169,7 +172,7 @@
 - Cotton, Tom: Sacred Duty  
 - Couch, Dick: A Tactical Ethic
 - Courogen, Carrie: Miss May does not exist  
-- Crichton, Michael: Sphere; Rising Sun; Andromeda Strain; The Great Train Robbery; Eruption     
+- Crichton, Michael: Sphere; Rising Sun; Andromeda Strain; The Great Train Robbery; Eruption; Westworld       
 - Cristie, Agatha:  TOMMY & TUPPENCE: 2) Partners in Crime, 3) N or M?, 4) By the Pricking of My Thumbs, 5) Postern of Fate HERCULE POIROT: various
 - Critchley, Emily: One Puzzling Afternoon  
 - Cronin, Justin: The Passage  
@@ -216,6 +219,7 @@
 - Drucker, Peter: The Practice of Management
 - Duchovny, David: Miss Subway  
 - Duckworth, Angela: Grit
+- Dudley, Renee: Ransomeware Hunting Team  
 - Dumas, Alexandre: Count of Monte Cristo  
 - Duncan, Dave: ebook 1) The Reluctant Swordsman  
 - Dunham, Lena: Not that Kind of Girl
@@ -233,6 +237,7 @@
 - Ellenberg, Jordan: How Not to be Wrong  
 - Ellis, Joseph: The Cause, The American Revolution  
 - Ellsberg, Michael: The Education of Millionaires
+- Elsberg, Marc: Code Zero  
 - Elston, Ashley: First Lie Wins  
 - Endo, Shusaku: Silence  
 - Ericsson, Anders: Peak  
@@ -240,9 +245,11 @@
 - Erikson, Thomas: Surrounded by Idiots; surrounded by psychopaths;  
 - Erwig, Martin: Once Upon an Algorithm  
 - Espinosa, Christian: The Smartest Person in the Room  
-- !!!~~Epstein, Lewis Carroll Thinking Physics.  No audiobook~~    
+- !!!~~Epstein, Lewis Carroll Thinking Physics.  No audiobook~~
+- Epstein, David: Range  
 - Ettenberg, Jodi: The Food Traveler's Handbook  
-- Evans, Ceri: Perform under Pressure  
+- Evans, Ceri: Perform under Pressure
+- Evans, David: Ironmania  
 - Evan, Erin: The Bone Wars  
 - Evans, William & Omar Holmon: Black Nerd Problems  
 - Everett, Percival: Dr. No  
@@ -254,7 +261,8 @@
 - Farmer's, Philip Jose THE DUNGEON SERIES: 1)The Black Tower, 2)The Dark Abyss, 3)The Valley of Thunder, 4)The Lake of Fire, 5)The Hidden City, 6)The Final Battle  
 - Farr, Richard: The Fire Seekers (kindle)  
 - Fenning, Chris: The First Minute  
-- Ferrazzi, Keith: Never Eat Alone, Expanded and Updated  
+- Ferrazzi, Keith: Never Eat Alone, Expanded and Updated
+- Ferreira, Becky: First Contact   
 - Fexeus, Henrik: The Art of Reading Minds  
 - Feynman, Richard: The Pleasure of Finding things out; Surely You're Joking Mr. Feynman; What do you care what other people think    
 - Fick, Nathaniel: One Bullet Away: The Making of a Marine Officer  
@@ -263,7 +271,8 @@
 - Finnegan, William: Barbarian Days: a Surfing Life  
 - Finney, Jack: Time and Again  
 - Fisher, Roger: Getting to Yes  
-- Fisher, Sharon Lynn: Echo 8  
+- Fisher, Sharon Lynn: Echo 8
+- Fishman, Edward: Chokepoints  
 - !!!~~Fletcher, C.A. A Boy and his Dog at the End of the World~~    
 - Fletcher, Jeff: Sho-Time: The Inside Story of Shohei Ohtani and the Greatest Baseball Season Ever Played  
 - Flynn, Gillian: Gone Girl   
@@ -275,7 +284,8 @@
 - Ford, Jeffrey: The Shadow Year  
 - Forester, CS: The Good Shepherd  
 - Forlee, Sherwood: Walls Notebook  
-- Forleo, Marie: Everything is Figureoutable  
+- Forleo, Marie: Everything is Figureoutable
+- Forstchen, WIlliam: 1) One Second After, 2) One Year After  
 - Forsthoefel, Andrew: Walking to Listen  
 - Foroux, Darius: Win your inner battles; Do it Today, What it takes to be free  
 - Forward, Susan: Emotional Blackmail  
@@ -309,8 +319,9 @@
 - Gee, Emily: The Sentinel Mage  
 - Gentill, Sulari: The Woman in the Library
 - Gerrold, David: Crystallization  
-- Gessen, Masha: The man without a face: The unlikely rise of vladimir Putin   
-- Gibson, William: Neuromancer  
+- Gessen, Masha: The man without a face: The unlikely rise of vladimir Putin
+- Gibson, Lindsay: Adult Children of Emotionally Immature Parent  
+- Gibson, William: Neuromancer, Alien III (audible)   
 - Giesbrecht, Jennifer: The Monster of Elendhaven  
 - Girard, Danielle: White Out (kindle)  
 - Gladstone, Max: Last Exit; This is How you Lose the Time War  
@@ -353,7 +364,8 @@
 - Griffith, Nicola: Spear  
 - Grossman, Lev: The Map of Tiny Perfect Things  
 - Grove, Andrew: Only the Paranoid Survive  
-- Guidara, Will: Unreasonable Hospitality  
+- Guidara, Will: Unreasonable Hospitality
+- Gwynne, John: THE BLOODSWORD SAGA. 1) The Shadow of the Gods  
 - Gyasi, Yaa: Homegoing  
 - Haberman, Maggie: Confidence Man  
 - Haidt, Johnathan: The Happiness Hypothesis  
@@ -411,9 +423,11 @@
 - Hollins, Peter?: Finish what you start; The Power of Self-Discipline  
 - Holmberg, Charlie: Star Father  
 - Holmes, James: A Brief guide to Maritime Strategy  
-- Holmes, Jamie: 12 Seconds of Silence  
+- Holmes, Jamie: 12 Seconds of Silence
+- Holstein, William: Battlefield Cyber  
 - Hoff, Benjamin: The Tao of Pooh  
 - Hood, Ann: Fly Girl
+- Hormozi, Alex: $100M Offers  
 - Horn, Stacy: The Killing Fields of East New York  
 - Hornby, Nick: Dickens and Prince  
 - Hornfischer, James: Neptune's Inferno; The Fleet at Flood Tide; The Last Stand of the Tin Can Sailors  
@@ -457,7 +471,8 @@
 - Kahn, David: The Codebreakers  
 - Kahneman, Daniel: Thinking, Fast, and SLow  
 - Kai, Christopher: Big Game Hunting  
-- Kaku, Michio: Physics of the Future; Hyperspace; The God Equation: The Quest for a Theory of Everything  
+- Kaku, Michio: Physics of the Future; Hyperspace; The God Equation: The Quest for a Theory of Everything
+- Kaplan, Fred: Dark Territory  
 - Kaplan, Robert: The Revenge of Geography
 - Karl, Jonathan: Tired of Winning  
 - Karunatilaka, Shehan: The Seven Moons of Maali Almeida  
@@ -470,7 +485,8 @@
 - Kawakami, Hiromi: Manazuru
 - Kayyem, Juliette: The Devil Never Sleeps; Learning to live in an age of Disasters  
 - Kean, Sam: The Bastard Brigade  
-- Kearney, Paul: The Ten Thousand  
+- Kearney, Paul: The Ten Thousand
+- Keller, Gary: The One Thing  
 - Kendi, Ibram: How to be an Antiracist  
 - Kennedy, Paul: Rise and Fall of the Great Powers  
 - Kent, Jasper: Twelve  
@@ -491,7 +507,8 @@
 - Klune, TJ: The House in the Cerulean Sea; Under the Whispering Door  
 - Knight, Phil: Shoe Dog  
 - Kohanek, Jeffrey: Fate of Wizardom  
-- Kolker, Claudia: The Immigrant Advantage  
+- Kolker, Claudia: The Immigrant Advantage
+- Kondo, Marie: The Life Changing Magic of Tidying Up  
 - Koppel, Ted: Lights Out   
 - Kowal, Mary: The Calculating Stars  
 - Krakauer, John: Into the Wild   
@@ -550,7 +567,8 @@
 - Lockwood, Charles: Tragedy at Honda  
 - Loewen, James: Lies my Teacher Told Me  
 - Logothetis, Leon: The Kindness Diaries  
-- Lopez-Alt, J. Kenji: The Food Lab  
+- Lopez-Alt, J. Kenji: The Food Lab
+- Lore, Pittacus: LORIEN LEGACIES: 1) I am Number Four, 2) The Power of Six, ...  
 - Lourey, Jess: Unspeakable Things (kindle) 
 - Lovecraft, H.P: At the Mountains of Madness  
 - Lowell, Nathan: Solar Clipper  
@@ -596,7 +614,7 @@
 - Mayer, Jane: Dark Money  
 - !!! ~~McAllister, Gillian: Wrong Place Wrong Time~~    
 - McCandless, David: Beautiful News  
-- McCarthy, Andrew: Journeys Home  
+- McCarthy, Andrew: Journeys Home, Who Needs Friends    
 - McChrystal, Stanley: Team of Teams; Leaders
 - McClellan, Brian: In the Shadow of Lightning
 - McConaughhey, Matthew: Greenlights  
@@ -617,7 +635,8 @@
 - McTier, Moiya: The Milky Way  
 - Meacham, Jon: And There Was Light: Abraham Lincolns
 - Mechanic, Michael:  Jackpot, How the Super-Rich Really Live  
-- Meister, Ellen: Dorothy Parker Drank Here  
+- Meister, Ellen: Dorothy Parker Drank Here
+- Menn, Joseph: Cult of the Dead Cow  
 - Merritt, Jerry: A Gift of Time  
 - Mersinger, Holly: The Curse of Jacob Tracy  
 - Meyer, Marissa: ~~Heartless~~, Renegades  
@@ -627,7 +646,8 @@
 - Mihalik, Jessie: Polaris Rising  
 - Miles, Kathryn: Trailed  
 - Millard, Candice: River of the Gods  
-- Miller, Chanel: Know my Name  
+- Miller, Chanel: Know my Name
+- Miller, Chris: Chip War  
 - Miller, Christian: The Character Gap  
 - Miller, Lulu: Why Fish Don't Exist: A story of Loss, Love, and Hidden Order of Life  
 - Mindell, David: Our Robots, Ourselves  
@@ -635,7 +655,8 @@
 - Mitchell, David: Cloud Atlas  
 - Mitchell, Maggie: Pretty is:  
 - Mnookin, Robert: Create Value in Deals and Disputes; Beyond WInning
-- Modderkolk, Huib: Leave No Trace: How a Teenage Hacker...  
+- Modderkolk, Huib: Leave No Trace: How a Teenage Hacker...
+- Montgomery, Ross: Murder at World's End
 - Moon, Elizabeth:  
 - Moorcock, Michael: A Nomad of the Time streams; Elric de Melnibone   
 - Moore, Demi: Inside Out  
@@ -644,7 +665,8 @@
 - Morris, Jan: Manhattan '45  
 - Morrison, Toni: The Bluest Eye  
 - Morton, Andrew: The Queen: Her Life  
-- Muir, Tamsyn: THE LOCKED TOMB: 1)Gideon the Ninth; Nona the Ninth  
+- Muir, Tamsyn: THE LOCKED TOMB: 1)Gideon the Ninth; Nona the Ninth
+- Mulford, David: Packing for India  
 - Munger, Charlie: Poor Charlie's Almanack  
 - Munninghoff, Alexander: The Son and Heir (kindle)  
 - Munroe, Randall: The Thing Explainer; What If?; What If 2?    
@@ -664,12 +686,12 @@
 - Navarro, Joe: What every Body is saying; The dictionary of body language (kindle)  
 - Nayler, Ray: The Mountain in the Sea  
 - Nesbit, E:  
-- Ness, Patrick: Chaos Walking: trilogy  
+- Ness, Patrick: Chaos Walking: 1) The Knife of Never Letting Go, 2) The Ask and the Answer, 3) Monsters of Men
 - Netz, Reviel: The Archimedes Codex  
 - Neuvel, Sylvain: The Test; TAKE THEM TO THE STARS: 1)A History of What Comes Next  
 - Newitz, Annalee: The Future of Another Timeline 
 - Newman, TJ: Falling  
-- Newport, Cal: Deep Work, A World without email    
+- Newport, Cal: Deep Work, A World without email, So Good they cant ignore you      
 - Newsham, Brad: Take Me with You  
 - Nez, Chester: Code Talker  
 - Ng, Celeste: Our Missing Hearts  
@@ -691,7 +713,8 @@
 - Oconnor, Carlene: Irish Village Mystery Bundle (1-3 at DoD Libs)  
 - Ogas, Ogi: This is what it sounds like  
 - Okorafor, Nnedi: Lagoon, Remote Control  
-- Ollestad, Norman: Crazy for the Storm  
+- Ollestad, Norman: Crazy for the Storm
+- Oluseyi, Hakeen: A Quantum Life  
 - Omara, Margaret: The Code: Silicon Valley and the Remaking of America 
 - Onyebuchi, Tochi: Goliath; Riot Baby  
 - Owens, Delia: Where the Crawdads Sing
@@ -706,12 +729,14 @@
 - Parrish, Shane: The Great Mental Models: General Thinking Concepts   
 - Patterson, Kerry: Crucial Conversations Tools for Talking When Stakes are High  
 - Paul, Annie Murphy: The Extended Mind  
-- Peale, Norman: The Power of Positive Thinking   
+- Peale, Norman: The Power of Positive Thinking
+- Pearl, Matthew: The Award  
 - Pearlman, Jeff: The Last Folk Hero: The Life and Myth of Bo Jackson  
 - Peck, Josh: Happy People are Annoying  
 - Pelt, Shelby Van: Remarkably Bright Creatures  
 - Pene du Bois, William: The Twenty-One Balloons  
-- Pentecost, Kate: That Dark Infinity  
+- Pentecost, Kate: That Dark Infinity
+- Perkins, Bill: Die with Zero
 - Perlroth, Nicole: This is How They Tell Me the World Ends: The Cyberweapons Arms Race  
 - Perry, Matthew: Friends, Lovers, and the Big Terrible Thing  
 - Perry, Michael: Population: 485  
@@ -739,7 +764,8 @@
 - Pullman, Philip: His Dark Materials series  
 - Putnam, Robert: Bowling Alone  
 - Quick, Matthew: The Silver Lining Playbook; We Are the Light  
-- Quinn, Kate: The Diamond Eye  
+- Quinn, Kate: The Diamond Eye
+- Ramsey, Dave: The Total Money Makeover
 - Randel, Weina Dai: The Last Rose of Shanghai (kindle)
 - Rao, Nilima: A Disappearance in Fiji  
 - Rawls, Wilson: Where the Red Fern Grows  
@@ -770,7 +796,9 @@
 - Roberto, Adam: The Thing Itself  
 - Roberts, Adam: Jack Glass
 - Roberts, Gregory David: Shantaram  
-- Robertson, Donald: How to Think Like a Roman Emporer  
+- Robertson, Donald: How to Think Like a Roman Emporer
+- Robbins, Tony: Money Master the Game
+- Robinson, Andrew: Star Trek DS9: A Stich in Time
 - Robinson, Frank M: The Dark Beyond the Stars  
 - Robinson, Kim Stanley: Aurora  
 - Robson, David: The Expectation Effect: How your Mindset Can Change your World
@@ -805,10 +833,13 @@
 - Saulter, Stephanie: EVOLUTION 1)Gemsigns
 - Savage, Adam: Every Tool's a Hammer   
 - Scalzi, John: Kaiju preservation society; Lock In; Head On; The Dispatcher; Murder by Other Means; Travel by Bullet  
-- Scharre, Paul: Army of None  
+- Scharre, Paul: Army of None
+- Schenk, Jim: Covert Sailors, Submariner Sea Stories  
 - Schiff, Stacy: The Revolutionary: Samuel Adams
 - Schiffer, Zoe: Life of a White-Hat Hacker  
-- Schlender, Brent and Rick Tetzeli: Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader  
+- Schlender, Brent and Rick Tetzeli: Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader
+- Schlesser, Thomas: Mona's Eyes
+- Schneier, Bruce: Data and Goliath  
 - Schreier, Jason: Blood, Sweat, and Pixels  
 - Schroeder, Alice: The Snowball: Warren Buffett and the Business of Life  
 - Schulz, Kathryn: Being Wrong  
@@ -827,10 +858,11 @@
 - Shalleck, David: Mediterranean Summer  
 - Shapiro, Joseph: No Pity  
 - Shand, Mark: Travels on My Elephant
+- Sharma, Robin: The 5AM club  
 - Shatner, William: Boldly Go   
 - Shaw, Julia: The Memory Illusion  
 - Shea, Kieran: Off Rock  
-- Sheff, David: The Buddhist on Death Row  
+- Sheff, David: The Buddhist on Death Row
 - Shepherd, Peng: The Cartographers; The Book of M  
 - Sheridan, Sam: The Disaster Diaries  
 - Sherry, Miranda: Black Dog Summer
@@ -858,7 +890,8 @@
 - Smith, Mandy: Cabin Fever  
 - Smith, Patti: Just Kids  
 - Smith, Stephen: Straight Shooter  
-- Solomon, Rivers: The Deep  
+- Solomon, Rivers: The Deep
+- Sontag, Sherry: Blind Man's Bluff: Submarine espionage:  
 - Spakowski, Andrzej: Blood of Elves
 - Spalding, Katie: Edison's Ghosts  
 - Stackpole, Michael: A Secret Atlas  
@@ -872,7 +905,8 @@
 - Stavridis, James: The Leaders Bookshelf; SeaPower; 2034: A Novel of the Next World War;    
 - Steinbeck, John: Travels with Charley in Search of America  
 - Stephenson, Neal: Seveneves; Quicksilver, The Confusion, Termination Shock, The System of the World, New Found Land: The Long Haul, The Diamond Age  
-- Stephenson, Simon: Sometimes people die reading Greg Burns; Set My Heart to Five  
+- Stephenson, Simon: Sometimes people die reading Greg Burns; Set My Heart to Five
+- Sterling, Bruce: The Great Hacker Crackdown
 - Stewart, Andrea: The Bone Shard Emperor  
 - Stirling, SM: The Forge  
 - Stoll, Cliff: The Cuckoos Egg  
@@ -974,11 +1008,13 @@
 - Westover, Tara: Educated a memoir  
 - Whelan, Julia: Thank you for listening  
 - White, Alex: A Big Ship at the Edge of the Universe  
-- White, Edward: The Twelve Lives of Alfred Hitchcock  
+- White, Edward: The Twelve Lives of Alfred Hitchcock
+- White, Geoff: The Lazarus Heist  
 - White, Richard: Who Killed Jane Stanford?
 - Whitehouse, Harvey: Inheritance  
 - Whiten, Hannah: For the Wolf  
 - Wickre, Karen: Take the Work out of Networking
+- Wiest, Brianna: The Mountain is You  
 - Wild, Franz: Inside the Global Hack-for-Hire Industry  
 - Wilde, Oscar: The Picture of Dorian Gray  
 - Williams, Tad: Memory, Sorrow, and Thorn  
@@ -1036,7 +1072,7 @@
 - Adams, Scott: How to Fail at Almost Everything and Still Win Big  
 - Ackerman, Sara: Red Sky over Hawaii  
 - Ahn, Flora: The Golden Orchard  
-- Alanson, Craig: EXPEDITIONARY FORCE 1) Columbus Day, 2) SpecOps, 3) Paradise, 4) Black Ops, 5) Zero Hour, 6) Mavericks, 7) Renegades  
+- Alanson, Craig: EXPEDITIONARY FORCE 1) Columbus Day, 2) SpecOps, 3) Paradise, 4) Black Ops, 5) Zero Hour, 6) Mavericks, 7) Renegades, 13) Fallout, 14) Breakaway
 - Albala, Ken: History of Bourbon  
 - Aldrete, Gregory: History's Great Military Blunders and the Lessons They Teach  
 - Anderson, Chris: TED Talks  
@@ -1098,7 +1134,8 @@
 - Feynman, Richard: The Pleasure of Finding Things out  
 - Foster, Amy: The Rift Uprising  
 - Frank, Pat: Alas, Babylon  
-- Freeman, Sally Mott  
+- Freeman, Sally Mott
+- Fryman, Stephen: Heroes  
 - Gaiman, Neil: Trigger Warning; Neverwhere; the Sandman Act1&2&3; American Gods Book 1     
 - Garcia, Hector: Ikigai  
 - Garcia, Kami: The X-Files Origins: Agent of Chaos  
@@ -1127,7 +1164,8 @@
 - Janca, Tanya: Alice and Bob Learn Application Security
 - Kalakaua, David: Hawaiian Mythology  
 - Kerr, Katherine: The Red Wyvern (book 1); Westlands 1) A Time of Exile (Dod Libraries); ~~Devery Books 1-4~~  
-- Khoury, Jessica: The Mystwick School of Musicraft  
+- Khoury, Jessica: The Mystwick School of Musicraft
+- Koontz, Dean: The other Emily  
 - Krappweis, Tommy: A Crazy Inheritance
 - Langford, Andrea: Trail of the Lost
 - Laplante, Patrick: Clear Sky book 1  
@@ -1180,7 +1218,8 @@
 - Sainsbury, Ian: The World Walker  
 - Sakey, Marcus: Brilliance  
 - Salamo, Lin: Mark Twain's Helpful Hints for Good Living
-- Salvatore, RA: Stone of Tymora (3 books? see below)  
+- Salvatore, RA: Stone of Tymora (3 books? see below), The Finest Edge of Twilight Dungeons and Dragons  
+- Sanderson, Brandon: Yumi and the Nightmare Painter   
 - Scalzi, John: Dispatcher; The Collapsing Empire; The Kaiju Preservation Society (I think I bought this)
 - Schwab, VE: A Darker Shade of Magic  
 - Schulman, Daniel: Sons of Wichita  
@@ -1212,7 +1251,8 @@
 - Wade, Adam: You Ought to Know Adam Wade
 - Ward, Dayton: Agents of Influence; CODA: 1) Star Trek Coda: Moments Asunder   
 - Weber, David: Oath of Swords book 1  
-- Weir, Andy: Project Hail Mary   
+- Weir, Andy: Project Hail Mary, Artemis
+- Weis, Margaret & Tracy Hickman: 2) Elven Star, 5) The Hand of Chaos  
 - Wezowski, Kasia: Without saying a word  
 - Wheeler, Jeff: The Queen's Poisoner
 - WILDCARD TRUST: Wild Cards. 1) Wild Cards 1; 7) Dead Man's Hand  
@@ -1534,7 +1574,7 @@ The End and Other Beginnings: Stories from the Future
 
 #### Weis, Margaret  & Tracy Hickman (sometimes):   
 #### ~~Weis THE DRAGONVARLD TRILOGY 1) Mistress of Dragons (NEED), 2) The Dragon's Son (NEED), 3) Master of Dragons (HAVE)~~    
-#### Weis: THE DEATH GATE CYCLE: 1) Dragonwing, 2) Elven Star, 3) Fire Sea, 4) Serpent Mage, 5) Hand of Chaos, 6) Into the Labyrinth, 7) The Seventh Gate  
+#### Weis: THE DEATH GATE CYCLE: 1) Dragonwing, 2) Elven Star (audible), 3) Fire Sea, 4) Serpent Mage, 5) Hand of Chaos (audible), 6) Into the Labyrinth, 7) The Seventh Gate  
 #### Weis: STAR OF THE GUARDIANS: 1) The Lost King, 2) King's Test, 3) Ghost Legion  
 #### Weis: THE DARK DISCIPLE: 1) Amber and Ashes, 2) Amber and Iron, 3) Amber and Blood 
 #### Weis: THE DRAGON CORSAIRS: 1) Spymaster, 2) Privateer, 3) Kingmaker  
