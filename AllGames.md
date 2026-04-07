@@ -305,6 +305,7 @@
 - Call of Juarez: Bound in Blood; Gunslinger:
 - Capsized:
 - Castle Full of Cats:
+- Cast n Chill:  
 - Cats Hidden in Paris:
 - Chessarama:
 - Chess Ultra:  
@@ -351,6 +352,7 @@
 - Dorfromantik:
 - Drawful 2:
 - Dreamfall Chapters:
+- The Dream Globe:  
 - Dungeon Defenders 1/2:  
 - Dungeon of the ENDLESS:
 - Dungeon Siege, 2, III:
@@ -450,7 +452,8 @@
 - Mech Havoc:  
 - Men of War:
 - Middle-Earth: Shadow of Mordor; Shadow of War:
-- Mindustry:  
+- Mindustry:
+- Mini Cozy Room:  
 - Misadventures of PB Winterbottom:
 - 2) Monkey Island 2: Special Edition:
 - Monster Hunter Rise:
