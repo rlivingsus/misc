@@ -1252,7 +1252,7 @@
 - Ward, Dayton: Agents of Influence; CODA: 1) Star Trek Coda: Moments Asunder   
 - Weber, David: Oath of Swords book 1  
 - Weir, Andy: Project Hail Mary, Artemis
-- Weis, Margaret & Tracy Hickman: 2) Elven Star, 5) The Hand of Chaos  
+- Weis, Margaret & Tracy Hickman DEATH GATE CYCLE: 1) Dragon Wing, 2) Elven Star, 5) The Hand of Chaos  
 - Wezowski, Kasia: Without saying a word  
 - Wheeler, Jeff: The Queen's Poisoner
 - WILDCARD TRUST: Wild Cards. 1) Wild Cards 1; 7) Dead Man's Hand  
