@@ -205,6 +205,7 @@
 - Road Warden:
 - Samorost:
 - Sherlock Holmes Secret of the Silver Earring (Crimes and Punishment on Epic):
+- Smash it Wild, Tactical Volleyball Roguelike:  
 - Sniper: Ghost Warrior; Sniper Ghost Warrior 3 Gold; Sniper Ghost Warrior Contracts (Sniper Elite, Sniper Elite v2 remastered, Sniper Ghost Warrior 2 on STEAM):
 - Space Quest 1-6:
 - Spycraft:The Great Game:
@@ -368,6 +369,7 @@
 - Everything:
 - Exapunks:
 - Exodus Borealis:
+- Fable:  
 - Fallout 3: GOTY (1-2 GOG); Fallout New Vegas:
 - Fantasy Wars:
 - Final Fantasy VII:
