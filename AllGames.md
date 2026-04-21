@@ -353,7 +353,8 @@
 - Dorfromantik:
 - Drawful 2:
 - Dreamfall Chapters:
-- The Dream Globe:  
+- The Dream Globe:
+- Dredge:  
 - Dungeon Defenders 1/2:  
 - Dungeon of the ENDLESS:
 - Dungeon Siege, 2, III:
