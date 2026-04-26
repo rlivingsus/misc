@@ -265,6 +265,7 @@
 - 7 Billion Humans:
 - 80 Days:
 - AaaaaaAaaaa xxx:
+- Abalon (Summoners Fate):  
 - ~~Age of Empires II~~, Age of Empires III:
 - Age of Mythology (Retold Premium Edition):  
 - Age of Wonders III:
@@ -284,6 +285,7 @@
 - Bard's Tale; Bard's Tale Trilogy:
 - Bastion:
 - Batman: Arkham Asylum GOTY edition; Arkham City GOTY; Arkham Origins (FIRST TWO ON EPIC):
+- Battle Chasers: Nightwar:  
 - Battle of Polytopia:   
 - Behind the Frame: The Finest Scenery:
 - Beholder:
@@ -322,6 +324,7 @@
 - Crazy Machines; 1.5 Inventors Training; 1.5 New from the Lab; 2:
 - Creaks:
 - Crime O'Clock:
+- Crowntrick:  
 - Crush the Castle Legacy Collection:  
 - Cryostatis:
 - Cube Hero Odyssey:
@@ -335,6 +338,7 @@
 - Day of Defeat:
 - Decision Legacy Collection:  
 - Deep Rock Galactic & Survivor:
+- Deep Sleep: Labyrinth of the Forsaken:  
 - Deep Sleep Trilogy:
 - Defense Grid 1/2:  
 - Defender's Quest 2: Mists of Ruin:  
@@ -355,7 +359,8 @@
 - Dreamfall Chapters:
 - The Dream Globe:
 - Dredge:  
-- Dungeon Defenders 1/2:  
+- Dungeon Defenders 1/2:
+- Dungeons of Aether:  
 - Dungeon of the ENDLESS:
 - Dungeon Siege, 2, III:
 - Dungeons of Dreadrock:
@@ -374,6 +379,7 @@
 - Fallout 3: GOTY (1-2 GOG); Fallout New Vegas:
 - Fantasy Wars:
 - Final Fantasy VII:
+- For the King 2:  
 - Freedom Force; Freedom Force vs. the 3rd Reich:
 - Frozen Synapse:
 - FTL: Faster Than Light:
@@ -437,6 +443,7 @@
 - Last Stand Aftermath:  
 - Lead and Gold: Gangs of the Wild West:
 - Learning Factory:
+- Legend of Kingdom Rush:  
 - The Legend of Korra:
 - LEGO Harry Potter: Years 1-4:
 - Limbo:
@@ -462,6 +469,7 @@
 - Monster Hunter Rise:
 - Monster Hunter World:
 - Monument Valley & 2:
+- Moonbreaker:  
 - Myst: Masterpiece Edition:
 - Nauticrawl:  
 - Necrosmith 1 & 2:  
