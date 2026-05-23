@@ -265,10 +265,12 @@
 - 7 Billion Humans:
 - 80 Days:
 - AaaaaaAaaaa xxx:
-- Abalon (Summoners Fate):  
+- Abalon (Summoners Fate):
+- Abra-Cooking-Dabra:  
 - ~~Age of Empires II~~, Age of Empires III:
 - Age of Mythology (Retold Premium Edition):  
 - Age of Wonders III:
+- AI War 2 & Spire Rises, The Neinzul Abyss, Zenith Onslaught:  
 - Aliens vs. Predator Classic 2000:
 - Anomaly 2:
 - Anomaly Warzone Earth:
@@ -294,6 +296,7 @@
 - Bilkins' Folly:  
 - Bioshock; Bioshock Remastered; Bioshock Infinite:
 - Blazing Angels: Squadrons of WWII; Blazing Angels 2: Secret Missions of WWII:
+- Blood Bowl 2 Legendary:  
 - Bloons TD 6 (PLAYING NOW):
 - Borderlands GOTY & GOTY Enhanced:
 - Border Pioneer:  
@@ -350,6 +353,7 @@
 - Destiny 2:
 - The Dig:
 - Diplomancy is Not an Option:
+- Distant Worlds 2 & Factions Ikkuro/Dhayut, :  
 - Distrust:
 - DJ Max Respect V:
 - Dont Escape Trilogy:   
@@ -369,6 +373,8 @@
 - ELDEN RING:
 - Elder Scrolls (Arena and Daggerfall on GOG); IV Oblivion;  V: Skyrim:
 - Element TD 2:
+- Elemental: Reforged:  
+- Endless Legends & Shifters, Guardians, Monstrous Tales, The Lost Tales, :  
 - 4) Escape from Monkey Island:
 - Everhood:  
 - Everspace:
@@ -419,10 +425,12 @@
 - Icewind Dale: EE:
 - Idle Fishing:
 - IL-2 Sturmovik: 1946:
+- ILA: A Frosty Glide:  
 - Indiana Jones and the Fate of Atlantis; Indiana Jones and the Last Crusade:
 - Infectonator 3: Apocalypse:  
 - Infinitode 2:
 - Inside:
+- Interstellar Space: Genesis & Natural Law, Evolving Empires, Terrains Pack, :  
 - Into the Breach:
 - Invisible, Inc:
 - Iron Marines & Iron Marines Invasion  
@@ -447,6 +455,7 @@
 - The Legend of Korra:
 - LEGO Harry Potter: Years 1-4:
 - Limbo:
+- Linkito:  
 - Little Inferno:
 - The Long Dark:  
 - Looking for Aliens:
@@ -462,6 +471,7 @@
 - Mech Havoc:  
 - Men of War:
 - Middle-Earth: Shadow of Mordor; Shadow of War:
+- Mind Over Magnet:  
 - Mindustry:
 - Mini Cozy Room:  
 - Misadventures of PB Winterbottom:
@@ -492,12 +502,14 @@
 - Overlord & Raising Hell, II:
 - Oxygen Not Included:  
 - Paper Planet:
+- Parallel Experiment:  
 - Pawnbarian:  
 - Phoenix Wright: Ace Attorney Trilogy:
 - Planescape: Torment EE (on GOG):
 - Poly Bridge:
 - Portal:
 - Prince of Persia & The Forgotten Sands:
+- Proverbs:  
 - Puzzle Agent 2:
 - Puzzle Kingdoms:
 - Raft (Playing):
@@ -509,6 +521,7 @@
 - Rhythm Fighter:  
 - Rise of Nations: EE:
 - Riven:
+- Rogue Hex:  
 - RollerCoaster Tycoon 3: Platinum  (one on Epic):
 - The Rookery:  
 - Sacraboar:
@@ -526,9 +539,11 @@
 - Solar 2:
 - Solasta: Crown of the Magister:  
 - Song of the Deep:
+- Song of Silence & Celestial Church, Lighteaters:  
 - Sonic & All-Stars Racing:
 - Space Engineers:
 - Space Chem:
+- Space Hulk Classic:  
 - Speed Runners:
 - ~~Spelunky~~
 - Spelunx:
@@ -539,13 +554,15 @@
 - Star Wars games: Battlefront, Battlefront2, Empire at War: Gold, Galactic Battlegrounds Saga (playing now), Jedi Knight: Jedi Academy, KOTOR, KOTOR2, Republic Commando, Squadrons, Survivor (after Fallen Order see above), Starfighter, The Clone Wars-Republic Heroes, The Force Unleashed-Ultimate Sith, The Force Unleashed 2  
 - Stardew Valley:
 - Subnautica & Below Zero:
-- Sword and Souls Legacy Collection:  
+- Sword and Souls Legacy Collection:
+- Taiji:  
 - 5) Tales of Monkey Island: Chapter 1-5 (various elsewhere):
 - Tangle Tower:
 - Team Fortress Classic & 2:
 - Terminator Resistance:
 - Terraria:
 - Tesla Effect:
+- Thea 2 The Shattering:  
 - The Elephant Collection:  
 - The Spirit and the Mouse:  
 - The Testament of Sherlock Holmes (see other Sherlock Holmes):
@@ -568,9 +585,12 @@
 - Unmechanical:
 - Unpacking:
 - Uru: Complete Chronicles:
-- Usurper:  
-- Wandersong:  
+- Usurper:
+- Viewfinder:  
+- Wandersong:
+- Warhammer 40000 Gladius - Battlesector, Blood Angels Elite, Relics of War, T'au, Tyranid Elites (ROW):  
 - Warhammer 40000 Inquisitor - Martyr & Prophecy (see GOG):
+- Warhammer 40000: Dakka Squadron - Flyboyz Edition:  
 - Wasteland 2 Director's Cut:
 - Westerado: Double Barreled:
 - while True: learn():
