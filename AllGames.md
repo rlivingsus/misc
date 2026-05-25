@@ -547,6 +547,7 @@
 - Speed Runners:
 - ~~Spelunky~~
 - Spelunx:
+- Spilled:  
 - Spiritfarer:
 - Splitgate:
 - Stanley Parable:
