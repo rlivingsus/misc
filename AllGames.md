@@ -385,6 +385,7 @@
 - Fallout 3: GOTY (1-2 GOG); Fallout New Vegas:
 - Fantasy Wars:
 - Final Fantasy VII:
+- Fishing Inc:  
 - For the King 2:  
 - Freedom Force; Freedom Force vs. the 3rd Reich:
 - Frozen Synapse:
@@ -518,7 +519,8 @@
 - realMyst:
 - Retro Machina:
 - Return to Monkey Island:
-- Rhythm Fighter:  
+- Rhythm Fighter:
+- Riders Republic:  
 - Rise of Nations: EE:
 - Riven:
 - Rogue Hex:  
@@ -537,7 +539,8 @@
 - Slapshot: Rebound:
 - Sniper Elite; Ghost Warrior 2 (on GOG):
 - Solar 2:
-- Solasta: Crown of the Magister:  
+- Solasta: Crown of the Magister:
+- Solitairica:  
 - Song of the Deep:
 - Song of Silence & Celestial Church, Lighteaters:  
 - Sonic & All-Stars Racing:
@@ -563,8 +566,10 @@
 - Terminator Resistance:
 - Terraria:
 - Tesla Effect:
-- Thea 2 The Shattering:  
-- The Elephant Collection:  
+- Thea 2 The Shattering:
+- The Binding of Isaac: Rebirth:   
+- The Elephant Collection:
+- The Hunter: Call of the Wild:  
 - The Spirit and the Mouse:  
 - The Testament of Sherlock Holmes (see other Sherlock Holmes):
 - Theif: Deadly Shadows (Thief on Epic):
