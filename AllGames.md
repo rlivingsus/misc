@@ -1,8 +1,15 @@
 #### Amazon Games
 - Alex Kidd:
+- Alien: Isolation:
+- Arcade Paradise:  
+- Centipede Swarm:
+- Digging a Hole:  
+- Dispatch:  
 - Dungeon of the Endless:  
 - Forager:
-- Ghostbusters Spirits Unleashed (See Steam too)  
+- Ghostbusters Spirits Unleashed (See Steam too)
+- Indiana Jones and the Great Circle:
+- Indiana Jones Original Adventure Lego:  
 - Samurai Bringer:
 - Spirit of the North:
 - Star Wars: Rebellion:  
