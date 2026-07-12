@@ -538,6 +538,7 @@
 - Sanctum 1 & 2:  
 - SCP: Containment Breach Multiplayer:
 - 1) Secret of Monkey Island Special Edition (others elsewhere):
+- Shadow Gambit: The Cursed Crew:  
 - Shadowrun: Dragon Fall; HongKong; Returns (Director's Cut & EE for 1st two, all on Epic):
 - Shenzhen I/O:
 - Sherlock Holmes: Nemesis; The Awakened; The Mystery of the Mun; The Myster of the Pers; The Secret of the Silver; vs. Jack the Ripper (on GOG and EPIC TOO):
