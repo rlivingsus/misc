@@ -1473,7 +1473,7 @@ LEGENDS: Book 1, Book 2, Book 3
 !!!DRAGONRIDERS OF PERN ~~(9)First Pass aka Dragonriders' Dawn: Dragonsdawn:Arrival from Earth and populating Pern, (12)The Chronicles of Pern: First Fall (The P.E.R.N. Survey, The Dolphin's Bell, The Ford of Red Hanrahan, The Second Weyr, Rescue Run)~~      
 #### McCaffrey: DRAGONRIDERS OF PERN First Interval: (18)Dragonsblood (windblossom parts)   
 #### McCaffrey: DRAGONRIDERS OF PERN Second Pass: ~~Red Star Rising aka (14)Dragonseye, Ever the Twain in A Gift of Dragons~~    
-#### McCaffrey: DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper, Dragonsblood (Lorana parts)  
+#### McCaffrey: DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper   
 #### McCaffrey: DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
 !!!DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),(8)Nerilka's Story~~  
 #### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern, (13)The Dolphins of Pern, (16)The Skies of Pern~~, 16a) A Gift of Dragons    
