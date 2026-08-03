@@ -300,6 +300,7 @@
 - Beholder:
 - Below the Crown:  
 - Ben There, Dan That!:
+- Berzerk B.I.T.S:  
 - Bilkins' Folly:  
 - Bioshock; Bioshock Remastered; Bioshock Infinite:
 - Blazing Angels: Squadrons of WWII; Blazing Angels 2: Secret Missions of WWII:
@@ -342,7 +343,8 @@
 - 3) The Curse of Monkey Island:
 - Cursed Treasure 2:  
 - The Cycle: Frontier:
-- Dark Chess:  
+- Dark Chess:
+- Dark Hunting Ground:   
 - DARQ:
 - Dave the Diver:  
 - Day of Defeat:
@@ -392,7 +394,8 @@
 - Fallout 3: GOTY (1-2 GOG); Fallout New Vegas:
 - Fantasy Wars:
 - Final Fantasy VII:
-- Fishing Inc:  
+- Fishing Inc:
+- Focus Grove:  
 - For the King 2:  
 - Freedom Force; Freedom Force vs. the 3rd Reich:
 - Frozen Synapse:
@@ -428,6 +431,7 @@
 - Horizon Zero Dawn Complete Edition:
 - Hoser Hockey:
 - House of the Dying Sun:
+- How to Train your Cock:  
 - Human Resource Machine:
 - iBomber Defense:
 - Icewind Dale: EE:
@@ -450,6 +454,7 @@
 - Journey:
 - ~~Just Cause~~; Just Cause 2:
 - ~~Kingdom Rush; Frontiers~~; Origins (playing); Vengeance; 5: Alliance & Dwarf then Wukong Campaign:
+- Kin and Quarry:  
 - Kingdom Two Crowns:  
 - LA Noire:
 - Lara Croft and the Guardian of Light (Tombraider on GOG):
@@ -479,6 +484,7 @@
 - Mech Havoc:  
 - Men of War:
 - Middle-Earth: Shadow of Mordor; Shadow of War:
+- Military Incremental Complex:  
 - Mind Over Magnet:  
 - Mindustry:
 - Mini Cozy Room:  
@@ -487,7 +493,8 @@
 - Monster Hunter Rise:
 - Monster Hunter World:
 - Monument Valley & 2:
-- Moonbreaker:  
+- Moonbreaker:
+- My Little Life:  
 - Myst: Masterpiece Edition:
 - Nauticrawl:  
 - Necrosmith 1 & 2:  
@@ -514,10 +521,12 @@
 - Pawnbarian:  
 - Phoenix Wright: Ace Attorney Trilogy:
 - Planescape: Torment EE (on GOG):
+- Plantera 2: Golden Acorn:  
 - Poly Bridge:
 - Portal:
 - Prince of Persia & The Forgotten Sands:
-- Proverbs:  
+- Proverbs:
+- Pupple Pop:  
 - Puzzle Agent 2:
 - Puzzle Kingdoms:
 - Raft (Playing):
@@ -532,7 +541,9 @@
 - Riven:
 - Rogue Hex:  
 - RollerCoaster Tycoon 3: Platinum  (one on Epic):
-- The Rookery:  
+- The Rookery:
+- Ropuka's Idle Island:  
+- Rusty's Retirement:  
 - Sacraboar:
 - Samorost 2:
 - Sanctum 1 & 2:  
@@ -558,7 +569,8 @@
 - Speed Runners:
 - ~~Spelunky~~
 - Spelunx:
-- Spilled:  
+- Spilled:
+- Spirit City: Lofi Sessions:  
 - Spiritfarer:
 - Splitgate:
 - Stanley Parable:
