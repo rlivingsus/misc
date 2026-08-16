@@ -283,9 +283,11 @@
 - Anomaly Warzone Earth:
 - Apex Legends:
 - An Arcade Full of Cats:
+- Anomaly Agent:  
 - Ashes of the Singularity: Escalation:
 - Assassin's Creed II:
 - Assetto Corsa:
+- Astro Prospector:  
 - Baba is You:
 - Bad Hotel:
 - Bad North:  
@@ -303,17 +305,21 @@
 - Berzerk B.I.T.S:  
 - Bilkins' Folly:  
 - Bioshock; Bioshock Remastered; Bioshock Infinite:
+- Biped:  
 - Blazing Angels: Squadrons of WWII; Blazing Angels 2: Secret Missions of WWII:
 - Blood Bowl 2 Legendary:  
 - Bloons TD 6 (PLAYING NOW):
 - Borderlands GOTY & GOTY Enhanced:
-- Border Pioneer:  
+- Borderlands3:  
+- Border Pioneer:
+- Botany Manor:  
 - Braid:
 - The Bridge:
 - Broforce:
 - Broken Sword 5: The Serpent's Curse:
 - Brothers in Arms: Earned in Blood; Hell's Highway; Road to Hill 30:
 - Building Full of Cats:
+- Bulletstorm Full Clip:  
 - Burnout Paradise Remastered (Playing):
 - Call of Duty 4: Modern Warfare (2007):
 - Call of Juarez: Bound in Blood; Gunslinger:
@@ -344,7 +350,9 @@
 - Cursed Treasure 2:  
 - The Cycle: Frontier:
 - Dark Chess:
-- Dark Hunting Ground:   
+- Dark Hunting Ground:
+- DarknessII:  
+- Dark Queen of Mortholme:  
 - DARQ:
 - Dave the Diver:  
 - Day of Defeat:
@@ -371,7 +379,8 @@
 - Drawful 2:
 - Dreamfall Chapters:
 - The Dream Globe:
-- Dredge:  
+- Dredge:
+- Duke Nukem 3D 20th Anniversary World Tour:  
 - Dungeon Defenders 1/2:
 - Dungeons of Aether:  
 - Dungeon of the ENDLESS:
@@ -393,6 +402,7 @@
 - Fable:  
 - Fallout 3: GOTY (1-2 GOG); Fallout New Vegas:
 - Fantasy Wars:
+- Fill up the Hole:  
 - Final Fantasy VII:
 - Fishing Inc:
 - Focus Grove:  
@@ -427,7 +437,9 @@
 - Hero Academy:
 - Hero's Hour:
 - Hidden Folks:
+- Hidden & Dangerous Bundle:  
 - Hitman: Codename 47  (most on GOG):
+- Homeworld Remastered:  
 - Horizon Zero Dawn Complete Edition:
 - Hoser Hockey:
 - House of the Dying Sun:
@@ -452,10 +464,12 @@
 - It takes two:  
 - Jack Lumber:
 - Journey:
+- Juggler's Tale:  
 - ~~Just Cause~~; Just Cause 2:
 - ~~Kingdom Rush; Frontiers~~; Origins (playing); Vengeance; 5: Alliance & Dwarf then Wukong Campaign:
 - Kin and Quarry:  
-- Kingdom Two Crowns:  
+- Kingdom Two Crowns:
+- Knightica:  
 - LA Noire:
 - Lara Croft and the Guardian of Light (Tombraider on GOG):
 - The Last Campfire:
@@ -477,6 +491,7 @@
 - Lume:
 - Lumines Remastered:
 - Lumino City:
+- Mafia2: Definitive Edition:  
 - Manhole:
 - Mark of the Ninja:
 - Mars Horizon:
@@ -492,10 +507,12 @@
 - 2) Monkey Island 2: Special Edition:
 - Monster Hunter Rise:
 - Monster Hunter World:
+- Monster Prom 2: Monster Camp:  
 - Monument Valley & 2:
 - Moonbreaker:
 - My Little Life:  
 - Myst: Masterpiece Edition:
+- Nano Apostle:  
 - Nauticrawl:  
 - Necrosmith 1 & 2:  
 - Need for Speed Heat; Hot Pursuit Remastered; Undercover:
@@ -506,6 +523,7 @@
 - No Man's Sky:
 - Oddada:  
 - Oddworld: Abe's Oddysee; Exoddus:
+- Old Man's Journey:  
 - Onde:
 - One Btn Bosses:  
 - Orcs Must Die 1/2:  
@@ -529,6 +547,7 @@
 - Pupple Pop:  
 - Puzzle Agent 2:
 - Puzzle Kingdoms:
+- the Quarry:  
 - Raft (Playing):
 - Ragnarock:  
 - Rain World:
@@ -538,6 +557,7 @@
 - Rhythm Fighter:
 - Riders Republic:  
 - Rise of Nations: EE:
+- Risk of Rain2:  
 - Riven:
 - Rogue Hex:  
 - RollerCoaster Tycoon 3: Platinum  (one on Epic):
@@ -546,7 +566,8 @@
 - Rusty's Retirement:  
 - Sacraboar:
 - Samorost 2:
-- Sanctum 1 & 2:  
+- Sanctum 1 & 2:
+- Scanner Sombre:  
 - SCP: Containment Breach Multiplayer:
 - 1) Secret of Monkey Island Special Edition (others elsewhere):
 - Shadow Gambit: The Cursed Crew:  
@@ -579,9 +600,11 @@
 - Stardew Valley:
 - Subnautica & Below Zero:
 - Sword and Souls Legacy Collection:
-- Taiji:  
+- Taiji:
+- Tales from the Borderlands:  
 - 5) Tales of Monkey Island: Chapter 1-5 (various elsewhere):
 - Tangle Tower:
+- Teacup:  
 - Team Fortress Classic & 2:
 - Terminator Resistance:
 - Terraria:
@@ -595,6 +618,8 @@
 - Theif: Deadly Shadows (Thief on Epic):
 - Time Gentlemen, Please!:
 - The Tiny Bang Story:
+- Tiny Sticker Tale:
+- Tiny Tina's Wonderlands:  
 - TIS-100:
 - To the Moon (on GOG):
 - Tokyo 42:
@@ -604,7 +629,7 @@
 - Totally Reliable Delivery Service:
 - TowerFall Ascension:
 - Toy Soldiers:
-- Tribes of Midgard:
+- Tribes of Midgard: Deluxe Ed:
 - ~~Trine~~ & 2:
 - Trombone Champ:  
 - TRON 2.0:
@@ -621,7 +646,8 @@
 - Westerado: Double Barreled:
 - while True: learn():
 - WizardChess:  
-- Wobbly Life:  
+- Wobbly Life:
+- X-COM UFO Defense & Enemy Unknown:  
 - Xenonauts:
 - X-Morph: Defense  
 - You Don't Know Jack (buncha games): 
