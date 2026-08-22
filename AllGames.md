@@ -199,7 +199,8 @@
 - Mailtime:  
 - Medal Of Honor Allied Assault Warchest:
 - Might & Magic: Swords of Xeen; M&M1: Book1; M&M2-6:
-- Neverwinter Nights:Enhanced Edition & Diamond:  
+- Neverwinter Nights:Enhanced Edition & Diamond:
+- Nice Day for Fishing:  
 - Oxenfree (Duplicate on Epic games):  
 - Planescape: Torment (EE on Amazon Games):
 - Police Quest 1-4; Police Quest Swat 1-2:
