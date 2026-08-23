@@ -357,6 +357,7 @@
 - DARQ:
 - Dave the Diver:  
 - Day of Defeat:
+- Days of Doom:  
 - Decision Legacy Collection:  
 - Deep Rock Galactic & Survivor:
 - Deep Sleep: Labyrinth of the Forsaken:  
