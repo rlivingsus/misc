@@ -217,7 +217,7 @@
 - Sniper: Ghost Warrior; Sniper Ghost Warrior 3 Gold; Sniper Ghost Warrior Contracts (Sniper Elite, Sniper Elite v2 remastered, Sniper Ghost Warrior 2 on STEAM):
 - Space Quest 1-6:
 - Spycraft:The Great Game:
-- Star Trek: Armada:  
+- Star Trek: Armada & 2:  
 - Steamworld Heist:
 - Stellaris: Leviathan Story Pack, Utopia, Synthetic Dawn Story Pack, Apocalypes (DON’T HAVE Distant Stars, MegaCorp, Ancient Relics, Federations, Nemesis, Overlord, First Contact, Galactic Paragons, Astral Planes, The Machine Age):
 - Sudden Strike 2:
