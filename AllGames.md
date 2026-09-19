@@ -315,6 +315,7 @@
 - Border Pioneer:
 - Botany Manor:  
 - Braid:
+- Brew:  
 - The Bridge:
 - Broforce:
 - Broken Sword 5: The Serpent's Curse:
@@ -498,6 +499,7 @@
 - Mark of the Ninja:
 - Mars Horizon:
 - Max and the Magic Marker:
+- Maze Mice:  
 - Mech Havoc:  
 - Men of War:
 - Middle-Earth: Shadow of Mordor; Shadow of War:
@@ -541,6 +543,7 @@
 - Parallel Experiment:  
 - Pawnbarian:  
 - Phoenix Wright: Ace Attorney Trilogy:
+- A Plague Tale: Innocence:  
 - Planescape: Torment EE (on GOG):
 - Plantera 2: Golden Acorn:  
 - Poly Bridge:
@@ -554,6 +557,8 @@
 - Raft (Playing):
 - Ragnarock:  
 - Rain World:
+- Rat Pack:
+- Ratshaker:  
 - realMyst:
 - Retro Machina:
 - Return to Monkey Island:
@@ -594,6 +599,7 @@
 - ~~Spelunky~~
 - Spelunx:
 - Spilled:
+- the Spirit and the Mouse:  
 - Spirit City: Lofi Sessions:  
 - Spiritfarer:
 - Splitgate:
@@ -604,6 +610,7 @@
 - Subnautica & Below Zero:
 - Sword and Souls Legacy Collection:
 - Taiji:
+- Tails Noir & Preludes:  
 - Tales from the Borderlands:  
 - 5) Tales of Monkey Island: Chapter 1-5 (various elsewhere):
 - Tangle Tower:
@@ -632,6 +639,7 @@
 - Totally Reliable Delivery Service:
 - TowerFall Ascension:
 - Toy Soldiers:
+- Trash Goblin:  
 - Tribes of Midgard: Deluxe Ed:
 - ~~Trine~~ & 2:
 - Trombone Champ:  
@@ -642,9 +650,11 @@
 - Usurper:
 - Viewfinder:  
 - Wandersong:
+- Warhammer: Vermintide Endtimes, Upgrade & 2 and Collectors Edition Upgrade:  
 - Warhammer 40000 Gladius - Battlesector, Blood Angels Elite, Relics of War, T'au, Tyranid Elites (ROW):  
 - Warhammer 40000 Inquisitor - Martyr & Prophecy (see GOG):
-- Warhammer 40000: Dakka Squadron - Flyboyz Edition:  
+- Warhammer 40000: Dakka Squadron - Flyboyz Edition:
+- War Rats: The Rat em Up:  
 - Wasteland 2 Director's Cut:
 - Westerado: Double Barreled:
 - while True: learn():
