@@ -341,13 +341,15 @@
 - Cosmic Osmo:
 - Cozy Grove:
 - Crazy Machines; 1.5 Inventors Training; 1.5 New from the Lab; 2:
-- Creaks:
+- Creaks:  
 - Crime O'Clock:
+- Cross Blitz:  
 - Crowntrick:  
 - Crush the Castle Legacy Collection:  
 - Cryostatis:
 - Cube Hero Odyssey:
-- Cult of the Lamb:  
+- Cult of the Lamb:
+- Cultist Simulator: The Dancer, The Exile, The Ghoul, The Priest:  
 - 3) The Curse of Monkey Island:
 - Cursed Treasure 2:  
 - The Cycle: Frontier:
@@ -382,6 +384,7 @@
 - Drawful 2:
 - Dreamfall Chapters:
 - The Dream Globe:
+- Dream Tactics:  
 - Dredge:
 - Duke Nukem 3D 20th Anniversary World Tour:  
 - Dungeon Defenders 1/2:
@@ -428,6 +431,7 @@
 - Gunpoint:
 - Hacker Evolution; Untold; Duality:
 - Hacknet:
+- Hadean Tactics: Deluxe Edition:  
 - Hades:  
 - Half-Life 2 and DLCs:
 - Halo: Spartan Assault; Spartan Strike; Master Chief Collection (Playing):
@@ -439,6 +443,7 @@
 - Helldorado:  
 - Hero Academy:
 - Hero's Hour:
+- Hexarchy:  
 - Hidden Folks:
 - Hidden & Dangerous Bundle:  
 - Hitman: Codename 47  (most on GOG):
@@ -500,7 +505,8 @@
 - Mars Horizon:
 - Max and the Magic Marker:
 - Maze Mice:  
-- Mech Havoc:  
+- Mech Havoc:
+- Menace from the Deep:  
 - Men of War:
 - Middle-Earth: Shadow of Mordor; Shadow of War:
 - Military Incremental Complex:  
@@ -511,7 +517,8 @@
 - 2) Monkey Island 2: Special Edition:
 - Monster Hunter Rise:
 - Monster Hunter World:
-- Monster Prom 2: Monster Camp:  
+- Monster Prom 2: Monster Camp:
+- Monster Train & The Last Divinity DLC:  
 - Monument Valley & 2:
 - Moonbreaker:
 - My Little Life:  
@@ -585,7 +592,7 @@
 - The Signifier Director's Cut:
 - Silent Hunter Woves of the Pacific; U-Boat; III:
 - Slapshot: Rebound:
-- Sniper Elite; Ghost Warrior 2 (on GOG):
+- Sniper Elite & V2, 3, 4, 5; Ghost Warrior 2 (on GOG):
 - Solar 2:
 - Solasta: Crown of the Magister:
 - Solitairica:  
@@ -607,10 +614,12 @@
 - STO (playing):
 - Star Wars games: Battlefront, Battlefront2, Empire at War: Gold, Galactic Battlegrounds Saga (playing now), Jedi Knight: Jedi Academy, KOTOR, KOTOR2, Republic Commando, Squadrons, Survivor (after Fallen Order see above), Starfighter, The Clone Wars-Republic Heroes, The Force Unleashed-Ultimate Sith, The Force Unleashed 2  
 - Stardew Valley:
+- SteamWorld Quest: Hand of Gilgamech:  
 - Subnautica & Below Zero:
 - Sword and Souls Legacy Collection:
 - Taiji:
-- Tails Noir & Preludes:  
+- Tails Noir & Preludes:
+- Tainted Grail: Conquest:  
 - Tales from the Borderlands:  
 - 5) Tales of Monkey Island: Chapter 1-5 (various elsewhere):
 - Tangle Tower:
@@ -658,6 +667,7 @@
 - Wasteland 2 Director's Cut:
 - Westerado: Double Barreled:
 - while True: learn():
+- Wingspan:  
 - WizardChess:  
 - Wobbly Life:
 - X-COM UFO Defense & Enemy Unknown:  
