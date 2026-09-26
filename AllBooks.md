@@ -976,7 +976,7 @@
 - Varol, Ozan: Think Like a Rocket Scientist  
 - Viega, John: The Myths of Security  
 - Villoso, K.S.: CHRONICLES OF THE BITCH QUEEN: 1)The Wolf of Oren-Yaro  
-- Vinge, Vernor: A Fire Upon the Deep; ~~A Deepness in the Sky~~  
+- Vinge, Vernor: 1)A Fire Upon the Deep; ~~0.5)A Deepness in the Sky~~  ,2)The Children of the Sky  
 - Virts, Terry: How to Astronaut  
 - Vo, Nghi: Siren Queen  
 - Volk, Steve: Fringe-ology  
@@ -1159,7 +1159,8 @@
 - Hoff, Benjamin: The Tao of Pooh  
 - Hubbard, L.Ron: Writers of the Future, v.34  
 - Huxley, Aldous: Island  
-- Hystad, Nathan & Jasper Scott: Final Days Book 1 Final Days  
+- Hystad, Nathan & Jasper Scott: Final Days Book 1 Final Days
+- Inmon, Shawn: MIDDLE FALLS TIME TRAVEL.  ~~1) The Unusual Second Life of Thomas Weaver, 2) The Redemption of Michael Hollister~~, 3)The Death and Life of Dominick Davidner, 4)The Final Life of Nathaniel Moon, 5)The Emancipation of Veronica McCallister, 6)The Changing Lives of Joe Hart, 7)The Vigilante Life of Scott McKenzie (IDONOTOWNAFTERTHISUPTO book 15)  
 - Islington, James: The Shadow of What was Lost; The will of many    
 - Janca, Tanya: Alice and Bob Learn Application Security
 - Kalakaua, David: Hawaiian Mythology  
@@ -1192,7 +1193,7 @@
 - Mendoza, Nathan: Greek Mythology  
 - !!!~~Messier, Mark Noone Wins Alone~~  
 - Metaxas, Eric: Seven Men  
-- Meyer, LA: Under the Jolly Roger; Bloody Jack; Curse of the Blue Tattoo  
+- Meyer, LA: ~~1)Bloody Jack; 2)Curse of the Blue Tattoo~~, 3)Under the Jolly Roger;     
 - Michener, James: Hawaii  
 - Mitnick, Kevin: The Art of Deception; The Art of Invisibility  
 - Mogel, Wendy: Voice Lessons for Parents
@@ -1276,7 +1277,7 @@
 #### Archer, CJ: GLASS LIBRARY SERIES: 1) The Librarian of Crooked Lane  
 
 #### Asimov, Isaac: The End of Eternity; Prelude to Foundation; The God Themselves  
-#### Asimov: ROBOTS: 1) Robot Dreams, Robot Vision, The Rest of the Robots, Gold: The FInal SCIFI Collection, Nemesis; 2) I, Robot; 3) Mother Earth; 4) The Positronic Man; 5) The Complete Robot; 6) Caves of Steel; 7) The Naked Sun; 8) The Robots of Dawn; 9) Robots and Empire.  
+#### Asimov: ROBOTS: ~~1) Robot Dreams, Robot Vision, The Rest of the Robots~~, Gold: The FInal SCIFI Collection, Nemesis; ~~2) I, Robot~~; 3) Mother Earth; ~~4) The Positronic Man; 5) The Complete Robot; 6) Caves of Steel~~; 7) The Naked Sun; 8) The Robots of Dawn; 9) Robots and Empire.  
 #### Asimov: EMPIRE: 1) The Stars, Like Dust; 2) The Currents of Space; 3) Pebble in the Sky; 4) Blind Alley  
 #### Asimov: FOUNDATION: 1) Prelude to Foundation; 2) Forward the Foundation; 3) Foundation; 4) Foundation and Empire; 5) Second Foundation; 6) Foundation's Edge; 7) Foundation and Earth; 8) The End of Eternity  
 #### Asimov: Favorite SCIFI Stories volume 3 (Audible)  
@@ -1364,7 +1365,7 @@ SEQUEL: 1) The Maze Cutter
 
 #### Douglass, Sara: WAYFARER REDEMPTION: 1) The Wayfarer Redemption (HAVE), 2) Enchanter, 3) Starman, 4) Sinner, 5) Pilgrim, 6) Crusader  
 
-#### Eddings, David: THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: ~~Belgarath the Sorcerer~~, Polgara the Sorceress    
+#### Eddings, David: THE BELGARIAD: ~~1) The Pawn of Prophecy, 2) The Queen of Sorcery, 3) Magician's Gambit, 4) Castle of Wizardry, 5) Enchanter's End Game (Feb2022)~~,  PREQUELS: ~~Belgarath the Sorcerer, Polgara the Sorceress~~    
 #### !!!Eddings THE MALLOREON ~~1) Guardians of the West, 2) King of Murgos, 3) Demon Lord of Karanda, 4) Sorceress of Darshiva, 5) Seeress of Kell~~    
 #### Eddings: SPARHAWK UNIVERSE:  1) The Diamond Throne, 2) The Ruby Knight, 3) The Sapphire Rose,  (First 3 audible) 4) Domes of Fire, 5) The Shining Ones, 6) The Hidden City   
 #### Eddings: DREAMERS: 1) The Elder Gods, 2) The Treasured One, 3) Crystal Gorge, 4) The Younger Gods  
@@ -1386,8 +1387,8 @@ SEQUEL: 1) The Maze Cutter
 #### !!!Feist RIFTWAR LEGACY ~~1)Krondor: The Betrayal, 2)Krondor: The Assassins, 3)Krondor:Tear of the Gods, 4)Krondor:Jimmy and the Crawler~~  
 #### !!!Feist LEGENDS OF RIFTWAR (coincide with riftwar saga) ~~1)Honored Enemy, 2)Murder in LaMut, 3)Jimmy the Hand~~  
 #### !!!Feist CONCAVE OF SHADOWS ~~1)Talon of the Silver Hawk, 2)King of Foxes, 3)Exile's Return~~    
-#### Feist: DARKWAR SAGA: ~~1)Flight of the Nighthawks~~, 2)Into a Dark Realm, 3)Wrath of a Mad God  
-#### Feist: DEMONWAR SAGA: 1)Rides a Dread Legion, 2)At the Gates of Darkness  
+#### !!!Feist: DARKWAR SAGA: ~~1)Flight of the Nighthawks, 2)Into a Dark Realm, 3)Wrath of a Mad God~~    
+#### Feist: DEMONWAR SAGA: ~~1)Rides a Dread Legion~~, 2)At the Gates of Darkness  
 #### Feist: CHAOSWAR SAGA: 1)A Kingdom Besieged, 2)A Crown Imperilled, 3)Magician's End  
 #### Feist: SOLO: King of Ashes (on Audible?)  
 
@@ -1405,15 +1406,18 @@ SEQUEL: 1) The Maze Cutter
 
 #### Heinlein, Robert: Glory Road, The Moon is a Harsh Mistress; The SciFi Hall of Fame Vol.1 1929-1964; The SciFi Hall of Fame Vol.2-a, All you Zombies    
 
-#### Herbert, Frank (& Brian Herbert): DUNE: ~~1) The Butlerian Jihad; 2) The Machine Crusade; 3) The Battle of Corrin; 4) Sisterhood of Dune; 5) Mentats of Dune; 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen;~~ 9) House Corrino; 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
+#### Herbert, Frank (& Brian Herbert): DUNE: ~~1) The Butlerian Jihad; 2) The Machine Crusade; 3) The Battle of Corrin; 4) Sisterhood of Dune; 5) Mentats of Dune; 6) Navigators of Dune; 7) House Atreides; 8) House Harkonnen; 9) House Corrino;~~ 10) The Duke of Caladan; 11) The Lady of Caladan; 12) The Heir of Caladan; 13) Dune; 14) Paul of Dune; 15) Dune Messiah; 16) The Winds of Dune; 17) Children of Dune; 18) God Emperor of Dune; 19) Hertics of Dune; 20) Chapterhouse: Dune; 21) Hunters of Dune; 22) Sandworms of Dune  
 
 #### Hickman, Tracy  
 !!!THE BRONZE CANTICLES SERIES: ~~1) Mystic Warrior, 2) Mystic Quest, 3) Mystic Empire~~  
 
-#### !!!Hobb, Robin THE FARSEER TRILOGY ~~1) Assassin's Apprentice, 2) Royal Assassin, 3) Assassin's Quest~~  
+#### !!!Hobb, Robin aka Megan Lindholm THE FARSEER TRILOGY ~~1) Assassin's Apprentice, 2) Royal Assassin, 3) Assassin's Quest~~  
 #### !!!Hobb, Robin LIVESHIP TRILOGY ~~1) The Ship of Magic, 2) The Mad Ship, 3) Ship of Destiny~~  
 #### !!!Hobb THE RAINWILD CHRONICLES 0.5) The Inheritance, ~~1) The Dragon Keeper, 2) Dragon Haven, 3) City of Dragons, 4) Blood of Dragons~~  
 #### !!!Hobb TAWNY MAN TRILOGY ~~1) Fool's Errand, 2) The Golden Fool, 3) Fool's Fate~~  
+#### Hobb, Robin: THE SOLDIER SON TRILOGY. 1)SHaman's Crossing, 2)Forest Mage, 3)Renegade's Magic, 
+#### Hobb, Robin: Harpy's Flight, The Limbreth Gate, The Windsingers, Wizards of the Pigeons, The Luck of the Wheels, The Reindeer People, Wolf's Brother, Alien Earth, Cloven Hooves, The Gypsy  
+#### Hobb, Robin: FITZ AND THE FOOL TRILOGY: READ THIS ALREADY? ~~0.5) The Inheritance~~ 1)Fool's Assassin, 2)Fool's Quest, 3)Assassin's Fate  
 
 #### Hogan, James: GIANT SERIES: 1) Inherit the Stars  
 
@@ -1432,7 +1436,7 @@ The Warrior of Altaii
 #### Kerr: ACT THREE: THE DRAGON MAGE: 1)The Red Wyvern, 2)The Black Raven, 3)The Fire Dragon  
 #### Kerr: ACT FOUR: THE SILVER WYRM: 1)The Gold Falcon, 2)The Spirit Stone, 3)The Shadow Isle, 4)The Silver Mage  
 
-#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile; Salem's Lot~~  UR; ~~11/22/63, The Dead Zone~~; The Dark Tower: The Wind through the Keyhole    
+#### King, Stephen: ~~Fairy Tale, The Institute, The Outsider, Under the Dome?, Later, Dark Tower series, Elevation, The Eyes of the Dragon, Billy Summers, Joyland, Night Shift: Graveyard shift and Lawnmower Man; The Talisman; Different Seasons; The Green Mile; Salem's Lot~~  UR; ~~11/22/63, The Dead Zone~~; The Dark Tower: The Wind through the Keyhole, Needful Things,     
 #### !!!King, Stephen BILL HODGES ~~1) Mr. Mercedes; 2) Finders Keepers; 3) End of Watch~~    
 
 #### Koontz, Dean: JANE HAWK: 0.5) The Bone Farm, ~~1) The Silent Corner, 2) The Whispering Room,~~ 3) The Crooked Staircase, 4) The Forbidden Door, 5) The Night Window   
@@ -1476,17 +1480,17 @@ LEGENDS: Book 1, Book 2, Book 3
 #### McCaffrey: DRAGONRIDERS OF PERN Second Interval: (17)Dragon's Kin, (19)Dragon's Fire, (20)Dragon Harper   
 #### McCaffrey: DRAGONRIDERS OF PERN Third Pass: (21)Dragonheart, (22)Dragongirl, (23)Dragon's Time, (24)Sky Dragons  
 !!!DRAGONRIDERS OF PERN Sixth Pass: ~~(7)Moreta: Dragonlady of Pern, Beyond Between (Legends:Short Novels),(8)Nerilka's Story~~  
-#### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: (15)The Masterharper of Pern, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern, (13)The Dolphins of Pern, (16)The Skies of Pern~~, 16a) A Gift of Dragons    
-#### McCaffrey: OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south~~, (14)Dragonseye, (25)Dragon's Code, The Ship Who Sang    
+#### McCaffrey: DRAGONRIDERS OF PERN Eighth Interval/Ninth Pass: ~~(15)The Masterharper of Pern~~, (1st two lines), The Impression, The Smallest Dragonboy, The Girl who heard dragons, Dragon's Code, ~~(11)All the Weyrs of Pern, (13)The Dolphins of Pern, (16)The Skies of Pern~~, 16a) A Gift of Dragons    
+#### McCaffrey: OTHER PERN?: ~~(10)The Renegades of Pern (May22, Later in the series where alot of the technology is gone and there are folks that are "holdless" and live a life of crime hence the renegades. Also expansion to the south, (14)Dragonseye~~, (25)Dragon's Code, The Ship Who Sang    
 
 #### McDevitt, Jack: ACADEMY SERIES: 1) The Engines of God, 2) Deepsix, 3) Chindi, ~~4) Omega,~~ 5) Odyssey, 6) Cauldron, 7) Starhawk, 8) The Long Sunset  
 
-#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance, 5) Arms-Commander, 6) Cyador's Heirs, 6.5) Heritage of Cyador, 7) The Mongrel Mage, 8) Outcasts of Order~~, 9) Mage-Fire War           
+#### Modesitt, LE: SAGA OF RECLUSE (Chronilogical Order) ~~1) Magi'i of Cyador, 2) Scion of Cyador, 3) Fall of Angels, 4) The Chaos Balance, 5) Arms-Commander, 6) Cyador's Heirs, 6.5) Heritage of Cyador, 7) The Mongrel Mage, 8) Outcasts of Order, 9) Mage-Fire War, 10)Fairhaven Rising, 11)The Towers of Sunset~~, 11)The White Order,           
 
 #### Nix, Garth: THE OLD KINGDOM: 1) Sabriel, 2) Lirael, 3) Abhorsen, 3.5) The Creature in the Case, 4) Clariel, 5) Goldenhand, 6) Terciel and Elinor  
 
 #### Niven, Larry: MOTIES: 0.5) Future History, ~~1) The Mote in God's Eye, 2) The Gripping Hand,~~ 3) Outies  
-#### Niven: KNOWN SPACE: 1) The Long Arm of Gil Hamilton, 2) Flatlander, 3) The Patchwork Girl, 4) World of Ptavvs, 5) Protector, 6) A Gift from Earth, 7) Crashlander, 8) Fleet of Worlds, 9) Juggler of Worlds, 10) Destroyer of Worlds, 11) Betrayer of Worlds, ~~12) Ringworld,~~ 13) The Ringworld Engineers, 14) The Ringworld Throne, 15) Ringworld's Children, 16) Fate of Worlds  
+#### Niven: KNOWN SPACE: 1) The Long Arm of Gil Hamilton, 2) Flatlander, 3) The Patchwork Girl, 4) World of Ptavvs, 5) Protector, 6) A Gift from Earth, 7) Crashlander, 8) Fleet of Worlds, 9) Juggler of Worlds, 10) Destroyer of Worlds, 11) Betrayer of Worlds, ~~12) Ringworld, 13) The Ringworld Engineers~~, 14) The Ringworld Throne, 15) Ringworld's Children, 16) Fate of Worlds  
 
 #### Norton, Mary: THE BORROWERS: 1)The Borrowers, 2)The Borrowers Afield, 3)The Borrowers Afloat, 4)The Borrowers Aloft, 5)The Borrowers Avenged   
 
@@ -1525,7 +1529,7 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Salvatore THE HUNTER'S BLADES: ~~1)The Thousand Orcs, 2)The Lone Drow, 3)The Two Swords~~  
 #### !!!Salvatore TRANSITIONS: ~~1) The Orc King (Mar22), 2) The Pirate King, 3) The Ghost King~~  
 #### !!!Salvatore: NEVERWINTER SAGA: ~~1) Gauntlgrym, 2) NeverWinter, 3) Charon's Claw, 4) The Last Threshold (humbun ebooks)~~     
-#### Salvatore: THE SUNDERING: ~~1) The Companions, 2) The Godborn(donothave)~~, 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave), 6) The Herald(donothave); others are not Drizzit and different author  
+#### Salvatore: THE SUNDERING: ~~1) The Companions, 2) The Godborn(donothave), 3)The Aversary(donothave), 4)The Reaver(donothave), 5) The Sentinel(donothave)~~, 6) The Herald(donothave); others are not Drizzit and different author  
 #### Salvatore: COMPANIONS CODEX: 1)Night of the Hunter (AUDIBLE), 2)Rise of the King (AUDIBLE), 3)Vengence of the Iron Dwarf (humbun ebooks)    
 #### Salvatore: HOMECOMING: 1)Archmage, 2)Maestro, 3)Hero (humbun ebooks)    
 #### Salvatore: GENERATIONS: 1) Timeless(audible), 2) Boundless(audible), 3) Relentless(LIBBY)  
@@ -1601,11 +1605,11 @@ The End and Other Beginnings: Stories from the Future
 
 #### Yancey, Richard: THE 5TH WAVE: ~~1) The 5th wave~~, 2) The Infinite Sea, 3) The Last Star   
 
-#### Zahn, Timothy: THRAWN TRILOGY:  1)Heir to the Empire, 2)Dark Force Rising, 3)The Last Command  
+#### Zahn, Timothy: THRAWN TRILOGY:  ~~1)Heir to the Empire~~, 2)Dark Force Rising, 3)The Last Command  
 #### Zahn: THE HAND OF THRAWN DUOLOGY:  1)Specter of the Past, 2)Vision of the Future  
 #### Zahn: (Independent Thrawn in order): Survivor's Quest, Outbound Flight, Allegience, Choices of One, Scoundrels  
 #### !!!Zahn THRAWN  ~~1)Thrawn,(Feb2022) 2)Thrawn:Alliances, 3)Thrawn:Treason~~  
-#### Zahn: ~~THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good,~~ 3)Lesser Evil  
+#### Zahn: ~~THRAWN ASCENDANCY:  1)Chaos Rising, 2)Greater Good, 3)Lesser Evil~~  
 #### Zahn: DRAGONBACK:  1)Dragon and Thief, 2)Dragon and Soldier, 3)Dragon and Slave, 4)Dragon and Herdsman, 5)Dragon and Judge, 6)Dragon and Liberator  
 #### Zahn: ICARUS SAGA: 0)The Icarus Hunt, 1)The Icarus Plot, 2), 3), 4), 5), 6)  
 #### Zahn: QUADRAIL:  1)Night Train to Rigel, 2)The Third Lynx, 3)Odd Girl Out, 4)The Domino Pattern, 5)Judgment at Proteus  
