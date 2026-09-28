@@ -474,7 +474,7 @@
 - Journey:
 - Juggler's Tale:  
 - ~~Just Cause~~; Just Cause 2:
-- ~~Kingdom Rush; Frontiers~~; Origins (playing); Vengeance; 5: Alliance & Dwarf then Wukong Campaign:
+- ~~Kingdom Rush; Frontiers~~; Origins (playing); Vengeance; 5: Alliance & Dwarf then Wukong Campaign & Dragon Wars:; 6 Genesis  
 - Kin and Quarry:  
 - Kingdom Two Crowns:
 - Knightica:  
