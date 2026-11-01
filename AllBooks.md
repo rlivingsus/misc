@@ -1548,10 +1548,11 @@ The End and Other Beginnings: Stories from the Future
 #### !!!Sanderson ELANTRIS ~~1)Elantris, 1.5)The Hope of Elantris, The Emperor's Soul, Legion and The Emperor's Soul (see Aracnum Unbounded on audible?)~~    
 #### Sanderson: RITHMATIST: ~~1) The Rithmatist~~    
 #### !!!SKYWARD ~~Defending Elysium, 1)Skyward (AUDIBLE), 2)Starsight (audible), 2.1)Sunreach,2.2)ReDawn, 3)Cytonic (audible, may2022 Spensa is in the nowhere (fantasy type of world where the delvers are exposed to be an AI), 3.1)Evershore (read before cytonic), 4) Defiant (AUDIBLE)~~    
+RIFTWAKE: 1) Blighfall (new Skyward trilogy)  
 #### !!!INFINITY BLADE Infinity Blade game; ~~Infinity Blade: Awakening;~~ Infinity Blade II game; ~~Infinity Blade: Redemption;~~ Infinity Blade III game; Games no longer on Epic site.  
 #### Sanderson: WARBREAKER: 1) Warbreaker (audible), 2) Nightblood  
-#### Sanderson: SOLO: 1) Perfect State, ~~2) Shadow for Silence in the Forests of Hell (Audible), 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.~~    
-#### Sanderson:  1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: The Many Lives of Stephen Leeds; (ALL AUDIBLE)
+#### Sanderson: SOLO: The Original; 1) Perfect State, ~~2) Shadow for Silence in the Forests of Hell (Audible), 3) Arcanum Unbounded: The Cosmere Collection. Nine works? The Hope of Elantris, The Eleventh Metal, The Emperor's Soul, Allomancer Jak and the Pits of Eltania, White Sand, Shadows for Silence in the Forests of Hell, Sixth of the Dusk, Mistborn: Secret History.~~    
+#### Sanderson:  1) Legion, 1.5) Stephen Leeds: Death & Faxes, 2) Legion: Skindeep, 3) Legion: Lies of the Beholder (dont have?); 3.x) Legion: The Many Lives of Stephen Leeds; (ALL AUDIBLE)
 #### Sanderson: 1) The Dark One (comic?), 2) Forgotten, Tailored Realities (new on Audible)    
 #### Sanderson: SECRET PROJECTS: 1) Tress of the Emerald Sea, 2) The Frugal Wizard Handbook, 3) Yumi & the Nightmare Painter (on Audible), ~~4) The Sunlit Man~~ (all on Spotify ipod); The Fires of December (audible)    
 
