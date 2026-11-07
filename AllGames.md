@@ -329,6 +329,7 @@
 - Castle Full of Cats:
 - Cast n Chill:  
 - Cats Hidden in Paris:
+- Charm Studies:  
 - Chessarama:
 - Chess Ultra:  
 - Child of Light:
@@ -447,7 +448,8 @@
 - Hidden Folks:
 - Hidden & Dangerous Bundle:  
 - Hitman: Codename 47  (most on GOG):
-- Homeworld Remastered:  
+- Homeworld Remastered:
+- Homgard:  
 - Horizon Zero Dawn Complete Edition:
 - Hoser Hockey:
 - House of the Dying Sun:
@@ -506,6 +508,7 @@
 - Max and the Magic Marker:
 - Maze Mice:  
 - Mech Havoc:
+- Mega Mosaic:  
 - Menace from the Deep:  
 - Men of War:
 - Middle-Earth: Shadow of Mordor; Shadow of War:
@@ -528,6 +531,7 @@
 - Nauticrawl:  
 - Necrosmith 1 & 2:  
 - Need for Speed Heat; Hot Pursuit Remastered; Undercover:
+- Nekograms:  
 - Never Alone:
 - Neverwinter Nights: EE & 2 Platinum:
 - Nidhogg:
@@ -545,14 +549,19 @@
 - Outer Wilds:
 - Outhold:  
 - Overlord & Raising Hell, II:
-- Oxygen Not Included:  
+- Oxygen Not Included:
+- Paint it Back:  
 - Paper Planet:
 - Parallel Experiment:  
 - Pawnbarian:  
 - Phoenix Wright: Ace Attorney Trilogy:
+- Piczle Cross Adventure:
+- Pixel Puzzle Makeout League:  
 - A Plague Tale: Innocence:  
 - Planescape: Torment EE (on GOG):
-- Plantera 2: Golden Acorn:  
+- Plantera 2: Golden Acorn:
+- Polimines:
+- Polimines 2:  
 - Poly Bridge:
 - Portal:
 - Prince of Persia & The Forgotten Sands:
@@ -588,6 +597,7 @@
 - Shadow Gambit: The Cursed Crew:  
 - Shadowrun: Dragon Fall; HongKong; Returns (Director's Cut & EE for 1st two, all on Epic):
 - Shenzhen I/O:
+- SherloCAT Holmes Nonogram:  
 - Sherlock Holmes: Nemesis; The Awakened; The Mystery of the Mun; The Myster of the Pers; The Secret of the Silver; vs. Jack the Ripper (on GOG and EPIC TOO):
 - The Signifier Director's Cut:
 - Silent Hunter Woves of the Pacific; U-Boat; III:
@@ -625,6 +635,7 @@
 - Tangle Tower:
 - Teacup:  
 - Team Fortress Classic & 2:
+- Tents and Trees:  
 - Terminator Resistance:
 - Terraria:
 - Tesla Effect:
@@ -657,7 +668,8 @@
 - Unpacking:
 - Uru: Complete Chronicles:
 - Usurper:
-- Viewfinder:  
+- Viewfinder:
+- Voxelgram:  
 - Wandersong:
 - Warhammer: Vermintide Endtimes, Upgrade & 2 and Collectors Edition Upgrade:  
 - Warhammer 40000 Gladius - Battlesector, Blood Angels Elite, Relics of War, T'au, Tyranid Elites (ROW):  
